@@ -1,0 +1,2 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+bfritscher/getvelo,1,Widget crashes app,open,2013-07-01T19:30:46Z,,bug

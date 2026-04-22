@@ -1,0 +1,3 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+ISNIT0/ocrintent,5,Behaves weirdly on tablets,open,2017-05-21T20:15:17Z,,"bug, help wanted"
+ISNIT0/ocrintent,4,Crashes on 'back' button,open,2017-05-21T18:10:15Z,,"bug, help wanted"

@@ -1,0 +1,15 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+brianwernick/PlaylistCore,80,Crash caused by Pending Intent Behaviour,closed,2021-11-11T04:43:44Z,2021-11-14T22:56:48Z,Bug
+brianwernick/PlaylistCore,67,Disconnected from remote media player api when no other media player api is available causes unexpected behavior,closed,2018-04-10T19:55:37Z,2018-04-20T22:36:01Z,Bug
+brianwernick/PlaylistCore,65,Unexpected media repeat,closed,2018-04-09T08:09:37Z,2018-04-09T19:01:41Z,Bug
+brianwernick/PlaylistCore,42,How to play music when kill app,closed,2017-05-23T02:18:11Z,2017-07-23T15:21:50Z,Bug
+brianwernick/PlaylistCore,36,Media Player state error when calling PlaylistManager.play() with a seek position greater than 0,closed,2017-02-03T20:39:05Z,2017-02-04T00:03:31Z,Bug
+brianwernick/PlaylistCore,32,Allow ability to retain audio focus when paused.,closed,2017-01-09T17:49:02Z,2017-08-15T17:41:04Z,Bug
+brianwernick/PlaylistCore,30,ArrayIndexOutOfBoundsException when playlist is empty,closed,2016-12-20T14:28:55Z,2017-01-09T17:50:54Z,Bug
+brianwernick/PlaylistCore,21,"Seek position as ""long""",closed,2016-09-08T10:21:06Z,2016-09-09T18:18:38Z,Bug
+brianwernick/PlaylistCore,18,Seek media item by time amount without pausing,closed,2016-06-10T02:41:55Z,2016-10-07T19:44:07Z,Bug
+brianwernick/PlaylistCore,15,Call invokePausePlay() while audio is on PREPARING state,closed,2016-05-10T01:20:09Z,2017-08-15T17:41:57Z,"Bug, Enhancement"
+brianwernick/PlaylistCore,12,Play the audio with seek position time greater than zero makes it play a bit of their beginning,closed,2016-04-20T14:16:58Z,2016-04-29T21:08:19Z,Bug
+brianwernick/PlaylistCore,9,Play the audio with skipping certain time will keep the loading progress bar showing,closed,2016-04-08T22:12:19Z,2016-04-09T16:10:03Z,Bug
+brianwernick/PlaylistCore,7,Starting Youtube triggers unexpected behavior when ExoMedia is playing in the background,closed,2016-03-29T20:39:08Z,2016-04-09T23:21:25Z,Bug
+brianwernick/PlaylistCore,4,Resume to play automatically when OnSeek is completed,closed,2016-03-14T21:25:57Z,2016-03-14T23:48:11Z,Bug

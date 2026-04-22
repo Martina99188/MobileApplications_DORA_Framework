@@ -1,0 +1,2 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+LithidSoftware/android_WallBox,2,Randomize returns null on picking images.,open,2014-01-12T18:20:58Z,,bug

@@ -1,0 +1,28 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+HoraApps/LeafPic,589,"Opening media in ""split screen"" view shows odd offset on control-bar",open,2018-05-31T17:19:10Z,,bug
+HoraApps/LeafPic,572,Unable to move or copy multiple images.,open,2018-05-16T14:37:16Z,,bug
+HoraApps/LeafPic,570,Scrollbar color is always red,open,2018-05-15T18:53:04Z,,bug
+HoraApps/LeafPic,569,Install shortcut option is not functional,open,2018-05-15T14:01:22Z,,bug
+HoraApps/LeafPic,532,Rotated images does not show up correctly,open,2018-04-03T08:57:36Z,,bug
+HoraApps/LeafPic,504,No Image Display after Rename the file,open,2018-01-31T11:32:14Z,,bug
+HoraApps/LeafPic,502,Renaming a file does not work. ,open,2018-01-28T18:23:07Z,,bug
+HoraApps/LeafPic,478,Forgets permission to write SD Card and actions after,open,2017-12-17T08:32:21Z,,bug
+HoraApps/LeafPic,469,Enchante performnce loading images on Subsampling Scale Image View,open,2017-11-28T10:26:50Z,,bug
+HoraApps/LeafPic,468,Improve zoom on fullscreen image,open,2017-11-28T10:18:44Z,,bug
+HoraApps/LeafPic,303,Some icons are cut,closed,2016-08-24T23:58:42Z,2016-08-29T18:45:35Z,"bug, in progress"
+HoraApps/LeafPic,246,Unable to copy/move to SD card,open,2016-08-09T17:28:01Z,,bug
+HoraApps/LeafPic,245,Duplicate folders in gallery,open,2016-08-09T13:14:56Z,,bug
+HoraApps/LeafPic,241,"[Performence improve] ""Copy/Move to"" always scan whole storage",open,2016-08-02T20:01:57Z,,bug
+HoraApps/LeafPic,205,Icons being cut in drawer,closed,2016-06-17T22:29:49Z,2016-08-29T18:45:44Z,bug
+HoraApps/LeafPic,162,Picture orientation always landscape ,closed,2016-05-08T05:38:31Z,2016-05-10T18:04:48Z,"bug, duplicate"
+HoraApps/LeafPic,154,Edit Contact pictures?,open,2016-05-04T20:08:56Z,,"bug, help wanted"
+HoraApps/LeafPic,144,Crash upon selecting any picture in camera folder,closed,2016-04-27T17:51:27Z,2016-05-09T20:25:03Z,bug
+HoraApps/LeafPic,143,Crash immediately after starting,closed,2016-04-27T03:20:27Z,2016-05-09T20:18:46Z,"bug, duplicate"
+HoraApps/LeafPic,128,Leafpic gets killed while showing splash screen,closed,2016-04-22T16:40:52Z,2016-05-09T20:26:52Z,bug
+HoraApps/LeafPic,52,Move Photo dont remove moved photos immediatly,closed,2016-03-14T13:42:34Z,2016-05-09T21:03:40Z,"bug, enhancement"
+HoraApps/LeafPic,46,Sort photos in album,closed,2016-03-09T15:25:14Z,2016-03-09T15:42:30Z,"bug, wontfix"
+HoraApps/LeafPic,43,Menu don't follow black and light theme ,closed,2016-03-09T08:28:22Z,2016-05-09T21:03:28Z,"bug, enhancement"
+HoraApps/LeafPic,42,Show system Ui when swipe from top(status bar) ,closed,2016-03-09T08:25:44Z,2016-03-09T11:33:17Z,"bug, enhancement"
+HoraApps/LeafPic,41,Delete Photo in view pager ,closed,2016-03-09T08:24:38Z,2016-03-14T13:43:15Z,bug
+Chainfire/GeoLog,2,Service restart or crash,open,2013-09-11T16:32:03Z,,bug
+Chainfire/GeoLog,1,LP vs HA: GPS usage,open,2013-09-11T16:31:17Z,,bug

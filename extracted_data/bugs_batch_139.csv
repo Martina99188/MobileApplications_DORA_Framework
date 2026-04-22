@@ -1,0 +1,4 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+hybrezz54/OnTheProwl-Android,4,Event List doesn't update after saved,open,2016-04-22T02:28:48Z,,bug
+hybrezz54/OnTheProwl-Android,2,AutoCompleteTextView for events not filtering,open,2016-04-22T01:22:29Z,,bug
+hybrezz54/OnTheProwl-Android,1,NPE on some devices on getContext() in TeamFragment,closed,2016-04-22T01:19:10Z,2016-04-22T01:19:13Z,bug
