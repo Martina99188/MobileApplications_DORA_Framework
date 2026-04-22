@@ -1,0 +1,947 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+bitwarden/mobile,3470,Bitwarden doesn't create credentials even when suggesting it,closed,2025-04-12T07:57:04Z,2025-05-06T19:15:35Z,bug
+bitwarden/mobile,3469,"Cannot edit long password, can't scroll to the end of the field",closed,2025-04-07T09:47:11Z,2025-05-06T19:34:59Z,bug
+bitwarden/mobile,3468,New iphone can't connect to bitwarden.eu,closed,2025-04-01T17:25:40Z,2025-04-01T17:28:42Z,bug
+bitwarden/mobile,3467,Android app using wrong language,closed,2025-02-16T04:36:48Z,2025-05-06T19:40:14Z,bug
+bitwarden/mobile,3465,Accessibly service not recognised as being enabled in the app,closed,2025-02-11T07:01:46Z,2025-05-06T19:50:27Z,bug
+bitwarden/mobile,3464,Android mobile app capitalised entries not in alphabetical order,closed,2025-02-09T19:10:45Z,2025-05-06T20:24:26Z,bug
+bitwarden/mobile,3460,Bitwarden Latest Version 2025.1.0,closed,2025-01-14T17:18:01Z,2025-01-15T12:48:17Z,bug
+bitwarden/mobile,3459,Wrong URI match detection for TOTP auto fill,closed,2025-01-09T09:49:59Z,2025-05-06T20:39:49Z,bug
+bitwarden/mobile,3458,"Password doesn't show ""less than"" sign when viewing item",closed,2025-01-09T09:12:46Z,2025-01-10T11:04:23Z,bug
+bitwarden/mobile,3453,Self hosted unable to connect ,closed,2025-01-05T16:38:18Z,2025-05-06T20:39:52Z,bug
+bitwarden/mobile,3452,YouTube Music Radio Search/Playlist Edit getting mistaken as a Verification Code input,closed,2025-01-02T02:12:43Z,2025-05-06T20:39:55Z,bug
+bitwarden/mobile,3451,New logins take a while to be reflected in the iOS App,closed,2024-12-29T16:25:12Z,2025-05-06T20:39:58Z,bug
+bitwarden/mobile,3450,Can't create Bitwarden account passkey for iPhone from Windows PC,closed,2024-12-28T07:19:04Z,2025-05-06T20:40:02Z,bug
+bitwarden/mobile,3449,Android app won't show password correctly when # is present,closed,2024-12-24T10:58:03Z,2025-05-06T20:40:05Z,bug
+bitwarden/mobile,3444,id.me website can't use Bitwarden's passkey,closed,2024-12-02T03:28:47Z,2025-05-06T20:40:09Z,bug
+bitwarden/mobile,3441,Don't open Mull or Fennec browsers when doing FIDO auth,closed,2024-11-21T09:59:52Z,2025-05-06T20:40:12Z,bug
+bitwarden/mobile,3440,Fdroid repo doesn't have the right version numbers,closed,2024-11-21T09:51:33Z,2025-05-06T20:40:15Z,bug
+bitwarden/mobile,3437,Passkey support on native Android app,closed,2024-11-06T10:45:03Z,2024-11-10T22:49:29Z,bug
+bitwarden/mobile,3433,Bitwarden App won't open after update,closed,2024-10-30T17:30:03Z,2024-10-30T18:05:18Z,bug
+bitwarden/mobile,3432,X/twitter search autofill,closed,2024-10-29T23:08:12Z,2025-05-06T20:40:19Z,bug
+bitwarden/mobile,3429,Autofill opened from keyboard stuck in loading entry,closed,2024-10-22T11:12:12Z,2025-05-06T20:40:22Z,bug
+bitwarden/mobile,3428,Wrong password displayed in Android App,closed,2024-10-20T16:13:19Z,2025-05-06T20:40:25Z,bug
+bitwarden/mobile,3425,Improve login with device experience ,closed,2024-10-18T12:36:50Z,2025-05-06T20:40:28Z,bug
+bitwarden/mobile,3424,After update again old interace?,closed,2024-10-18T11:26:23Z,2025-05-06T20:40:31Z,bug
+bitwarden/mobile,3420,iOS - Settings - Appearance - Language cannot be changed to Chinese,closed,2024-10-13T01:44:22Z,2024-10-14T06:55:58Z,bug
+bitwarden/mobile,3419,"Cannot create Passkey on PayPal Mobile Android App (or use existing passkey) through Bitwarden (""asset links"" error)",closed,2024-10-12T16:34:11Z,2025-01-07T22:42:56Z,bug
+bitwarden/mobile,3418,Bitwarden Beta can't save Android App‘s password correctly,closed,2024-10-12T13:02:14Z,2024-10-14T00:05:25Z,bug
+bitwarden/mobile,3412,"Cannot create Passkey on PayPal Mobile Android App through Bitwarden (""asset links"" error)",closed,2024-10-10T22:11:32Z,2024-10-11T04:53:44Z,bug
+bitwarden/mobile,3411,Error when syncing on mobile between PC and mobile (bitwarden.eu),closed,2024-10-10T09:03:05Z,2024-10-10T14:50:58Z,bug
+bitwarden/mobile,3406,iOS keyboard AutoFill doesnt match if URI is IP+Port,closed,2024-10-08T19:46:10Z,2024-10-08T21:57:54Z,bug
+bitwarden/mobile,3405,Show password hides characters,closed,2024-10-05T11:08:23Z,2024-10-07T13:23:34Z,bug
+bitwarden/mobile,3404,Cannot effectively change the language within the application (Chinese),closed,2024-10-04T14:46:56Z,2024-10-04T14:53:01Z,bug
+bitwarden/mobile,3402,"iOS app gives ""An error occurred"" dialog box on login attempt to self-hosted server",closed,2024-10-01T18:58:28Z,2024-10-02T06:34:50Z,bug
+bitwarden/mobile,3401,Can't login using YubiKey NFC 5 after iOS app update,closed,2024-10-01T14:15:04Z,2024-10-01T22:30:19Z,bug
+bitwarden/mobile,3400,Auto-Fill does not work with SecureGo plus,closed,2024-09-30T13:23:34Z,2024-09-30T14:38:35Z,bug
+bitwarden/mobile,3399,"Log in : Master password field is not using keyboard's ""private/incognito"" mode",closed,2024-09-29T22:22:18Z,2025-05-06T20:40:35Z,bug
+bitwarden/mobile,3398,Families Plan 2019 not able to use premium feature in organization (attachments),closed,2024-09-29T20:38:48Z,2024-09-30T02:47:56Z,bug
+bitwarden/mobile,3397,Bitwarden Authenticator iPAD  won't allow exporting  *json (*csv) ,closed,2024-09-29T17:35:17Z,2024-09-30T12:01:20Z,bug
+bitwarden/mobile,3396,No bitwarden autofill or bitwarden pop-up on U.S. bank mobile app,closed,2024-09-27T17:13:22Z,2024-09-27T17:18:32Z,bug
+bitwarden/mobile,3394,IOS 18: Cannot create passkey,closed,2024-09-24T23:28:03Z,2024-09-26T08:12:52Z,bug
+bitwarden/mobile,3393,When viewing a password the < symbol is not displayed.,closed,2024-09-23T09:16:59Z,2024-09-23T09:25:02Z,bug
+bitwarden/mobile,3392,Vault timeout not respected on Android (13),closed,2024-09-22T21:14:06Z,2024-09-23T07:10:51Z,bug
+bitwarden/mobile,3391,Cannot scroll to see all entries after search on iPhone,closed,2024-09-21T08:02:38Z,2024-09-21T16:27:16Z,bug
+bitwarden/mobile,3389,Unable to switch between multiple Bitwarden accounts,closed,2024-09-17T16:27:16Z,2024-09-17T16:48:57Z,bug
+bitwarden/mobile,3388,Unable to copy text from a secret note,closed,2024-09-12T06:45:44Z,2024-09-12T07:10:07Z,bug
+bitwarden/mobile,3387,iOS app crashes when attempting to edit specific entry,closed,2024-09-10T12:26:12Z,2024-09-10T18:27:44Z,bug
+bitwarden/mobile,3386,App crashes when logging in,closed,2024-09-07T14:12:09Z,2024-09-07T16:31:54Z,bug
+bitwarden/mobile,3383,Inability to scroll to additional entries when site has multiple logins,closed,2024-08-27T05:24:52Z,2024-08-27T05:56:42Z,bug
+bitwarden/mobile,3381,discord passkey not working,closed,2024-08-22T20:56:08Z,2024-08-23T03:37:20Z,bug
+bitwarden/mobile,3380,Discrepancy between mobile and Web vaults when displaying passwords with '<' and '>'.,closed,2024-08-21T17:04:04Z,2024-08-22T09:28:08Z,bug
+bitwarden/mobile,3378,Add Iceraven (Firefox privacy-respecting fork) to fido2_privileged_allow_list.json,closed,2024-08-14T18:11:47Z,2025-05-06T20:40:38Z,bug
+bitwarden/mobile,3377,Passkey selection / confirmation dialog displays Username rather than Display name,closed,2024-08-14T00:16:15Z,2025-05-06T20:40:41Z,bug
+bitwarden/mobile,3375,IOS-EDGE automatic filling password BUG,closed,2024-08-06T08:27:41Z,2025-05-06T20:40:44Z,bug
+bitwarden/mobile,3373,"Password Character "">"" Not Displayed in Password Preview",closed,2024-08-05T11:04:48Z,2024-08-05T16:09:00Z,bug
+bitwarden/mobile,3372,< character not displaying in passwords ,closed,2024-08-05T09:08:25Z,2024-08-05T09:22:02Z,bug
+bitwarden/mobile,3371,Autofill always shows up in Bumble chat and blocks the keyboard,closed,2024-08-02T21:47:36Z,2025-05-06T20:40:47Z,bug
+bitwarden/mobile,3369,Latest bitwarden mobile app version not on f-droid?,closed,2024-08-01T20:01:18Z,2024-08-05T20:51:42Z,bug
+bitwarden/mobile,3368,Can't scan and store passkey in iOS 18 public beta,closed,2024-07-31T19:48:31Z,2024-08-01T00:49:16Z,bug
+bitwarden/mobile,3367,Autofill dialog unreliable on modern iOS device,closed,2024-07-31T19:18:26Z,2025-05-06T20:40:51Z,bug
+bitwarden/mobile,3366,Basic search only works on first URI for a given login item,closed,2024-07-27T17:33:13Z,2025-05-06T20:40:54Z,bug
+bitwarden/mobile,3365,Special characters excluded from view,closed,2024-07-27T10:36:59Z,2024-07-27T13:49:10Z,bug
+bitwarden/mobile,3363,"Switching between Bitwarden user accounts (enterprise to personal) , cant see items in my vault",closed,2024-07-26T02:40:40Z,2024-07-26T04:55:42Z,bug
+bitwarden/mobile,3360,"I cannot login to Bitwarden for a few days. It is showing the error ""Exception message: Connection failure"".",closed,2024-07-19T07:10:58Z,2024-08-13T16:35:55Z,bug
+bitwarden/mobile,3358,Bitwarden 2024.7.0 version 11080,closed,2024-07-17T19:53:20Z,2024-07-18T10:05:31Z,bug
+bitwarden/mobile,3356,Opening attached image should open internally,closed,2024-07-17T09:54:29Z,2024-07-17T10:58:06Z,bug
+bitwarden/mobile,3352,Not support web browser com.tencent.mtt,closed,2024-07-15T13:54:33Z,2024-07-16T12:25:35Z,bug
+bitwarden/mobile,3348,non-discoverable passkey authenticatation not supported,closed,2024-07-11T02:03:03Z,2025-01-16T07:56:25Z,bug
+bitwarden/mobile,3345,FIDO2 Web Authn on Android displays a wrong text in Japanese,closed,2024-07-07T03:29:06Z,2025-05-06T20:40:57Z,bug
+bitwarden/mobile,3340,App crashes when trying to select and delete notes of vault item,closed,2024-06-29T14:09:52Z,2024-07-01T11:42:56Z,bug
+bitwarden/mobile,3337,"If Bitwarden is left in the background whilst viewing a vault item, that vault item would be displayed twice after launching Bitwarden anew.",closed,2024-06-29T11:12:58Z,2025-05-06T20:41:00Z,bug
+bitwarden/mobile,3335,Android beta - email field is case sensitive on login,closed,2024-06-27T09:27:53Z,2024-07-08T09:40:05Z,bug
+bitwarden/mobile,3333,Android beta login with 2FA.,closed,2024-06-25T19:13:36Z,2024-06-26T13:11:55Z,bug
+bitwarden/mobile,3332,"""App doesn't respond"" - ""Close app / or wait""",closed,2024-06-22T12:37:13Z,2025-05-06T20:41:07Z,bug
+bitwarden/mobile,3331,"When switching apps in dark mode Android, the app is shown as completely white",closed,2024-06-22T10:20:05Z,2025-05-06T20:41:10Z,bug
+bitwarden/mobile,3330,iOS App: Creating Secure Note Text Field with 2 or more consecutive hyphens crashes the app,closed,2024-06-21T14:58:24Z,2024-06-21T15:13:38Z,bug
+bitwarden/mobile,3329,Android beta login incorrect,closed,2024-06-21T07:00:05Z,2024-06-21T07:53:23Z,bug
+bitwarden/mobile,3328,Bitwarden’s F-Droid Repository Webpage is Missing. ,closed,2024-06-21T02:14:12Z,2024-06-21T12:32:46Z,bug
+bitwarden/mobile,3326,Android beta app Screenshot issues,closed,2024-06-20T11:07:45Z,2025-05-06T20:41:14Z,bug
+bitwarden/mobile,3307,Windows accessibility bug,closed,2024-06-19T15:06:08Z,2025-05-06T20:41:17Z,bug
+bitwarden/mobile,3308,Unable to recognize the second-level domain,closed,2024-06-19T01:16:36Z,2024-06-19T01:32:54Z,bug
+bitwarden/mobile,3309,"After the notifications are turned on, they get turned off.",closed,2024-06-19T00:49:43Z,2024-06-19T02:56:06Z,bug
+bitwarden/mobile,3310,LineageOS 21: Bitwarden cannot be used for passkey authentication on mobile,closed,2024-06-15T13:28:21Z,2025-05-06T20:41:21Z,bug
+bitwarden/mobile,3311,iOS password autofill doesn’t automatically show after adding passkey to a login,closed,2024-06-13T15:37:19Z,2025-05-06T20:41:24Z,bug
+bitwarden/mobile,3312,Plus addressed email setting cannot be saved,closed,2024-06-13T09:12:28Z,2025-05-06T20:41:28Z,bug
+bitwarden/mobile,3313,Crashing on edit/clone of a single login entry on iphone13,closed,2024-06-11T16:36:48Z,2024-06-12T13:10:26Z,bug
+bitwarden/mobile,3314,"FIDO2 WebAuthn 2FA flow on Android is loading 2 requests at the same time, and that is causing the authentication to fail.",closed,2024-06-10T12:24:14Z,2025-05-06T20:41:31Z,bug
+bitwarden/mobile,3315,Please add Firefox Nightly to fido2_privileged_allow_list.json.,closed,2024-06-10T11:07:33Z,2025-05-06T20:41:34Z,bug
+bitwarden/mobile,3316,Android: Can't create Passkey in the PayPal App,closed,2024-06-09T08:57:22Z,2024-06-09T13:17:16Z,bug
+bitwarden/mobile,3317,[Android] Passwords with 'smaller than symbol' are not displayed correctly ,closed,2024-06-07T10:31:32Z,2024-06-07T10:42:29Z,bug
+bitwarden/mobile,3318,"[android] accessibility autofill popup twice: ""Go to my vault"", then ""Vault is locked"" - in different location/position",closed,2024-06-07T09:14:51Z,2025-05-06T20:41:38Z,bug
+bitwarden/mobile,3319,Android 2024.5.1 not published to Play Store?,closed,2024-06-05T17:03:33Z,2024-06-06T17:09:59Z,bug
+bitwarden/mobile,3320,Android app crash when save new record,closed,2024-06-05T10:06:42Z,2024-06-05T13:26:55Z,bug
+bitwarden/mobile,3321,"When autofilling on Android, Bitwarden forgets that it's autofilling if you switch to another app or the home screen",closed,2024-06-05T09:37:13Z,2025-05-06T20:41:41Z,bug
+bitwarden/mobile,3322,App times out trying to login or synchronize the vault,closed,2024-06-04T10:56:44Z,2024-06-07T09:14:49Z,bug
+bitwarden/mobile,3323,Characters between < and > not displayed properly on Android,closed,2024-06-04T00:54:06Z,2024-06-04T13:25:32Z,bug
+bitwarden/mobile,3324,Asking to save OTP,closed,2024-06-03T21:01:59Z,2025-05-06T20:41:44Z,bug
+bitwarden/mobile,3272,Autofill fails with different subdomains on iOS,closed,2024-06-01T20:18:22Z,2024-06-02T17:34:03Z,bug
+bitwarden/mobile,3270,iOS 17.5.1 can't set Bitwarden to keyboard Auto-fill,closed,2024-05-31T06:54:11Z,2024-05-31T09:28:21Z,bug
+bitwarden/mobile,3268,iOS: 2024.4.2+ cannot autofill,closed,2024-05-30T17:53:21Z,2024-05-31T02:43:20Z,bug
+bitwarden/mobile,3263,IOS - It does not automatically fill in custom fields,closed,2024-05-27T13:17:07Z,2024-05-27T13:27:42Z,bug
+bitwarden/mobile,3262,Passkey selection not working on IOS with vault offline,closed,2024-05-26T23:08:41Z,2024-05-29T06:22:20Z,bug
+bitwarden/mobile,3259,Android password generator does not support minimum number/special character values >5,closed,2024-05-24T05:18:09Z,2025-05-06T20:41:47Z,bug
+bitwarden/mobile,3258,"Android doesn't show '<' characters in passwords (Show entry screen, with PW revealed)",closed,2024-05-24T05:13:34Z,2024-05-24T11:51:28Z,bug
+bitwarden/mobile,3256,"[iOS] The "" char in password are automatically replaced by «",closed,2024-05-22T20:50:07Z,2025-05-06T20:41:51Z,bug
+bitwarden/mobile,3254,Android: Passkeys don't work with Mastodon,closed,2024-05-18T12:14:52Z,2024-05-21T15:02:53Z,bug
+bitwarden/mobile,3253,Android: Unable to set BW as passkey provider,closed,2024-05-18T11:00:07Z,2025-05-06T20:41:54Z,bug
+bitwarden/mobile,3251,iOS does not return same search as browser,closed,2024-05-17T11:39:08Z,2025-05-06T20:41:57Z,bug
+bitwarden/mobile,3246,app is slow and stutters here and there,closed,2024-05-16T08:26:11Z,2024-05-17T10:50:29Z,bug
+bitwarden/mobile,3245,[iOS] Unable to modify items when 'Re-enter master password' is selected,closed,2024-05-15T23:20:38Z,2024-05-23T10:48:15Z,bug
+bitwarden/mobile,3243,"Cannot Generate a password, only passphrase.",closed,2024-05-14T21:01:32Z,2024-05-21T15:53:37Z,bug
+bitwarden/mobile,3242,vault search on iOS displays wrong results when selecting passkey,closed,2024-05-14T09:49:23Z,2025-05-06T20:42:00Z,bug
+bitwarden/mobile,3241,Password Generator - can't see number of special characters,closed,2024-05-13T21:54:21Z,2025-05-06T20:42:04Z,bug
+bitwarden/mobile,3240,IOS: Autofill doesn’t work,closed,2024-05-13T18:10:53Z,2024-06-19T15:35:25Z,bug
+bitwarden/mobile,3237,Bitwarden cannot be used for passkey authentication on mobile,closed,2024-05-13T12:25:28Z,2024-05-16T13:49:42Z,bug
+bitwarden/mobile,3236,"When using autofill on iOS, selecting an entry should not cause the entire app overlay to load in the background while face ID authentication is in progress",closed,2024-05-11T03:37:26Z,2024-05-11T15:30:26Z,bug
+bitwarden/mobile,3231,Autofill broken on iOS after updating Bitwarden app,closed,2024-05-09T03:16:04Z,2024-05-09T04:05:01Z,bug
+bitwarden/mobile,3229,[self-host] iOS app only loads 150x150 icons,closed,2024-05-07T20:21:50Z,2025-05-06T20:42:07Z,bug
+bitwarden/mobile,3228,Android beta - passkey autofill not working when session timeout set to 'immediately',closed,2024-05-07T08:10:39Z,2025-05-06T20:42:10Z,bug
+bitwarden/mobile,3226,Whatsapp (android) Passkey not supported,closed,2024-05-04T14:17:54Z,2024-05-06T11:55:20Z,bug
+bitwarden/mobile,3225,Password autofill doesn’t work on iOS,closed,2024-05-04T06:19:46Z,2025-05-06T20:42:14Z,bug
+bitwarden/mobile,3220,Connect to Watch option shows on iPad,closed,2024-05-03T22:58:14Z,2025-05-06T20:42:17Z,bug
+bitwarden/mobile,3214,[beta][android] unlocking with pin or masterpass not possible after first login,closed,2024-05-03T14:08:51Z,2025-05-06T20:42:21Z,bug
+bitwarden/mobile,3211,first login crash at hyperos,closed,2024-05-02T16:13:01Z,2024-05-02T16:15:16Z,bug
+bitwarden/mobile,3207,Constant crashes using Android application.,closed,2024-04-29T12:56:29Z,2024-08-29T09:32:14Z,bug
+bitwarden/mobile,3206,TOTP code can be viewed without entering the master password when 'Master password re-promt' is enabled,closed,2024-04-29T07:53:09Z,2024-04-30T14:43:30Z,bug
+bitwarden/mobile,3205,Password shown incorrectly on specific character sequence '<_',closed,2024-04-29T06:30:09Z,2024-04-29T06:31:55Z,bug
+bitwarden/mobile,3204,iOS Client biometrics wants to use fingerprint instead of face unlock on iPhone 11,closed,2024-04-28T08:15:45Z,2024-04-28T13:44:20Z,bug
+bitwarden/mobile,3203,[Version 2024.4.0] Unlock with PIN function doesn't work anymore,closed,2024-04-27T20:28:42Z,2024-04-28T05:12:47Z,bug
+bitwarden/mobile,3199,Unable to set Bitwarden as Passkey Provider ,closed,2024-04-26T19:11:19Z,2024-04-26T19:40:31Z,bug
+bitwarden/mobile,3195,Android app crash when not using https/SSL over tailscale,closed,2024-04-26T06:48:26Z,2025-05-06T20:42:24Z,bug
+bitwarden/mobile,3193,Can't create/use passkeys with Android Firefox,closed,2024-04-25T22:18:52Z,2024-04-30T19:57:46Z,bug
+bitwarden/mobile,3189,Simple Login forward aliases should not be random,closed,2024-04-24T17:17:19Z,2025-05-06T20:42:27Z,bug
+bitwarden/mobile,3187,"When using my Android Samsung Galaxy A13 5G..... I open Bidwarden... from Bitwarden, I am unable to launch any application. (PC works OK)",closed,2024-04-24T02:09:41Z,2024-04-24T02:16:07Z,bug
+bitwarden/mobile,3186,"""Show Password"" feature shows wrong password on mobile for passwords with certain characters in them",closed,2024-04-23T16:34:28Z,2024-04-23T17:32:54Z,bug
+bitwarden/mobile,3182,Mobile Bitwarden always quit after few seconds,closed,2024-04-22T13:20:52Z,2025-05-06T20:42:30Z,bug
+bitwarden/mobile,3181,F-Droid Repo Icon should be Bitwarden's not F-Droid's,closed,2024-04-21T18:12:58Z,2025-05-06T20:42:34Z,bug
+bitwarden/mobile,3180,nothing is clickable when app is opened on Xiaomi HyperOS [1.0.3.0.TGDMIXM] using bitwarden android version [2024.4.0],closed,2024-04-21T09:00:33Z,2024-04-22T14:58:52Z,bug
+bitwarden/mobile,3179,"""error: cannot decrypt"" on iOS",closed,2024-04-20T15:31:37Z,2025-05-06T20:42:37Z,bug
+bitwarden/mobile,3166,Password Display error,closed,2024-04-17T11:46:38Z,2024-04-17T12:23:45Z,bug
+bitwarden/mobile,3159,iOS passkey list ignores auto-fill match detection setting,closed,2024-04-15T15:39:42Z,2024-04-16T18:22:33Z,bug
+bitwarden/mobile,3157,2FA / OTP code does not update when app is in background,closed,2024-04-15T10:45:35Z,2025-05-06T20:42:41Z,bug
+bitwarden/mobile,3156,Android: App scaling is too big on Samsung DeX,closed,2024-04-15T08:28:44Z,2024-04-21T18:11:16Z,bug
+bitwarden/mobile,3152,Generating selfhosted addy.io username not possible in android app (works in browser extention),closed,2024-04-12T07:20:27Z,2025-02-18T13:57:49Z,bug
+bitwarden/mobile,3146,iOS app crashes while attempting to edit logins and Secure notes,closed,2024-04-09T14:36:40Z,2025-05-06T20:42:44Z,bug
+bitwarden/mobile,3145,The hover behaviour of a Samsung S Pen changes once the Auto-Fill Services are activated on Android.,closed,2024-04-09T12:25:49Z,2025-05-06T20:42:48Z,bug
+bitwarden/mobile,3144,iOS passkey intermittently works,closed,2024-04-08T20:26:37Z,2024-05-06T08:35:49Z,bug
+bitwarden/mobile,3141,Selecting a list of text in a note in a password entry hangs Bitwarden on iPhone,closed,2024-04-07T22:28:17Z,2025-05-06T20:42:51Z,bug
+bitwarden/mobile,3140,"Passkeys are not working correctly with Lowes.com, the Lowe's iOS app, and/or the v2024.3.3 BitWarden beta app",closed,2024-04-07T19:37:48Z,2024-04-17T19:25:27Z,bug
+bitwarden/mobile,3135,Master Password Re-Prompt not working in Android Mobile App,closed,2024-04-04T10:33:37Z,2024-04-04T15:14:12Z,bug
+bitwarden/mobile,3134,iPad is prompting to use NFC key,closed,2024-04-04T05:50:03Z,2024-04-04T06:25:03Z,bug
+bitwarden/mobile,3131,Varnish cache missconfigured for hosting latest fdroid apk,closed,2024-04-03T06:49:47Z,2024-04-04T16:46:38Z,bug
+bitwarden/mobile,3130,App closes when I click on an item,closed,2024-04-03T04:40:06Z,2024-04-03T04:48:08Z,bug
+bitwarden/mobile,3129,Repositories of the new Android and iOS apps,closed,2024-04-02T21:32:53Z,2024-04-03T05:31:45Z,bug
+bitwarden/mobile,3128,Android Inline dropdown shows incorrect logins for certain App Logins,closed,2024-04-02T21:26:38Z,2024-04-04T04:19:52Z,bug
+bitwarden/mobile,3120,Undelete option has no effect on the Undelete line popping up,closed,2024-03-27T14:35:00Z,2024-03-27T14:45:14Z,bug
+bitwarden/mobile,3119,iOS 12.5.7 iPhone 6 app closing by itself,closed,2024-03-27T01:51:55Z,2025-05-06T20:42:54Z,bug
+bitwarden/mobile,3115,IOS 12 autofill does not work after last update,closed,2024-03-25T14:20:34Z,2024-03-25T16:57:15Z,bug
+bitwarden/mobile,3112,IOS 12 app crash on search button,closed,2024-03-25T14:08:53Z,2024-03-25T14:13:42Z,bug
+bitwarden/mobile,3111,IOS 12 app crash on search button,closed,2024-03-25T14:08:11Z,2024-03-26T15:26:22Z,bug
+bitwarden/mobile,3110,Password with certain characters is displayed incorrectly in the Android app,closed,2024-03-24T02:18:03Z,2025-05-06T20:42:57Z,bug
+bitwarden/mobile,3109,Bitwarden App doesn't recognize Android version of Waterfox as a browser when matching Auto-Fill,closed,2024-03-23T21:58:26Z,2025-05-06T20:43:01Z,bug
+bitwarden/mobile,3108,"IOS App crashes when opening a login item with CustomFieldText holding characters ""--""",closed,2024-03-23T08:16:08Z,2024-03-23T18:12:03Z,bug
+bitwarden/mobile,3107,auto fill not working in hyperos(MIUI),closed,2024-03-22T16:18:22Z,2024-03-22T17:47:10Z,bug
+bitwarden/mobile,3100,Android cannot fill passwords in web pages in the edge browser,closed,2024-03-21T04:45:47Z,2024-03-22T08:21:13Z,bug
+bitwarden/mobile,3098,[Android]: App crashes when opening a package which is no longer installed,closed,2024-03-20T04:42:50Z,2024-03-24T19:04:09Z,bug
+bitwarden/mobile,3097,Validation Error when updating Fdroid Version,closed,2024-03-20T02:27:23Z,2024-08-06T05:29:05Z,"bug, needs-reply"
+bitwarden/mobile,3094,'Nord' theme is displayed as 'Nor' when selected,closed,2024-03-18T20:31:59Z,2025-05-06T20:43:04Z,bug
+bitwarden/mobile,3090,Not matching with the theme,closed,2024-03-17T15:46:39Z,2025-05-06T20:43:08Z,bug
+bitwarden/mobile,3089,Apple Watch Watchos 10.4 - TOTP App close immediatly,closed,2024-03-16T14:33:38Z,2025-05-06T20:43:11Z,bug
+bitwarden/mobile,3088,Full text does not display when I try to create a new account,closed,2024-03-16T13:38:25Z,2025-05-06T20:43:14Z,bug
+bitwarden/mobile,3087,Inconsistent UI (vs web client),closed,2024-03-16T08:50:45Z,2025-05-06T20:43:17Z,bug
+bitwarden/mobile,3076,The password generator incorrectly evaluates the minimum required number of special characters.,closed,2024-03-13T09:48:46Z,2025-05-06T20:43:21Z,bug
+bitwarden/mobile,3074,App started to crash after version 2024.2.1,closed,2024-03-12T05:32:05Z,2024-03-12T06:05:07Z,bug
+bitwarden/mobile,3073,Android quick access button does nothing and crashes,closed,2024-03-11T23:42:46Z,2024-03-11T23:50:40Z,bug
+bitwarden/mobile,3072,Automatic Dark/Light theme does not work,closed,2024-03-11T17:39:38Z,2024-03-12T13:09:51Z,bug
+bitwarden/mobile,3070,"The Quick Tiles in the Android notification shade do not do anything when tapped, and may cause Bitwarden to close unexpectedly.",closed,2024-03-09T18:53:24Z,2024-03-11T21:06:38Z,bug
+bitwarden/mobile,3068,Loggin out behaviour is inconsistent,closed,2024-03-09T09:03:56Z,2025-05-06T20:43:24Z,bug
+bitwarden/mobile,3067,Autocomplete not showing in browser,closed,2024-03-09T06:17:45Z,2024-03-12T07:03:38Z,bug
+bitwarden/mobile,3066,Cannot save new login if personal ownership is disabled,closed,2024-03-09T03:31:48Z,2024-03-11T10:26:52Z,bug
+bitwarden/mobile,3062,com.x8bit.bitwarden-fdroid.apk Version 2024.2.1 signature issues,closed,2024-03-07T15:31:16Z,2024-03-08T13:11:01Z,bug
+bitwarden/mobile,3057,"Issue with ""Remember me"" Feature Retaining 2FA Key on iOS App",closed,2024-03-06T13:50:24Z,2024-03-06T14:30:14Z,bug
+bitwarden/mobile,3048,Password Fill Login Cut Off,closed,2024-03-01T19:08:06Z,2024-07-31T12:30:45Z,bug
+bitwarden/mobile,3037,The hover behaviour of a Samsung S Pen changes once the Accessibility Service Auto-Fill is activated on Android.,closed,2024-02-27T12:02:42Z,2024-02-27T13:06:11Z,bug
+bitwarden/mobile,3034,"Randomly crashing on launch (iOS, self-hosted Bitwarden)",closed,2024-02-26T07:56:06Z,2024-02-26T13:36:37Z,bug
+bitwarden/mobile,3030,Spurious Bitwarden prompt in Duolingo (no visible fields),closed,2024-02-24T18:45:51Z,2025-05-06T20:43:27Z,bug
+bitwarden/mobile,3007,new records are deselected on save,closed,2024-02-13T17:19:25Z,2025-05-06T20:43:31Z,bug
+bitwarden/mobile,2997,iOS push notifications are silent,closed,2024-02-12T12:41:16Z,2025-05-06T20:43:34Z,bug
+bitwarden/mobile,2996,Canceling Android password has unexpected result,closed,2024-02-11T22:01:01Z,2024-02-12T03:28:07Z,bug
+bitwarden/mobile,2980,bitwarden locks by ignoring auto lock settings,closed,2024-02-05T10:37:05Z,2025-05-06T20:43:37Z,bug
+bitwarden/mobile,2976,Bypass maximum biometric unlock times limit,closed,2024-02-02T12:54:51Z,2024-02-08T10:52:52Z,bug
+bitwarden/mobile,2971, Send website name to Firefox Relay for username generation,closed,2024-01-31T16:39:41Z,2025-05-06T20:43:40Z,bug
+bitwarden/mobile,2970,Autofill in android does not identify url port,closed,2024-01-31T16:33:40Z,2025-05-06T20:43:44Z,bug
+bitwarden/mobile,2968,Bug: Credentials are not found for DNS rewrites,closed,2024-01-30T11:42:21Z,2024-02-01T19:21:32Z,bug
+bitwarden/mobile,2958,Every time a false positive login attempt popup after unlocking app,closed,2024-01-26T14:58:09Z,2025-05-06T20:43:47Z,bug
+bitwarden/mobile,2943,App Shows up as suggestion in Termux (official termux and termux money),closed,2024-01-18T01:32:53Z,2024-01-22T23:48:14Z,bug
+bitwarden/mobile,2940,login with device fingerprint phrases dont match between firefox extension and android app,closed,2024-01-17T16:19:49Z,2024-01-17T16:57:15Z,bug
+bitwarden/mobile,2938,"cannot log into mobile (Android) app: error message ""One or more URLs saved in the settings are incorrect""",closed,2024-01-16T03:50:36Z,2024-01-16T04:45:31Z,bug
+bitwarden/mobile,2935,Folders name issue,closed,2024-01-11T11:40:55Z,2025-05-06T20:43:50Z,bug
+bitwarden/mobile,2932,Sync error Andoid APK ,closed,2024-01-07T15:07:34Z,2024-01-08T04:13:16Z,bug
+bitwarden/mobile,2931,error message after PBKDF2 iterations change,closed,2024-01-06T02:55:13Z,2024-01-07T15:06:18Z,bug
+bitwarden/mobile,2926,"The iOS client cannot display vault item on a self-hosted server at first launch, after rebooting the phone.",closed,2024-01-01T19:50:57Z,2025-05-06T20:43:53Z,bug
+bitwarden/mobile,2925,The iOS client returns We were unable to process your request. Please try again or contact us. An error has occurred. when attempting to view a vault item on first login after boot.,closed,2024-01-01T15:53:23Z,2025-05-06T20:43:57Z,bug
+bitwarden/mobile,2924,Bitwarden mobile clients do not retain self-hosted URIs after being dismissed from the task switcher and/or after turning the phone off.,closed,2024-01-01T14:38:59Z,2025-05-06T20:44:00Z,bug
+bitwarden/mobile,2923,Autofill not working on iOS for entries with master password toggle turned on,closed,2023-12-31T17:48:23Z,2024-01-01T10:34:35Z,bug
+bitwarden/mobile,2922,Unable to authenticate with FIDO2,closed,2023-12-30T20:56:12Z,2025-05-06T20:44:04Z,bug
+bitwarden/mobile,2920,The Log out button in the Bitwarden iOS client does not function as expected on first login.,closed,2023-12-29T17:03:37Z,2025-05-06T20:44:07Z,bug
+bitwarden/mobile,2917,self-hosting connection via Android application,closed,2023-12-26T14:49:51Z,2025-05-06T20:44:10Z,bug
+bitwarden/mobile,2916,The Bitwarden client on iOS does not log out when the phone is turned off whilst the Vault Timeout Action is set to Log out.,closed,2023-12-26T12:59:46Z,2025-05-06T20:44:13Z,bug
+bitwarden/mobile,2915,It is not possible to launch Bitwarden through the Auto-Fill flow on iOS when the Bitwarden client is in a logged-out state.,closed,2023-12-26T12:53:18Z,2025-05-06T20:44:17Z,bug
+bitwarden/mobile,2914,Bitwarden acts abnormally when typing anywhere in Geometry Dash,closed,2023-12-22T21:51:25Z,2023-12-25T13:02:37Z,bug
+bitwarden/mobile,2911,Certification error with the SSL cert isssued by ZeroSSL ,closed,2023-12-21T14:11:57Z,2023-12-21T15:46:57Z,bug
+bitwarden/mobile,2910,Android/Firefox add-on: Unable to auto-fill,closed,2023-12-21T08:35:14Z,2023-12-21T10:30:41Z,bug
+bitwarden/mobile,2907,iOS Autofill Automatically Closes Keyboard,closed,2023-12-17T05:12:43Z,2023-12-17T18:41:49Z,bug
+bitwarden/mobile,2904,Passkey autofill does not work on iPad,closed,2023-12-14T11:20:02Z,2023-12-14T13:44:14Z,bug
+bitwarden/mobile,2899,IOS app UI problem,closed,2023-12-12T07:13:10Z,2025-05-06T20:44:20Z,bug
+bitwarden/mobile,2889,Cannot connect using IPv6-only,closed,2023-12-06T03:55:31Z,2023-12-06T16:00:48Z,bug
+bitwarden/mobile,2888,Bitwarden Android login to Microsoft live.com,closed,2023-12-05T23:23:46Z,2023-12-06T04:34:16Z,bug
+bitwarden/mobile,2887,Bitwarden collects the package name of the Huawei browser instead of the webpage URL.,closed,2023-12-05T11:55:55Z,2025-05-06T20:44:23Z,bug
+bitwarden/mobile,2882,App crashes a few seconds after loading a large vault,closed,2023-11-24T10:04:16Z,2023-11-27T14:24:11Z,bug
+bitwarden/mobile,2881,Button padding isn't working properly,closed,2023-11-24T03:27:54Z,2023-11-24T03:57:59Z,bug
+bitwarden/mobile,2877,"""We were unable to process your request. Please try again or contact us""",closed,2023-11-21T16:18:10Z,2023-11-21T16:55:10Z,bug
+bitwarden/mobile,2875,"Wrong ""save password"" dialogue when using OurGroceries App",closed,2023-11-20T08:26:11Z,2025-05-06T20:44:27Z,bug
+bitwarden/mobile,2874,Don't say no items in vault initially before verifying,closed,2023-11-19T01:41:55Z,2025-05-06T20:44:30Z,bug
+bitwarden/mobile,2870,isConnected failed: ETIMEDOUT (Connection timed out),closed,2023-11-15T22:31:58Z,2025-05-06T20:44:34Z,bug
+bitwarden/mobile,2866,Pin keyboard won't pop up on application launch,closed,2023-11-11T20:59:21Z,2024-07-31T12:28:39Z,bug
+bitwarden/mobile,2862,iPhone app PIN unlock times out too quickly (and the timeout period is not documented),closed,2023-11-09T17:39:09Z,2023-11-09T18:49:04Z,bug
+bitwarden/mobile,2859,no push notification sent to iphone for login with device,closed,2023-11-05T17:07:55Z,2025-05-06T20:44:37Z,bug
+bitwarden/mobile,2858,Android URI recognition fail for ID (unusual),closed,2023-11-05T04:14:53Z,2025-05-06T20:44:40Z,bug
+bitwarden/mobile,2857,"Vault timeout ""Never"" option from drop down menu dosen't work. Forces me to re-enter the master password everytime I need to acces My Vault or login into an application or website.",closed,2023-11-04T15:05:08Z,2023-11-04T20:49:55Z,bug
+bitwarden/mobile,2856,"Bitwarden doesn't respect the vault timeout time ""Never"" and locks the vault every few hours",closed,2023-11-04T07:26:44Z,2023-11-04T20:33:21Z,bug
+bitwarden/mobile,2855,Bitwarden Ignores Autolock Options That Have Been Disabled,closed,2023-11-04T01:36:05Z,2023-11-04T01:38:26Z,bug
+bitwarden/mobile,2854,Allow screen capture not enforced in iOS,closed,2023-11-03T17:45:06Z,2023-12-29T13:21:41Z,bug
+bitwarden/mobile,2852,Can not search with one character,closed,2023-11-03T06:26:02Z,2025-05-06T20:44:43Z,bug
+bitwarden/mobile,2848,Autofill using Spin Browser package name instead of URL,closed,2023-11-01T03:37:16Z,2025-05-06T20:44:46Z,bug
+bitwarden/mobile,2845,Bitwarden Integration with DuckDuckGo Android browser,closed,2023-10-30T23:40:20Z,2025-05-06T20:44:49Z,bug
+bitwarden/mobile,2843,Crashes when trying to “Export Vault”,closed,2023-10-29T20:30:58Z,2023-10-29T22:26:28Z,bug
+bitwarden/mobile,2842,"Cannot save item to collections when ‘Remove Individual Vault’ is selected and person is set as a user of an org, from iOS share sheet only",closed,2023-10-28T04:14:14Z,2023-11-07T13:19:31Z,bug
+bitwarden/mobile,2841,v2023.9.2 is not available through F-Droid,closed,2023-10-28T03:42:07Z,2023-11-02T18:00:46Z,bug
+bitwarden/mobile,2839,Bitwarden Crashing Issue on iPhone 13 and iPad Air 13: Seeking Solutions,closed,2023-10-25T06:46:42Z,2023-10-25T06:58:16Z,bug
+bitwarden/mobile,2838,App crashing when trying to add new password,closed,2023-10-23T22:53:46Z,2023-11-10T23:43:21Z,bug
+bitwarden/mobile,2831,"TOTP list does not respect ""Show website icons"" option",closed,2023-10-18T11:21:08Z,2025-05-06T20:44:53Z,bug
+bitwarden/mobile,2830,Mobile App doesn't respect changed system font size,closed,2023-10-18T10:57:04Z,2025-05-06T20:44:56Z,bug
+bitwarden/mobile,2829,Login suggestions are squished vertically when Bitwarden is locked. Unreadable.,closed,2023-10-18T09:09:08Z,2025-05-06T20:44:59Z,bug
+bitwarden/mobile,2827,Android 14 - crashes on vault export,closed,2023-10-15T13:53:47Z,2023-10-15T15:29:38Z,bug
+bitwarden/mobile,2826,Android 14 - Bitwarden autofill cannot be enabled.,closed,2023-10-15T13:41:19Z,2023-12-11T10:45:01Z,bug
+bitwarden/mobile,2825,IOS 17 TOTP Camera Scan is empty,closed,2023-10-14T06:58:50Z,2023-10-17T04:18:02Z,bug
+bitwarden/mobile,2819,"Dealbreaker? ""Cancel"" btn risks data loss!",closed,2023-10-11T14:53:20Z,2023-10-11T15:33:47Z,bug
+bitwarden/mobile,2817,Incorrect Text Display on Screen Readers - Bitwarden for Android,closed,2023-10-09T03:28:29Z,2024-04-06T03:48:38Z,bug
+bitwarden/mobile,2815,"Timeout option ""never"" doesn't work in 2023.9.1",closed,2023-10-06T14:06:27Z,2023-10-09T07:11:54Z,bug
+bitwarden/mobile,2809,Typo in Core.Test.csproj,closed,2023-10-03T10:44:22Z,2025-05-06T20:45:02Z,bug
+bitwarden/mobile,2807,"After the Android client is updated to a version after 2023.9, regardless of the password library timeout setting, it will time out after restarting the application and require the main password to be re-entered",closed,2023-09-30T15:36:04Z,2023-10-01T13:19:54Z,bug
+bitwarden/mobile,2801,the vault timeout option is ignored when the app restarted ,closed,2023-09-28T03:36:24Z,2023-09-28T07:29:59Z,bug
+bitwarden/mobile,2800,Export vault .json - force close,closed,2023-09-27T19:28:41Z,2023-09-28T11:21:45Z,bug
+bitwarden/mobile,2794,Application crashes on iOS when is opened to a vault item,closed,2023-09-25T12:01:44Z,2023-10-04T14:48:06Z,bug
+bitwarden/mobile,2793,Crash when trying to export vault on iOS or android,closed,2023-09-25T12:01:15Z,2023-10-03T11:54:23Z,bug
+bitwarden/mobile,2792,Connection to self hosted server only works via vpn (even local),closed,2023-09-24T18:42:51Z,2023-09-25T04:15:01Z,bug
+bitwarden/mobile,2791,App crash on Master Password re-prompt when viewing/editing Card,closed,2023-09-23T18:14:09Z,2023-09-25T07:54:26Z,bug
+bitwarden/mobile,2789,Bitwarden is unresponsive upon opening on Samsung Galaxy Z Flip 5,closed,2023-09-23T05:44:05Z,2023-09-23T18:32:30Z,bug
+bitwarden/mobile,2788,iOS app crashing when exporting,closed,2023-09-22T18:51:12Z,2023-09-22T19:25:31Z,bug
+bitwarden/mobile,2787,Vault timeout option not respected on iOS,closed,2023-09-22T18:30:24Z,2023-10-25T18:21:18Z,bug
+bitwarden/mobile,2781,Android - Cannot View or Edit passwords while Login with Biometrics or Pin is enabled,closed,2023-09-19T17:42:00Z,2023-09-21T08:10:14Z,bug
+bitwarden/mobile,2777,"[Android] Crash when viewing password of entry with ""Master password re-prompt"" ",closed,2023-09-18T13:52:24Z,2023-09-18T13:55:17Z,bug
+bitwarden/mobile,2776,Bypass master pasword requirement after adding fingerprint,closed,2023-09-18T09:41:51Z,2024-07-31T12:19:26Z,bug
+bitwarden/mobile,2775,"Unable to turn off warning that ""unlocking may fail due to insufficient memory""",closed,2023-09-15T07:36:20Z,2023-09-18T08:29:05Z,bug
+bitwarden/mobile,2770,"Android: Cannot view login/secure note with ""Master password re-prompt"" enabled; app crashes when trying to edit",closed,2023-09-14T12:19:05Z,2023-09-14T12:23:27Z,bug
+bitwarden/mobile,2767,Scan QR Code Camera Blurry,closed,2023-09-13T15:22:00Z,2023-09-14T10:49:48Z,bug
+bitwarden/mobile,2765,BitWarden doesn't show up as an installable option for Autofill service in Samsung Secure Folder,closed,2023-09-13T02:11:48Z,2023-09-13T23:29:16Z,bug
+bitwarden/mobile,2763,Order of the elements,closed,2023-09-12T12:24:12Z,2025-05-06T20:45:06Z,bug
+bitwarden/mobile,2757,Android app freezes on protected passwords,closed,2023-09-10T17:04:10Z,2023-09-10T22:30:18Z,bug
+bitwarden/mobile,2755,"Android App crashes when attempting to View/Copy passwords protected by ""Reprompt master password""",closed,2023-09-09T04:19:33Z,2023-09-09T15:59:02Z,bug
+bitwarden/mobile,2754,iOS app crashes when attempting to access an item with master password re-prompt,closed,2023-09-09T01:26:54Z,2023-09-09T15:55:25Z,bug
+bitwarden/mobile,2753,App crashes after re-entering master password ,closed,2023-09-08T07:16:01Z,2023-09-08T08:15:51Z,bug
+bitwarden/mobile,2752,Unable to copy password field when re-prompted master password on Pixel 7 Pro,closed,2023-09-08T05:59:45Z,2023-09-08T06:02:01Z,bug
+bitwarden/mobile,2750,iOS app crashes after entering master password,closed,2023-09-07T21:57:11Z,2023-09-07T22:05:51Z,bug
+bitwarden/mobile,2749,[Bug][2023.8.0] Bitwarden crash after master password re-prompt if used biometric option to unlock app,closed,2023-09-07T16:13:21Z,2023-09-07T17:20:31Z,bug
+bitwarden/mobile,2745,"ipad ios 17, can not log in with yubikey, ",closed,2023-09-05T22:53:38Z,2025-05-06T20:45:09Z,bug
+bitwarden/mobile,2744,iOS share icon has a non-transparent background ,closed,2023-09-04T06:26:54Z,2025-05-06T20:45:12Z,bug
+bitwarden/mobile,2742,Android - Can't login. Stuck on Captcha page.,closed,2023-09-03T17:50:28Z,2023-09-04T04:33:38Z,bug
+bitwarden/mobile,2740,Crash on Android when typing master password a 2nd time,closed,2023-08-31T22:19:39Z,2023-08-31T22:32:00Z,bug
+bitwarden/mobile,2739,"Attempting ""Log in with device"" on iOS fails, spams alert modals, requires closing app to recover",closed,2023-08-31T20:16:52Z,2023-09-11T00:45:08Z,bug
+bitwarden/mobile,2734,Requiring a master password 2nd prompt prevents accessing hidden fields completely,closed,2023-08-29T15:12:26Z,2023-09-01T19:12:47Z,bug
+bitwarden/mobile,2733,iOS apps crash after submitting a master password (only for entries that have Master Password Reprompt),closed,2023-08-29T13:38:08Z,2023-09-06T16:30:19Z,bug
+bitwarden/mobile,2731,Screen Flashing on Back Navigation since 2023.7.1,closed,2023-08-29T10:06:30Z,2024-06-11T19:32:29Z,bug
+bitwarden/mobile,2728,app crash when using auto-fill with items that has master password re-prompt,closed,2023-08-28T17:34:15Z,2023-08-28T19:40:17Z,bug
+bitwarden/mobile,2727,"Email - ""New Device Logged In From Android"" Wrong IP address",closed,2023-08-27T18:30:34Z,2025-05-06T20:45:16Z,bug
+bitwarden/mobile,2726,Upgrade Error Fdroid: Hash not matching,closed,2023-08-26T09:13:58Z,2023-08-27T06:23:24Z,bug
+bitwarden/mobile,2716,Bitwarden iPhone App not finding passwords for some internal sites,closed,2023-08-23T18:11:08Z,2023-08-25T14:02:59Z,bug
+bitwarden/mobile,2709,Autofill not working correctly on Cromite,closed,2023-08-20T10:15:05Z,2023-08-20T18:32:44Z,bug
+bitwarden/mobile,2690,"Unable to type ""ê"" and ""Ê"" characters in Master Password to open vault with Samsung keyboard (Android App and Firefox Extension)",closed,2023-08-15T08:47:24Z,2023-08-16T09:01:33Z,bug
+bitwarden/mobile,2665,Password formatting not consistent across password creation methods,closed,2023-08-06T15:30:49Z,2025-05-06T20:45:19Z,bug
+bitwarden/mobile,2661,Empty vault ,closed,2023-08-04T07:20:23Z,2025-05-06T20:45:22Z,bug
+bitwarden/mobile,2658,Autofill on Samsung Internet Browser stopped working on all devices,closed,2023-08-03T20:32:47Z,2023-08-06T22:07:44Z,bug
+bitwarden/mobile,2652,Cannot create a new Bitwarden account ,closed,2023-07-29T15:08:11Z,2023-07-29T15:31:29Z,bug
+bitwarden/mobile,2651,Mojibake on account name badge when using Devanagari script,closed,2023-07-29T07:58:09Z,2025-05-06T20:45:26Z,bug
+bitwarden/mobile,2649,cant login to android app,closed,2023-07-27T22:11:04Z,2023-07-31T15:47:44Z,bug
+bitwarden/mobile,2645,"iOS - When you have numerous items for the same page, autofill fails",closed,2023-07-26T08:51:56Z,2025-05-06T20:45:29Z,bug
+bitwarden/mobile,2644,Search on iOS app does not return results like the browser extension does,closed,2023-07-26T03:19:09Z,2023-07-26T14:32:29Z,bug
+bitwarden/mobile,2639,Whitelist Cromite browser ,closed,2023-07-22T04:37:39Z,2023-07-22T09:03:39Z,bug
+bitwarden/mobile,2636,Unlock with Biometrics doesn't work,closed,2023-07-21T12:58:03Z,2023-07-24T17:45:17Z,bug
+bitwarden/mobile,2635,Accessibility Keeps Getting Turned Off [Android],closed,2023-07-21T10:51:14Z,2023-07-21T11:06:53Z,bug
+bitwarden/mobile,2631,CPU usage is @ 8% in the background [auto fill],closed,2023-07-19T21:20:43Z,2023-07-20T09:01:36Z,bug
+bitwarden/mobile,2627,Brave Browser (Android) crashes on search bars when autofill is enabled.,closed,2023-07-19T09:18:02Z,2023-07-21T07:47:28Z,bug
+bitwarden/mobile,2624,Autofill issue in stargon browser.,closed,2023-07-18T14:10:40Z,2025-05-06T20:45:32Z,bug
+bitwarden/mobile,2622,Whitelist Bromite browser fork,closed,2023-07-16T07:48:18Z,2023-07-16T08:31:33Z,bug
+bitwarden/mobile,2617,iOS - App doesn’t detect FaceId instead asks for Fingerprint unlock,closed,2023-07-13T18:44:37Z,2025-05-06T20:45:35Z,bug
+bitwarden/mobile,2614,"iOS Accessibility - Swiping right through the Vaults menu goes through the icons for Login, Card, Identity, and Secure note.",closed,2023-07-13T11:36:52Z,2025-05-06T20:45:39Z,bug
+bitwarden/mobile,2607,iOS Accessibility - Swiping right and left through the Edit menu is unintuitive and out of order.,closed,2023-07-10T11:15:56Z,2025-05-06T20:45:42Z,bug
+bitwarden/mobile,2602,Bitwarden doesn't lock when (Use accessibility) Autofill Service is activated,closed,2023-07-05T17:47:49Z,2025-05-06T20:45:45Z,bug
+bitwarden/mobile,2601,"iOS/IPadOS: For ""Unlock with PIN code"" mode, Auto-Fill should prompt for PIN but instead prompts for master password",closed,2023-07-05T16:41:35Z,2025-05-06T20:45:49Z,bug
+bitwarden/mobile,2600,Yubikey login not working on pixel fold,closed,2023-07-04T06:10:53Z,2024-08-28T05:29:29Z,"bug, needs-reply"
+bitwarden/mobile,2599,Android app cannot connect to self hosted server over Tailscale,closed,2023-07-03T23:53:06Z,2025-05-06T20:45:52Z,bug
+bitwarden/mobile,2598,No icons inside android app,closed,2023-07-03T20:49:25Z,2023-07-21T14:29:15Z,bug
+bitwarden/mobile,2591,"""We were unable to process your request. Please try again or contact us. "" on Self-Host",closed,2023-06-29T18:18:09Z,2023-06-29T19:47:02Z,bug
+bitwarden/mobile,2590,ByBit iOS app doesn't accept login,closed,2023-06-28T03:50:44Z,2023-06-28T06:53:44Z,bug
+bitwarden/mobile,2589,iOS Accessibility - VoiceOver rotor functions are unsupported.,closed,2023-06-27T16:01:38Z,2025-05-06T20:45:55Z,bug
+bitwarden/mobile,2588,"iOS Accessibility - VoiceOver states that the Type, Folder, and Ownership fields are Text Fields.",closed,2023-06-27T14:22:58Z,2025-05-06T20:45:58Z,bug
+bitwarden/mobile,2587,Top panel does not respond in Android,closed,2023-06-25T20:36:35Z,2023-06-26T08:43:09Z,bug
+bitwarden/mobile,2581,It is not possible to scroll down to view the part of the window or page that's covered by the keyboard.,closed,2023-06-22T17:15:06Z,2024-07-31T12:23:25Z,bug
+bitwarden/mobile,2571,Sends not syncing automatically on mobile,closed,2023-06-16T13:00:42Z,2023-08-08T13:59:43Z,bug
+bitwarden/mobile,2566,Bug on Authy,closed,2023-06-11T05:54:19Z,2023-06-13T12:19:18Z,bug
+bitwarden/mobile,2565,Cannot create a new Bitwarden account though the mobile Android and iOS clients.,closed,2023-06-10T15:03:03Z,2025-05-06T20:46:02Z,bug
+bitwarden/mobile,2557,bitwarden android can't contact the server while on wired ethernet,closed,2023-06-05T14:24:21Z,2023-06-09T21:28:08Z,bug
+bitwarden/mobile,2551,iOS Auto-fill gives identifies different potential credentials than from within Bitwarden,closed,2023-05-29T23:40:24Z,2025-05-06T20:46:05Z,bug
+bitwarden/mobile,2534,The Options menu under Settings is inaccessible when the application language is set to Turkish.,closed,2023-05-23T13:38:53Z,2023-10-10T15:38:03Z,bug
+bitwarden/mobile,2532,Auto Fill and Save hangs on Android,closed,2023-05-22T17:07:06Z,2023-06-06T19:59:32Z,bug
+bitwarden/mobile,2530,"F-Droid package isn't allowed to access ""accessibility features"" API on Android 13",closed,2023-05-21T18:19:30Z,2024-07-26T09:31:12Z,bug
+bitwarden/mobile,2529,Crash on android with 2 devices (android 9 armv7),closed,2023-05-21T15:52:55Z,2023-05-25T16:52:16Z,bug
+bitwarden/mobile,2528,Bitwarden do not works with Lemur Browser Beta,closed,2023-05-20T06:22:49Z,2025-05-06T20:46:11Z,bug
+bitwarden/mobile,2527,Static fields on Identity cards are missing copy buttons,closed,2023-05-19T08:02:09Z,2025-05-06T20:46:15Z,bug
+bitwarden/mobile,2525,Passphrase generation disallows empty word separator,closed,2023-05-19T02:15:14Z,2025-02-26T12:27:42Z,bug
+bitwarden/mobile,2522,"""Auto-fill with Bitwarden"" obscures the text field on Android tablet",closed,2023-05-15T08:53:22Z,2025-05-06T20:46:18Z,bug
+bitwarden/mobile,2518,Autofill broken,closed,2023-05-11T09:26:04Z,2023-05-11T13:22:29Z,bug
+bitwarden/mobile,2516,Android - “an error has occured”,closed,2023-05-08T19:49:43Z,2023-05-11T00:07:42Z,bug
+bitwarden/mobile,2514,Android app close does not lock vault,closed,2023-05-08T13:29:37Z,2023-05-08T20:20:31Z,bug
+bitwarden/mobile,2513,Autofill service issue in Opera mobile,closed,2023-05-08T08:18:49Z,2023-05-08T11:25:35Z,bug
+bitwarden/mobile,2500,Context-Menu for filtered vault-list does not open,closed,2023-04-29T19:50:06Z,2023-05-01T10:15:30Z,bug
+bitwarden/mobile,2493,App crashed,closed,2023-04-24T14:26:41Z,2023-05-02T13:17:00Z,bug
+bitwarden/mobile,2492,Low resolution for default icons of login elements,closed,2023-04-24T07:30:05Z,2025-05-06T20:46:21Z,bug
+bitwarden/mobile,2490,Username Login shows when Bitwarden Vault is Locked on iOS Password Auto-Fill ,closed,2023-04-22T14:09:16Z,2023-05-01T12:47:41Z,bug
+bitwarden/mobile,2488,Search Result Kebabs No Longer Functioning,closed,2023-04-21T14:05:43Z,2023-05-18T15:06:48Z,bug
+bitwarden/mobile,2485,Yubikey not recognized through iOS auto fill ,closed,2023-04-20T19:56:11Z,2025-05-06T20:46:25Z,bug
+bitwarden/mobile,2483,master password field emptied automatically  after typing password in retype master password field for ios device ,closed,2023-04-18T02:34:18Z,2023-05-22T12:32:32Z,bug
+bitwarden/mobile,2482,Unable to access meatball menu while selecting an account to autofill,closed,2023-04-18T00:53:58Z,2023-04-18T06:07:40Z,bug
+bitwarden/mobile,2481,Horizontal 3 dots button not working in Search,closed,2023-04-17T11:38:18Z,2023-04-17T18:31:53Z,bug
+bitwarden/mobile,2480,Horizontal 3 dots button not working in Search,closed,2023-04-17T11:36:48Z,2023-04-17T18:29:51Z,bug
+bitwarden/mobile,2479,[Bug] TOTP screen is closed when switching to the OTP app while logging in to Bitwarden in Safari,closed,2023-04-17T03:34:53Z,2025-05-06T20:46:28Z,bug
+bitwarden/mobile,2478,iOS app crashing on startup,closed,2023-04-16T09:53:43Z,2023-10-04T14:48:06Z,bug
+bitwarden/mobile,2477,An error has occured,closed,2023-04-15T17:20:27Z,2023-04-17T07:19:03Z,bug
+bitwarden/mobile,2475,Unable to click on three horizontal dots in search results,closed,2023-04-14T09:44:25Z,2023-04-14T09:55:15Z,bug
+bitwarden/mobile,2471,Fairemail autofill bug,closed,2023-04-13T11:28:36Z,2025-05-06T20:46:32Z,bug
+bitwarden/mobile,2470,Does not enter password in Openkeychain via Fairmail,closed,2023-04-13T06:36:09Z,2023-04-13T10:37:41Z,bug
+bitwarden/mobile,2469,Auto-fill is broken with Pokémon GO in v2023.3.2,closed,2023-04-13T04:02:42Z,2023-04-13T06:06:29Z,bug
+bitwarden/mobile,2468,Search results options not working,closed,2023-04-10T13:57:20Z,2023-04-11T11:13:36Z,bug
+bitwarden/mobile,2467,[Bug] Bitwarden asks for master password on Safari auto-fill even if logged in to vault,closed,2023-04-09T16:48:41Z,2023-04-10T10:46:11Z,bug
+bitwarden/mobile,2461,Android app three dot menu next to login entry does not work when you click on it,closed,2023-04-01T06:41:22Z,2023-04-01T14:57:37Z,bug
+bitwarden/mobile,2455,Android app crashes if using 'unlock with biometrics' and face unlock is used.,closed,2023-03-30T13:44:38Z,2023-03-31T12:41:34Z,bug
+bitwarden/mobile,2452,Fdroid repo hash not matching,closed,2023-03-28T08:19:18Z,2023-03-28T12:41:35Z,bug
+bitwarden/mobile,2449,"Vault timeout setting not saving if set to ""never"" ",closed,2023-03-27T10:02:17Z,2023-03-27T13:25:37Z,bug
+bitwarden/mobile,2448,The camera is stretched when scanning for QR codes to set up TOTP,closed,2023-03-25T21:11:21Z,2023-04-29T17:12:29Z,bug
+bitwarden/mobile,2447,Cannot save PDF attachment on iPad,closed,2023-03-25T15:18:41Z,2025-05-06T20:46:35Z,bug
+bitwarden/mobile,2446,The ellipsis (3 dots) button next to each vault item within the search results does not work and does nothing.,closed,2023-03-25T14:20:21Z,2023-04-03T18:02:18Z,bug
+bitwarden/mobile,2445,"[Bug] Bitwarden autofills passwords after ""Vault timeout"" expires",closed,2023-03-25T04:04:27Z,2023-03-27T12:23:23Z,bug
+bitwarden/mobile,2444,"[Bug] Bitwarden for iOS logs out of my account before ""Vault timeout"" expires",closed,2023-03-25T03:57:45Z,2023-03-27T12:30:30Z,bug
+bitwarden/mobile,2442,Cannot login and save/edit files,closed,2023-03-24T18:27:17Z,2023-03-24T20:00:18Z,bug
+bitwarden/mobile,2441,"Bitwarden vault timeout ""Never"" option is not working in Android ",closed,2023-03-24T18:14:11Z,2023-03-24T20:34:50Z,bug
+bitwarden/mobile,2437,IOS version 6.17 crashed on launch,closed,2023-03-23T22:02:49Z,2023-03-23T22:12:17Z,bug
+bitwarden/mobile,2435,Autofill not working correctly,closed,2023-03-23T21:33:58Z,2023-03-24T17:45:03Z,bug
+bitwarden/mobile,2433,Bitwarden thinks it is opening an app instead of a website,closed,2023-03-23T21:21:07Z,2023-03-24T17:19:14Z,bug
+bitwarden/mobile,2429,"[2023.3.0/Android] Instant crash on startup: ""Newtonsoft.Json.JsonReaderException: Could not convert string to integer: solarizeddark.""",closed,2023-03-23T11:46:10Z,2023-03-23T18:47:14Z,bug
+bitwarden/mobile,2428,Fdroid repo hash not matching,closed,2023-03-23T08:43:51Z,2023-03-24T16:28:20Z,bug
+bitwarden/mobile,2426,Vault timeout option 'Never' will not persist in version 2023.3.0 on iOS,closed,2023-03-23T03:11:56Z,2023-03-24T20:34:50Z,bug
+bitwarden/mobile,2425,iPadOS version instantly crashes on start,closed,2023-03-22T21:19:37Z,2023-03-23T18:46:55Z,bug
+bitwarden/mobile,2424,Android app instantly crashes.,closed,2023-03-22T20:11:34Z,2023-03-23T18:46:35Z,bug
+bitwarden/mobile,2422,Autocapitalization on Username field in iOS with external keyboard,closed,2023-03-21T21:29:40Z,2023-03-22T18:40:59Z,bug
+bitwarden/mobile,2420,Android Last Sync timestamp is inaccurate,closed,2023-03-20T08:13:07Z,2025-05-06T20:46:38Z,bug
+bitwarden/mobile,2416,US Bank Application will not autofill on Android,closed,2023-03-11T13:32:14Z,2023-03-13T13:03:24Z,bug
+bitwarden/mobile,2413,Test issue,closed,2023-03-10T08:54:58Z,2023-03-10T08:59:38Z,"bug, enhancement"
+bitwarden/mobile,2405,ios cant sync and cant login after reinstalling,closed,2023-03-06T21:33:32Z,2023-03-07T02:01:24Z,bug
+bitwarden/mobile,2403,Android instructions no longer valid,closed,2023-03-06T14:25:30Z,2023-03-06T15:16:38Z,bug
+bitwarden/mobile,2400,Cannot connect self-hosted server,closed,2023-03-04T18:40:32Z,2023-03-05T16:11:03Z,bug
+bitwarden/mobile,2396,"Launch action fails with ""www."" in the URI",closed,2023-03-02T13:29:43Z,2025-05-06T20:46:41Z,bug
+bitwarden/mobile,2394,Entering PIN in Bitwarden iOS app leaves it visible when switching to another app,closed,2023-03-01T17:16:59Z,2023-03-07T16:40:24Z,bug
+bitwarden/mobile,2393,[Android] Website icon for Quizlet is never shown,closed,2023-03-01T14:29:56Z,2023-03-01T14:54:15Z,bug
+bitwarden/mobile,2389,iOS not auto-filling properly with argon2id,closed,2023-02-22T04:35:14Z,2025-05-06T20:46:44Z,bug
+bitwarden/mobile,2387,Master password re-prompt bypass when use gboard inline auto fill,closed,2023-02-21T08:54:30Z,2024-04-11T06:59:20Z,bug
+bitwarden/mobile,2386,Context menu missing from password select extension on iOS,closed,2023-02-21T02:43:51Z,2023-02-21T12:12:32Z,bug
+bitwarden/mobile,2385,"Android app does not recognize subscription status for child account, will not show TOTP codes",closed,2023-02-20T21:44:45Z,2023-02-22T10:14:47Z,bug
+bitwarden/mobile,2384,copy does not work anymore,closed,2023-02-20T14:46:03Z,2023-03-25T05:27:09Z,"bug, needs-reply"
+bitwarden/mobile,2383,iOS password autofill doesn't work with Argon2id,closed,2023-02-17T22:53:28Z,2023-02-18T16:39:05Z,bug
+bitwarden/mobile,2382,Chaning KDF to Argon2id causes Android app to crash,closed,2023-02-17T14:11:14Z,2023-02-17T15:56:04Z,bug
+bitwarden/mobile,2376,Autofill is entering the password into the email address field in Outlook and Microsoft,closed,2023-02-16T14:22:31Z,2023-02-17T08:39:20Z,bug
+bitwarden/mobile,2375,generating Firefox relay address set to block,closed,2023-02-16T08:02:39Z,2023-04-14T17:20:36Z,bug
+bitwarden/mobile,2365,Autofill prompts do not appear when using Opera with the URL bar set at the bottom of the interface.,closed,2023-02-13T11:54:16Z,2025-05-06T20:46:48Z,bug
+bitwarden/mobile,2364,URl escaped if WebAuthN is not supported,closed,2023-02-13T11:26:53Z,2025-05-06T20:46:51Z,bug
+bitwarden/mobile,2362,"Android - When creating or editing a vault item while the keyboard is visible, the Save button is no long reachable.",closed,2023-02-11T11:30:34Z,2025-05-06T20:46:54Z,bug
+bitwarden/mobile,2361,Android app crashed due to a Newtonsoft.Json.JsonReaderException,closed,2023-02-11T05:59:03Z,2024-02-11T03:29:21Z,bug
+bitwarden/mobile,2360,Can't Login Or Edit Items Android 9 Version 2023.1.0,closed,2023-02-11T01:00:37Z,2023-02-13T14:53:05Z,bug
+bitwarden/mobile,2358,iPadOS: Does not recognize FIDO2 WebAuthn YubiKey as 2nd factor,closed,2023-02-10T16:44:14Z,2023-02-14T15:27:53Z,bug
+bitwarden/mobile,2356,Clear clipboard no longer works on Samsung,closed,2023-02-10T00:55:58Z,2024-07-09T14:15:43Z,bug
+bitwarden/mobile,2350,Can't scan QR codes,closed,2023-02-08T14:36:15Z,2023-02-14T16:01:22Z,bug
+bitwarden/mobile,2349,No auto-keyboard on android app start (while beeing previously logged in),closed,2023-02-07T20:06:33Z,2025-05-06T20:46:58Z,bug
+bitwarden/mobile,2348,"Cannot choose random ""Username""",closed,2023-02-07T00:15:31Z,2025-05-06T20:47:01Z,bug
+bitwarden/mobile,2347,"Using an NFC-based Yubikey doesn't allow you to choose ""Remember Me"".",closed,2023-02-06T17:07:00Z,2025-05-06T20:47:04Z,bug
+bitwarden/mobile,2344,Vault timeout not working,closed,2023-02-05T22:11:55Z,2023-02-06T13:44:06Z,bug
+bitwarden/mobile,2343,iOS - Can't retrieve or see saved logins/passwords + ,closed,2023-02-04T10:52:33Z,2023-02-20T16:14:59Z,bug
+bitwarden/mobile,2341,Bitwarden app autofills password in username field on Google ,closed,2023-02-03T13:12:06Z,2023-02-03T18:46:28Z,bug
+bitwarden/mobile,2336,TOTP Password can't be copied from protected Credentials but seen,closed,2023-02-01T09:03:52Z,2025-05-06T20:47:07Z,bug
+bitwarden/mobile,2334,"Cannot Change 2FA Method when logging in on a non-google Android device, therefore cannot log in to Bitwarden",closed,2023-01-31T03:58:22Z,2025-05-06T20:47:11Z,bug
+bitwarden/mobile,2329,horizontal three dots icon covered ,closed,2023-01-26T02:37:30Z,2025-05-06T20:47:14Z,bug
+bitwarden/mobile,2327,Android app crashes on split screen view on Samsung tablet,closed,2023-01-25T05:46:53Z,2025-05-06T20:47:17Z,bug
+bitwarden/mobile,2326,Autofill puts password in email field for Walmart,closed,2023-01-25T04:43:38Z,2023-01-25T18:40:37Z,bug
+bitwarden/mobile,2324,"iOS - When creating a new vault item via the Autofill flow through Firefox, Bitwarden does not allow you to set a Username type.",closed,2023-01-24T20:55:44Z,2025-05-06T20:47:21Z,bug
+bitwarden/mobile,2323,Bitwarden does not recognize that there is a credential field and does not offer to autofill at Tutanota.,closed,2023-01-23T21:49:11Z,2025-05-06T20:47:24Z,bug
+bitwarden/mobile,2321,Firefox add on not syncing,closed,2023-01-23T16:19:43Z,2025-05-06T20:47:27Z,bug
+bitwarden/mobile,2320,Android app from F-Droid disables Notifications permission,closed,2023-01-23T03:44:01Z,2023-01-23T07:24:40Z,bug
+bitwarden/mobile,2319,Bitwarden does not recognize that there is a credential field and does not offer to autofill at AOL.,closed,2023-01-21T21:47:39Z,2023-02-13T11:45:10Z,bug
+bitwarden/mobile,2318,Bitwarden does not recognize that there is a credential field and does not offer to autofill in Red Hat.,closed,2023-01-21T21:45:32Z,2023-01-24T16:23:36Z,bug
+bitwarden/mobile,2317,"Autofill not prompting on RedHat login field, but does on password field.",closed,2023-01-21T21:41:33Z,2023-02-13T11:44:32Z,bug
+bitwarden/mobile,2316, Autofill is entering the password into the email address field in Outlook and Microsoft.,closed,2023-01-21T21:38:53Z,2023-02-13T11:45:59Z,bug
+bitwarden/mobile,2315,Autofill is entering the password into the email address field in PayPal.,closed,2023-01-21T21:29:05Z,2023-02-13T11:43:24Z,bug
+bitwarden/mobile,2311,error occured ,closed,2023-01-20T11:52:51Z,2023-01-26T10:28:45Z,bug
+bitwarden/mobile,2308,iOS - Sync Failed on vault with 6k+ items,closed,2023-01-19T21:35:29Z,2023-07-26T08:52:44Z,bug
+bitwarden/mobile,2307,android user failing to save changed settings for unlocking with biometrics (similar to IOS issue),closed,2023-01-19T21:30:15Z,2023-01-24T18:51:01Z,bug
+bitwarden/mobile,2306,[Android] App stuck at “Logging in…” after entering the password,closed,2023-01-19T16:39:06Z,2023-01-20T14:03:53Z,bug
+bitwarden/mobile,2303,Android app: Fontsize/Layout does not support lower dpi size,closed,2023-01-18T11:59:17Z,2023-01-18T15:27:55Z,bug
+bitwarden/mobile,2302,No auto-fill on most apps after 2023.01 update,closed,2023-01-17T17:06:18Z,2023-01-26T10:37:59Z,bug
+bitwarden/mobile,2301,iOS/Android Apps Don’t Retain Settings on Log Out,closed,2023-01-16T22:06:21Z,2023-02-15T17:50:04Z,bug
+bitwarden/mobile,2300,"Icons (eye or crossed out eyes) wrong for hidden, custom fields.",closed,2023-01-16T20:03:41Z,2023-01-26T13:53:51Z,bug
+bitwarden/mobile,2296,Autofills Password in Email Field in Android app (Chrome Browser),closed,2023-01-15T13:08:31Z,2023-02-17T14:55:16Z,bug
+bitwarden/mobile,2295,"[Android] When account it set to maximum 2,000,000 PBKDF iterations cannot log on",closed,2023-01-14T18:00:44Z,2025-05-06T20:47:31Z,bug
+bitwarden/mobile,2294,ios null ptr access and sigabrt,closed,2023-01-13T22:56:23Z,2023-01-26T12:23:29Z,bug
+bitwarden/mobile,2291,Unable to set password manually due to “Strong password” placeholder,closed,2023-01-12T17:00:20Z,2023-01-15T12:34:17Z,bug
+bitwarden/mobile,2280,Mobile: login screen doesnt scroll on small screens so cant complete the log in form and use the app,closed,2023-01-06T03:46:51Z,2023-01-14T19:23:34Z,bug
+bitwarden/mobile,2275,Expired TOTP are shown when returning to app (iOS),closed,2023-01-03T16:39:32Z,2025-05-06T20:47:34Z,bug
+bitwarden/mobile,2273,"Self-hosted Bitwarden, error with custom server URL",closed,2023-01-01T16:47:14Z,2023-01-02T15:00:10Z,"bug, needs-reply"
+bitwarden/mobile,2268,Bitwarden FDroid repository does not support index-v2,closed,2022-12-27T22:10:32Z,2023-01-04T17:28:48Z,bug
+bitwarden/mobile,2263,Link in README is broken,closed,2022-12-26T04:30:29Z,2022-12-26T16:38:56Z,bug
+bitwarden/mobile,2261,"If the uri contains port information when selecting host matching, the mobile client cannot pop up the correct auto fill option",closed,2022-12-25T08:07:02Z,2025-05-06T20:47:37Z,bug
+bitwarden/mobile,2260,Add Lemur Browser,closed,2022-12-24T08:02:00Z,2022-12-30T12:38:07Z,bug
+bitwarden/mobile,2252,"Sync issue - User with revoked access, still has access to data after few hours. ",closed,2022-12-19T10:05:40Z,2025-05-06T20:47:40Z,bug
+bitwarden/mobile,2251,Notion icon is broken in vault ,closed,2022-12-17T03:39:29Z,2024-06-13T05:29:30Z,"bug, needs-reply"
+bitwarden/mobile,2255,Possible security issue on Bitwarden APP,closed,2022-12-15T15:40:44Z,2025-05-06T20:47:43Z,bug
+bitwarden/mobile,2244,TOTP scanning fails on tall android devices,closed,2022-12-15T05:36:49Z,2023-02-14T16:22:49Z,bug
+bitwarden/mobile,2240,Autofill doesn't work in Vanadium (Chrome),closed,2022-12-14T20:12:25Z,2022-12-14T20:22:12Z,bug
+bitwarden/mobile,2235,Please revert TOTP entry changes,closed,2022-12-13T16:33:18Z,2025-05-06T20:47:50Z,bug
+bitwarden/mobile,2231,"Using ""Blue Light Filter"" app by Leap Fitness Group makes Bitwarden unfunctional",closed,2022-12-09T09:04:56Z,2025-05-06T20:47:54Z,bug
+bitwarden/mobile,2229,Support offline mode,closed,2022-12-08T16:38:19Z,2023-03-23T14:24:36Z,bug
+bitwarden/mobile,2225,App crash during password generation,closed,2022-12-06T00:27:29Z,2022-12-06T00:48:21Z,bug
+bitwarden/mobile,2223,Text alignment problem (fr) ,closed,2022-12-05T21:16:17Z,2025-05-06T20:47:57Z,bug
+bitwarden/mobile,2219,[Android] Crashes when generating a new password in Auto-fill,closed,2022-12-03T10:30:37Z,2022-12-04T15:44:32Z,bug
+bitwarden/mobile,2216,Can't install ,closed,2022-12-02T09:03:16Z,2022-12-04T15:53:09Z,bug
+bitwarden/mobile,2210,iPhone App offline usage not possible - Can't open vault,closed,2022-11-30T18:21:09Z,2023-01-17T12:10:14Z,bug
+bitwarden/mobile,2208,Android app replaces value for non login field,closed,2022-11-29T14:50:07Z,2025-05-06T20:48:00Z,bug
+bitwarden/mobile,2202,Autofill turns itself off randomly,closed,2022-11-22T14:17:37Z,2025-05-06T20:48:04Z,bug
+bitwarden/mobile,2201,F-Droid App crashes when generating new password for new app login,closed,2022-11-21T19:46:20Z,2022-11-21T20:30:53Z,bug
+bitwarden/mobile,2197,Bitwarden doesn't send notifications about new login attempts,closed,2022-11-17T19:37:08Z,2025-05-06T20:48:07Z,bug
+bitwarden/mobile,2194,bitwarden crashes when generating password when launched from firefox on Android,closed,2022-11-16T09:37:44Z,2022-11-16T12:30:08Z,bug
+bitwarden/mobile,2187,F-Droid - Error Installing Bitwarden,closed,2022-11-11T17:31:03Z,2025-05-06T20:48:11Z,bug
+bitwarden/mobile,2183,Android App crashing after trying to add secondary account,closed,2022-11-10T15:18:20Z,2025-05-06T20:48:14Z,bug
+bitwarden/mobile,2182,Android app ignores locking timeout instuctions,closed,2022-11-10T14:43:55Z,2023-04-03T05:46:09Z,bug
+bitwarden/mobile,2180,Android app on Galaxy S22 Ultra: app crashes when adding new password through browser modal. ,closed,2022-11-10T13:12:14Z,2022-11-21T16:37:57Z,bug
+bitwarden/mobile,2176,App crashes when generating password ,closed,2022-11-08T11:28:46Z,2022-11-08T11:34:02Z,bug
+bitwarden/mobile,2171,Digits of folder size number stack with long folder names,closed,2022-11-05T12:33:23Z,2025-05-06T20:48:18Z,bug
+bitwarden/mobile,2170,"Android - When using Ghostery browser, Bitwarden pulls the browser's package name instead of the website's URL.",closed,2022-11-05T10:29:27Z,2025-05-06T20:48:21Z,bug
+bitwarden/mobile,2169,app thinks I'm free user and prompts to buy premium when uploading a file,closed,2022-11-04T23:06:26Z,2025-05-06T20:48:24Z,bug
+bitwarden/mobile,2168,Saved credentials aren't visible,closed,2022-11-04T21:47:35Z,2024-07-31T12:13:53Z,bug
+bitwarden/mobile,2163,QUERY_ALL_PACKAGES bypassed,closed,2022-11-01T04:47:20Z,2022-12-05T17:49:37Z,bug
+bitwarden/mobile,2158,iOS: “generate username” missing when creating an entry from the share menu,closed,2022-10-29T18:57:25Z,2024-08-01T09:18:18Z,bug
+bitwarden/mobile,2149,Crash on click generate a password,closed,2022-10-23T18:10:41Z,2022-10-31T19:46:12Z,bug
+bitwarden/mobile,2148,QR Scanning not working on iOS,closed,2022-10-23T17:15:52Z,2025-05-06T20:48:27Z,bug
+bitwarden/mobile,2147,Android client got no response randomly.,closed,2022-10-23T13:28:23Z,2024-08-01T13:50:10Z,bug
+bitwarden/mobile,2145,Auto fill on Android seems to truncate some password characters (in one instance),closed,2022-10-20T16:27:35Z,2024-08-17T05:29:05Z,"bug, needs-reply"
+bitwarden/mobile,2143,Android - Bitwarden crashes when attempting to generate a new password via the autofill flow.,closed,2022-10-19T23:41:35Z,2022-10-25T20:05:16Z,bug
+bitwarden/mobile,2136,crashing after log in (new versions 2022.10.0 and persistent from 2022.9.0 and 2022.9.1 past versions),closed,2022-10-14T13:26:39Z,2022-10-14T13:49:34Z,bug
+bitwarden/mobile,2131,iOS / iPadOS: Viewing vault item causes crash,closed,2022-10-13T04:05:42Z,2024-08-05T14:35:10Z,"bug, iOS"
+bitwarden/mobile,2128,Auto-fill via accessibility cannot be activated on android 13 when bitwarden is sideloaded,closed,2022-10-12T12:55:08Z,2022-12-21T22:26:13Z,bug
+bitwarden/mobile,2124,Regex matching not working on Android Chrome (works on desktop),closed,2022-10-11T15:43:48Z,2024-08-28T05:29:31Z,"bug, needs-reply"
+bitwarden/mobile,2122,using a space at the beginning of otpauth:// generate a wrong OTP,closed,2022-10-10T18:10:49Z,2025-05-06T20:48:31Z,"bug, good first issue"
+bitwarden/mobile,2120,App Crashes after repeatedly tapping Search button,closed,2022-10-09T19:05:22Z,2025-05-06T20:48:34Z,bug
+bitwarden/mobile,2110,Drains battery very fast since IOS 16,closed,2022-10-03T13:22:57Z,2022-10-04T11:52:52Z,bug
+bitwarden/mobile,2103,Will this repository accept PR about localization?,closed,2022-09-29T11:32:26Z,2022-09-29T11:41:58Z,bug
+bitwarden/mobile,2098,Biometric unlock bug when camera access is blocked,closed,2022-09-25T16:59:34Z,2024-08-17T05:29:07Z,"bug, needs-reply"
+bitwarden/mobile,2094,Verification Codes doesn't respect the `Show website icons` setting,closed,2022-09-22T18:12:33Z,2022-09-23T16:49:14Z,bug
+bitwarden/mobile,2093,crashing after log in (versions 2022.9.0 and 2022.9.1),closed,2022-09-22T16:58:21Z,2022-10-04T10:39:04Z,bug
+bitwarden/mobile,2091,Bug log in,closed,2022-09-21T20:52:21Z,2022-09-22T16:19:20Z,bug
+bitwarden/mobile,2087,Icon requests are made even when `Show website icons` is disabled,closed,2022-09-21T07:15:58Z,2024-08-28T05:29:32Z,"bug, needs-reply"
+bitwarden/mobile,2086,iOS - The application closes/crashes the moment it is unlocked when the device language is set to Romanian.,closed,2022-09-20T16:21:12Z,2022-10-04T10:42:12Z,bug
+bitwarden/mobile,2085,One-time key from YubiKey NFC not written to input during 2FA from iPhone AutoFill Passwords,closed,2022-09-20T02:05:40Z,2024-08-28T05:29:33Z,"bug, needs-reply"
+bitwarden/mobile,2083,Font size seems to vary when changing resolution from WQHD+ down to HD+ or vice-versa,closed,2022-09-19T19:46:45Z,2022-09-25T10:25:41Z,bug
+bitwarden/mobile,2082,iOS 16: Camera notification is on even after exiting camera for scanning TOTP,closed,2022-09-19T12:27:03Z,2024-08-13T14:44:09Z,bug
+bitwarden/mobile,2080,username is not recognized when saving a new entry from popup,closed,2022-09-16T18:38:14Z,2025-05-06T20:48:37Z,bug
+bitwarden/mobile,2074,no popup to save new login on android's apps,closed,2022-09-15T16:56:27Z,2025-05-06T20:48:40Z,bug
+bitwarden/mobile,2072,[French Translation] Missing + Wrongly translated,closed,2022-09-15T09:42:03Z,2022-09-15T09:51:24Z,bug
+bitwarden/mobile,2070,Android App not display TOTP codes on home screen,closed,2022-09-14T10:27:41Z,2022-09-14T10:34:51Z,bug
+bitwarden/mobile,2067,Android App: Clear clipboard function does not actually clear clipboard.,closed,2022-09-12T02:26:49Z,2025-05-06T20:48:44Z,bug
+bitwarden/mobile,2066,PKCS#12 User certificate failed to recognize by Bitwarden Android app,closed,2022-09-11T20:08:34Z,2025-05-06T20:48:47Z,bug
+bitwarden/mobile,2064,cancelling fingerprint prompt simply logs you in (device/os specific),closed,2022-09-07T12:46:16Z,2022-10-12T18:22:37Z,bug
+bitwarden/mobile,2062,[android] Fix color on android Navigation Bar,closed,2022-09-05T19:07:47Z,2022-09-14T19:02:17Z,bug
+bitwarden/mobile,2061,Bitwarden name in Persian,closed,2022-09-04T12:35:12Z,2022-09-04T17:22:46Z,bug
+bitwarden/mobile,2060,Android 13 Yubikey login not working,closed,2022-09-04T10:29:47Z,2022-09-29T05:53:21Z,"bug, needs-reply"
+bitwarden/mobile,2058,[bug] bitwarden sometimes fails to display when clicking the `password` button on top of the keyboard,closed,2022-09-02T11:12:16Z,2022-10-26T01:46:27Z,"bug, customer-support"
+bitwarden/mobile,2052,password records for web url's with unicode failed to find,closed,2022-08-29T09:02:21Z,2022-10-25T23:29:11Z,bug
+bitwarden/mobile,2049,iOS requires entering Master Password every time,closed,2022-08-25T19:36:07Z,2022-10-25T22:43:01Z,bug
+bitwarden/mobile,2043,Android Cannot connect to Bitwarden servers using WiFi via IPv6,closed,2022-08-21T15:43:01Z,2025-05-06T20:48:50Z,bug
+bitwarden/mobile,2036,Hidden PIN on Android app,closed,2022-08-14T04:22:05Z,2025-05-06T20:48:53Z,bug
+bitwarden/mobile,2032,Requiring providing master password on application restart is not respected when a pin is set together with biometrics unlock,closed,2022-08-08T14:39:51Z,2024-08-22T13:42:52Z,"bug, good first issue"
+bitwarden/mobile,2026,an unhandled error has occurred when i signed in with android version browser extension and others ,closed,2022-08-04T02:24:04Z,2022-08-04T08:04:33Z,bug
+bitwarden/mobile,2019," In the vertical screen position, the top bar of the application does not react. ",closed,2022-07-30T12:42:48Z,2022-09-29T05:53:23Z,"bug, needs-reply"
+bitwarden/mobile,2018,Mobile client file uploads are missing the `Content-Type` header in the MultipartFormDataContent.,closed,2022-07-30T10:39:36Z,2022-08-26T13:58:55Z,"bug, good first issue"
+bitwarden/mobile,2009,Android: Label of terms of service and privacy policy switch is too close to the actual switch in the sign-up screen,closed,2022-07-24T15:34:57Z,2022-08-22T16:27:29Z,"bug, good first issue"
+bitwarden/mobile,2008,iOS app does not seem to return items when saved with special characters such as tilde,closed,2022-07-22T23:21:37Z,2023-01-05T16:34:07Z,"bug, good first issue"
+bitwarden/mobile,2006,Loading/syncing should happen off the main UI thread on Android app,closed,2022-07-22T16:56:05Z,2025-05-06T20:49:00Z,bug
+bitwarden/mobile,2003,iOS: Account switcher UI gets cut off on iPhone 13,closed,2022-07-22T04:43:44Z,2024-09-05T05:29:52Z,"bug, needs-reply"
+bitwarden/mobile,2002,"Possible security issue? Update Failed: ""Package com.x8bit.bitwarden signatures do not match previously installed version; ignoring!"" ",closed,2022-07-22T03:17:43Z,2022-08-22T18:47:40Z,bug
+bitwarden/mobile,1998,Android app kills session on network changes (selfhosted; split-horizon DNS; cloudflare tunnels),closed,2022-07-20T02:19:53Z,2024-03-02T20:29:52Z,bug
+bitwarden/mobile,1996,Auto-fill not launching [iOS],closed,2022-07-17T23:06:16Z,2022-07-22T04:50:02Z,bug
+bitwarden/mobile,1987,Accessibility: Boolean custom field icon lacks a text alternative,closed,2022-07-09T12:36:01Z,2025-05-06T20:49:03Z,"bug, good first issue"
+bitwarden/mobile,1985,"Boolean custom field displays ticked checkbox when unchecked, unticked checkbox when checked",closed,2022-07-09T10:44:56Z,2022-07-11T13:48:19Z,"bug, good first issue"
+bitwarden/mobile,1977,"Link to ""Mobile section"" of Contribution documentation is dead",closed,2022-07-06T14:27:39Z,2022-07-06T14:43:08Z,bug
+bitwarden/mobile,1972,No vaults show in My Vault's page,closed,2022-07-03T05:28:32Z,2022-07-05T19:47:13Z,"bug, customer-support"
+bitwarden/mobile,1970,iOS Crash on previously opened item,closed,2022-06-29T22:14:05Z,2022-07-18T14:48:49Z,bug
+bitwarden/mobile,1966,App crushing ,closed,2022-06-28T20:55:17Z,2024-08-27T05:29:20Z,"bug, needs-reply"
+bitwarden/mobile,1963,Display Picture of Account Not Visible,closed,2022-06-22T04:08:48Z,2025-05-06T20:49:07Z,bug
+bitwarden/mobile,1962,Crash when copy password to clipboard on my phone,closed,2022-06-22T02:30:34Z,2022-07-05T21:14:46Z,bug
+bitwarden/mobile,1960,Android app doesn't log out properly when I change my master password in the web vault,closed,2022-06-20T13:21:36Z,2022-09-22T18:02:27Z,"bug, needs-response"
+bitwarden/mobile,1958,keyboard not opening when entering pin on android ,closed,2022-06-17T14:59:41Z,2025-05-06T20:49:10Z,"bug, good first issue"
+bitwarden/mobile,1946,[Android] Match Detection settings misbehaving with Inline Autofill,closed,2022-06-09T03:55:14Z,2025-05-06T20:49:13Z,"bug, good first issue, already-fixed"
+bitwarden/mobile,1920,"Android/iOS: Accessibility - ""Options"" expand/collapse control does not announce state",closed,2022-05-21T18:11:13Z,2022-05-27T13:52:20Z,bug
+bitwarden/mobile,1919,"Android/iOS: Accessibility - File/Text controls unintuitive, ""Text"" accessible name incorrect",closed,2022-05-21T17:59:13Z,2022-05-25T16:20:52Z,bug
+bitwarden/mobile,1918,Android/iOS: Accessibility - expand label/name for password generator toggles,closed,2022-05-21T14:05:28Z,2022-05-25T16:25:21Z,bug
+bitwarden/mobile,1916,Android/iOS: Accessibility - show/hide password toggle buttons don't programmatically expose their state,closed,2022-05-19T19:16:39Z,2022-06-01T15:02:28Z,bug
+bitwarden/mobile,1915,Android: Accessibility - back buttons in search and vault > bin lack appropriate accessible name,closed,2022-05-19T19:05:12Z,2022-06-01T19:50:19Z,bug
+bitwarden/mobile,1911,Chrome Web - Copying from a hidden file while in Edit Mode does not work,closed,2022-05-18T08:00:38Z,2022-11-30T11:48:55Z,bug
+bitwarden/mobile,1908,My vault frame drops on scrolling,closed,2022-05-15T11:58:49Z,2022-05-17T02:27:04Z,bug
+bitwarden/mobile,1904,iOS 12.5.5 Blank screen for password history,closed,2022-05-11T19:31:16Z,2022-05-27T14:22:42Z,"bug, good first issue"
+bitwarden/mobile,1903,iOS: broken/missing character displays for linked and boolean custom fields,closed,2022-05-11T07:37:37Z,2022-07-08T22:08:20Z,"bug, good first issue"
+bitwarden/mobile,1902,Android biometrics use only face. Fingerprint appear after long time and doesn't works,closed,2022-05-10T16:39:29Z,2024-08-15T05:29:11Z,"bug, needs-reply"
+bitwarden/mobile,1900,Account Switching Not Possible When Current Vault is Unlocked,closed,2022-05-08T21:39:05Z,2022-05-17T14:38:05Z,bug
+bitwarden/mobile,1899,Can't press top bar buttons in portrait mode,closed,2022-05-03T18:20:02Z,2024-08-15T05:29:12Z,"bug, needs-reply"
+bitwarden/mobile,1898,Support Autofill on iode browser,closed,2022-05-02T15:08:45Z,2022-07-14T20:24:02Z,bug
+bitwarden/mobile,1897,Bitwarden mobile autofills in twitter search bar,closed,2022-04-29T18:05:25Z,2024-08-15T05:29:13Z,"bug, needs-reply"
+bitwarden/mobile,1888,Can’t login to iOS app,closed,2022-04-24T06:54:49Z,2022-04-24T16:32:12Z,bug
+bitwarden/mobile,1884,App icon not themed on Android 12,closed,2022-04-19T05:06:57Z,2022-04-20T20:00:46Z,bug
+bitwarden/mobile,1883,"""Sync Failed"" experience is poor",closed,2022-04-19T00:39:01Z,2022-04-27T07:11:55Z,"bug, good first issue"
+bitwarden/mobile,1876,Wrong password on Firefox and chrome for iOS ,closed,2022-04-07T03:42:26Z,2025-05-06T20:49:17Z,bug
+bitwarden/mobile,1875,Auto-Fill in Browser started from HomeScreen Shortcut not working,closed,2022-04-06T06:53:22Z,2025-05-06T20:49:20Z,bug
+bitwarden/mobile,1874,Cannot save new login if personal ownership is disabled,closed,2022-04-05T19:02:13Z,2024-06-25T13:42:46Z,bug
+bitwarden/mobile,1873,Bitwarden Android Client with on-Premise server - won't resolve host name,closed,2022-04-04T21:30:43Z,2022-04-20T21:48:15Z,bug
+bitwarden/mobile,1872,iPadOS: Wheel Pickers Dead,closed,2022-04-04T18:47:03Z,2022-08-22T15:07:52Z,"bug, good first issue"
+bitwarden/mobile,1871,Master password bypass with biometric authentication if device credentials compromised,closed,2022-04-04T11:36:55Z,2022-04-23T11:34:08Z,bug
+bitwarden/mobile,1870,Non-default URI Match Detection not enforced for autofill in browsers on Android,closed,2022-04-03T18:53:50Z,2022-04-09T07:21:37Z,bug
+bitwarden/mobile,1867,(Android) Bitwarden vault not locking upon locking the phone.,closed,2022-03-29T15:30:01Z,2022-08-02T17:48:21Z,bug
+bitwarden/mobile,1866,Not asking for password re-prompt when enabled,closed,2022-03-27T22:06:28Z,2025-05-06T20:49:24Z,"bug, good first issue"
+bitwarden/mobile,1864,QR Scanning not working on iOS and Android.,closed,2022-03-25T14:12:53Z,2022-03-31T15:32:54Z,bug
+bitwarden/mobile,1862,iOS Autofill: 'provide credentials without user interaction' does not work,closed,2022-03-24T19:56:30Z,2025-05-06T20:49:27Z,bug
+bitwarden/mobile,1860,"App keeps asking for 2FA even though I've checked the ""remember me"" checkbox.",closed,2022-03-23T11:50:21Z,2022-08-23T14:31:54Z,bug
+bitwarden/mobile,1853,iOS requiring master password every time when autofill despite vault timeout value,closed,2022-03-18T20:20:13Z,2022-05-17T23:15:26Z,bug
+bitwarden/mobile,1844,Crash while scrolling iOS app ,closed,2022-03-15T12:22:34Z,2022-03-15T13:10:27Z,bug
+bitwarden/mobile,1841,Not prompting to add a new login to vault,closed,2022-03-12T16:32:37Z,2025-05-06T20:49:30Z,bug
+bitwarden/mobile,1840,Flash back when opening an app on Android 11,closed,2022-03-12T04:42:52Z,2022-03-16T04:41:17Z,bug
+bitwarden/mobile,1828,Microsoft Tracker in F-droid app version,closed,2022-03-06T18:38:16Z,2022-03-08T17:45:55Z,bug
+bitwarden/mobile,1824,Copy & paste of password does not work (iphone->macbook),closed,2022-03-03T19:30:03Z,2025-05-06T20:49:34Z,"bug, good first issue, iOS"
+bitwarden/mobile,1821,iOS App Crashes Navigating Settings,closed,2022-03-02T02:44:22Z,2022-03-10T20:21:12Z,bug
+bitwarden/mobile,1816,"Autofill prompt blocks OK button for BankID, Android",closed,2022-02-28T12:10:52Z,2025-05-06T20:49:37Z,bug
+bitwarden/mobile,1799,Login failure when vault locked with Firefox ,closed,2022-02-22T18:04:05Z,2025-05-06T20:49:40Z,bug
+bitwarden/mobile,1794,"Wrong detection of domain: ""Items for —"" (em dash)",closed,2022-02-21T09:27:18Z,2022-03-01T07:33:16Z,bug
+bitwarden/mobile,1791,Crash when scrolling in Vault or Settings,closed,2022-02-19T21:59:57Z,2022-02-19T22:01:14Z,bug
+bitwarden/mobile,1790,Touch ID instead of Face ID in prompts,closed,2022-02-19T21:44:23Z,2025-05-06T20:49:43Z,bug
+bitwarden/mobile,1774,Icons don't scale correctly if Android system's font size is set to larger than default.,closed,2022-02-12T16:56:39Z,2022-02-17T22:34:23Z,bug
+bitwarden/mobile,1772,Android app no longer locks on vault timeout in version 2.16.1,closed,2022-02-12T00:10:50Z,2022-02-14T16:29:05Z,bug
+bitwarden/mobile,1770,"Sometimes ""Password Generator"" screen bottom gets truncated if Android system's font size is set to larger than default",closed,2022-02-11T19:00:33Z,2022-02-15T22:10:43Z,bug
+bitwarden/mobile,1767,Text bug in Send : German version,closed,2022-02-11T15:11:21Z,2022-02-22T17:28:43Z,bug
+bitwarden/mobile,1754,autofill not working on iOS 15.3 (both iPhone and iPad),closed,2022-02-04T22:45:37Z,2025-05-06T20:49:46Z,bug
+bitwarden/mobile,1749,ios 15.3 always crash when click the app,closed,2022-02-03T15:19:35Z,2023-09-25T15:44:16Z,bug
+bitwarden/mobile,1745,iOS 15.4 app crashes on scroll,closed,2022-02-02T02:04:37Z,2022-04-12T09:16:43Z,bug
+bitwarden/mobile,1736,Password saving only opens app,closed,2022-01-28T20:51:02Z,2022-02-13T09:51:02Z,bug
+bitwarden/mobile,1725,"iOS: ""Share file"" only lists photos, no videos",closed,2022-01-21T14:32:21Z,2025-05-06T20:49:50Z,bug
+bitwarden/mobile,1723,Slow loading after unlock on Android,closed,2022-01-20T06:12:51Z,2025-05-06T20:49:53Z,bug
+bitwarden/mobile,1719,Sync fails when Google One VPN is enabled,closed,2022-01-17T09:19:34Z,2025-05-06T20:49:56Z,bug
+bitwarden/mobile,1718,Vault Timeout on App Restart not respected,closed,2022-01-14T07:49:21Z,2025-05-06T20:50:00Z,bug
+bitwarden/mobile,1716,Error when creating notes or creating a custom URI,closed,2022-01-11T15:36:43Z,2022-01-12T16:07:27Z,bug
+bitwarden/mobile,1715,[Android] BitWarden crashes while opening the big Vault,closed,2022-01-10T23:17:20Z,2025-05-06T20:50:03Z,bug
+bitwarden/mobile,1713,"Master password re-prompt option only prompts when editing, not when viewing",closed,2022-01-09T20:58:03Z,2025-05-06T20:50:07Z,bug
+bitwarden/mobile,1712,Android - Inline autofill does not copy the TOTP code to the clipboard.,closed,2022-01-09T18:44:09Z,2022-12-05T17:49:36Z,bug
+bitwarden/mobile,1711,"iOS App Crashes on Launch, But Works on Second Attempt  Bitwarden 2.15.0 (1225), iOS 15.2.",closed,2022-01-07T22:31:56Z,2022-02-02T23:18:28Z,bug
+bitwarden/mobile,1710,No refresh before autofilling,closed,2022-01-07T15:15:51Z,2025-05-06T20:50:10Z,bug
+bitwarden/mobile,1706,iOS App crashes when trying to re-open after certain amount of time and when using dark mode. ,closed,2022-01-02T18:00:58Z,2022-01-03T15:46:42Z,bug
+bitwarden/mobile,1704,App crash if fingerprint unlock feature isn't working,closed,2021-12-30T21:44:37Z,2025-05-06T20:50:14Z,bug
+bitwarden/mobile,1703,"""Disable Save Prompt"" is ignored on Android 12",closed,2021-12-30T16:43:03Z,2025-05-06T20:50:17Z,bug
+bitwarden/mobile,1702,bitwarden not showing website logo/favicon in autofill prompt,closed,2021-12-29T14:19:48Z,2025-05-06T20:50:20Z,"bug, good first issue"
+bitwarden/mobile,1701,bitwarden should not show popup to fill if it does not has any,closed,2021-12-29T14:12:56Z,2022-01-31T23:32:57Z,bug
+bitwarden/mobile,1698,Android app version 2.15.0 - crashes when white space exists in custom (on-prem) server URL. ,closed,2021-12-23T08:43:52Z,2022-07-11T17:02:11Z,"bug, good first issue"
+bitwarden/mobile,1697,Bitwarden does not work at all with duck duck go browser on Android,closed,2021-12-23T02:54:02Z,2025-05-06T20:50:23Z,bug
+bitwarden/mobile,1696,Android add app URI to existing entry,closed,2021-12-22T04:46:42Z,2025-05-06T20:50:27Z,bug
+bitwarden/mobile,1689,Crash on password generator history when changing theme,closed,2021-12-14T15:33:04Z,2021-12-16T14:36:06Z,"bug, iOS"
+bitwarden/mobile,1688,Android 12 Markup App crashing when Bitwarden is selected as auto-filling service,closed,2021-12-14T11:05:37Z,2022-03-24T19:40:44Z,bug
+bitwarden/mobile,1687,Name field is not prioritized in search results,closed,2021-12-13T17:02:48Z,2022-05-23T09:20:48Z,"bug, good first issue"
+bitwarden/mobile,1686,iOS keyboard AutoFill disregards URI,closed,2021-12-11T15:25:35Z,2023-11-28T15:16:31Z,bug
+bitwarden/mobile,1685,iOS share sheet button disappears,closed,2021-12-11T09:37:00Z,2025-05-06T20:50:30Z,bug
+bitwarden/mobile,1678,Cannot login to vault on Android app while using Wireguard VPN hosted on AWS,closed,2021-12-08T15:50:36Z,2025-05-06T20:50:33Z,bug
+bitwarden/mobile,1675,unable to log in,closed,2021-12-08T10:59:56Z,2021-12-08T11:33:47Z,bug
+bitwarden/mobile,1672,"adriond app bug: server use ssl  by nginx ,when login it show  java.security.cert.certpathvalidatorexception",closed,2021-12-06T15:58:40Z,2025-05-06T20:50:36Z,bug
+bitwarden/mobile,1670,Inline Autofill is barely visible in dark mode,closed,2021-12-01T15:23:40Z,2025-05-06T20:50:40Z,bug
+bitwarden/mobile,1665,No Icons on Android App,closed,2021-11-29T07:07:16Z,2021-12-03T04:27:32Z,bug
+bitwarden/mobile,1664,"iOS - Avoid ambiguous characters is activated inside the main client, but is deactivated when creating a vault item from the autofill prompt.",closed,2021-11-27T11:37:55Z,2022-05-18T13:58:50Z,bug
+bitwarden/mobile,1645,Android 12 change in lifecycle autofill bug with Draw Over/Accessibility Quick Tile,closed,2021-11-15T10:59:47Z,2021-12-06T19:17:57Z,bug
+bitwarden/mobile,1644,Autofill service not working properly on android webview based browser,closed,2021-11-13T12:34:26Z,2025-05-06T20:50:46Z,bug
+bitwarden/mobile,1643,Item password generator mistakenly shows policy management,closed,2021-11-12T22:10:07Z,2025-05-06T20:50:50Z,bug
+bitwarden/mobile,1641,Bitwarden pop-up box obstructing the input field on Android 12,closed,2021-11-11T06:58:44Z,2025-05-06T20:50:53Z,bug
+bitwarden/mobile,1640,Favicons are missing on Android app,closed,2021-11-11T04:30:17Z,2021-11-18T20:38:23Z,bug
+bitwarden/mobile,1636,App crashed when using 3rd party launcher on IOS,closed,2021-11-10T07:28:09Z,2025-05-06T20:50:56Z,bug
+bitwarden/mobile,1635,iOS: App Extension not working since latest version (2.14.2),closed,2021-11-09T19:17:43Z,2021-12-14T04:28:48Z,bug
+bitwarden/mobile,1624,iOS share sheet button not working,closed,2021-11-01T11:41:13Z,2021-11-05T13:51:48Z,bug
+bitwarden/mobile,1623,Choosing an entry from the vault does not populate form fields in Firefox 93.2.0,closed,2021-10-31T17:26:15Z,2022-07-10T17:03:30Z,bug
+bitwarden/mobile,1620,Android App Ignores Ports in Hostnames,closed,2021-10-29T14:14:14Z,2025-04-30T16:10:47Z,bug
+bitwarden/mobile,1619,Auto-fill link covers button in oi-safe making it impossible to confirm dialog,closed,2021-10-29T05:50:07Z,2021-12-03T05:02:46Z,bug
+bitwarden/mobile,1615,"Android - Setting the Vault Timeout to Never is not saved, and is automatically changed to Immidiately.",closed,2021-10-28T14:35:37Z,2021-10-29T14:31:38Z,bug
+bitwarden/mobile,1612,Unable to install on grapheneOS phone,closed,2021-10-28T01:11:42Z,2021-10-28T14:32:33Z,bug
+bitwarden/mobile,1606,Unable to open PDF attachments from an identity entry,closed,2021-10-24T21:29:18Z,2025-05-06T20:51:00Z,bug
+bitwarden/mobile,1605,Cannot Login,closed,2021-10-24T18:18:54Z,2021-10-28T11:48:03Z,bug
+bitwarden/mobile,1604,Sometimes iOS is crashing/rebooting when the Bitwarden app is opening,closed,2021-10-24T13:20:19Z,2021-11-29T19:00:12Z,bug
+bitwarden/mobile,1594,FIDO2 in Android app is not working,closed,2021-10-18T13:01:15Z,2025-05-06T20:51:03Z,bug
+bitwarden/mobile,1590,"Android - Can't scan TOTP : View is ""streched""",closed,2021-10-16T21:36:05Z,2021-11-24T03:19:10Z,bug
+bitwarden/mobile,1584,Issues with logging into nookal.com site on android phone.,closed,2021-10-15T06:48:30Z,2021-10-18T06:39:21Z,bug
+bitwarden/mobile,1578,Bitwarden app crashes when selecting show password button,closed,2021-10-14T15:33:27Z,2021-10-15T14:56:13Z,bug
+bitwarden/mobile,1577,Bitwarden splash screen being displayed when opening an item,closed,2021-10-14T07:07:38Z,2021-10-15T19:46:24Z,bug
+bitwarden/mobile,1574,"""Create account"" button doesn't work",closed,2021-10-12T20:35:26Z,2021-10-14T17:42:48Z,bug
+bitwarden/mobile,1567,extremely slow when open android app,closed,2021-10-08T04:35:47Z,2025-05-06T20:51:07Z,bug
+bitwarden/mobile,1562,"[iOS] Disable autocorrect on ""Name"" field",closed,2021-10-05T15:34:46Z,2021-10-28T14:56:08Z,bug
+bitwarden/mobile,1561,Cannot login from Comcast IP. Are you blacklisting IPs?,closed,2021-10-04T17:39:12Z,2021-10-14T06:11:32Z,bug
+bitwarden/mobile,1560,List is obscured by the keyboard when searching for account for auto populating,closed,2021-10-04T15:59:49Z,2025-05-06T20:51:10Z,bug
+bitwarden/mobile,1554,wrong OTP is copied,closed,2021-09-30T15:57:39Z,2025-05-06T20:51:13Z,bug
+bitwarden/mobile,1553,TOTP code is not saved,closed,2021-09-29T04:45:53Z,2021-09-29T05:36:05Z,bug
+bitwarden/mobile,1552,Password shows up briefly with Firefox on android,closed,2021-09-29T01:54:06Z,2025-05-06T20:51:16Z,bug
+bitwarden/mobile,1551,Browser crashes with hCaptcha when logging in to Discord,closed,2021-09-26T02:24:41Z,2025-05-06T20:51:20Z,bug
+bitwarden/mobile,1550,Apple says that a special plist entry is needed for 120hz ProMotion support,closed,2021-09-25T03:25:46Z,2021-10-08T12:47:41Z,bug
+bitwarden/mobile,1548,Unknown error with FIDO and security key on Android,closed,2021-09-24T16:25:41Z,2021-10-14T15:53:42Z,bug
+bitwarden/mobile,1539,"Enabling Accessibility Service prevents from using ""Swipe down from notification panel"" option",closed,2021-09-14T08:18:57Z,2025-05-06T20:51:26Z,bug
+bitwarden/mobile,1537,Inline Autofill broken on Microsoft Edge 93.X.XXX.XX,closed,2021-09-10T14:18:29Z,2021-12-03T04:58:49Z,bug
+bitwarden/mobile,1536,Refresh toggle needed for autofill,closed,2021-09-10T06:10:55Z,2025-05-06T20:51:30Z,bug
+bitwarden/mobile,1516,Color coding for password is missing from iOS app,closed,2021-08-25T23:49:02Z,2021-10-25T19:28:14Z,bug
+bitwarden/mobile,1474,Unable to log in using SSO,closed,2021-07-23T17:15:24Z,2021-07-23T18:36:49Z,bug
+bitwarden/mobile,1464,iOS - Bitwarden does not clear the clipboard.,closed,2021-07-16T16:36:59Z,2021-12-10T20:41:36Z,bug
+bitwarden/mobile,1446,Android Beta - Unable to save an Item to an Org,closed,2021-06-30T03:50:40Z,2021-06-30T21:46:59Z,"bug, android"
+bitwarden/mobile,692,Autofill Non-Functional on Android 10 with Edge Mobile,closed,2020-01-07T12:09:02Z,2020-01-08T11:48:08Z,bug
+bitwarden/mobile,678,Number of entries shows incorrect value after scrolling,closed,2019-12-20T17:38:38Z,2020-03-03T17:28:28Z,bug
+bitwarden/mobile,675,"""Items for --"" issue in Android Chrome",closed,2019-12-18T05:10:49Z,2020-04-30T13:52:56Z,bug
+bitwarden/mobile,656,Search broken on iOS when searching while bitwarden is still loading,closed,2019-11-19T16:54:09Z,2025-05-06T20:56:57Z,bug
+bitwarden/mobile,650,Text colour issue on iOS password keyboard filling activation screen,closed,2019-11-15T18:20:21Z,2020-09-28T14:14:31Z,bug
+bitwarden/mobile,626,Does not properly identify password fields when default language is French,closed,2019-10-13T22:09:18Z,2025-05-06T20:57:16Z,bug
+bitwarden/mobile,624,iOS: Extension sheet freezes when swiped down,closed,2019-10-12T11:52:02Z,2020-10-15T18:34:31Z,bug
+bitwarden/mobile,612,[iOS 13] Text entered in search with dark mode enabled via System Settings is invisible,closed,2019-09-27T22:30:57Z,2019-10-01T11:09:12Z,bug
+bitwarden/mobile,591,Autofill not working with home screen wesbite apps,closed,2019-09-03T14:58:15Z,2021-04-29T23:47:53Z,bug
+bitwarden/mobile,580,Incorrect Environment URL on iOS App Login Page,closed,2019-08-21T01:51:12Z,2025-05-06T20:57:42Z,bug
+bitwarden/mobile,579,"Search performance, or perceived performance needs improved",closed,2019-08-19T16:54:59Z,2025-05-06T20:57:46Z,bug
+bitwarden/mobile,520,Can't select text in the note fields on Android,closed,2019-06-05T21:25:09Z,2025-05-06T20:58:12Z,bug
+bitwarden/mobile,487,iOS [2.2.0] crash when triggering Autofill from Octal app,closed,2019-04-20T13:09:01Z,2019-08-20T12:05:51Z,bug
+bitwarden/mobile,486,"Title (Mr, Mrs, etc) in “identity” entries doesn’t match",closed,2019-04-17T23:39:10Z,2019-06-04T15:42:27Z,bug
+bitwarden/mobile,485,8 digit TOTP QR not being parsed,closed,2019-04-14T15:04:31Z,2019-06-05T04:41:38Z,bug
+bitwarden/mobile,482,The return does not work in gesture-based navigation.,closed,2019-04-08T21:31:15Z,2025-05-06T20:58:28Z,bug
+bitwarden/mobile,456,Cannot edit long notes on iOS after latest mobile update. ,closed,2019-02-05T04:03:27Z,2019-06-04T15:39:37Z,"bug, help wanted"
+bitwarden/mobile,428,"iOS - Add credential, hitting Save with blank URI results in duplicate entries",closed,2018-12-23T05:20:26Z,2019-06-04T15:35:38Z,bug
+bitwarden/mobile,423,input behavior for URL field on Android,closed,2018-12-07T09:04:02Z,2019-06-04T15:35:28Z,bug
+bitwarden/mobile,393,Passwords are not refreshing ,closed,2018-10-13T07:56:38Z,2018-12-10T16:57:38Z,bug
+bitwarden/mobile,385,ios app won’t add attachments other than photos ,closed,2018-09-29T12:13:11Z,2025-05-06T20:59:00Z,bug
+bitwarden/mobile,372,iOS: Saving a Hidden Custom Type while it's displayed (eye crossed) permanently changes the field type to Text,closed,2018-09-17T23:40:43Z,2019-01-25T14:05:55Z,bug
+bitwarden/mobile,356,Android - auto lock doesn't always lock,closed,2018-08-13T08:22:45Z,2019-08-12T12:06:46Z,bug
+bitwarden/mobile,327,Remove Yubikey NFC check on Android,closed,2018-06-16T11:33:10Z,2018-06-24T12:16:19Z,bug
+bitwarden/mobile,317,Long passwords spill out of their container,closed,2018-05-23T00:36:08Z,2019-06-04T15:12:39Z,bug
+bitwarden/mobile,303,"Hitting ""generate password"" twice very fast opens the window twice, which gets confusing",closed,2018-04-20T08:15:17Z,2019-06-04T15:11:07Z,bug
+bitwarden/mobile,302,Android - Potential data access when app locks,closed,2018-04-13T09:30:17Z,2021-04-27T21:48:25Z,bug
+bitwarden/mobile,280,Downloading PDF attachment on iPhone does nothing when finished,closed,2018-02-09T05:32:22Z,2018-04-07T15:34:06Z,bug
+bitwarden/mobile,259,Crash on iPad ,closed,2018-01-19T00:16:02Z,2018-04-07T16:16:40Z,bug
+bitwarden/mobile,256,Strange margins for the tools on ipad,closed,2018-01-15T20:09:01Z,2018-04-07T15:33:10Z,bug
+bitwarden/mobile,201,Android: Duo 2FA does not continue after logging in,closed,2017-12-10T01:13:05Z,2017-12-11T16:13:12Z,bug
+bitwarden/mobile,185,card brand increments on edit,closed,2017-11-25T16:09:23Z,2017-11-25T18:50:09Z,bug
+bitwarden/mobile,173,Empty custom field crashes app,closed,2017-11-19T18:20:10Z,2017-11-28T18:39:48Z,bug
+bitwarden/mobile,159,Auto fill not working properly on some apps,closed,2017-11-03T08:42:28Z,2021-04-29T23:00:18Z,bug
+bitwarden/mobile,156,Secure note content is not fully visible,closed,2017-11-01T09:20:29Z,2017-11-03T21:23:15Z,bug
+bitwarden/mobile,149,Pincode screen on Android doesn't pop up keyboard ,closed,2017-10-16T07:45:16Z,2017-12-12T14:30:54Z,bug
+bitwarden/mobile,136,Android app crash when trying to paste in Note field,closed,2017-09-25T15:43:40Z,2018-03-10T10:57:32Z,bug
+bitwarden/mobile,133,iOS Autofill Does Not Work With iFramed Pages,closed,2017-09-18T17:34:56Z,2021-04-29T23:07:28Z,bug
+bitwarden/mobile,128,[Android] Editing Notes is user-hostile,closed,2017-09-11T17:40:47Z,2017-09-12T19:42:17Z,bug
+bitwarden/mobile,126,Auto-fill detection doesn't work properly for IP address websites,closed,2017-09-05T01:35:48Z,2017-09-07T15:08:25Z,bug
+bitwarden/mobile,125,Auto-fill doesn't work on Android 4.4.2,closed,2017-09-03T23:45:25Z,2017-09-08T13:19:35Z,bug
+bitwarden/mobile,114,No way to autofill on website and in-app,closed,2017-08-04T13:56:43Z,2019-06-04T15:07:06Z,bug
+bitwarden/mobile,77,Trim spaces from the email address in the login field before processing the form,closed,2017-05-17T20:41:05Z,2017-05-18T19:42:21Z,bug
+bitwarden/mobile,50,Allow selecting Notes field in 'view login' mode.,closed,2017-02-21T22:23:27Z,2018-03-09T19:15:09Z,bug
+irccloud/android,158,Escaped code does not wrap,closed,2017-10-07T16:17:34Z,2018-01-31T16:37:58Z,bug
+irccloud/android,147,resource leak: database cursor not closed,closed,2016-10-01T09:25:00Z,2016-10-09T12:26:26Z,bug
+irccloud/android,142,"""Record a video"" doesn't work",closed,2016-08-01T21:50:01Z,2016-08-02T13:39:36Z,bug
+irccloud/android,140,Monospace font cuts off the bottom of text when expand/collapse indicator is visible,closed,2016-07-03T19:43:53Z,2016-07-04T12:13:47Z,bug
+irccloud/android,139,Hiding user list on web disables the drawer on mobile,closed,2016-07-03T19:34:54Z,2016-07-04T12:13:47Z,bug
+irccloud/android,138,Timestamps start next to username instead of first message when Nicknames on a separate line is enabled,closed,2016-07-02T09:02:07Z,2016-07-02T11:58:23Z,bug
+irccloud/android,137,IRCCloud Enterprise won't connect after upgrade to 3.0 (crash),closed,2016-07-02T04:16:10Z,2016-07-02T15:10:05Z,bug
+irccloud/android,135,Copy message misses the nick when small avatars are enabled,closed,2016-06-28T21:52:28Z,2016-06-29T12:58:37Z,bug
+irccloud/android,133,Tabbing through emoji suggestions doesn't work with a hardware keyboard,open,2016-06-21T18:22:59Z,,bug
+irccloud/android,129,Make sure drawers are locked closed in tablet UI,open,2016-01-13T19:39:54Z,,bug
+irccloud/android,128,Video URLs get shared with wrong protocol,closed,2015-12-30T23:23:54Z,2016-01-04T21:24:40Z,bug
+irccloud/android,125,Color codes in hostnames are a thing.,closed,2015-12-24T15:37:34Z,2016-01-04T21:17:41Z,bug
+irccloud/android,124,Closing bold tag resets color,closed,2015-11-26T18:14:24Z,2015-11-27T18:44:35Z,bug
+irccloud/android,123,Stale websocket notifier connections can remain open,closed,2015-11-23T21:11:22Z,2015-11-24T17:25:25Z,bug
+irccloud/android,121,GCM doesn't always get unregistered when logging out,closed,2015-11-19T19:29:13Z,2015-11-24T17:25:25Z,bug
+irccloud/android,110,gTLD list matching should ignore case,closed,2015-04-26T15:25:51Z,2015-04-27T15:46:11Z,bug
+irccloud/android,108,Android Wear replies can silently fail,closed,2015-03-04T17:33:41Z,2015-03-05T16:17:27Z,bug
+irccloud/android,100,Text field loses focus when device is locked,closed,2014-12-04T17:48:36Z,2014-12-10T17:24:45Z,bug
+irccloud/android,98,Ban list placeholder text needs a newline,closed,2014-11-12T06:44:46Z,2014-11-19T23:15:32Z,bug
+irccloud/android,97,Image viewer toolbar is down a bit too low on Android 5,closed,2014-11-12T06:25:13Z,2014-11-19T23:15:32Z,bug
+irccloud/android,96,Android 5 notification icon background is the wrong size,closed,2014-11-12T06:06:17Z,2014-11-19T23:15:32Z,bug
+irccloud/android,89,Copying self messages doesn't add <> around nick,closed,2014-10-26T16:42:28Z,2014-10-31T16:46:58Z,bug
+irccloud/android,87,Loading spinner gets stuck when joining a new channel,closed,2014-10-21T02:49:23Z,2014-10-22T16:54:47Z,bug
+irccloud/android,83,Tap and hold on a message with links can be unpredictable,closed,2014-10-03T23:17:29Z,2014-11-08T23:09:45Z,bug
+irccloud/android,80,Imgur auth spinner gets stuck,closed,2014-08-30T03:03:29Z,2014-09-02T17:16:03Z,bug
+irccloud/android,76,Android Wear bad encoding ,closed,2014-07-10T22:23:54Z,2014-08-11T17:05:32Z,bug
+irccloud/android,72,Linkification of channel names differs from the webapp,closed,2014-04-30T06:25:25Z,2014-05-01T18:10:52Z,bug
+irccloud/android,71,Drawer indicator doesn't reappear after rotation on tablets,closed,2014-04-13T17:03:34Z,2014-04-16T15:57:37Z,bug
+irccloud/android,58,Fix some view caching bugs in the buffers table,closed,2014-02-10T23:44:50Z,2014-02-12T18:46:49Z,bug
+irccloud/android,57,Userlist button visibility doesn't update when connection status changes,closed,2014-02-03T05:59:47Z,2014-02-04T00:54:21Z,bug
+irccloud/android,54,Unread indicator turns blue for messages in channels where unread tracking is disabled,closed,2014-01-10T19:38:41Z,2014-01-10T20:29:56Z,bug
+irccloud/android,53,New user dialog can appear for existing users when backlog fails to download,closed,2014-01-08T13:41:08Z,2014-01-09T17:24:21Z,bug
+irccloud/android,52,New query buffers show a double timestamp when first message is recieved,closed,2014-01-03T19:11:21Z,2014-01-09T19:23:19Z,bug
+irccloud/android,51,Handle backlog download failures better,closed,2014-01-03T15:57:29Z,2014-01-09T19:21:47Z,bug
+irccloud/android,46,nick change + part incorrectly shows as pop in,closed,2013-11-26T05:22:41Z,2013-11-26T17:35:28Z,bug
+irccloud/android,40,Progress bar jumps a bit while loading,closed,2013-11-11T22:47:12Z,2013-11-14T17:12:41Z,bug
+irccloud/android,39,Fix collapsing of multiple mode changes,closed,2013-11-11T22:35:23Z,2013-11-20T04:02:25Z,bug
+irccloud/android,37,Current buffer doesn't always refresh after resuming the socket,closed,2013-10-18T02:16:16Z,2013-10-18T16:04:32Z,bug
+irccloud/android,33,Buffers with a page full of unimportant messages shouldn't be marked unread,closed,2013-10-10T15:52:30Z,2013-11-02T00:36:38Z,bug
+irccloud/android,32,Join + quit isn't collapsing correctly,closed,2013-09-28T19:26:26Z,2013-10-01T15:35:09Z,bug
+irccloud/android,27,Connectivity listener doesn't reconnect when resuming the app from the background,closed,2013-09-16T06:08:18Z,2013-09-16T16:05:01Z,bug
+irccloud/android,23,Padlock icon incorrectly shows,closed,2013-08-17T21:42:31Z,2013-08-21T16:23:09Z,bug
+irccloud/android,2,Self messages shouldn't trigger the bottom chatter bar,closed,2013-06-19T21:56:52Z,2013-07-06T12:43:46Z,bug
+irccloud/android,1,Check ignore list for notifications and buffers list,closed,2013-06-19T21:56:13Z,2013-07-06T12:39:41Z,bug
+Delta-Icons/android,1235,Google Assistant icon showing in Gemini & Google App in ColorOS/realmeUI/OxygenOS,closed,2025-08-05T19:25:53Z,2025-08-08T16:36:26Z,"compinfos, bug"
+Delta-Icons/android,1222,Openboard & Fossify keyboards do not work with Delta-Icons,closed,2025-07-04T19:33:01Z,2025-08-23T17:00:29Z,"icons, bug, wontfix"
+Delta-Icons/android,594,Delta makes Launchers lag.,closed,2023-02-16T18:47:34Z,2023-05-29T14:50:12Z,"bug, cantfix"
+trebleshot/android,184,Crashes while picking files/items to send,closed,2021-08-26T00:44:26Z,2021-08-31T16:43:46Z,bug
+trebleshot/android,161,protocol: Fails due to lack of network switching,closed,2021-04-01T13:08:14Z,2021-08-06T05:40:42Z,bug
+trebleshot/android,152,Filesharing using Webshare not working - Android SDK 29,closed,2020-11-29T03:42:44Z,2021-08-06T05:01:17Z,"bug, webshare"
+trebleshot/android,149,Cyrillic filename mangled after upload via browser,closed,2020-10-24T20:27:13Z,2021-08-06T05:01:17Z,"bug, webshare"
+trebleshot/android,139,Failed to connect  as receiver on android 10.,closed,2020-07-24T11:51:00Z,2021-08-06T05:44:16Z,"bug, invalid"
+trebleshot/android,138,Receive section not working always end up with showing a progress bar once user select any device,open,2020-07-23T11:39:06Z,,bug
+trebleshot/android,129,device serial,closed,2020-07-05T19:01:42Z,2020-09-01T19:34:20Z,"bug, invalid, wontfix"
+trebleshot/android,116,Can't get past Enable Location Service...,closed,2020-04-24T01:10:36Z,2021-07-25T17:33:55Z,bug
+trebleshot/android,110,System IPC size limit leads to crash when too many files are selected,closed,2020-02-02T19:03:07Z,2021-04-12T17:46:52Z,bug
+trebleshot/android,105,Send via web deletes file name after ',closed,2019-10-14T21:49:15Z,2021-08-06T05:01:18Z,"bug, webshare"
+trebleshot/android,97,Sharing Through Google Photos & Chrome Fails,open,2019-07-11T18:10:24Z,,bug
+trebleshot/android,96,App hangs and crashes on android 4.4.2,closed,2019-06-27T13:28:35Z,2021-08-11T13:50:49Z,bug
+trebleshot/android,79,File URI support detection overly strict,closed,2019-03-08T04:31:13Z,2019-03-13T16:18:22Z,bug
+trebleshot/android,78,java.net.SocketException: Software caused connection abort,closed,2019-02-23T07:26:02Z,2019-03-01T23:08:27Z,bug
+trebleshot/android,74,Connection Fail ,open,2018-12-28T21:48:13Z,,bug
+trebleshot/android,72,Can't launch app installer inside TrebleShot,closed,2018-11-19T20:53:14Z,2019-01-06T15:22:24Z,bug
+trebleshot/android,65,pending even if the transfer is completed,closed,2018-10-13T20:26:59Z,2019-04-12T09:13:55Z,"bug, enhancement"
+trebleshot/android,64,QR Code,closed,2018-10-10T06:45:41Z,2018-10-11T16:33:15Z,bug
+trebleshot/android,48,Unable to share Trebleshot app.,closed,2018-04-08T07:50:57Z,2019-04-12T09:18:42Z,"bug, wontfix"
+trebleshot/android,46,Selected files are Unselected on Rotating the Screen In Trebleshot,closed,2018-04-04T11:18:58Z,2021-08-01T20:32:15Z,bug
+trebleshot/android,45,"""Device name"" does not always get updated in ""Device list""",closed,2018-03-29T18:56:49Z,2018-04-19T00:34:05Z,bug
+trebleshot/android,39,[CRASH] TS needs permissions granted manually before start,closed,2018-03-12T05:11:10Z,2018-03-20T14:37:58Z,bug
+trebleshot/android,35,Not able to share text through Instagram direct. ,closed,2018-03-04T11:16:35Z,2019-04-12T09:14:27Z,"bug, invalid"
+trebleshot/android,33,Bug found while sharing an image on Trebleshot. ,closed,2018-02-20T07:32:02Z,2018-09-09T17:37:43Z,bug
+trebleshot/android,32,TrebleShot stopped While Click on Image folder. ,closed,2018-02-17T19:52:12Z,2019-04-12T09:53:56Z,bug
+trebleshot/android,27,Not showing phone memory in file explorer,closed,2018-02-08T13:11:45Z,2018-02-10T15:41:57Z,bug
+trebleshot/android,25,1.2.5.2 crashes unless telephone permission is granted prior launch.,closed,2018-01-22T21:25:46Z,2018-01-25T07:47:30Z,bug
+trebleshot/android,24,[Crash] tapping multi selection,closed,2018-01-15T16:55:54Z,2018-01-25T07:47:46Z,bug
+trebleshot/android,18,Can't see other devices on LAN,closed,2017-12-09T20:23:42Z,2020-07-18T10:48:43Z,"bug, enhancement"
+trebleshot/android,17,Session started notification upon connecting to WiFi,closed,2017-12-09T20:20:11Z,2017-12-28T12:43:25Z,bug
+trebleshot/android,13,Feature request: share directories,closed,2017-10-15T23:56:20Z,2017-11-26T15:06:57Z,bug
+trebleshot/android,9,"CursorWindow: Failed to read row 0, column -1",closed,2017-05-30T19:31:46Z,2017-10-09T04:46:46Z,bug
+trebleshot/android,2,Custom storage location does not work.,closed,2017-05-28T15:50:22Z,2017-05-29T08:00:47Z,"bug, invalid"
+amahi/android,683,Non-Constant Fields in Case Labels,closed,2020-11-03T14:32:53Z,2020-12-04T21:07:58Z,"bug, good first issue"
+amahi/android,647,Files sort option not fully visible,closed,2020-08-24T10:03:06Z,2020-09-07T10:46:32Z,bug
+amahi/android,646,Found memory leaks,closed,2020-08-24T09:59:57Z,2020-09-06T20:16:27Z,bug
+amahi/android,625,Android TV Not Opening,closed,2020-08-17T07:18:51Z,2020-08-24T10:52:33Z,bug
+amahi/android,613,Android Beta Issue List - August 2020,open,2020-08-10T11:39:26Z,,bug
+amahi/android,599,File Options Not Opening in Offline Files,closed,2020-08-08T21:02:34Z,2020-08-10T10:39:26Z,"bug, good first issue"
+amahi/android,596,VPN Issue with the app,open,2020-08-04T11:03:04Z,,bug
+amahi/android,588,Recent file list not opening file,closed,2020-07-30T10:49:16Z,2020-08-10T10:59:11Z,bug
+amahi/android,582,[BUG] App not connecting on Android 4.x devices,closed,2020-07-28T19:35:45Z,2020-07-29T11:37:52Z,bug
+amahi/android,559,Unable to connect to Amahi home server when not on my home network ,open,2020-07-10T19:27:34Z,,bug
+amahi/android,558,Android app force close,closed,2020-07-09T15:54:36Z,2020-08-17T11:14:19Z,bug
+amahi/android,529,App Crash in settings,closed,2020-03-30T20:39:15Z,2020-08-17T11:38:52Z,"bug, help wanted"
+amahi/android,513,Unable to access some items in Navigation Drawer,closed,2020-03-05T11:57:43Z,2020-08-04T12:47:59Z,bug
+amahi/android,329,Action bar title is not updated with audio change,closed,2018-03-14T22:52:51Z,2018-03-22T09:30:17Z,bug
+amahi/android,321,Auto upload stuck disabled,closed,2018-03-13T04:54:18Z,2018-04-12T00:04:36Z,bug
+amahi/android,264,App crashes while playing music and pressing the home button,closed,2017-08-19T16:42:30Z,2017-08-23T18:54:54Z,bug
+amahi/android,198,lots of crashes being reported by users playing music,closed,2017-04-13T02:17:12Z,2017-04-13T21:33:24Z,bug
+amahi/android,192,webapps tab fails if the app has htpasswd access set,open,2017-04-11T10:36:59Z,,bug
+amahi/android,18,"okHttpClient cache restricts fetching new data from server, showing outdated results",closed,2017-03-05T05:49:10Z,2017-03-07T03:03:37Z,bug
+akumaigorodski/wallet,195,Weird UX in Google Pixel 8,closed,2024-11-18T02:12:27Z,2025-09-10T13:01:15Z,bug
+akumaigorodski/wallet,165,PSBT with seedsigner fails,closed,2023-09-09T17:30:48Z,2024-10-05T14:40:35Z,"bug, help wanted"
+akumaigorodski/wallet,112,Crash on opening pending invoice details,closed,2021-11-19T11:08:32Z,2021-11-22T17:29:56Z,bug
+akumaigorodski/wallet,111,can't bind Keystone hardware wallet,closed,2021-11-18T07:30:06Z,2021-12-10T21:00:15Z,bug
+akumaigorodski/wallet,60,Onion address in alias field,closed,2021-08-24T11:54:40Z,2021-08-25T04:06:12Z,bug
+akumaigorodski/wallet,51,Some old transactions are disaplayed as unconfirmed,closed,2021-08-21T17:10:23Z,2021-08-26T06:00:18Z,bug
+akumaigorodski/wallet,50,The app is extremely slow,closed,2021-08-21T15:40:14Z,2021-09-01T14:58:47Z,bug
+MalaysiaPrayerTimes/android,52,Add proper error message for mosque location quota,open,2017-08-23T11:05:50Z,,bug
+MalaysiaPrayerTimes/android,51,Notification issues on first day of month,open,2017-03-02T09:48:55Z,,bug
+MalaysiaPrayerTimes/android,50,"Widget doesn't respect ""Prayer highlight"" setting",open,2017-02-14T08:24:47Z,,bug
+MalaysiaPrayerTimes/android,49,Vibrate in apply to all not functioning,open,2017-01-20T11:32:58Z,,bug
+MalaysiaPrayerTimes/android,44,Widget syuruk visibility settings does not refresh widget,closed,2016-12-10T15:51:41Z,2016-12-26T10:59:22Z,bug
+MalaysiaPrayerTimes/android,43,Not showing proper error message when server error (502),closed,2016-12-05T15:21:25Z,2016-12-26T10:59:22Z,bug
+MalaysiaPrayerTimes/android,39,Crash on Lollipop (2.0.1-beta),closed,2016-11-29T06:25:23Z,2016-12-01T17:22:54Z,bug
+MalaysiaPrayerTimes/android,37,Notifications still produce sounds even though tone are not set,closed,2016-11-27T15:20:29Z,2016-12-01T17:22:54Z,bug
+MalaysiaPrayerTimes/android,36,Cannot parse MUIS data due to additional attribute,closed,2016-11-27T15:17:16Z,2016-12-01T17:22:54Z,bug
+MalaysiaPrayerTimes/android,35,Offline mode does not seem to work on Lollipop,closed,2016-11-26T12:49:44Z,2016-12-01T17:22:54Z,bug
+MalaysiaPrayerTimes/android,34,Missing widget customization settings,closed,2016-11-26T12:49:07Z,2016-12-01T17:22:54Z,bug
+MalaysiaPrayerTimes/android,33,Missing hijri date offset settings,closed,2016-11-26T12:48:39Z,2016-12-01T17:22:54Z,bug
+MalaysiaPrayerTimes/android,16,Builds fail when pull request is made by others,closed,2016-10-19T06:11:12Z,2016-11-22T14:27:43Z,bug
+MalaysiaPrayerTimes/android,14,In Preferred Location. Refreshing filtered list will result back to default list.,closed,2016-10-17T11:53:43Z,2016-11-22T14:27:43Z,bug
+MalaysiaPrayerTimes/android,12,Widget not showing prayer time just after being added,closed,2016-10-15T04:01:30Z,2016-11-22T14:27:43Z,bug
+MalaysiaPrayerTimes/android,11,Prayer time not refreshing after switching between automatic and preferred location,closed,2016-10-15T02:38:03Z,2016-11-22T14:27:43Z,bug
+sagemath/android,68,Any crash causes loss of saved cells.,closed,2014-06-24T04:39:01Z,2014-07-04T19:11:14Z,"bug, GSoC 2014"
+sagemath/android,67,History is clogged with duplicates,closed,2014-06-22T04:54:27Z,2014-08-07T10:38:16Z,"bug, GSoC 2014"
+sagemath/android,66,Retain Interact Controls during orientation change,closed,2014-06-22T04:53:55Z,2014-07-04T19:11:36Z,bug
+sagemath/android,64,make sure crashes don't lead to cell wipeouts,closed,2014-06-08T18:15:45Z,2014-08-10T09:34:16Z,bug
+sagemath/android,63,crash after simple command,closed,2014-06-08T18:12:27Z,2014-06-21T13:15:02Z,bug
+sagemath/android,59,Inform user properly on Interact disconnect,closed,2014-05-20T06:12:27Z,2014-06-21T11:42:54Z,"bug, GSoC 2014"
+sagemath/android,53,handle more exceptions gracefully,closed,2014-02-05T09:08:12Z,2014-08-10T09:34:16Z,bug
+sagemath/android,52,IndexOutOfBounds in CellListAdapter,closed,2014-02-05T08:18:07Z,2014-02-26T09:00:04Z,bug
+sagemath/android,50,after group disappeared its name still shows in header,closed,2014-02-03T15:32:08Z,2014-08-10T09:34:16Z,bug
+sagemath/android,47,saved html not presented again,closed,2014-02-02T20:04:14Z,2014-02-03T15:56:50Z,"bug, wontfix"
+sagemath/android,46,silent fail if graphics requires java,closed,2014-02-02T20:00:03Z,2014-08-10T09:34:16Z,bug
+sagemath/android,45,changes using long-click not saved immediately,closed,2014-02-02T19:52:35Z,2014-02-03T09:17:51Z,bug
+sagemath/android,44,handle no command input in new cell dialog better,closed,2014-02-02T19:32:31Z,2014-08-10T09:34:16Z,bug
+sagemath/android,38,on tablets groups emptied in current session don't disappear,closed,2014-02-01T14:56:51Z,2014-02-03T09:17:51Z,bug
+sagemath/android,37,pausing a cell clutters history,closed,2014-01-31T15:18:21Z,2014-02-03T09:17:51Z,bug
+sagemath/android,33,sometimes more than one line is not saved,open,2014-01-30T14:29:33Z,,bug
+sagemath/android,32,crash after new group,closed,2014-01-30T10:54:56Z,2014-02-02T14:27:49Z,bug
+sagemath/android,26,history list grows and grows,closed,2014-01-18T21:25:06Z,2014-02-03T09:17:51Z,bug
+sagemath/android,19,"error message ""SageActivity: Error pausing activity...null""",open,2014-01-12T16:36:19Z,,bug
+Condroidapp/android,62,načtení nové akce nepřekreslí seznamy pořadů,open,2017-03-29T09:17:59Z,,bug
+Condroidapp/android,61,Purge non existent program lines,open,2017-03-29T09:17:06Z,,bug
+Condroidapp/android,59,Ve výpisu Aktuální chybí kus programu [AF15],closed,2015-04-27T18:07:32Z,2015-06-29T19:40:17Z,bug
+Condroidapp/android,57,"Group ""running""",closed,2014-07-10T19:30:41Z,2015-06-29T19:40:17Z,bug
+Condroidapp/android,48,apply refresh only on actual program list - determine update time by items at top of the list,closed,2012-10-23T17:08:40Z,2015-06-29T19:40:17Z,"bug, enhancement"
+Condroidapp/android,45,Appcrash when trying to load data of another convention,closed,2012-10-21T09:00:52Z,2012-10-21T10:02:15Z,bug
+Condroidapp/android,44,do not reset list view when favorited is set in Show annotation ,closed,2012-07-04T01:11:01Z,2012-10-23T17:07:00Z,bug
+Condroidapp/android,42,Ugly Toast when wifi uses some HTTP proxy,closed,2012-06-20T17:50:53Z,2012-06-20T21:35:49Z,bug
+Condroidapp/android,41,"HTC One X - shows additional ""compatibility"" bar with menu",closed,2012-06-19T22:05:49Z,2012-06-20T21:35:48Z,bug
+Condroidapp/android,39,Fix UX for about dialog,closed,2012-06-19T17:35:54Z,2012-06-21T22:09:07Z,bug
+Condroidapp/android,38,android.os.NetworkOnMainThreadException,closed,2012-06-19T17:34:56Z,2012-06-22T22:16:42Z,bug
+Condroidapp/android,37,better UI for filter status TextView,closed,2012-06-17T22:18:09Z,2012-06-18T20:40:28Z,"bug, enhancement"
+Condroidapp/android,36,Fix determining android SERIAL id pre-API-9,closed,2012-06-15T18:15:26Z,2012-06-16T22:54:54Z,bug
+Condroidapp/android,31,lines are not loaded,closed,2012-06-15T09:01:07Z,2012-06-17T21:59:49Z,bug
+Condroidapp/android,30,Canceled fulltext filter re-apears,closed,2012-06-14T21:30:17Z,2012-06-14T21:42:22Z,bug
+Condroidapp/android,29,Make possible to cancel running asynctask,closed,2012-06-10T22:56:14Z,2012-06-11T22:33:58Z,bug
+Condroidapp/android,28,Check coherency of last-update data,closed,2012-06-10T22:54:34Z,2012-06-12T22:03:48Z,"bug, enhancement"
+Condroidapp/android,27,Ability to cancel running asyncTask,closed,2012-06-10T11:41:35Z,2012-06-17T22:01:16Z,bug
+Condroidapp/android,26,Tap through doesn't open right annotation,closed,2012-06-09T21:06:53Z,2012-06-09T21:44:02Z,bug
+Condroidapp/android,25,appcrash - reminder list crashes app when no reminders are set,closed,2012-06-02T07:45:57Z,2012-06-05T20:41:42Z,bug
+Condroidapp/android,24,check if program has its start time when setting reminder,closed,2012-05-19T14:22:43Z,2012-06-05T20:40:41Z,bug
+Condroidapp/android,23,Better notification UI design,closed,2012-05-11T22:34:03Z,2012-06-09T21:43:59Z,bug
+Condroidapp/android,20,Start reminder service after boot,closed,2012-05-11T22:32:13Z,2012-05-12T22:29:44Z,bug
+Condroidapp/android,17,ProgramActivity - view is reseted when screen rotates,closed,2012-04-28T09:55:35Z,2012-05-08T21:57:41Z,bug
+Condroidapp/android,16,AsyncTask is lost when screen rotates,closed,2012-04-28T09:54:53Z,2012-05-08T21:57:40Z,bug
+Condroidapp/android,14,There is no options menu in new UI,closed,2012-04-24T18:15:28Z,2012-04-28T21:00:47Z,bug
+Condroidapp/android,13,Filtering and search doesnt work in new UI,closed,2012-04-24T17:32:33Z,2012-04-27T11:29:03Z,bug
+Condroidapp/android,6,App crash when no link for locations image is provided,closed,2012-01-11T18:10:54Z,2012-01-12T19:18:39Z,bug
+aarddict/android,41,Android version can't properly read some .aar files,closed,2012-02-06T15:23:48Z,2012-02-08T02:40:32Z,bug
+aarddict/android,16,Application crashes sometimes if device orientation changes in article view,closed,2011-04-15T04:05:17Z,2011-04-28T01:46:54Z,bug
+aarddict/android,15,Application crashes if device orientation changes while loading dictionaries,closed,2011-04-15T03:49:00Z,2011-04-28T01:48:14Z,bug
+aarddict/android,8,Goes back to the first article when orientation changes,closed,2010-10-26T04:19:53Z,2011-04-28T01:49:31Z,bug
+ffc-nectec/FFC,4,เมื่อ clear data แล้วเปิดแอปฯจะ force close เปิดอีกครั้งจะเข้าแอปฯได้,closed,2018-06-19T08:08:22Z,2018-09-28T12:52:03Z,bug
+punchtime/android,42,tapping back on map detail activity always goes to dashboard,closed,2016-05-16T20:54:01Z,2016-05-17T23:43:08Z,bug
+punchtime/android,26,"When launching, the dashboard always gets selected",closed,2016-05-01T14:47:02Z,2016-05-19T16:00:40Z,bug
+punchtime/android,15,fix material switch,closed,2016-04-15T12:09:25Z,2016-05-17T23:43:08Z,bug
+dima2015/android,44,domain not found even if the application is connect to the network,open,2016-01-07T21:47:32Z,,"bug, question"
+dima2015/android,41,no json error,open,2016-01-07T02:14:37Z,,bug
+dima2015/android,39,drawable in xml doens't work -> aapt fails,open,2016-01-06T21:34:09Z,,bug
+5calls/android,264,Use permalink instead of slug when sharing,closed,2025-09-09T03:59:23Z,2025-09-10T14:04:50Z,"bug, up for grabs, starter issue"
+5calls/android,244,Crash in filtering by search terms (infrequent - 1x),closed,2025-05-02T13:01:17Z,2025-08-05T23:25:41Z,"bug, up for grabs"
+5calls/android,224,Occasional OneSignal crash in v64,closed,2025-03-09T17:44:48Z,2025-03-30T16:02:25Z,bug
+5calls/android,213,Phone numbers not linked in Android 8.1 Nexus 5x,closed,2025-02-28T14:02:43Z,2025-03-01T13:48:32Z,bug
+5calls/android,211,"Crash on v63 after trying to turn on notifications (after clicking the toggle button), when notification permission is denied or not yet set",closed,2025-02-26T05:07:02Z,2025-02-26T13:52:06Z,bug
+5calls/android,208,Resolve errors caught by lint,closed,2025-02-23T13:26:05Z,2025-06-27T12:10:36Z,"bug, up for grabs"
+5calls/android,195,IssueActivity onBackPressed missing super call,closed,2025-02-21T19:30:56Z,2025-02-23T03:21:44Z,"bug, up for grabs"
+5calls/android,193,"After empty search, going back or clearing the search with the ""x"" shows only one issue",closed,2025-02-21T04:34:34Z,2025-02-23T03:18:00Z,bug
+5calls/android,173,Occasional crash when snoozing a notification,open,2025-02-14T21:53:07Z,,bug
+5calls/android,165,Investigate OneSignal,closed,2025-02-13T04:28:27Z,2025-10-25T03:07:50Z,bug
+5calls/android,153,"Similar to #152, need to update TutorialActivity now that notifications are not allowed by default",closed,2025-02-11T04:27:40Z,2025-02-15T16:20:23Z,"bug, up for grabs"
+5calls/android,148,"Crash in V58, CoordinatorLayout.onTouchEvent",closed,2025-02-09T16:28:45Z,2025-02-11T04:58:47Z,bug
+5calls/android,146,Follow-up to #131: Crash on Samsung phone running 5.0.1,closed,2025-02-09T04:55:45Z,2025-02-09T13:46:38Z,"bug, up for grabs"
+5calls/android,81,UnsupportedOperationException (@MainActivity$IssuesAdapter:addInactiveIssues:440) {main},closed,2017-04-07T12:40:52Z,2017-04-07T12:41:35Z,bug
+5calls/android,76,3x ArrayIndexOutOfBoundsException (@LocationActivity:onRequestPermissionsResult:174) {main}	,closed,2017-03-25T16:12:46Z,2017-03-26T21:42:02Z,bug
+5calls/android,74,NullPointerException (@RepCallActivity:onCreate:104) {main},closed,2017-03-20T17:35:38Z,2017-03-21T01:39:47Z,bug
+5calls/android,73,Occasional crash when returning from rep call page to issue details,closed,2017-03-20T17:34:09Z,2017-03-21T01:39:47Z,bug
+5calls/android,67,Notification stops working if device is rebooted,closed,2017-03-04T18:24:27Z,2017-03-04T19:29:11Z,bug
+5calls/android,53,DB crashes trying to insert TX-BetoO'Rourke,closed,2017-02-22T15:38:57Z,2017-02-23T04:31:38Z,bug
+5calls/android,33,"MainActivity gets call counts by issue and zip code, but that doesn't work if the user has used their GPS location",closed,2017-02-05T22:44:03Z,2017-02-05T22:57:26Z,bug
+5calls/android,25,Crash when returning to the LocationActivity from a permissions request,closed,2017-02-03T05:16:08Z,2017-02-04T16:19:06Z,bug
+EvilInsultGenerator/android-app,182,Can't scroll to up on Large system font size,closed,2024-09-04T07:45:43Z,2024-10-13T15:51:50Z,"bug, help wanted, hacktoberfest"
+EvilInsultGenerator/android-app,31,Cannot find a browser,closed,2021-02-18T20:01:27Z,2021-11-01T20:09:37Z,"bug, help wanted, good first issue, hacktoberfest"
+laundree/app,97,Timetable keeps loading if there are no machines on startup,closed,2017-07-06T18:50:45Z,2017-07-12T05:15:33Z,bug
+laundree/app,94,Login with username and password bug,closed,2017-06-26T19:26:43Z,2017-07-17T11:39:39Z,bug
+laundree/app,90,Cannot log in with google account,closed,2017-06-17T13:47:33Z,2017-06-17T15:20:59Z,bug
+laundree/app,86,Test for logging in with social media without user,closed,2017-06-06T16:35:32Z,2017-06-17T15:23:24Z,bug
+laundree/app,85,Test laundree app offline,closed,2017-06-05T15:21:32Z,2017-06-18T12:36:31Z,bug
+laundree/app,67,Fix socket reconnect,closed,2017-04-17T16:31:54Z,2017-04-23T11:04:36Z,bug
+laundree/app,51,Summer time in app,closed,2017-03-26T10:09:08Z,2017-03-26T18:09:07Z,bug
+laundree/app,46,Cannot sign in with facebook or google,closed,2017-03-14T16:44:42Z,2017-03-26T10:07:04Z,bug
+laundree/app,45,App crashes at sign-in,closed,2017-03-14T16:17:32Z,2017-03-26T16:05:16Z,bug
+laundree/app,44,Demo user on closed laundry,closed,2017-03-13T11:09:05Z,2017-03-13T11:09:27Z,bug
+laundree/app,35,Several settings pages open,closed,2017-03-12T14:16:44Z,2017-03-12T15:25:01Z,bug
+laundree/app,27,App is zoomed in when using on iPad,closed,2017-03-06T18:52:11Z,2017-04-22T11:23:34Z,bug
+laundree/app,26,Rows in TimeTable can be moved from side-to-side in iOS,closed,2017-03-06T18:51:04Z,2017-03-26T18:09:07Z,bug
+laundree/app,24,Display only in Portrait mode,closed,2017-03-06T18:48:06Z,2017-04-22T11:23:14Z,bug
+digisquare/mobile,124,Re-enable GreenKeeper,closed,2016-11-18T17:54:55Z,2016-11-27T17:45:16Z,"bug, iOS, Android"
+digisquare/mobile,111,LaunchScreen is visible in App,closed,2016-11-11T15:02:15Z,2016-11-13T13:40:11Z,"bug, iOS, Android"
+HackForEquality/android-app,47,Incorrect Notification Text,closed,2015-05-20T20:46:56Z,2015-05-20T23:16:33Z,bug
+HackForEquality/android-app,40,Unable to install application on O.G. Nexus 7 (from Play Store),closed,2015-05-09T22:40:57Z,2015-05-10T19:59:32Z,bug
+globaltimer/Android-App,76,比較画面：サマータイムを計算に入れる,open,2017-03-19T12:41:30Z,,bug
+globaltimer/Android-App,65,メイン画面：ゴミ箱マークがカードの縦幅と合ってない,open,2017-03-08T22:58:21Z,,bug
+globaltimer/Android-App,64,比較画面：Basisの切り替えでチラツク,open,2017-03-08T22:52:22Z,,bug
+globaltimer/Android-App,62,比較画面：時間すすんでもNowのまま,open,2017-03-08T01:35:16Z,,bug
+globaltimer/Android-App,61,比較画面：アイコンがズレてる,closed,2017-03-08T01:31:13Z,2017-03-11T03:04:19Z,bug
+globaltimer/Android-App,59,Basisが設定されていないときの表示を決める,open,2017-03-07T03:35:00Z,,bug
+globaltimer/Android-App,58,フリックして比較モードに入った時に、比較もとなどを更新する,closed,2017-03-07T03:32:02Z,2017-03-08T01:18:29Z,bug
+globaltimer/Android-App,57,新規ViewHolderに対してのEditモード適応ができていない,open,2017-03-07T03:28:31Z,,bug
+globaltimer/Android-App,55,EditモードではスワイプのDeleteを行わない,closed,2017-03-07T03:11:53Z,2017-03-07T03:22:05Z,bug
+globaltimer/Android-App,51,basisが切り替わらない,closed,2017-03-07T02:41:21Z,2017-03-07T03:06:58Z,bug
+globaltimer/Android-App,49,Localeを消すとたまにアプリがシャットダウンする,closed,2017-03-06T21:46:57Z,2017-03-07T02:44:19Z,bug
+globaltimer/Android-App,47,Editの状態で、タブを変更すると、Doneボタンが消える,closed,2017-03-06T21:40:38Z,2017-03-07T03:11:17Z,bug
+globaltimer/Android-App,46,"TimePickerで時間を変更すると,時間がずれる",closed,2017-03-06T21:39:52Z,2017-03-07T03:09:17Z,bug
+globaltimer/Android-App,34,メイン：削除できてない,closed,2017-03-01T10:47:24Z,2017-03-01T12:42:12Z,bug
+globaltimer/Android-App,33,メイン：フラグ切り替え時のちらつき,closed,2017-03-01T10:47:11Z,2017-03-01T12:42:12Z,bug
+RioBus/android-app,91,SearchActivity character encoding issue,closed,2016-03-27T21:40:46Z,2016-04-16T18:48:57Z,bug
+RioBus/android-app,90,Showing snackbar with bus sense when searching for multiple lines,closed,2016-03-27T21:25:24Z,2016-03-28T19:11:21Z,bug
+RioBus/android-app,78,"Fatal Exception raised when clicking in the ""Search button""",open,2016-03-26T03:18:16Z,,bug
+RioBus/android-app,72,App closes when the user cancels the search,closed,2016-03-24T03:42:05Z,2016-03-24T04:26:33Z,"bug, easy"
+RioBus/android-app,69,"Searching for text raises dark snackbar saying ""It was not possible to connect to server"" and 404 Toast",open,2016-03-23T04:44:23Z,,"bug, priority, hard"
+RioBus/android-app,65,Google Traffic layer overlays itinerary Polyline,open,2016-03-23T03:27:06Z,,"bug, wontfix"
+RioBus/android-app,60,SearchView: Search descriptions going below the favourite star,closed,2016-03-23T02:48:30Z,2016-03-27T21:15:57Z,"bug, priority"
+RioBus/android-app,59,"History view does not shows the ""expandable"" arrow in some devices",closed,2016-03-23T02:45:16Z,2016-03-27T15:39:54Z,"bug, priority"
+RioBus/android-app,58,SnackBar text exceeding space,closed,2016-03-23T02:36:04Z,2016-03-27T21:15:14Z,"bug, priority, easy"
+RioBus/android-app,57,Location does not work properly for Android 6.0+,open,2016-03-23T02:25:51Z,,"bug, priority, medium"
+RioBus/android-app,50,History view shows empty rows for each day,closed,2016-03-21T15:00:58Z,2016-03-23T03:03:02Z,bug
+RioBus/android-app,47,Force closes when open,closed,2016-03-21T03:26:08Z,2016-03-21T14:56:56Z,bug
+RioBus/android-app,40,Barra de Carregamento eterna ao abrir o aplicativo,closed,2016-03-19T01:36:30Z,2023-08-14T16:41:46Z,"bug, priority, medium"
+RioBus/android-app,39,Processos em background continuam quando a aplicação é fechada ou está pausada,open,2016-03-16T02:34:27Z,,bug
+RioBus/android-app,18,Reativar API de trânsito do Google Maps,closed,2015-07-28T02:45:45Z,2015-07-28T20:49:31Z,bug
+RioBus/android-app,15,Marcador de posição do usuário,closed,2015-05-14T03:05:14Z,2015-06-23T11:59:51Z,bug
+RioBus/android-app,11,Os horários da última atualição da maioria dos ônibus estão com problemas devido ao horário de verão,closed,2014-11-01T02:09:20Z,2014-11-27T19:22:56Z,bug
+RioBus/android-app,10,Cor do mark incorreta quando o horário está no futuro,closed,2014-10-14T13:22:00Z,2015-06-23T12:30:03Z,bug
+RioBus/android-app,3,Implementar a infowindow completa,closed,2014-10-09T17:34:28Z,2014-10-19T19:38:58Z,bug
+yomi-network/app,7,La búsqueda esta devolviendo resultados que son irrelevantes,open,2017-05-02T22:24:32Z,,bug
+yomi-network/app,6,Las recetas no se guardan en Favoritos.,open,2017-05-02T22:23:31Z,,bug
+easy-weather/android,1,icons are broken,open,2015-05-25T16:38:50Z,,bug

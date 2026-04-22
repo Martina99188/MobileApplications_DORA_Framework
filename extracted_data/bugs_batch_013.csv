@@ -1,0 +1,284 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+LitePalFramework/LitePal,336,递归类创建数据库报错,closed,2017-12-27T02:32:06Z,2018-06-11T05:21:08Z,bug
+LitePalFramework/LitePal,322,"一对多或者多对多的情况下,存入的数据并不是有序的,而是随机存储的?",closed,2017-12-03T06:22:07Z,2018-06-11T05:20:37Z,bug
+LitePalFramework/LitePal,314,AS升级到3.0之后报错,closed,2017-11-10T06:51:33Z,2017-12-12T13:18:19Z,bug
+LitePalFramework/LitePal,313,升级studio到3.0后报错,closed,2017-11-09T11:49:39Z,2017-12-12T13:18:04Z,bug
+LitePalFramework/LitePal,300,Can not able to pull data from database,closed,2017-10-12T16:50:17Z,2017-12-12T13:17:51Z,bug
+LitePalFramework/LitePal,296,查询数据崩溃的问题,closed,2017-10-08T03:40:57Z,2017-12-12T13:17:00Z,bug
+LitePalFramework/LitePal,281,希望增加安全删除表内数据的功能,closed,2017-09-08T11:14:05Z,2017-12-12T13:16:34Z,bug
+LitePalFramework/LitePal,236,使用exists关键字遇到点问题,closed,2017-07-05T02:53:55Z,2017-12-12T13:16:18Z,bug
+lordi/tickmate,114,Switching from Single tick -> Multiple ticks erases history,closed,2017-08-30T13:28:38Z,2020-12-30T13:06:32Z,bug
+lordi/tickmate,88,Bugs with streaks,open,2016-11-14T10:42:53Z,,bug
+TylerCarberry/2048-Battles,169,Google Play Services 8.1 breaks the code,open,2016-05-29T14:27:32Z,,"bug, TODO: ASAP"
+TylerCarberry/2048-Battles,166,Multiplayer: Dismissing the powerup dialog uses the powerup,open,2015-03-09T02:17:59Z,,"bug, multiplayer"
+TylerCarberry/2048-Battles,163,Crash when using undo when not signed in to Google Play Games,closed,2015-03-09T00:46:42Z,2015-03-11T22:08:29Z,"bug, TODO: ASAP"
+TylerCarberry/2048-Battles,161,Lollipop battery saver move disables tile slide animations,open,2015-03-07T00:18:31Z,,bug
+TylerCarberry/2048-Battles,158,Crash when restarting a game that is lost,closed,2015-02-23T02:54:35Z,2015-02-24T03:11:08Z,"bug, TODO: ASAP"
+TylerCarberry/2048-Battles,155,Test ads appear on all phones,closed,2015-02-07T22:13:58Z,2015-02-08T14:37:00Z,bug
+TylerCarberry/2048-Battles,152,If opponent loads multiplayer game way before other player the game fails to start,closed,2015-02-05T02:11:19Z,2015-02-05T21:31:09Z,bug
+TylerCarberry/2048-Battles,139,Restarting game gives unlimited undos/powerups,closed,2015-01-27T19:53:26Z,2015-01-27T20:56:19Z,bug
+TylerCarberry/2048-Battles,134,The high score is shown for custom games,closed,2015-01-25T16:53:26Z,2015-01-27T20:28:01Z,bug
+TylerCarberry/2048-Battles,130,Arcade mode has a time limit,closed,2015-01-21T02:29:14Z,2015-01-22T23:49:32Z,bug
+TylerCarberry/2048-Battles,129,Time limit resets when continuing game,closed,2015-01-21T02:27:13Z,2015-01-22T23:49:32Z,bug
+TylerCarberry/2048-Battles,126,Powerup remove a tile causes game to crash,closed,2015-01-19T03:52:13Z,2015-01-19T21:34:46Z,bug
+TylerCarberry/2048-Battles,121,Ghost mode turns the background tiles into ?,closed,2015-01-19T03:12:20Z,2015-01-19T19:14:07Z,bug
+TylerCarberry/2048-Battles,118,Animations on MainActivity break after ad is loaded,closed,2015-01-11T16:27:24Z,2015-01-18T19:21:14Z,bug
+TylerCarberry/2048-Battles,116,Rotating MainActivity causes the game to crash,closed,2015-01-04T00:52:08Z,2015-01-04T01:16:48Z,bug
+TylerCarberry/2048-Battles,111,Fix analytics,closed,2014-12-30T14:46:29Z,2014-12-31T04:32:55Z,bug
+TylerCarberry/2048-Battles,108,Restarting speed mode mid game causes tiles to appear 2x speed,closed,2014-12-28T21:30:42Z,2014-12-30T18:38:17Z,bug
+TylerCarberry/2048-Battles,98,Sign in button does not change to sign out on MainActivity,closed,2014-12-11T17:13:26Z,2014-12-13T16:25:42Z,bug
+TylerCarberry/2048-Battles,96,Moves that cause no tiles to move still get added to the history stack,closed,2014-12-08T22:45:17Z,2015-01-02T21:23:58Z,bug
+TylerCarberry/2048-Battles,92,Event combine tiles increments incorrectly,closed,2014-12-01T00:44:14Z,2014-12-01T01:22:10Z,bug
+TylerCarberry/2048-Battles,90,Music stops when opening the help dialog,open,2014-11-30T23:30:11Z,,bug
+TylerCarberry/2048-Battles,88,Remove a tile freezes the game,closed,2014-11-18T16:10:00Z,2014-11-30T18:09:05Z,bug
+TylerCarberry/2048-Battles,86,One player crashes when starting multiplayer game,closed,2014-11-16T22:36:31Z,2014-11-16T22:47:59Z,bug
+TylerCarberry/2048-Battles,82,Add back getApiClient,closed,2014-11-09T21:00:06Z,2014-11-09T21:32:27Z,bug
+TylerCarberry/2048-Battles,79,Continue Game screenshot does not update ,closed,2014-11-04T23:43:25Z,2014-11-09T21:37:52Z,bug
+TylerCarberry/2048-Battles,78,Ghost attack clears when exiting game or rotating screen,closed,2014-11-04T20:39:46Z,2015-01-22T23:40:04Z,bug
+TylerCarberry/2048-Battles,74,Incorrectly losing with ice attack,open,2014-10-08T11:02:20Z,,bug
+TylerCarberry/2048-Battles,73,Lag when game lost,open,2014-10-04T22:15:17Z,,bug
+TylerCarberry/2048-Battles,72,Ice attack shows incorrect duration,closed,2014-10-04T22:09:09Z,2014-10-04T23:12:23Z,bug
+TylerCarberry/2048-Battles,61,Invisible tile combine bug,closed,2014-08-31T01:40:57Z,2014-08-31T02:16:02Z,bug
+TylerCarberry/2048-Battles,56,Clicking on achievements or quests when not logged in causes crash,closed,2014-08-26T15:24:35Z,2014-08-30T16:59:22Z,bug
+TylerCarberry/2048-Battles,55,Losing the game when not signed in causes crash,closed,2014-08-25T12:54:15Z,2014-08-25T22:42:15Z,bug
+TylerCarberry/2048-Battles,54,Game Activity crashes in landscape mode ,closed,2014-08-25T12:53:26Z,2014-08-25T22:42:15Z,bug
+TylerCarberry/2048-Battles,49,"In practice mode, cancel remove tile → no powerups remaining",closed,2014-08-22T16:28:05Z,2014-08-24T22:26:19Z,bug
+TylerCarberry/2048-Battles,45,Game stuck if ice attack active,closed,2014-08-20T14:20:21Z,2014-08-20T20:04:52Z,bug
+TylerCarberry/2048-Battles,44,Arcade Mode: Undo button staying disabled,closed,2014-08-20T14:16:42Z,2014-08-20T20:04:52Z,bug
+TylerCarberry/2048-Battles,42,Tiles moving too far in crazy mode ,closed,2014-08-19T15:54:11Z,2014-08-19T16:24:03Z,bug
+TylerCarberry/2048-Battles,40,Landscape mode in MainActivity crashes,closed,2014-08-17T03:43:31Z,2014-09-30T18:48:06Z,bug
+TylerCarberry/2048-Battles,30,Settings menu button does nothing in GameStatsActivity,closed,2014-08-13T16:35:10Z,2014-08-14T00:37:37Z,bug
+TylerCarberry/2048-Battles,28,Duplicating tiles,closed,2014-08-13T16:31:57Z,2014-08-13T17:43:28Z,bug
+TylerCarberry/2048-Battles,25,Remove low tiles in corner mode can result in no tiles,closed,2014-08-12T22:53:27Z,2014-08-13T15:42:20Z,bug
+TylerCarberry/2048-Battles,23,Game not detecting loss in corner mode,closed,2014-08-12T14:53:22Z,2014-08-13T15:42:20Z,bug
+TylerCarberry/2048-Battles,19,Restart button always creates a new practice game,closed,2014-08-11T14:44:25Z,2014-08-11T16:51:03Z,bug
+TylerCarberry/2048-Battles,15,Game not detecting lose,closed,2014-08-11T02:49:49Z,2014-08-11T16:34:02Z,bug
+TylerCarberry/2048-Battles,13,"Rotate device during animation, app crashes",closed,2014-08-10T03:48:14Z,2014-08-15T02:21:53Z,bug
+TylerCarberry/2048-Battles,11,Cannot swipe on tiles,closed,2014-08-09T14:19:13Z,2014-08-13T20:43:42Z,bug
+TylerCarberry/2048-Battles,6,Rotating the screen resets the game,closed,2014-08-06T19:30:45Z,2014-08-10T03:24:21Z,bug
+TylerCarberry/2048-Battles,2,Tiles combine differently than the original,closed,2014-08-06T01:47:32Z,2014-08-10T19:40:34Z,bug
+Calsign/APDE,112,App crashing and won't open ever again,open,2021-07-24T14:54:53Z,,bug
+Calsign/APDE,107,"Android 11, preview and app build fails",open,2021-02-28T13:35:56Z,,bug
+Calsign/APDE,95,0.5.2 pre1: Compile JAVA??,open,2020-06-02T16:03:26Z,,bug
+Calsign/APDE,63,Inaccurate syntax highlighting after unicode characters,open,2019-01-28T15:58:11Z,,bug
+Calsign/APDE,62,Print doesn't work when changing orientation,open,2019-01-20T12:38:21Z,,bug
+Calsign/APDE,58,Crash and file deletion issue after renaming tab,open,2018-11-10T17:04:41Z,,bug
+Calsign/APDE,49,APDE preview,closed,2018-07-16T11:50:39Z,2018-08-14T21:41:45Z,bug
+Calsign/APDE,48,Automatic scrolling after selection.,open,2018-07-09T13:23:57Z,,bug
+Calsign/APDE,46,The overflow menu with selected text does not work.,open,2018-06-10T13:05:14Z,,bug
+Calsign/APDE,45,Manifest settings get reset in 0.5.0,closed,2018-06-08T09:00:40Z,2018-06-25T10:10:29Z,bug
+Calsign/APDE,43,Version 0.5.0-pre2 does not work on KitKat,closed,2018-05-30T11:37:58Z,2018-06-10T20:30:28Z,bug
+Calsign/APDE,42,Version 0.4.1+pre1  does not install examples.,closed,2018-05-21T18:46:41Z,2018-05-25T17:54:02Z,bug
+Calsign/APDE,41,"The gray ""task/notification/separator"" bar. does not return to the right position.",open,2018-05-19T18:06:21Z,,bug
+Calsign/APDE,40,Sketch sometimes clears after turning the screen off and on,closed,2018-05-16T16:20:37Z,2018-05-16T19:08:47Z,"bug, duplicate"
+Calsign/APDE,34,Problem using save() with createGraphics,closed,2018-02-21T11:36:39Z,2018-07-06T06:33:29Z,bug-in-android-mode
+Calsign/APDE,32,Apk made but not working!,closed,2017-10-10T14:15:28Z,2022-04-17T15:00:31Z,bug
+Calsign/APDE,29,Size fails at runtime for non-native orientations ,closed,2017-02-07T10:31:01Z,2018-07-06T06:34:37Z,bug
+Calsign/APDE,28,Editor clears on simultaneous Power button and rotation activation.,closed,2017-01-28T18:38:53Z,2017-02-17T22:57:48Z,"bug, duplicate"
+Calsign/APDE,27,onBackPressed,closed,2017-01-25T15:08:21Z,2018-07-06T06:40:26Z,bug-in-android-mode
+Calsign/APDE,26,Build fails when requesting READ_EXTERNAL_STORAGE permission,closed,2017-01-18T01:36:46Z,2018-06-16T02:57:42Z,bug
+Calsign/APDE,25,"strange sketch crash involving size(), draw() and/or fullScreen()",closed,2017-01-17T13:35:31Z,2017-02-28T21:30:24Z,bug-in-android-mode
+Calsign/APDE,24,Code on external storage deleted in certain situations,closed,2017-01-16T09:17:25Z,2021-06-10T16:23:41Z,"bug, critical"
+Calsign/APDE,23,Dx Merger failed ,open,2017-01-08T19:40:23Z,,bug
+Calsign/APDE,22,Ketai imports fail,open,2016-11-20T18:06:48Z,,bug
+Calsign/APDE,21,Color problem,open,2016-07-29T09:50:08Z,,bug-in-android-mode
+Calsign/APDE,12,manage llibraries menu option force closes app,closed,2015-04-01T14:47:45Z,2015-04-02T13:30:22Z,bug
+Calsign/APDE,11,build fails with dx merger error,open,2015-02-19T06:57:42Z,,bug
+Calsign/APDE,10,"AAPT exited with error code 1 (a.k.a. ""Build failed, help me!"")",open,2015-01-29T14:50:53Z,,bug
+Calsign/APDE,8,Conway example is broken,closed,2014-12-13T20:35:08Z,2015-03-29T16:22:40Z,bug
+Calsign/APDE,4,ANR when add new tab,closed,2014-08-26T07:24:33Z,2018-07-06T06:36:17Z,bug
+Calsign/APDE,3,Names with spaces,closed,2014-05-31T12:14:59Z,2014-05-31T17:48:29Z,bug
+Calsign/APDE,1,OpenGL Support,closed,2014-01-18T20:50:31Z,2014-02-12T02:31:35Z,bug
+kwmt/GitHubSearch,112,[Crash] Caused by java.lang.NullPointerException: Attempt to invoke virtual method 'java.util.List net.kwmt27.codesearch.entity.SearchRepositoryResultEntity.getGithubRepoEntityList()' on a null object reference,open,2017-07-09T04:43:58Z,,bug
+kwmt/GitHubSearch,94,SearchRepositoryResultEntity.getGithubRepoEntityList()' on a null ,closed,2017-03-03T14:16:52Z,2017-03-04T02:08:24Z,bug
+kwmt/GitHubSearch,93,rx.Subscription.unsubscribe()' on a null object reference,closed,2017-03-03T14:15:04Z,2017-03-04T01:46:32Z,bug
+kwmt/GitHubSearch,92,java.lang.NullPointerException: Attempt to invoke interface method 'android.view.MenuItem android.view.MenuItem.setVisible(boolean)' on a null object reference,closed,2017-03-03T13:59:54Z,2017-03-04T01:43:26Z,bug
+kwmt/GitHubSearch,85,Crash : Given String is empty or null in LoginActivity,closed,2017-02-20T05:40:49Z,2017-02-22T14:01:11Z,bug
+kwmt/GitHubSearch,69,disappear list data on scrolling,closed,2016-10-08T05:06:00Z,2017-02-16T04:09:21Z,bug
+vycius/NMAkademija,95,Don't show edit profile button for users who aren't academics,closed,2017-08-13T12:32:09Z,2017-08-13T18:17:10Z,"bug, until NMA"
+vycius/NMAkademija,68,Notification icon as monochrome square,open,2017-01-05T13:05:41Z,,bug
+vycius/NMAkademija,63,Section change doesn't register until restart,closed,2017-01-02T17:56:35Z,2017-01-03T08:39:44Z,bug
+vycius/NMAkademija,60,Loading states,closed,2017-01-01T18:01:13Z,2017-01-05T13:06:00Z,bug
+vycius/NMAkademija,50,Blank screens without internet,closed,2017-01-01T09:46:05Z,2017-01-01T13:23:48Z,bug
+vycius/NMAkademija,49,Save users state,closed,2017-01-01T09:42:42Z,2017-01-04T12:53:56Z,bug
+vycius/NMAkademija,33,Can't see description if title of news doesn't fit in two lines,closed,2016-09-04T18:29:40Z,2016-09-17T12:16:45Z,bug
+javaBin/appZone,62,Physical back button does not work,open,2017-08-29T17:56:54Z,,"bug, need to have, android"
+javaBin/appZone,46,Header bar on iso overlap with the app view,open,2017-08-16T21:41:02Z,,bug
+ekylibre/zero-android,64,SSL HandShake failed,closed,2018-02-19T13:02:35Z,2018-02-20T10:50:02Z,bug
+ekylibre/zero-android,45,No data when the GPS is not able to have a good accuracy,closed,2017-08-18T06:04:27Z,2018-02-12T12:43:40Z,bug
+ekylibre/zero-android,44,A deleted provisionnal intervention on Ekylibre remain on Zero after synchronisation.,closed,2017-08-15T14:59:07Z,2018-01-24T12:29:47Z,bug
+ekylibre/zero-android,42,Intervention participation time form Zero is wrong in Ekylibre,closed,2017-07-19T10:00:16Z,2018-02-05T14:41:23Z,bug
+ekylibre/zero-android,41, Crops killed in Ekylibre are sent in Zero plant countings,closed,2017-07-19T09:54:11Z,2018-01-26T15:29:10Z,"bug, not reproducible"
+ekylibre/zero-android,39,Issues pictures take with zero don't go back in Ekylibre,closed,2017-07-17T16:04:06Z,2018-01-30T22:15:35Z,bug
+ekylibre/zero-android,38,The list of procedures in zero isn't synchronized with Ekylibre,closed,2017-07-17T15:27:59Z,2018-02-12T12:42:47Z,bug
+ekylibre/zero-android,36,Contact are not syncronising on the phone,closed,2017-06-21T12:40:30Z,2018-01-29T16:55:01Z,bug
+ekylibre/zero-android,35,No way to connect on Hostname in certificate didn't match,closed,2017-06-03T10:26:08Z,2018-01-26T15:34:31Z,bug
+ekylibre/zero-android,33,"When i've terminated an intervention, the state are in progress in Ekylibre (Maybe on API side)",closed,2016-10-24T10:52:12Z,2016-10-24T15:10:39Z,bug
+ekylibre/zero-android,32,No way to delete or update an account,closed,2016-10-24T10:18:57Z,2016-10-24T14:46:07Z,bug
+ekylibre/zero-android,24,GPS doesn't work on Samsung Galaxy Xcover 3 under Android 4.4,closed,2016-08-16T07:11:57Z,2016-08-22T11:33:27Z,bug
+ekylibre/zero-android,23,Plant counting tool filters on plant variety exactly to find abaci and so it's difficult to find a match,closed,2016-08-12T07:48:47Z,2016-08-17T12:28:13Z,bug
+ekylibre/zero-android,8,Encoding error make fail data transmission to Ekylibre,closed,2016-04-26T11:15:11Z,2016-08-11T13:19:23Z,bug
+ekylibre/zero-android,1,Procedure natures are too old,closed,2015-03-25T13:15:33Z,2015-03-25T14:40:18Z,bug
+st1hy/Red-Calorie,32,Editing newly created copy of existing meal causes app crash,closed,2017-10-01T08:30:16Z,2017-10-01T08:31:33Z,bug
+st1hy/Red-Calorie,31,Deleted images on sdcard display placeholder in wrong scale type,closed,2017-09-21T17:51:36Z,2017-10-01T08:16:59Z,bug
+st1hy/Red-Calorie,22,Scrolling in settings does not always work correcty,open,2017-03-12T20:56:43Z,,bug
+st1hy/Red-Calorie,19,Editing ingredient in meal sometimes creates new ingredient,closed,2017-01-23T20:43:01Z,2017-01-24T22:06:42Z,bug
+st1hy/Red-Calorie,13,1.3 broke recycling views,closed,2017-01-14T17:06:47Z,2017-01-24T22:06:29Z,bug
+st1hy/Red-Calorie,12,Removing ingredient from meal should modify total calories counter.,closed,2016-08-05T11:03:36Z,2016-08-10T11:10:59Z,bug
+st1hy/Red-Calorie,11,"When clicking on items that launch new activity quickly, 2 detail activities may be created.",closed,2016-08-03T22:09:09Z,2016-08-10T11:10:59Z,bug
+st1hy/Red-Calorie,8,Permission check needs to be present before loading images.,closed,2016-07-20T21:41:37Z,2016-08-02T16:50:48Z,bug
+st1hy/Red-Calorie,7,Wrong orientation of images with EXIF data.,closed,2016-07-20T21:37:41Z,2016-07-22T09:01:12Z,bug
+st1hy/Red-Calorie,6,Selecting picture from camera source doesn't work on Nexus 5X,closed,2016-07-19T12:58:11Z,2016-07-20T21:28:54Z,bug
+st1hy/Red-Calorie,5,Impossible to save eddited/new ingredient after error.,closed,2016-07-17T08:14:08Z,2016-07-17T11:28:37Z,bug
+st1hy/Red-Calorie,2,Fix shared view between activities,closed,2016-07-16T14:04:48Z,2016-07-17T08:11:37Z,bug
+ligi/SurvivalManual,100,FileNotFoundException when loading image,closed,2020-04-11T19:23:05Z,2020-04-11T20:57:24Z,bug
+ligi/SurvivalManual,61,Issue in search,closed,2017-08-11T18:11:18Z,2020-04-11T18:21:07Z,bug
+ligi/SurvivalManual,43,Print problem on S5,closed,2017-03-15T10:35:28Z,2017-03-18T21:43:11Z,bug
+ligi/SurvivalManual,41,Check&Fix links,closed,2017-03-12T19:58:53Z,2017-03-21T22:12:37Z,bug
+ligi/SurvivalManual,28,Incorrectly nested parentheses in regexp,closed,2017-01-30T14:42:29Z,2017-02-09T20:15:54Z,bug
+ligi/SurvivalManual,26,Crash when following a link; unable to restart till app data cleared,closed,2017-01-18T10:37:42Z,2017-01-25T00:39:37Z,bug
+ligi/SurvivalManual,22,java.lang.IndexOutOfBoundsException: setSpan (-1 ... -1) starts before 0,closed,2016-11-21T09:32:46Z,2017-02-09T20:15:55Z,bug
+ligi/SurvivalManual,6,tables and warning are wider than the screen,closed,2016-09-24T23:12:49Z,2016-09-26T13:52:20Z,bug
+ligi/SurvivalManual,3,Hostiles areas produce crashes in the app,closed,2016-09-20T22:19:45Z,2016-09-25T16:00:04Z,bug
+kirimin/mitsumine,57,コメント一覧画面からブラウザなどへの遷移時にクラッシュする,closed,2017-06-25T12:35:17Z,2017-06-25T12:38:02Z,bug
+kirimin/mitsumine,54,コメント一覧画面読み込み失敗する事がある,closed,2017-06-25T12:14:05Z,2017-06-25T12:34:48Z,bug
+kirimin/mitsumine,51,ブクマ詳細の文言が消えてる,closed,2017-06-17T22:11:51Z,2017-06-17T22:49:10Z,bug
+kirimin/mitsumine,49,古いAndroidバージョンでレイアウトが崩れる,closed,2017-05-17T21:49:03Z,2017-05-17T22:36:56Z,bug
+kirimin/mitsumine,44,検索画面表示時に通信が実行される挙動を修正する,open,2017-05-07T04:29:54Z,,bug
+kirimin/mitsumine,22,濁点付きの文章のレイアウト崩れを修正する,closed,2017-04-09T23:27:14Z,2017-05-07T00:48:03Z,bug
+kirimin/mitsumine,18,ブコメの付いていないエントリを開いてもエラーが出ないようにする,open,2017-04-09T23:24:49Z,,bug
+kirimin/mitsumine,9,ブコメ一覧画面でActivityが破棄されて復帰するとクラッシュする,closed,2015-06-04T02:56:27Z,2015-06-16T13:07:28Z,bug
+kirimin/mitsumine,6,エスケープに失敗してるURLがある,closed,2015-05-29T00:36:10Z,2016-04-29T16:52:46Z,bug
+kirimin/mitsumine,5,ユーザーアイコンの取得元が違ってる気がする,closed,2015-05-29T00:35:24Z,2015-05-31T05:31:40Z,bug
+indianpoptart/RadioControl,78,Issue on fresh launch,open,2024-01-19T16:56:29Z,,"bug, High Priority"
+indianpoptart/RadioControl,77,Calling Check Handling,open,2022-07-05T03:59:24Z,,"bug, feature, work in progress, non-root"
+indianpoptart/RadioControl,76,ConnectivityManager$TooManyRequestsException,open,2022-07-03T17:43:04Z,,"bug, work in progress, alpha"
+indianpoptart/RadioControl,73,Change Simple Custom Chrome Tabs dependency,closed,2021-08-07T03:46:07Z,2021-08-14T16:09:54Z,"bug, enhancement, feature"
+indianpoptart/RadioControl,67,A setting to reset the cell radio to default settings,open,2018-11-14T02:20:29Z,,"bug, feature, work in progress"
+indianpoptart/RadioControl,65,"After marking the battery Optimization box ,i was unable to unmark",open,2018-05-29T00:20:24Z,,"bug, work in progress, High Priority"
+indianpoptart/RadioControl,64,IllegalStateException - Choreographer$1.initialValue,open,2018-01-30T19:43:39Z,,"bug, lollipop"
+indianpoptart/RadioControl,63,VT PUP alerts,closed,2018-01-29T19:44:54Z,2018-02-01T17:32:09Z,"bug, help wanted, High Priority"
+indianpoptart/RadioControl,62,NullPointer in getCellStatus,closed,2018-01-26T20:01:34Z,2018-01-30T19:49:55Z,"bug, High Priority"
+indianpoptart/RadioControl,61,Ad loading bug,open,2018-01-22T21:16:52Z,,"bug, work in progress, High Priority, advertising"
+indianpoptart/RadioControl,59,Magisk Manager Bug,closed,2017-08-30T19:18:36Z,2020-05-25T03:46:51Z,"bug, root, High Priority"
+indianpoptart/RadioControl,53,Google Pixel/ Pixel XL,closed,2017-05-16T18:46:44Z,2018-01-21T00:33:22Z,bug
+indianpoptart/RadioControl,52,Sleep bug,closed,2017-04-27T16:13:14Z,2017-07-10T21:16:32Z,"bug, enhancement"
+indianpoptart/RadioControl,50,Do not disturb,closed,2017-03-16T19:13:43Z,2017-04-23T17:51:21Z,bug
+indianpoptart/RadioControl,49,Enable App button,closed,2017-03-14T01:58:26Z,2017-04-23T17:49:15Z,"bug, enhancement, High Priority"
+indianpoptart/RadioControl,47,ScheduledAirplaneService,closed,2017-03-09T06:26:15Z,2017-07-05T18:37:02Z,"bug, High Priority"
+indianpoptart/RadioControl,45,WiFi Call Receiving,closed,2017-03-04T23:20:51Z,2017-03-05T00:26:43Z,"bug, High Priority, calling"
+indianpoptart/RadioControl,43,Calling and alternate radio command,closed,2017-02-03T00:26:42Z,2017-03-05T00:43:02Z,"bug, High Priority, calling"
+indianpoptart/RadioControl,30,Switching operation not surviving reboot,closed,2016-07-19T02:00:27Z,2017-04-23T17:50:50Z,"bug, High Priority"
+indianpoptart/RadioControl,28,Uninstall issue - now airplane mode only controls cell radio,closed,2016-05-20T15:53:55Z,2016-05-24T14:15:30Z,bug
+indianpoptart/RadioControl,27,StringIndexOutOfBoundsException,closed,2016-05-15T08:41:44Z,2016-05-17T07:54:11Z,"bug, release candidate"
+indianpoptart/RadioControl,26,Bluetooth Problem,closed,2016-05-15T04:35:54Z,2017-01-24T03:51:53Z,"bug, work in progress, High Priority"
+indianpoptart/RadioControl,25,Snackbar Check internet,closed,2016-05-04T21:27:37Z,2016-05-17T07:54:46Z,"bug, fixed in next release"
+indianpoptart/RadioControl,23,Latency Test error,closed,2016-04-28T02:09:43Z,2016-05-17T07:54:51Z,"bug, fixed in next release"
+indianpoptart/RadioControl,22,Carrier Logo loader,closed,2016-04-26T14:05:22Z,2016-05-17T07:54:56Z,"bug, fixed in next release"
+indianpoptart/RadioControl,19,Alpha Crash,closed,2016-04-04T15:15:12Z,2016-05-15T08:25:55Z,"bug, impossible"
+indianpoptart/RadioControl,18,IAP Problem,closed,2016-03-10T04:14:39Z,2016-03-11T23:27:24Z,bug
+indianpoptart/RadioControl,16,IAB Crash,closed,2016-02-25T13:13:32Z,2016-03-01T02:47:03Z,bug
+indianpoptart/RadioControl,14,Forgot about isEasterEgg,closed,2016-02-21T09:27:38Z,2016-03-01T02:47:09Z,bug
+indianpoptart/RadioControl,12,WiFi network settings bug,closed,2016-02-19T22:48:25Z,2016-03-13T07:23:24Z,bug
+indianpoptart/RadioControl,11,Network Alert misfires,closed,2016-02-17T23:34:36Z,2016-03-13T07:23:31Z,bug
+indianpoptart/RadioControl,7,Current alpha - alpha4 - Wifi Settings preference,closed,2016-02-02T01:44:48Z,2016-02-08T03:48:08Z,bug
+indianpoptart/RadioControl,1,Timer switch,closed,2015-11-21T06:08:44Z,2016-02-08T03:48:22Z,bug
+kiwiandroiddev/starcraft-2-build-player,1,SQLiteDatabaseLockedException: database is locked while compiling: PRAGMA journal_mode,open,2017-06-13T06:33:36Z,,bug
+glodanif/BluetoothChat,10,Events handling,closed,2017-07-06T14:24:34Z,2017-07-12T11:51:20Z,bug
+Alabaster-Aardvarks/traveller,122,Pin Images smaller on 7 plus,closed,2016-12-02T17:44:48Z,2016-12-02T18:54:52Z,bug
+Alabaster-Aardvarks/traveller,121,Pin pointer,closed,2016-12-02T17:43:58Z,2016-12-02T19:46:49Z,bug
+Alabaster-Aardvarks/traveller,115,Tutorial jumps back to page 1 when workers finish,open,2016-12-02T04:03:55Z,,"bug, ready"
+Alabaster-Aardvarks/traveller,95,Search results based on GPS instead of Isochron starting point,closed,2016-11-28T20:13:31Z,2016-12-02T17:43:11Z,bug
+ObjectiveTruth/UoitDCLibraryBooking,48,Binder.java,open,2017-04-03T17:48:37Z,,bug
+ObjectiveTruth/UoitDCLibraryBooking,46,BookingsAdapter.java line 19,open,2016-11-28T14:17:54Z,,bug
+ObjectiveTruth/UoitDCLibraryBooking,45,Booked room blocks show blank in calendar,closed,2016-11-28T03:25:14Z,2016-11-28T18:30:19Z,bug
+ObjectiveTruth/UoitDCLibraryBooking,42,BookingsAdapter.java line 18,closed,2016-09-06T21:52:16Z,2016-11-28T03:04:47Z,bug
+ObjectiveTruth/UoitDCLibraryBooking,39,Creating a booking requires double tapping Create in book screen,closed,2016-09-02T18:41:04Z,2016-11-28T18:30:19Z,bug
+ObjectiveTruth/UoitDCLibraryBooking,33,New Beta1 Android Plugin Breaks Travis deploy build,closed,2016-08-14T14:52:22Z,2016-09-02T16:11:25Z,bug
+bitcraze/crazyflie-android-client,85,Fix issue with Android Pie (9) where screen rotates back and forth when going through settings,closed,2019-01-19T01:40:12Z,2019-02-15T02:07:43Z,"bug, UI, Android P"
+bitcraze/crazyflie-android-client,78,NPE in BleLink$SendBlePacket.run,closed,2018-12-07T01:41:06Z,2018-12-07T01:48:14Z,"bug, BLE, GooglePlayConsole"
+bitcraze/crazyflie-android-client,76,NPE in MainActivity.updateRollTrim,closed,2018-12-02T14:41:15Z,2018-12-02T14:52:47Z,"bug, invalid, GooglePlayConsole"
+bitcraze/crazyflie-android-client,75,LogConfig should not allow to add the same log variable twice,closed,2018-11-23T01:05:53Z,2018-12-04T02:15:59Z,bug
+bitcraze/crazyflie-android-client,74,NullPointerException in se.bitcraze.crazyflie.lib.BleLink$SendBlePacket.run,closed,2018-11-20T23:29:13Z,2018-11-21T00:35:21Z,"bug, BLE, GooglePlayConsole"
+bitcraze/crazyflie-android-client,73,NumberFormatException in se.bitcraze.crazyfliecontrol2.FlightDataView.round,closed,2018-11-20T23:25:22Z,2018-12-02T16:49:18Z,"bug, GooglePlayConsole"
+bitcraze/crazyflie-android-client,72,NullPointerException in se.bitcraze.crazyfliecontrol.controller.GamepadController.dealWithMotionEvent,closed,2018-11-20T23:21:45Z,2018-11-21T00:13:15Z,"bug, GooglePlayConsole"
+bitcraze/crazyflie-android-client,71,IllegalStateException in se.bitcraze.crazyflie.lib.BleLink.stopScan,closed,2018-11-20T23:18:23Z,2018-12-06T01:55:52Z,"bug, BLE, GooglePlayConsole"
+bitcraze/crazyflie-android-client,70,IllegalStateException in se.bitcraze.crazyflie.lib.log.Logg.checkTotalSizeOfVariables,closed,2018-11-20T23:13:55Z,2018-12-02T16:50:03Z,"bug, GooglePlayConsole"
+bitcraze/crazyflie-android-client,63,Touch control behaves strange when yaw is negative,closed,2017-01-05T10:31:17Z,2017-01-24T09:33:37Z,bug
+bitcraze/crazyflie-android-client,57,NPE in IncomingPacketHandler,closed,2016-03-01T23:24:16Z,2016-03-16T00:56:58Z,"bug, GPDC"
+bitcraze/crazyflie-android-client,56,NPE in FirmwareDownloader,closed,2016-03-01T23:15:10Z,2016-03-16T00:56:58Z,"bug, GPDC"
+bitcraze/crazyflie-android-client,54,Trim cancelled by deadzone,closed,2015-04-21T01:51:02Z,2015-04-22T23:47:14Z,bug
+bitcraze/crazyflie-android-client,48,Joystick widget full size on a 10'' tablet,closed,2015-02-01T12:41:27Z,2015-02-03T16:12:27Z,bug
+bitcraze/crazyflie-android-client,46,Radio scan w/o Crazyradio crashs the app,closed,2015-01-19T06:34:46Z,2015-01-25T00:46:48Z,bug
+bitcraze/crazyflie-android-client,44,Joystick widgets are growing bigger,closed,2014-12-15T17:43:38Z,2015-02-03T16:13:36Z,bug
+bitcraze/crazyflie-android-client,43,BLE connection on Motorola Moto G has serious delay/lag,closed,2014-12-14T17:09:38Z,2015-01-25T00:48:26Z,"bug, Crazyflie2.0, BLE"
+bitcraze/crazyflie-android-client,35,Trigger axis thrust,closed,2014-02-28T12:35:59Z,2015-06-13T20:11:42Z,bug
+bitcraze/crazyflie-android-client,34,Gamepad axis and button mapping is not working,closed,2014-02-28T12:35:57Z,2014-02-28T12:35:57Z,bug
+bitcraze/crazyflie-android-client,29,Radio scan does not work reliably and blocks the UI thread,open,2014-02-28T12:35:51Z,,bug
+bitcraze/crazyflie-android-client,28,NullPointerException when initiating a radio scan while no Crazyradio is attached,closed,2014-02-28T12:35:50Z,2014-02-28T12:35:50Z,bug
+bitcraze/crazyflie-android-client,26,Removing R.java from version control,closed,2014-02-28T12:35:48Z,2014-02-28T12:35:48Z,"bug, prio:low"
+bitcraze/crazyflie-android-client,25,Normal mode default values,closed,2014-02-28T12:35:46Z,2014-02-28T12:35:46Z,bug
+bitcraze/crazyflie-android-client,23,Thrust looping back to 0 in crazy mode,closed,2014-02-28T12:35:44Z,2014-02-28T12:35:44Z,bug
+bitcraze/crazyflie-android-client,15,Radio dongle attaching/detaching problem,closed,2014-02-28T12:35:33Z,2014-02-28T12:35:33Z,"bug, prio:low"
+bitcraze/crazyflie-android-client,14,menu and return buttons doesn't work anymore,closed,2014-02-28T12:35:31Z,2014-02-28T12:35:31Z,"bug, prio:high"
+bitcraze/crazyflie-android-client,1,Debugging using eclipse,closed,2014-02-28T12:35:13Z,2014-02-28T12:35:13Z,"bug, prio:low"
+hedzr/android-file-chooser,69,Crash on runtime  (Android 4.2),closed,2019-05-28T09:17:09Z,2019-11-20T13:12:50Z,bug
+hedzr/android-file-chooser,63,DirAdapter.java line 50 Crash,open,2019-05-05T08:07:46Z,,bug
+hedzr/android-file-chooser,61,Can we make this dialog to a full screen activity/fragment look.?,open,2019-04-03T09:53:54Z,,"bug, fixed in next release"
+hedzr/android-file-chooser,60,Runtime Exception on Android 6 devices,open,2019-04-01T13:16:36Z,,"bug, fixed in next release"
+hedzr/android-file-chooser,5,Null pointer exception,closed,2017-11-29T18:39:14Z,2018-05-15T06:08:15Z,bug
+caarmen/nounours-android,14,Midi file is cut off after 10 seconds,closed,2016-01-09T11:51:54Z,2016-01-09T14:58:29Z,bug
+caarmen/nounours-android,8,sometimes an animation frame is zoomed in,open,2015-10-10T08:36:26Z,,bug
+caarmen/nounours-android,6,Recorded animations aren't smooth,closed,2015-10-06T22:02:13Z,2015-10-10T08:36:01Z,bug
+alexvasilkov/GestureViews,177,Fatal Exception: java.lang.IllegalArgumentException Provided float is NaN,closed,2021-11-29T08:11:56Z,2022-01-31T08:30:22Z,bug
+alexvasilkov/GestureViews,172,Crash on Redmi 6A - GL error from OpenGLRenderer: 0x502,closed,2021-06-08T13:55:12Z,2022-01-06T09:17:13Z,bug
+alexvasilkov/GestureViews,163,Demo app not accounting for insets,closed,2020-11-13T17:00:32Z,2020-11-24T16:38:58Z,bug
+alexvasilkov/GestureViews,160,Can't scroll on RecyclerView when the item has click listener,open,2020-08-14T06:35:11Z,,"bug, enhancement"
+alexvasilkov/GestureViews,159,You should call enter(...) before calling update(...) crash,open,2020-06-04T05:35:31Z,,bug
+alexvasilkov/GestureViews,151,The Image is clipped when the destination is inside a ScrollView,closed,2020-02-03T14:23:20Z,2020-02-04T07:54:46Z,bug
+alexvasilkov/GestureViews,148,Recyclerview in the GestureFrameLayout is not scrolling. ,closed,2019-12-03T05:12:22Z,2020-02-04T08:26:05Z,bug
+alexvasilkov/GestureViews,139,"when i use 2.5.2 App crash,use 2.5.1 is ok",closed,2019-04-11T02:09:28Z,2020-02-04T07:14:29Z,bug
+alexvasilkov/GestureViews,136,Memory leak in ViewPositionHolder,closed,2019-01-15T15:31:15Z,2021-05-16T01:36:57Z,bug
+alexvasilkov/GestureViews,128,Gestures are not working when scaletype is set,closed,2018-11-07T03:58:43Z,2018-11-07T07:44:11Z,"bug, invalid"
+alexvasilkov/GestureViews,115,"IllegalStateException: ""You should call enter(...) before calling exit(...)""",closed,2018-04-30T13:30:27Z,2018-05-05T14:47:17Z,bug
+alexvasilkov/GestureViews,107,Zoom not working when clickable child views inside ,closed,2018-02-25T21:49:52Z,2018-04-06T12:20:47Z,bug
+alexvasilkov/GestureViews,95,"In landscape orientation, full image is not shown",closed,2017-12-07T19:44:21Z,2017-12-10T14:48:14Z,"bug, invalid"
+alexvasilkov/GestureViews,93,Is there a way to programmatically trigger the double tap effect?,closed,2017-11-21T07:40:51Z,2018-01-13T21:14:54Z,"bug, question"
+alexvasilkov/GestureViews,84,Zooming in deforms text in TextView embedded in GestureFrameLayout,closed,2017-08-23T00:23:03Z,2017-08-24T01:28:44Z,bug
+alexvasilkov/GestureViews,66,Crash on API 19,closed,2017-03-25T03:58:44Z,2017-04-04T04:19:12Z,bug
+alexvasilkov/GestureViews,61,RecyclerView to Pager animation and data changes in RecyclerView,closed,2017-02-28T08:26:55Z,2017-04-04T06:32:44Z,bug
+alexvasilkov/GestureViews,55,"Using crop(), black background is default when viewport is not completely filled",closed,2017-01-03T20:18:33Z,2017-02-05T15:17:08Z,"bug, invalid"
+alexvasilkov/GestureViews,54,Exit with invisible view in recycler view,closed,2016-12-21T07:35:55Z,2017-04-04T06:33:24Z,bug
+alexvasilkov/GestureViews,45,I had this error after double tap to the gestureImageView,closed,2016-09-07T09:29:04Z,2016-11-28T17:05:56Z,bug
+alexvasilkov/GestureViews,41,Issue when image becomes smaller (when zooming out) than viewport,closed,2016-07-14T09:38:36Z,2016-11-28T17:08:12Z,bug
+alexvasilkov/GestureViews,36,enableScrollInViewPager intercepts drawer dragging,closed,2016-05-04T17:23:00Z,2020-11-26T09:10:02Z,"bug, wontfix"
+alexvasilkov/GestureViews,31,ViewPager won't fling first few times,closed,2016-04-03T16:06:20Z,2016-05-27T21:05:13Z,bug
+alexvasilkov/GestureViews,26,Bug regarding GestureFrameLayout,closed,2016-03-05T01:49:22Z,2018-04-06T12:17:38Z,bug
+alexvasilkov/GestureViews,24,Advanced Demo animation sometimes not working,closed,2016-02-26T07:10:46Z,2016-04-04T06:19:54Z,"bug, invalid"
+alexvasilkov/GestureViews,22,Quick scale zoom bug,closed,2016-02-25T16:23:19Z,2016-11-28T17:09:43Z,bug
+alexvasilkov/GestureViews,21,Advanced Demo Sync Issue,closed,2016-02-24T03:46:50Z,2016-02-26T04:44:23Z,"bug, invalid"
+alexvasilkov/GestureViews,16,Firing the onDown Gesture Listener even on one tap,closed,2016-01-28T13:25:38Z,2016-01-28T13:34:58Z,"bug, invalid"
+alexvasilkov/GestureViews,15,NullPointerException when using touch without ViewPager,closed,2016-01-12T14:17:09Z,2016-01-12T15:50:34Z,bug
+alexvasilkov/GestureViews,14,GestureFrameLayout with  a child ScrollView dose not work,closed,2016-01-07T04:03:22Z,2016-01-13T06:15:26Z,"bug, invalid"
+alexvasilkov/GestureViews,11,Force recheck setFitMethod after changing MovementArea,closed,2015-12-15T10:11:00Z,2016-01-13T06:18:25Z,bug
+alexvasilkov/GestureViews,8,Open basic animation,closed,2015-12-09T11:56:14Z,2016-02-18T06:32:53Z,bug
+alexvasilkov/GestureViews,5,load images fail....,closed,2015-11-05T09:35:09Z,2015-11-06T03:22:56Z,"bug, invalid"
+alexvasilkov/GestureViews,3,Error inflating class com.alexvasilkov.gestures.views.GestureImageView,closed,2015-11-02T13:53:01Z,2015-11-03T06:53:28Z,bug
+alexvasilkov/GestureViews,1,Scale gesture on previous pages in ViewPager after orientation chage,closed,2014-07-23T08:31:00Z,2014-07-26T17:50:17Z,bug
+eziosoft/MultiWii_EZ_GUI,60,check logging parameters,closed,2014-01-14T16:58:36Z,2014-06-06T05:46:42Z,bug
+eziosoft/MultiWii_EZ_GUI,53,Read PID setting when activity starts,closed,2013-08-26T03:22:01Z,2013-09-10T00:01:23Z,bug
+eziosoft/MultiWii_EZ_GUI,52,must try 2-3 times that the holding point in MWC can be updated. ,closed,2013-08-26T03:17:58Z,2013-12-16T00:39:49Z,bug
+eziosoft/MultiWii_EZ_GUI,46,alt correction,closed,2013-05-27T22:09:25Z,2013-06-07T19:48:15Z,bug
+eziosoft/MultiWii_EZ_GUI,44," difficult to click, map keep returning to the center of home position",closed,2013-05-21T22:25:31Z,2013-07-13T23:22:53Z,bug
+eziosoft/MultiWii_EZ_GUI,41,artificial horizon is backwards in pitch,closed,2013-05-15T19:03:03Z,2013-05-24T21:48:51Z,bug
+eziosoft/MultiWii_EZ_GUI,40,"When I close multiwii ez-gui, it turn off bluetooth ",closed,2013-04-26T20:18:55Z,2013-04-26T22:42:25Z,bug
+eziosoft/MultiWii_EZ_GUI,38,"Setting power trigger may not work - ""other""",closed,2013-04-24T22:34:37Z,2013-04-29T23:55:51Z,bug
+eziosoft/MultiWii_EZ_GUI,37,dashboard 3 - landscape mode words are out of screen - small screen,closed,2013-04-21T12:09:38Z,2013-04-24T22:37:05Z,bug
+eziosoft/MultiWii_EZ_GUI,29,dashboard 2 - horizon update if slow frame rate,closed,2013-04-14T00:04:07Z,2013-04-14T00:07:37Z,bug
+physphil/UnitConverterUltimate,101,Group separators displaying as 'N',open,2017-12-25T04:35:28Z,,"bug, v6"
+physphil/UnitConverterUltimate,51,Crash when getting currency from SP,closed,2017-03-26T18:08:58Z,2017-03-26T18:48:35Z,bug
+physphil/UnitConverterUltimate,40,Gradle 2.2.2 could not be found,closed,2016-11-27T19:13:57Z,2016-12-02T01:41:43Z,bug
+physphil/UnitConverterUltimate,31,Wrong item selected in menu,closed,2016-11-14T00:27:42Z,2016-11-23T16:05:32Z,"bug, future version, v6"
+physphil/UnitConverterUltimate,21,Issue with bright color theme,closed,2016-10-29T07:44:32Z,2016-12-10T23:33:48Z,"bug, future version, v6"
+Tortel/DeployTrack,3,Widgets show wrong data,closed,2013-10-24T15:25:47Z,2013-10-26T04:41:26Z,bug
+akshay2000/MonocleGiraffe,1,FrontPage post containers stretch issue.,closed,2016-07-15T05:58:58Z,2016-07-16T13:16:29Z,bug

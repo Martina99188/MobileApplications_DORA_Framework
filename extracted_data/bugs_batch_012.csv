@@ -1,0 +1,287 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+chaosbastler/opentraining,34,No icons for custom exercises,closed,2014-05-27T09:08:33Z,2014-05-27T09:39:33Z,bug
+chaosbastler/opentraining,32,NullPointerException causes crash in CreateWorkoutActivity,closed,2014-05-19T14:25:44Z,2014-05-27T08:31:28Z,bug
+chaosbastler/opentraining,29,NullPointerException in SelectWorkoutDialogFragment,closed,2014-04-29T13:13:16Z,2014-05-27T10:38:57Z,"bug, cantfix"
+chaosbastler/opentraining,28,wger download failes,closed,2014-03-25T07:33:55Z,2014-04-29T12:55:50Z,bug
+chaosbastler/opentraining,27,Crash on Android 2.3.3 - 2.3.7,closed,2014-03-25T07:32:04Z,2014-04-03T13:30:45Z,bug
+chaosbastler/opentraining,19,Keep scroll state,closed,2013-10-20T09:12:11Z,2013-10-20T10:01:06Z,"bug, enhancement, fixed"
+chaosbastler/opentraining,3,Crash on small screens,closed,2012-10-05T15:59:28Z,2013-02-10T14:50:58Z,bug
+jamieadkins95/Heistr,84,Attachments may have the wrong values.,closed,2016-04-13T08:52:06Z,2016-04-15T20:51:08Z,"bug, comfirmed repro"
+jamieadkins95/Heistr,81,onAttach(Context context),closed,2016-04-12T09:08:02Z,2016-04-13T08:52:25Z,"bug, comfirmed repro"
+jamieadkins95/Heistr,80,Action bar menu diff colours in diff activities ,closed,2016-04-05T10:00:46Z,2016-04-16T15:42:47Z,"bug, comfirmed repro"
+jamieadkins95/Heistr,79,Items in nav drawer remain slected after pressing back,open,2016-04-05T09:50:10Z,,"bug, comfirmed repro"
+jamieadkins95/Heistr,72,Perk decks dont give their bonuses,closed,2016-02-23T10:03:41Z,2016-03-31T12:43:47Z,"bug, comfirmed repro"
+jamieadkins95/Heistr,60,Crash when opening a link,closed,2015-12-03T16:31:42Z,2015-12-13T14:45:48Z,"bug, comfirmed repro"
+jamieadkins95/Heistr,59,Crash in 1.3.2,closed,2015-12-01T11:09:27Z,2015-12-03T16:32:06Z,"bug, comfirmed repro"
+jamieadkins95/Heistr,58,Fix mistakes in XML,closed,2015-11-28T16:26:52Z,2015-12-04T15:41:24Z,"bug, XML, comfirmed repro"
+jamieadkins95/Heistr,56,Fix dialog crashes,closed,2015-10-19T16:38:19Z,2015-10-19T16:38:53Z,"bug, comfirmed repro"
+jamieadkins95/Heistr,51,Currently have to have a weapon equipped,closed,2015-10-19T16:32:58Z,2015-10-19T21:50:01Z,"bug, comfirmed repro"
+jamieadkins95/Heistr,50,baseweaponinfo contains all weapons,closed,2015-10-19T16:32:08Z,2015-10-19T21:35:41Z,"bug, comfirmed repro"
+jamieadkins95/Heistr,48,Fix dialogfragment crashes,open,2015-10-19T10:37:02Z,,"bug, comfirmed repro"
+jamieadkins95/Heistr,42,"Multi select menu goes above action bar, not overlay",closed,2015-10-09T20:10:43Z,2015-10-19T10:25:21Z,"bug, comfirmed repro"
+jamieadkins95/Heistr,40,Burgler -> Burglar,closed,2015-10-02T09:20:46Z,2015-10-02T11:31:46Z,"bug, XML, comfirmed repro"
+jamieadkins95/Heistr,38,Opening a link multiple times creates mutilple builds,open,2015-09-28T09:16:31Z,,"bug, comfirmed repro"
+jamieadkins95/Heistr,35,Export URL edittext is a bit weird,closed,2015-09-20T15:04:02Z,2015-09-20T15:05:53Z,"bug, comfirmed repro"
+jamieadkins95/Heistr,25,Context menu stays selected,closed,2015-09-15T20:35:13Z,2015-09-15T20:38:56Z,"bug, comfirmed repro"
+jamieadkins95/Heistr,24,Spelling Errors,closed,2015-09-15T12:59:08Z,2015-09-15T12:59:12Z,"bug, comfirmed repro"
+jamieadkins95/Heistr,23,Adding infamies doesn't reduce point requirments,closed,2015-09-12T11:58:04Z,2015-09-12T11:58:23Z,"bug, comfirmed repro"
+jamieadkins95/Heistr,22,Potential Memory Leaks,open,2015-09-10T09:44:01Z,,bug
+jamieadkins95/Heistr,21,Can't view skill details of skills in locked tiers.,closed,2015-09-08T19:58:18Z,2015-09-08T20:11:48Z,"bug, comfirmed repro"
+jamieadkins95/Heistr,20,Occasionly a new build gets created without user doing it,closed,2015-09-07T14:48:20Z,2015-09-08T17:16:30Z,bug
+jamieadkins95/Heistr,19,Build don't save in v1.1.4,closed,2015-09-05T11:03:33Z,2015-09-05T11:13:37Z,bug
+jamieadkins95/Heistr,17,Cannot remove skills when all points are used,closed,2015-09-03T19:10:49Z,2015-09-03T21:34:39Z,"bug, comfirmed repro"
+jamieadkins95/Heistr,16,I have to scroll up and down to add points to tier 1,closed,2015-08-28T21:47:03Z,2015-09-03T19:09:26Z,"bug, comfirmed repro"
+jamieadkins95/Heistr,15,Points remaining doesn't update,closed,2015-08-28T17:41:37Z,2015-09-08T19:59:35Z,"bug, comfirmed repro"
+jamieadkins95/Heistr,13,Multiple instances of the same build are created,closed,2015-08-26T11:43:42Z,2015-08-28T08:35:46Z,bug
+jamieadkins95/Heistr,12,Sections not being loaded properly,closed,2015-08-26T10:17:53Z,2015-10-12T19:20:19Z,"bug, comfirmed repro"
+jamieadkins95/Heistr,3,Activity states are not saved when an activity is moved to the background,closed,2015-08-20T10:01:35Z,2015-08-28T08:35:16Z,bug
+jamieadkins95/Heistr,2,If you scroll down as you are selecting and deleting builds the FAB will not reappear,closed,2015-08-19T07:49:31Z,2015-08-19T21:15:37Z,bug
+jamieadkins95/Heistr,1,Build list cards look weird on smaller displays,closed,2015-07-26T19:15:05Z,2015-12-17T16:27:37Z,"bug, comfirmed repro"
+dkrivoruchko/ScreenStream,40,app starts automatically after boot (since version 3.x),closed,2019-01-06T11:05:25Z,2019-01-06T13:33:02Z,bug
+vexelon-dot-net/currencybg.app,86,Issue on JSON parsing in the API,closed,2017-10-05T16:25:05Z,2017-10-05T19:00:43Z,bug
+vexelon-dot-net/currencybg.app,85,Improve context reference handling in AsyncTask jobs,closed,2017-10-05T16:22:30Z,2017-10-07T09:52:53Z,bug
+vexelon-dot-net/currencybg.app,82,Бъг при теглене на валутите от background service,closed,2017-09-26T18:14:06Z,2017-09-27T08:01:58Z,bug
+vexelon-dot-net/currencybg.app,55,android.view.WindowLeaked при смяна на ориентацията,closed,2017-04-30T09:43:35Z,2022-05-19T13:27:16Z,bug
+vexelon-dot-net/currencybg.app,38,Проблем с task лентата при 4.4 устройства,closed,2017-02-04T09:15:39Z,2017-02-08T13:56:20Z,bug
+vexelon-dot-net/currencybg.app,36,"Бъг при първо стартиране на ""Convert"" функцията",closed,2016-12-10T10:36:41Z,2016-12-11T10:13:11Z,bug
+vexelon-dot-net/currencybg.app,13,Не работи свалянето на валути,closed,2016-08-07T09:59:17Z,2016-09-10T08:28:37Z,bug
+vexelon-dot-net/currencybg.app,12,Празно пространство,closed,2016-05-06T19:21:46Z,2016-05-15T13:37:39Z,bug
+vexelon-dot-net/currencybg.app,11,Не работещ ENTER бутон,closed,2016-05-06T19:16:28Z,2016-05-15T13:37:51Z,bug
+vexelon-dot-net/currencybg.app,10,Липсващи знамена,closed,2016-05-06T19:13:55Z,2017-02-17T16:36:10Z,bug
+luoyuan800/NeverEnd,35,组队系统有问题,closed,2017-07-29T15:43:48Z,2017-08-19T15:18:52Z,bug
+luoyuan800/NeverEnd,24,本地boss战，对方不会攻击,open,2017-07-25T04:20:00Z,,bug
+luoyuan800/NeverEnd,22,点击本地商店会闪退,closed,2017-07-12T10:19:29Z,2017-07-25T04:19:25Z,bug
+luoyuan800/NeverEnd,16,装备上的敏捷属性不会增加敏捷数值,closed,2017-06-24T05:39:27Z,2017-06-29T09:55:31Z,bug
+luoyuan800/NeverEnd,12,合金剑可以重复装备,closed,2017-06-24T05:34:56Z,2017-06-27T15:53:57Z,bug
+luoyuan800/NeverEnd,11,有时候宠物无法删除,closed,2017-06-24T05:34:14Z,2017-06-27T15:54:04Z,bug
+luoyuan800/NeverEnd,9,进化没有加亲密度判断,closed,2017-06-23T04:06:50Z,2017-06-29T09:24:52Z,bug
+luoyuan800/NeverEnd,8,宠物的性别单一,closed,2017-06-23T04:05:27Z,2017-06-29T07:20:42Z,bug
+luoyuan800/NeverEnd,7,不能自动存档,closed,2017-06-23T04:05:13Z,2017-06-25T15:21:10Z,bug
+luoyuan800/NeverEnd,4,捕捉到的宠物生命值为0,closed,2017-06-22T07:56:30Z,2017-06-29T07:20:44Z,bug
+luoyuan800/NeverEnd,2,种族显示成英文的了,closed,2017-06-22T05:59:53Z,2017-06-27T15:55:30Z,bug
+j4velin/Pedometer,89,Data will be deleted on time zone change,open,2016-09-06T18:48:55Z,,bug
+j4velin/Pedometer,52,Jumps to 2 billion + steps,closed,2014-09-14T02:50:22Z,2015-04-23T21:42:15Z,bug
+philliphsu/ClockPlus,8,Alarms and timers crashing on Android 7.0,closed,2016-10-07T22:39:03Z,2017-03-12T21:01:49Z,bug
+linuxtage/glt-companion,23,GLT 2019 bookmarks.ics can not be imported in Google Calendar,open,2019-04-26T08:17:20Z,,bug
+linuxtage/glt-companion,8,"While copying text from GLT Companion, it crashes. ",closed,2018-03-29T10:16:39Z,2018-06-19T07:00:16Z,"bug, help wanted"
+linuxtage/glt-companion,6,ActivityNotFoundException,closed,2017-08-31T13:58:28Z,2018-03-19T11:52:47Z,"bug, help wanted"
+linuxtage/glt-companion,5,NumberFormatException,closed,2017-08-31T13:56:24Z,2018-03-19T11:51:54Z,"bug, help wanted"
+linuxtage/glt-companion,4,IllegalStateException,closed,2017-08-31T13:49:23Z,2018-03-19T11:52:21Z,"bug, help wanted"
+linuxtage/glt-companion,2,Date for calender import is late,closed,2015-04-02T06:48:50Z,2015-04-02T17:11:27Z,bug
+TruckMuncher/TruckMuncher-Android,89,As vendor can't see my trucks,closed,2015-04-20T01:24:26Z,2015-04-30T03:41:26Z,"bug, priority:high"
+TruckMuncher/TruckMuncher-Android,88,Crash when viewing vendor menu,closed,2015-04-20T01:22:07Z,2015-04-30T03:42:38Z,"bug, priority:high"
+TruckMuncher/TruckMuncher-Android,79,Menu Item Tags,closed,2015-03-30T13:02:27Z,2015-04-07T23:14:58Z,bug
+TruckMuncher/TruckMuncher-Android,58,Twitter login consistently bombs out,open,2015-02-07T18:48:03Z,,bug
+TruckMuncher/TruckMuncher-Android,38,Selecting a marker doesn't change truck info display,closed,2015-01-07T18:30:21Z,2015-01-13T00:23:32Z,bug
+TruckMuncher/TruckMuncher-Android,26,Serving mode map rotation & zoom,closed,2014-10-28T04:29:53Z,2014-11-10T18:33:33Z,bug
+TruckMuncher/TruckMuncher-Android,25,Map location indicator covered,closed,2014-10-28T04:27:12Z,2014-11-10T18:33:54Z,bug
+TruckMuncher/TruckMuncher-Android,24,NPE when entering serving mode without a location,open,2014-10-28T04:23:13Z,,bug
+TruckMuncher/TruckMuncher-Android,22,Set the bloody header!,open,2014-10-21T02:05:41Z,,bug
+TruckMuncher/TruckMuncher-Android,18,Crash on network error with null response,closed,2014-10-18T21:05:23Z,2014-10-29T23:03:00Z,bug
+fenimore/DemocracyDroid,49,Request Audio Focus,closed,2018-05-27T17:07:02Z,2021-03-31T01:28:08Z,"bug, enhancement, help wanted"
+fenimore/DemocracyDroid,45,Link in app does not match link in repo,closed,2018-01-28T02:15:13Z,2018-05-27T14:18:09Z,bug
+fenimore/DemocracyDroid,43,App crashes when video is selected,closed,2018-01-02T16:19:44Z,2018-01-02T19:46:50Z,bug
+fenimore/DemocracyDroid,36,Duplicate In Feed,closed,2017-07-31T21:09:26Z,2017-07-31T21:10:50Z,bug
+fenimore/DemocracyDroid,30,Story view Audio/Video link is Null before load,closed,2017-07-03T13:13:01Z,2017-07-03T22:51:55Z,bug
+fenimore/DemocracyDroid,27,Audio Feed has one extra episode than Video,closed,2017-02-12T14:11:57Z,2017-07-31T21:11:50Z,bug
+fenimore/DemocracyDroid,25,Crash on airplane mode,closed,2017-02-01T01:54:16Z,2017-02-04T15:56:37Z,bug
+fenimore/DemocracyDroid,17,Crash on stream,closed,2016-10-09T20:40:23Z,2017-01-13T23:06:54Z,bug
+fenimore/DemocracyDroid,15,"When switching fast between tabs, stories feed loads over and over",closed,2016-09-16T22:09:19Z,2016-09-16T23:53:12Z,bug
+fenimore/DemocracyDroid,14,listview won't all click after returning from item,closed,2016-09-12T14:29:58Z,2016-09-16T23:53:26Z,bug
+fenimore/DemocracyDroid,12,"Android 6, video seeks doesn't work as expected",closed,2016-08-30T02:35:37Z,2016-09-01T00:01:51Z,bug
+fenimore/DemocracyDroid,11,Download Tab Padding is Offset,closed,2016-08-25T14:27:31Z,2016-09-16T22:09:35Z,bug
+fenimore/DemocracyDroid,9,Live stream link changed,closed,2016-08-22T18:50:30Z,2016-08-23T23:09:23Z,bug
+fenimore/DemocracyDroid,8,Audio link is offset,closed,2016-08-10T14:39:27Z,2016-08-13T20:11:53Z,bug
+fenimore/DemocracyDroid,7,IndexOutOfBounds error,closed,2016-08-01T02:27:21Z,2016-08-10T14:39:41Z,bug
+fenimore/DemocracyDroid,6,Download of non-daily episode won't show up in download feed,closed,2016-07-31T19:06:03Z,2016-08-01T02:25:56Z,bug
+fenimore/DemocracyDroid,4,todays broadcast shows before available,closed,2016-05-31T06:43:10Z,2016-08-10T14:39:07Z,bug
+fenimore/DemocracyDroid,2,Audio Downloads,closed,2016-03-09T09:13:46Z,2016-04-11T13:21:29Z,bug
+EmmanuelMess/Simple-Accounting,137,FDroid version is older than 1.6,open,2019-07-26T17:31:08Z,,"bug, severe"
+EmmanuelMess/Simple-Accounting,136,Accounting records‘ wrong behavior,open,2019-07-16T07:33:20Z,,bug
+EmmanuelMess/Simple-Accounting,108,Swapping Credit and Debit Columns [Bug],open,2018-11-08T10:54:37Z,,"bug, severe"
+EmmanuelMess/Simple-Accounting,73,Last balance error,closed,2018-07-09T20:32:44Z,2018-08-16T15:36:10Z,"bug, help wanted"
+EmmanuelMess/Simple-Accounting,63,Build fails,closed,2018-06-16T12:11:45Z,2018-06-17T19:34:35Z,bug
+EmmanuelMess/Simple-Accounting,42,Crash,open,2017-12-24T23:55:01Z,,bug
+EmmanuelMess/Simple-Accounting,28,When the month changes and the app is open it isn't notified until a restart,open,2017-04-03T00:12:30Z,,bug
+AdguardTeam/ContentBlocker,405,The content is blocked on enabling the AdGuard,open,2025-01-02T12:59:43Z,,bug
+AdguardTeam/ContentBlocker,328,Rules with * in CSS selector do not work,open,2023-06-16T11:15:11Z,,bug
+AdguardTeam/ContentBlocker,220,Fix crashes from the Play store,closed,2020-03-06T12:53:54Z,2020-03-11T14:45:37Z,"bug, enhancement"
+AdguardTeam/ContentBlocker,214,Error in One Site,open,2020-01-31T10:04:13Z,,bug
+AdguardTeam/ContentBlocker,213,The app mistakenly uses the Lithuanian language on phones set for Latvian locale,open,2020-01-15T12:09:07Z,,bug
+AdguardTeam/ContentBlocker,208,Some element hiding rules are not applied,closed,2019-11-25T21:31:24Z,2020-03-11T14:45:37Z,"bug, question"
+AdguardTeam/ContentBlocker,205,"""Do not block useful ads"" option is constantly re-enabled",closed,2019-11-19T04:31:31Z,2020-03-11T14:45:37Z,bug
+AdguardTeam/ContentBlocker,203,Реклама отображается в яндексе андроид,closed,2019-11-14T21:17:40Z,2019-11-22T08:19:41Z,browser bug: yandex
+AdguardTeam/ContentBlocker,202,breitbart.com,closed,2019-11-03T18:53:37Z,2019-11-26T13:01:10Z,bug
+AdguardTeam/ContentBlocker,196,CB does not block some ads in Samsung Internet,closed,2019-10-04T16:18:55Z,2019-10-07T13:09:49Z,bug
+AdguardTeam/ContentBlocker,192,Copy/paste buttons are not visible,closed,2019-09-18T10:19:29Z,2019-11-26T13:01:44Z,"bug, UI"
+AdguardTeam/ContentBlocker,191,Cannot import user filter by URL,closed,2019-09-18T10:17:13Z,2019-11-26T13:01:48Z,"bug, UI"
+AdguardTeam/ContentBlocker,187,не блокирует мошенников в Яндекс. Браузер на Андроид,closed,2019-07-25T10:33:50Z,2019-08-22T11:55:41Z,bug
+AdguardTeam/ContentBlocker,182,Crash of the content blocker,closed,2019-05-02T14:35:15Z,2019-08-22T15:17:55Z,bug
+AdguardTeam/ContentBlocker,169,Wrong settings path to Yandex browser settings from onboarding,closed,2019-02-28T07:36:22Z,2019-03-21T08:08:01Z,bug
+AdguardTeam/ContentBlocker,167,Why are Useful Ads filter and Safari filter enabled by default?,closed,2019-02-26T19:51:52Z,2019-03-11T10:18:51Z,bug
+AdguardTeam/ContentBlocker,166, java.lang.ClassNotFoundException,closed,2019-02-21T13:06:00Z,2019-02-26T12:24:21Z,bug
+AdguardTeam/ContentBlocker,165,android.content.ActivityNotFoundException,closed,2019-02-21T12:32:58Z,2019-02-26T12:24:27Z,bug
+AdguardTeam/ContentBlocker,164,Unchecked checkboxes in v2.3.1 aren't obvious.,closed,2019-02-20T02:25:22Z,2019-03-04T19:33:51Z,"bug, UI"
+AdguardTeam/ContentBlocker,163,"In Traditional Chinese (zh-TW) interface, Simplified Chinese (zh-CN) is wrongly used in filters. v2.3.1.",closed,2019-02-20T02:10:10Z,2019-03-11T12:37:50Z,bug
+AdguardTeam/ContentBlocker,162,Reduce the space between icons and text,closed,2019-02-19T12:46:57Z,2019-03-04T19:33:47Z,"bug, UI"
+AdguardTeam/ContentBlocker,152, Sending a intent for a filter rules update to the Yandex Browsers ,closed,2018-11-06T10:35:18Z,2018-11-06T10:35:23Z,bug
+AdguardTeam/ContentBlocker,148,Crash: RuntimeException at com.adguard.android.contentblocker.service.NotificationServiceImpl,closed,2018-09-16T22:46:44Z,2018-10-02T12:37:55Z,bug
+AdguardTeam/ContentBlocker,147,AdGuard isn't updating automatically,closed,2018-09-12T16:31:04Z,2018-09-14T12:51:04Z,bug
+AdguardTeam/ContentBlocker,146,java.lang.IllegalStateException,closed,2018-09-05T12:52:45Z,2018-09-05T14:43:27Z,bug
+AdguardTeam/ContentBlocker,145,SQLiteCantOpenDatabaseException,closed,2018-09-05T12:33:33Z,2018-09-05T14:43:28Z,bug
+AdguardTeam/ContentBlocker,144,FileNotFoundException: FilterRuleDaoImpl.initDefaultFilterRules,closed,2018-09-05T08:23:06Z,2018-09-05T14:43:29Z,bug
+AdguardTeam/ContentBlocker,143,ActivityNotFoundException: BrowserUtils.openYandexBlockingOptions,closed,2018-09-05T08:20:10Z,2018-09-05T14:43:30Z,bug
+AdguardTeam/ContentBlocker,142,java.lang.RuntimeException,closed,2018-09-05T08:18:51Z,2018-09-05T14:06:35Z,bug
+AdguardTeam/ContentBlocker,141,"[BUG] When you import 2 filter lists, the second list replaces the first one",closed,2018-08-31T15:18:52Z,2018-09-04T12:25:13Z,bug
+AdguardTeam/ContentBlocker,138,Unable to read full text on https://noticias.uol.com.br ,closed,2018-07-25T12:22:02Z,2019-08-22T17:46:12Z,browser bug: yandex
+AdguardTeam/ContentBlocker,112,If you import user filter list the order of the entries is not respected,closed,2018-03-27T23:41:36Z,2018-08-31T10:24:36Z,bug
+AdguardTeam/ContentBlocker,107,Problems on apkmirror site?,closed,2018-03-03T16:34:34Z,2019-03-25T19:14:20Z,bug
+AdguardTeam/ContentBlocker,106,9to5google.com - Broken website (Samsung Internet browser),open,2018-02-19T13:40:18Z,,bug
+AdguardTeam/ContentBlocker,94,Filters do not update automatically,closed,2018-01-05T06:49:48Z,2018-02-26T08:11:10Z,bug
+AdguardTeam/ContentBlocker,85,$document modifier does not work in Yandex browser,closed,2017-09-10T16:42:00Z,2018-01-26T13:04:10Z,browser bug: yandex
+AdguardTeam/ContentBlocker,69,Browsers are not notified when we auto-update filters,closed,2017-05-16T11:11:35Z,2017-05-17T13:23:09Z,bug
+AdguardTeam/ContentBlocker,63,SQLiteDatabaseLockedException: database is locked (code 5),closed,2017-04-20T12:43:06Z,2017-04-26T13:12:23Z,bug
+AdguardTeam/ContentBlocker,58,Import by URL doesn't work properly,closed,2017-03-10T10:54:10Z,2017-03-14T12:46:28Z,bug
+AdguardTeam/ContentBlocker,49,Filters autoupdate does not work unless you run the app,closed,2017-01-31T12:34:03Z,2017-02-10T10:25:38Z,bug
+AdguardTeam/ContentBlocker,48,Binary XML file line #10: Error inflating class android.widget.ListView,closed,2017-01-09T10:15:39Z,2017-01-11T11:01:59Z,bug
+AdguardTeam/ContentBlocker,44,OnboardingActivity: java.lang.NullPointerException,closed,2016-10-31T11:33:23Z,2016-11-01T13:33:29Z,bug
+AdguardTeam/ContentBlocker,43,"java.lang.IllegalArgumentException: View=com.android.internal.policy.impl.PhoneWindow$DecorView{74fa873 V.E..... R......D 0,0-501,242} not attached to window manager",closed,2016-10-21T08:04:58Z,2016-10-27T09:40:53Z,bug
+AdguardTeam/ContentBlocker,42,Unable to find explicit activity class {com.yandex.browser.tests/com.yandex.browser.YandexBrowserMainActivity}; have you declared this activity in your AndroidManifest.xml?,closed,2016-10-12T10:21:33Z,2016-10-12T10:48:48Z,bug
+AdguardTeam/ContentBlocker,40,"IllegalArgumentException: View=com.android.internal.policy.impl.PhoneWindow$DecorView{2685cc9d V.E..... R......D 0,0-667,348} not attached to window manager",closed,2016-10-11T14:28:15Z,2016-10-12T12:10:45Z,bug
+AdguardTeam/ContentBlocker,39,Unable to start activity ComponentInfo{com.adguard.android.contentblocker/com.adguard.android.contentblocker.MainActivity}: android.view.InflateException: Binary XML file line #10,closed,2016-10-11T14:27:40Z,2016-10-12T10:51:49Z,bug
+AdguardTeam/ContentBlocker,38,Unable to get provider com.adguard.android.contentblocker.FiltersContentProvider,closed,2016-10-11T14:26:48Z,2016-10-12T10:17:39Z,bug
+AdguardTeam/ContentBlocker,37,Content blocker does not update filters automatically,closed,2016-10-08T17:09:17Z,2016-10-12T14:04:59Z,bug
+AdguardTeam/ContentBlocker,36,Binary XML file line #23: You must supply a layout_width attribute,closed,2016-09-21T08:50:27Z,2016-09-21T08:52:16Z,bug
+AdguardTeam/ContentBlocker,35,Crash in ApplyAndRefreshTask,closed,2016-09-19T08:32:09Z,2016-09-19T13:53:56Z,bug
+AdguardTeam/ContentBlocker,33,Missed separator between blocks on main window.,closed,2016-09-15T15:53:36Z,2016-09-19T06:33:59Z,bug
+AdguardTeam/ContentBlocker,32,Duplicated text in russian localization. ,closed,2016-09-15T15:46:34Z,2016-09-19T06:34:04Z,bug
+AdguardTeam/ContentBlocker,30,"Yandex.browser ""freezed"" after it was installed from ContentBlocker onboarding",closed,2016-09-05T17:12:47Z,2016-09-20T09:26:09Z,bug
+AdguardTeam/ContentBlocker,29,Crash when user tries to start YaBrowser,closed,2016-09-05T16:54:03Z,2016-09-08T11:22:10Z,bug
+AdguardTeam/ContentBlocker,28,"Can't open ""whitelist"" in settings to add domain names",closed,2016-08-10T11:54:20Z,2018-01-26T13:04:26Z,bug
+AdguardTeam/ContentBlocker,27,https://aa.mail.ru/ is broken,closed,2016-08-04T21:54:15Z,2018-01-26T13:04:32Z,"bug, cannot reproduce"
+AdguardTeam/ContentBlocker,19,App crash on Android v4.4.2,closed,2016-06-07T17:35:56Z,2016-06-09T05:40:25Z,"bug, duplicate"
+AdguardTeam/ContentBlocker,16,"Filter of useful ads and ""show useful ads"" are out of sync",closed,2016-06-01T16:10:50Z,2016-06-09T06:31:11Z,bug
+AdguardTeam/ContentBlocker,15,Buttons that start browser options start activity chooser,closed,2016-05-27T11:47:29Z,2016-05-27T11:49:23Z,bug
+AdguardTeam/ContentBlocker,11,Crash on app start,closed,2016-05-13T11:26:10Z,2016-05-16T13:57:57Z,bug
+AdguardTeam/ContentBlocker,9,Apache commons prevent publishing to Google Play,closed,2016-05-12T13:37:15Z,2016-05-12T13:40:37Z,bug
+AdguardTeam/ContentBlocker,6,Filters cannot be turned off or on,closed,2016-05-10T16:04:28Z,2016-05-11T08:45:21Z,bug
+AdguardTeam/ContentBlocker,1,Github link is without underline,closed,2016-05-06T13:33:13Z,2016-05-10T09:50:18Z,bug
+rsteckler/unbounce-android,99,crash on launch,open,2014-11-16T17:10:08Z,,"bug, priority-medium"
+rsteckler/unbounce-android,90,Remove boot messages when logging is set to Quite,closed,2014-10-29T14:38:37Z,2014-10-29T17:17:55Z,"bug, priority-medium"
+rsteckler/unbounce-android,89,stats on main screen not updating,closed,2014-10-27T15:06:13Z,2014-10-29T02:00:44Z,"bug, priority-high"
+rsteckler/unbounce-android,84,unbounce 1.4.1 not working on my Lg G2,closed,2014-10-21T20:54:32Z,2014-10-23T05:51:14Z,"bug, priority-high"
+rsteckler/unbounce-android,76,Not seeing Alarms from GoLauncherEx app,closed,2014-10-18T20:28:23Z,2014-10-18T21:25:34Z,"bug, duplicate, priority-high"
+rsteckler/unbounce-android,75,Some wakelocks missing,closed,2014-10-18T20:28:21Z,2014-10-19T18:54:23Z,"bug, priority-high"
+rsteckler/unbounce-android,69,Clearing stats causes wakelock to disappear from the list,open,2014-10-18T20:28:15Z,,"bug, priority-medium"
+rsteckler/unbounce-android,67,[1.1.6] Unbouncing com.google.android.intent.action.MCS_HEARTBEAT has no effect,open,2014-10-18T20:28:13Z,,"bug, priority-low"
+rsteckler/unbounce-android,55,"Getting ""Google Play services has stopped"" message",closed,2014-10-18T20:27:59Z,2014-10-19T18:44:39Z,"bug, priority-high"
+rsteckler/unbounce-android,30,Sleep of Deaths (SOD) after activate the module.,closed,2014-10-18T20:27:32Z,2014-10-19T18:55:29Z,"bug, priority-high"
+rsteckler/unbounce-android,23,Can tempering alarms cascade so they never get rescheduled?,open,2014-10-18T20:27:24Z,,"bug, priority-low"
+rsteckler/unbounce-android,16,Sleep of Deaths (SOD) after activate the module.,closed,2014-10-18T20:23:59Z,2014-10-18T20:32:51Z,"bug, duplicate"
+plusCubed/plusTimer,37,Issues with large numbers of solves,closed,2015-04-14T05:22:18Z,2015-07-20T11:14:20Z,bug
+plusCubed/plusTimer,31,Logging Crashlytics hangs app,closed,2015-03-21T04:11:50Z,2015-03-29T22:11:27Z,bug
+plusCubed/plusTimer,29,Apps that use accessibility permission causes observers to not attach,closed,2015-03-01T21:40:53Z,2015-03-29T21:19:39Z,bug
+plusCubed/plusTimer,26,Session Details Tab Doesn't Update,closed,2015-01-28T19:50:00Z,2015-03-30T00:13:01Z,bug
+plusCubed/plusTimer,24,Make separating memo and execution an option,open,2015-01-24T17:31:59Z,,bug
+plusCubed/plusTimer,22,Toolbar refreshing between ViewPager tabs,closed,2015-01-19T05:58:14Z,2015-01-19T23:58:33Z,bug
+plusCubed/plusTimer,21,Nav drawer closes on rotation,closed,2015-01-17T07:13:56Z,2015-01-18T07:01:50Z,bug
+plusCubed/plusTimer,19,Place a limit on the text size option,closed,2015-01-08T01:57:17Z,2015-01-11T02:35:53Z,bug
+plusCubed/plusTimer,15,GraphView: value order is incorrect,closed,2014-12-20T03:35:10Z,2014-12-25T17:03:39Z,bug
+plusCubed/plusTimer,5,"Conflict with apps using Accessibility service with permission ""Observe your actions""",closed,2014-12-05T01:03:24Z,2015-01-03T05:46:02Z,bug
+plusCubed/plusTimer,4,Cut off instead of rounding,closed,2014-12-05T01:00:53Z,2014-12-07T05:58:21Z,bug
+plusCubed/plusTimer,1,0.0.2 Unusable on Nexus 5,closed,2014-04-09T21:47:42Z,2014-04-12T06:41:14Z,bug
+melange-app/melange,9,mobile/ios: Golang TLS Issue Prevents Github API,open,2015-02-22T16:48:56Z,,"bug, ios"
+melange-app/melange,8,mobile/android: Status posts do not appear visible on Newsfeed,open,2015-02-06T20:47:57Z,,"bug, android"
+melange-app/melange,7,mobile/android: Unable to add Contacts,open,2015-02-06T20:32:24Z,,"bug, android, frontend"
+melange-app/melange,6,mobile/android: Lists dropdown doesn't populate,open,2015-02-06T20:30:32Z,,"bug, android, frontend"
+melange-app/melange,5,mobile/android: Unable to upload profile picture,open,2015-02-06T20:28:40Z,,"bug, android"
+melange-app/melange,3,Messages duplicated on Windows,open,2014-11-22T02:00:12Z,,"bug, desktop"
+melange-app/melange,2,Messages show up out of order when app is switched,open,2014-11-22T01:59:08Z,,"bug, desktop"
+argilo/BusFollower,9,IllegalArgumentException crashes,open,2013-03-06T18:51:46Z,,bug
+argilo/BusFollower,8,Crash on startup,open,2013-03-06T18:47:41Z,,bug
+argilo/BusFollower,4,Crash when typing stop name,closed,2012-06-18T22:42:38Z,2012-06-21T02:10:26Z,bug
+pnemonic78/RemoveDuplicates,4,Rotate,open,2018-11-18T07:36:29Z,,bug
+pnemonic78/RemoveDuplicates,1,  java.lang.SecurityException  in android.os.Parcel.readException,closed,2017-02-23T21:22:01Z,2017-02-25T18:24:43Z,bug
+Divendo/math-dragon,170,Crash when undoing / redoing arctan,closed,2014-02-14T20:31:10Z,2016-07-27T17:24:35Z,bug
+Divendo/math-dragon,168,Substitution warning isn't shown at the right times,closed,2014-02-09T15:25:39Z,2016-07-27T17:24:35Z,bug
+Divendo/math-dragon,166,Save under name text box in the favourites dialog accepts multiple lines,closed,2014-02-05T20:57:38Z,2014-02-06T19:48:22Z,"bug, Local fix"
+Divendo/math-dragon,164,Bug when approximating sqrt(9x)/pi,closed,2014-01-31T13:04:49Z,2016-07-27T17:24:35Z,bug
+Divendo/math-dragon,163,About dialog layout is broken on phone landscape mode,closed,2014-01-31T12:59:41Z,2014-02-06T19:48:22Z,"bug, Local fix"
+Divendo/math-dragon,159,Trigonometric expression evaluated wrongly,closed,2014-01-26T19:08:37Z,2014-02-06T10:45:16Z,"bug, Fixed, Local fix"
+Divendo/math-dragon,157,Fractions evaluated wrongly,closed,2014-01-26T18:46:42Z,2016-08-17T22:13:41Z,bug
+Divendo/math-dragon,141,Power with large exponent evaluates to gibberish,closed,2014-01-22T14:27:35Z,2014-01-22T23:39:18Z,"bug, Local fix"
+Divendo/math-dragon,129,"sending i to WA leads to iota, not to i(imaginary unit)",closed,2014-01-21T15:44:15Z,2014-01-21T16:54:54Z,"bug, Local fix"
+Divendo/math-dragon,128,"When using the - operator, keyboard marks this as a +",closed,2014-01-21T15:36:08Z,2014-01-21T17:20:29Z,"bug, Local fix"
+Divendo/math-dragon,125,Approximating complex integrals crashes the app,closed,2014-01-21T14:13:30Z,2014-01-21T20:46:49Z,"bug, Local fix"
+Divendo/math-dragon,124,Evaluating unsolvable integrals crash the app,closed,2014-01-21T14:09:10Z,2014-01-21T16:54:54Z,"bug, Local fix"
+Divendo/math-dragon,121,sin(7x) becomes sin(7*x),closed,2014-01-21T11:19:31Z,2014-01-22T21:49:08Z,"bug, Fixed, Local fix, Beautifier"
+Divendo/math-dragon,120,Operation source drawer tab state of rotation,closed,2014-01-20T22:33:35Z,2014-01-21T12:51:50Z,"bug, Local fix"
+Divendo/math-dragon,117,Floating point rounding errors,closed,2014-01-20T13:24:28Z,2014-01-22T22:52:08Z,"bug, invalid"
+Divendo/math-dragon,116,Orientation change messes up rendering of warning dialog,closed,2014-01-20T12:24:11Z,2014-01-20T15:38:58Z,"bug, Local fix"
+Divendo/math-dragon,98,Roots of immaginative numbers,closed,2014-01-16T00:24:37Z,2014-01-16T22:32:49Z,"bug, Local fix, ModelHelper"
+Divendo/math-dragon,97,Differentiate,closed,2014-01-16T00:19:18Z,2014-01-16T22:32:49Z,"bug, Local fix, ModelHelper"
+Divendo/math-dragon,96,Infinity loop when substituting variables for variables,closed,2014-01-15T16:31:00Z,2014-01-19T15:44:44Z,"bug, Local fix"
+Divendo/math-dragon,81,Able to severely glitch integral,closed,2014-01-13T19:13:53Z,2014-01-23T13:02:01Z,"bug, invalid"
+Divendo/math-dragon,80,Divide a Divide misplacement ,closed,2014-01-13T18:32:34Z,2014-01-15T16:40:20Z,"bug, Fixed, Local fix"
+Divendo/math-dragon,78,Integral with composite variables do not return a value,closed,2014-01-12T15:06:17Z,2014-01-15T11:50:56Z,"bug, Local fix"
+Divendo/math-dragon,77,Integrals not trivially solvable crash the app,closed,2014-01-12T14:57:35Z,2014-01-19T17:22:28Z,"bug, Local fix"
+Divendo/math-dragon,76,Multiplication breaks zoom-out,closed,2014-01-12T14:54:10Z,2014-01-20T23:08:12Z,"bug, Fixed, Local fix"
+Divendo/math-dragon,68,Parentheses missing,closed,2014-01-09T09:01:18Z,2014-01-09T20:06:30Z,"bug, Local fix"
+Divendo/math-dragon,62,Dragging crashed app sometimes,closed,2014-01-07T18:48:05Z,2014-01-08T16:35:47Z,"bug, Fixed, Todo"
+Divendo/math-dragon,59,Need a minus on the keyboard,closed,2014-01-07T15:30:00Z,2014-01-14T15:47:28Z,bug
+Divendo/math-dragon,56,ModelHelper wrongly interprets 4x^2 (or expressions like that),closed,2014-01-03T00:55:23Z,2014-01-07T23:28:46Z,"bug, Fixed"
+Divendo/math-dragon,55,ModelHelper doesn't understand the imaginary unit,closed,2014-01-03T00:38:01Z,2014-01-09T16:13:01Z,"bug, Fixed"
+Divendo/math-dragon,50,The source views of the sinusoids draw the wrong image,closed,2014-01-01T17:44:35Z,2014-01-08T16:35:58Z,"bug, Fixed"
+Divendo/math-dragon,49,Something is wrong with the placement of the children of sinusoids,closed,2014-01-01T17:43:17Z,2014-01-07T23:32:56Z,"bug, Fixed"
+Divendo/math-dragon,43,Crash on too large numbers,closed,2013-12-30T14:12:30Z,2014-01-19T15:19:09Z,"bug, Local fix"
+Divendo/math-dragon,39,Text bounding too large,closed,2013-12-30T12:27:47Z,2014-01-08T16:43:50Z,"bug, Fixed"
+Divendo/math-dragon,36,Kebyoard bug,closed,2013-12-28T17:30:50Z,2013-12-29T00:06:33Z,"bug, Fixed"
+Divendo/math-dragon,26,Modelhelper leaves out operands of a multiplication,closed,2013-12-20T11:56:44Z,2013-12-30T16:58:01Z,"bug, Fixed"
+Divendo/math-dragon,22,Pi and e allow divide by 0,closed,2013-12-15T12:21:54Z,2013-12-30T13:34:58Z,"bug, Fixed"
+Divendo/math-dragon,20,Evaluate can only handle TWO different constants,closed,2013-12-13T17:32:41Z,2013-12-15T16:13:27Z,"bug, Fixed"
+Divendo/math-dragon,18,wrong output when calculating pi + 2/pi,closed,2013-12-13T15:28:57Z,2013-12-18T09:23:47Z,"bug, Fixed"
+Divendo/math-dragon,16,Applying + on - should impose brackets.,closed,2013-12-13T11:25:10Z,2013-12-15T14:08:17Z,"bug, Fixed"
+murgo/IrssiNotifier,179,IrssiNotifier+ duplicate messages,closed,2016-02-23T16:31:19Z,2016-03-25T23:27:15Z,"android, server, bug"
+murgo/IrssiNotifier,173,Upgrade date on web site is reset on every install,closed,2015-03-26T10:14:41Z,2016-03-25T23:58:11Z,"server, bug"
+murgo/IrssiNotifier,171,"Clarify what ""Query yourself"" means",closed,2015-01-29T08:46:33Z,2016-03-26T00:16:28Z,"bug, web"
+murgo/IrssiNotifier,159,Getting duplicate notifications for every hilight,closed,2013-11-22T04:01:22Z,2014-04-03T16:57:01Z,bug
+murgo/IrssiNotifier,154,Can't locate package Irssi::Nick for @Irssi::Irc::Nick::ISA,closed,2013-08-10T11:48:46Z,2014-04-03T23:42:18Z,"irssiscript, bug"
+murgo/IrssiNotifier,153,Download script timed out,closed,2013-08-03T22:31:41Z,2014-04-03T16:56:39Z,bug
+murgo/IrssiNotifier,149,Random null pointer exceptions for somebody,closed,2013-06-12T08:27:48Z,2016-03-26T00:19:50Z,"android, bug"
+murgo/IrssiNotifier,143,App broken with 2.x,closed,2013-05-24T07:53:18Z,2013-05-24T20:10:43Z,"android, bug"
+murgo/IrssiNotifier,142,Licensing is broken with real market,closed,2013-05-24T07:53:00Z,2013-05-24T20:10:43Z,"android, bug"
+murgo/IrssiNotifier,139,No notifications from Android app,closed,2013-05-14T07:16:41Z,2013-05-22T19:44:04Z,"server, bug"
+murgo/IrssiNotifier,136,Notifications are broken on Android 3.2,closed,2013-04-15T20:20:18Z,2013-04-16T10:25:05Z,"android, bug"
+murgo/IrssiNotifier,135,Refreshing the window takes too long,closed,2013-04-10T12:41:50Z,2013-04-17T01:01:03Z,"android, bug"
+murgo/IrssiNotifier,131,hilight for JOINS is not notified,closed,2013-03-24T14:15:06Z,2013-04-01T02:17:59Z,"irssiscript, bug"
+murgo/IrssiNotifier,129,Fix that annoying error about having to reselect google account etc,closed,2013-03-18T22:18:26Z,2013-04-17T23:53:52Z,"android, bug"
+murgo/IrssiNotifier,120,Notified of wrong message,closed,2013-01-30T01:58:05Z,2013-04-15T23:03:45Z,"irssiscript, bug"
+murgo/IrssiNotifier,119,Decryption error occurs on newest version of IrssiNotification script,closed,2013-01-05T16:05:54Z,2013-04-01T18:58:22Z,"irssiscript, bug"
+murgo/IrssiNotifier,116,Treat different casing in the channel names as equal,closed,2012-10-27T16:50:17Z,2013-04-16T02:19:48Z,"android, bug"
+murgo/IrssiNotifier,113,Bottom line isn't always visible,closed,2012-09-25T18:26:00Z,2013-03-16T23:58:58Z,"android, bug"
+murgo/IrssiNotifier,111,IrssiNotifier crashes for one user when clearing notifications,closed,2012-09-14T18:07:32Z,2012-09-25T22:47:58Z,"android, bug"
+murgo/IrssiNotifier,108,Remove hardcoded paths,closed,2012-09-12T17:40:40Z,2012-09-25T19:07:51Z,"irssiscript, bug"
+murgo/IrssiNotifier,107,Settings colors behave strangely,closed,2012-09-12T07:43:18Z,2012-09-25T22:48:48Z,"android, bug"
+murgo/IrssiNotifier,106,Selecting notification sound FC's,closed,2012-09-12T07:42:39Z,2012-09-25T22:48:29Z,"android, bug"
+murgo/IrssiNotifier,105,Add retry to GCM registration,open,2012-09-10T12:44:55Z,,"android, bug"
+murgo/IrssiNotifier,103,Check that token with the canonical id doesn't exist before updating,closed,2012-09-10T12:30:57Z,2012-09-10T23:03:29Z,"server, bug"
+murgo/IrssiNotifier,102,Long-pressing channel in settings gives wrong name,closed,2012-09-09T04:09:54Z,2012-09-10T00:28:06Z,"android, bug"
+murgo/IrssiNotifier,100,ICB-icon shows up wrong sized,closed,2012-09-06T08:06:43Z,2012-09-08T21:38:45Z,"android, bug"
+murgo/IrssiNotifier,99,Fix new problems from Google Play statistics,closed,2012-09-05T23:24:31Z,2012-09-08T22:39:24Z,"android, bug"
+murgo/IrssiNotifier,90,Leaving from the app with the back button sometimes breaks notifications,closed,2012-08-01T06:38:25Z,2012-09-08T21:43:36Z,"android, bug"
+murgo/IrssiNotifier,85,DCC chats doesn't work,closed,2012-06-14T08:45:00Z,2012-09-05T23:14:38Z,"irssiscript, bug"
+murgo/IrssiNotifier,84,Android app sometimes show welcome screen even when settings are saved,closed,2012-05-24T09:38:06Z,2012-09-08T21:21:57Z,"android, bug"
+murgo/IrssiNotifier,82,Led notification is broken,closed,2012-05-08T13:45:16Z,2012-09-05T23:14:50Z,"android, bug"
+murgo/IrssiNotifier,81,Android app doesn't always automatically refresh,closed,2012-05-08T09:22:53Z,2012-09-09T03:06:31Z,"android, bug"
+murgo/IrssiNotifier,75,Moar server issues,closed,2012-04-11T17:22:56Z,2012-09-04T01:59:28Z,"server, bug"
+murgo/IrssiNotifier,74,Android client may get added multiple times when uninstalling and reinstalling,closed,2012-04-11T17:17:24Z,2012-09-08T17:10:32Z,"android, server, bug"
+murgo/IrssiNotifier,72,Authentication issues,closed,2012-04-09T19:59:09Z,2012-04-09T20:37:34Z,"android, bug"
+murgo/IrssiNotifier,71,Refreshing window sometimes fails,closed,2012-04-09T19:55:50Z,2012-04-09T22:19:07Z,"android, bug"
+murgo/IrssiNotifier,69,Handle NotRegistered better,closed,2012-03-30T11:51:59Z,2012-04-09T19:51:47Z,"server, bug"
+murgo/IrssiNotifier,66,Actions with hilights fail,closed,2012-03-23T13:11:43Z,2012-04-10T03:37:37Z,"irssiscript, bug"
+murgo/IrssiNotifier,64,App seems to crash if ICB-icon is clicked without ICB being installed,closed,2012-03-22T18:47:38Z,2012-03-22T19:35:34Z,"android, bug"
+murgo/IrssiNotifier,63,Server errors,closed,2012-03-22T14:31:51Z,2012-09-11T18:34:06Z,"server, bug"
+murgo/IrssiNotifier,60,Irssi script shows Authentication Error from all network errors,closed,2012-03-22T14:14:27Z,2012-03-22T18:39:41Z,"irssiscript, bug"
+murgo/IrssiNotifier,59,Encoding issues,closed,2012-03-20T21:24:06Z,2013-03-18T22:04:05Z,"android, server, irssiscript, bug"
+murgo/IrssiNotifier,57,"In the help, require_idle_seconds should be prefixed",closed,2012-03-20T09:06:56Z,2012-03-20T18:37:38Z,"server, bug"
+murgo/IrssiNotifier,56,Special characters wont work in encryption password,closed,2012-03-20T09:05:49Z,2012-03-21T00:28:51Z,bug

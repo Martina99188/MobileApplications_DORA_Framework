@@ -1,0 +1,379 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+nkming2/power-menu,21,Not requesting permission if screenshot triggered from qs tile,closed,2017-02-20T06:07:12Z,2017-02-28T10:01:16Z,bug
+nkming2/power-menu,20,FileUriExposedException on N,closed,2017-02-15T06:33:59Z,2017-02-16T21:17:19Z,bug
+nkming2/power-menu,19,"Toast being inited in AsyncTask, causing crash",closed,2017-02-11T04:33:09Z,2017-02-15T03:22:18Z,bug
+nkming2/power-menu,18,Screenshot loaded as null on some device,closed,2017-01-17T16:14:40Z,2017-10-24T17:29:54Z,bug
+nkming2/power-menu,17,Conflict with permission dialog,closed,2016-11-28T03:48:43Z,2017-02-28T10:03:52Z,bug
+nkming2/power-menu,16,Screenshot may capture the transition,closed,2016-11-04T15:32:31Z,2016-11-18T21:12:46Z,bug
+nkming2/power-menu,15,buildSuSession() is being called repeatedly if failed to get root,closed,2016-09-30T09:55:26Z,2016-11-14T20:46:47Z,bug
+nkming2/power-menu,13,Screenshot in wrong orientation if device is in landscape,closed,2016-04-25T20:31:54Z,2016-04-27T00:28:52Z,bug
+nkming2/power-menu,11,Privileged check is broken on M+,closed,2016-04-24T21:37:25Z,2016-04-25T20:20:13Z,bug
+nkming2/power-menu,10,Removed screenshots are not removed from media store,closed,2016-04-24T21:02:32Z,2016-04-27T17:46:37Z,bug
+nkming2/power-menu,7,NPE if activity ended before su return,closed,2016-01-04T07:54:02Z,2016-04-24T17:52:34Z,bug
+nkming2/power-menu,1,Shadow is clipped on L,closed,2015-04-04T23:28:56Z,2015-04-08T22:36:12Z,bug
+kort/kort-native,63,Internal Server Error - iOS,closed,2018-07-11T23:30:35Z,2018-11-22T02:19:58Z,bug
+kort/kort-native,61,"""There was an error connecting to the server. Please check your connectivity.""",open,2017-12-19T09:10:56Z,,bug
+kort/kort-native,60,Android: requests to backend always throw errors,closed,2017-12-04T08:53:20Z,2017-12-18T10:53:50Z,"bug, critical"
+kort/kort-native,59,Mission can be solved twice when connectivity drops,open,2017-11-03T20:00:47Z,,bug
+kort/kort-native,57,OAuth GMail Login Failure Android,open,2017-10-06T14:02:58Z,,bug
+kort/kort-native,52,Incorrect day highscore,open,2017-10-05T06:21:09Z,,bug
+kort/kort-native,50,App crashes,open,2017-10-02T08:20:18Z,,bug
+kort/kort-native,43,Street without a name quest for building,open,2017-10-01T17:39:49Z,,bug
+kort/kort-native,42,Decode HTML entities in feature name,open,2017-09-25T19:38:02Z,,bug
+siempredelao/Distance-From-Me-Android,50,Profile chart is not shown,closed,2019-07-13T09:40:42Z,2019-11-18T15:40:29Z,bug
+siempredelao/Distance-From-Me-Android,30,Dismiss searchview animation,open,2016-05-05T06:52:14Z,,bug
+tobykurien/WebApps,252,Webapp trusts unknown certs automatically although i canceled cert warns,open,2021-05-02T09:57:39Z,,"bug, high priority"
+tobykurien/WebApps,188,"Icon not saved when webapp saved for the first time, also header colour only applies after the icon is saved (3rd load of webapp)",closed,2020-05-25T17:18:25Z,2020-11-03T13:31:55Z,bug
+tobykurien/WebApps,175,Cookies for Tweakers.net,open,2020-03-17T13:51:50Z,,bug
+tobykurien/WebApps,174,Opening one webapp seems to temporarily remove other webapp's cookies,closed,2020-03-12T17:50:48Z,2020-03-31T11:06:26Z,bug
+tobykurien/WebApps,172,WebApps don't prevent screen time-out when playing fullscreen video. They do when watching video in normal browsing mode.,closed,2020-03-10T16:41:55Z,2020-11-17T07:50:31Z,bug
+tobykurien/WebApps,138,translate.google.com Does Not Work,closed,2019-04-15T04:47:19Z,2020-12-30T07:50:50Z,bug
+tobykurien/WebApps,125,Webapp not found error on different languages,open,2018-09-21T14:23:38Z,,bug
+tobykurien/WebApps,118,Webapp uses wrong icon,closed,2018-07-24T23:23:48Z,2018-07-25T17:43:23Z,bug
+tobykurien/WebApps,100,Added to Homescreen Issue,closed,2018-04-29T22:25:48Z,2018-05-22T07:32:58Z,bug
+tobykurien/WebApps,92,Clicking a phone number link crashes app,closed,2018-03-06T11:37:07Z,2018-05-22T07:51:53Z,bug
+tobykurien/WebApps,72,3rd party whitelist not persistent anymore,closed,2017-02-15T12:53:28Z,2017-02-18T16:40:29Z,bug
+tobykurien/WebApps,56,Uploading from camera doesn't work,closed,2016-12-04T08:38:25Z,2020-11-16T06:21:06Z,bug
+tobykurien/WebApps,46,"""Homescreen shortcut"" crashes the app",closed,2016-04-05T21:35:19Z,2016-10-11T11:43:45Z,bug
+tobykurien/WebApps,40,WebApps crash when pasting a URL into Facebook (desktop) status text area,closed,2016-02-22T11:31:53Z,2016-03-30T14:53:49Z,bug
+tobykurien/WebApps,35,Deleted webapp's desktop shortcut causes an exception,closed,2016-01-06T22:52:03Z,2016-03-30T14:54:05Z,bug
+tobykurien/WebApps,31,Bug: favicons not deleted from cache after deleting webapp,closed,2015-10-13T06:15:47Z,2016-03-30T14:54:19Z,bug
+tobykurien/WebApps,3,Cookies are passed between sandboxes,closed,2014-05-12T21:39:11Z,2018-02-13T09:59:50Z,bug
+djschilling/sopa,67,Musikbug in ShareScore,closed,2015-09-20T07:19:06Z,2015-09-20T10:01:32Z,bug
+djschilling/sopa,62,Current Moves zeigt letzten Move nicht an,closed,2015-09-04T09:10:49Z,2015-09-04T10:40:26Z,bug
+djschilling/sopa,61,Justplay: Bei Neustart zählt Zeit nicht mehr weiter,closed,2015-09-04T09:08:03Z,2015-09-04T10:34:30Z,bug
+djschilling/sopa,58,Absturz der App,closed,2015-03-13T02:29:10Z,2015-03-26T17:58:38Z,bug
+djschilling/sopa,51,Rechtschreibfehler Scorescreen,closed,2015-03-04T07:42:04Z,2015-03-04T16:33:22Z,bug
+djschilling/sopa,49,Tutorial-Scene: App stürzt ab,closed,2015-03-03T22:12:50Z,2015-03-03T22:19:14Z,bug
+djschilling/sopa,40,Level 100 falsche Minimalzüge,closed,2015-03-01T19:09:41Z,2015-03-02T15:02:36Z,bug
+djschilling/sopa,37,Absturz nach Level 43,closed,2015-03-01T18:43:05Z,2015-03-01T18:50:14Z,bug
+djschilling/sopa,36,Nach Minimieren Musik im Level,closed,2015-02-28T19:14:47Z,2015-03-03T01:02:34Z,bug
+djschilling/sopa,34,Musik und Musik-Button inkonsistent,closed,2015-02-28T18:07:13Z,2015-03-03T01:25:30Z,bug
+djschilling/sopa,33,ScoreScreen zeigt die beste Sternenanzahl an,closed,2015-02-27T11:38:45Z,2015-02-27T12:32:58Z,bug
+djschilling/sopa,28,Korrupte Level austauschen,closed,2015-02-26T21:46:36Z,2015-03-09T00:53:13Z,bug
+djschilling/sopa,25,Levelchoice springt an falschen Screen,closed,2015-02-26T14:13:51Z,2015-02-26T14:30:10Z,bug
+djschilling/sopa,15,App startet in Landscape nicht,closed,2015-02-23T21:02:47Z,2015-02-24T14:44:17Z,bug
+tzulberti/archery-training,298,Full text not reading,closed,2018-11-03T21:36:42Z,2018-11-03T22:24:21Z,"bug, UI"
+tzulberti/archery-training,287,Validate values when starting retentions,closed,2018-07-13T02:58:25Z,2018-07-13T03:14:22Z,bug
+tzulberti/archery-training,283,Error while closing or back on retentions,closed,2018-07-13T02:27:23Z,2018-07-13T02:48:39Z,bug
+tzulberti/archery-training,240,Adding new serie when editing a tournament,closed,2018-04-01T20:46:52Z,2018-04-01T21:16:28Z,bug
+tzulberti/archery-training,236,Error showing totals on tournaments,closed,2018-04-01T20:20:51Z,2018-04-01T20:31:37Z,bug
+tzulberti/archery-training,234,Validate opponent score on playoff,closed,2018-01-20T02:41:07Z,2018-04-01T20:17:54Z,bug
+tzulberti/archery-training,229,Configure sentry using ProGuard,open,2017-09-29T20:56:00Z,,bug
+tzulberti/archery-training,224,Undoing all arrows and wrong max score,closed,2017-09-07T00:49:03Z,2017-09-07T01:29:59Z,"bug, UI"
+tzulberti/archery-training,218,Moved undo button on playoff,closed,2017-09-01T23:42:05Z,2017-09-01T23:44:58Z,"bug, UI"
+tzulberti/archery-training,215,Playoff serie total over 30 instead of 60,closed,2017-09-01T23:33:55Z,2017-09-01T23:39:40Z,bug
+tzulberti/archery-training,203,Close opened cursors,closed,2017-08-05T21:10:47Z,2017-09-28T22:24:41Z,bug
+tzulberti/archery-training,198,Tournament constrains max score,closed,2017-08-04T10:45:50Z,2017-08-08T11:01:45Z,bug
+tzulberti/archery-training,193,Error when checking previous serie,closed,2017-08-02T02:29:25Z,2017-08-02T02:37:55Z,bug
+tzulberti/archery-training,190,Error while viewing stats and empty serie,closed,2017-08-02T02:04:38Z,2017-08-02T02:13:42Z,bug
+tzulberti/archery-training,186,Use empty ids between Tournament constrains,closed,2017-08-02T01:53:05Z,2017-08-02T01:56:22Z,"bug, Code enhacement"
+tzulberti/archery-training,183,Arrow score from center,open,2017-07-30T17:41:32Z,,bug
+tzulberti/archery-training,176,Refresh activity when going back,open,2017-07-30T13:07:50Z,,bug
+tzulberti/archery-training,163,Background color on retentions,open,2017-06-27T10:41:47Z,,"bug, UI"
+tzulberti/archery-training,162,Bigger counter font size on retentions,closed,2017-06-27T10:40:38Z,2017-06-29T00:40:51Z,"bug, UI"
+tzulberti/archery-training,156,Back button not stopping retentions,closed,2017-06-27T02:09:35Z,2017-06-27T02:25:04Z,bug
+tzulberti/archery-training,155,xAxis Values too near,open,2017-06-27T01:56:48Z,,"bug, UI"
+tzulberti/archery-training,141,Not sorting arrows by score,closed,2017-06-22T00:23:38Z,2017-06-22T00:32:02Z,bug
+tzulberti/archery-training,138,Error when checking training data and there is no info,closed,2017-06-21T23:48:33Z,2017-06-21T23:54:00Z,bug
+tzulberti/archery-training,137,Missing serie,closed,2017-06-21T23:47:36Z,2017-06-22T00:22:58Z,bug
+tzulberti/archery-training,136,Spanish text on spanish devices,closed,2017-06-18T01:47:44Z,2017-06-22T00:44:50Z,bug
+tzulberti/archery-training,131,Use java 1.8 to compile,closed,2017-06-14T02:16:18Z,2017-06-14T02:28:37Z,bug
+tzulberti/archery-training,127,Undo removes green border,closed,2017-06-11T21:34:26Z,2017-08-02T10:44:52Z,"bug, UI"
+tzulberti/archery-training,121,On playoff the total score is over 60,closed,2017-06-11T19:25:53Z,2017-06-11T21:14:51Z,bug
+tzulberti/archery-training,118,View tournament impact with just one serie,closed,2017-06-11T19:12:13Z,2017-06-11T21:21:02Z,bug
+tzulberti/archery-training,116,Error while checking tournament all impacts,closed,2017-06-11T18:57:06Z,2017-06-11T19:14:04Z,bug
+tzulberti/archery-training,114,Checking playoff serie impacts changes computer opponent score,closed,2017-06-11T03:03:53Z,2017-06-11T19:23:44Z,bug
+tzulberti/archery-training,113,Undoing and no arrows,closed,2017-06-11T03:02:26Z,2017-06-11T19:06:09Z,bug
+tzulberti/archery-training,112,Undo arrow doesn't remove target impact,closed,2017-06-11T03:01:51Z,2017-06-11T21:32:16Z,bug
+tzulberti/archery-training,105,Stop button on retentions not working,closed,2017-06-10T11:33:42Z,2017-06-27T02:12:27Z,bug
+tzulberti/archery-training,99,Url includes testing,closed,2017-06-09T10:54:07Z,2017-06-09T11:18:53Z,bug
+tzulberti/archery-training,98,Todays series showing wrong total,closed,2017-06-09T10:52:40Z,2017-06-09T10:58:04Z,bug
+tzulberti/archery-training,96,Activate ForeignKeys,closed,2017-06-07T21:14:41Z,2017-06-09T11:06:12Z,bug
+tzulberti/archery-training,93,Back button and double series information,closed,2017-06-07T11:39:13Z,2017-06-07T11:53:31Z,bug
+tzulberti/archery-training,73,Creating serie tournament and back button,closed,2017-05-27T12:01:43Z,2017-05-30T00:03:37Z,bug
+tzulberti/archery-training,70,Checking previous serie when creating tournament,closed,2017-05-27T11:41:39Z,2017-05-27T12:00:03Z,bug
+tzulberti/archery-training,68,Order arrows isX is more than 10,closed,2017-05-27T03:21:11Z,2017-05-27T11:43:02Z,bug
+tzulberti/archery-training,66,Back on creating tournament,closed,2017-05-27T02:48:35Z,2017-05-28T09:03:30Z,bug
+tzulberti/archery-training,65,Disable button to get chart information if no series,closed,2017-05-27T02:42:40Z,2017-05-29T10:40:26Z,bug
+tzulberti/archery-training,59,Error when returning from tournament information,closed,2017-05-27T01:03:05Z,2017-05-27T02:30:25Z,bug
+tzulberti/archery-training,50,All impacts not showing where they took place,closed,2017-05-27T00:31:44Z,2017-05-27T00:33:20Z,bug
+tzulberti/archery-training,41,Limit the max number of series inside a tournament,closed,2017-05-25T12:47:39Z,2017-05-25T13:13:04Z,bug
+tzulberti/archery-training,34,Change UI for tournaments/tournamentseries,closed,2017-05-24T00:28:06Z,2017-05-25T12:45:17Z,"bug, UI"
+tzulberti/archery-training,32,Change empty app,closed,2017-05-23T19:10:08Z,2017-05-24T10:36:27Z,bug
+tzulberti/archery-training,31,Save tournament series as series,closed,2017-05-23T19:09:26Z,2017-05-27T00:41:54Z,bug
+tzulberti/archery-training,26,Switching apps,closed,2017-05-23T14:38:51Z,2017-05-25T12:20:46Z,bug
+tzulberti/archery-training,25,History not working,closed,2017-05-23T14:37:28Z,2017-05-25T12:19:18Z,bug
+tzulberti/archery-training,24,"When creating a new tournament serie, the keyboard is still shown",closed,2017-05-23T01:51:05Z,2017-05-30T01:11:13Z,bug
+tzulberti/archery-training,23,Add column to indicate if arrow was X,closed,2017-05-23T01:32:25Z,2017-05-27T00:53:35Z,bug
+tzulberti/archery-training,3,No error message on empty input on todays training,closed,2017-05-17T02:34:29Z,2017-05-30T00:52:22Z,bug
+tzulberti/archery-training,2,Error while changing rotation on retentions,open,2017-05-17T02:33:11Z,,bug
+tzulberti/archery-training,1,Error on target when using landscape,open,2017-05-17T02:31:39Z,,bug
+project-icarus/icarus-atc,17,No limit to Altitude,open,2017-06-05T16:06:40Z,,bug
+project-icarus/icarus-atc,16,Game Crashes on Bug,open,2017-06-02T19:47:48Z,,bug
+project-icarus/icarus-atc,15,Altitude numbers for 1 and 6 sometimes expand past their boundaries,open,2017-06-02T19:46:56Z,,bug
+pedrovgs/DraggablePanel,123,Can't convert value at index 5 to dimension: type=0x12,open,2017-05-29T13:08:34Z,,bug
+pedrovgs/DraggablePanel,110,YouTube video playback stopped due to unauthorized overlay on top of player ,open,2016-12-25T10:47:45Z,,bug
+pedrovgs/DraggablePanel,106,Touchable area of minimized dragview does not fit view,open,2016-12-06T19:47:23Z,,bug
+pedrovgs/DraggablePanel,94,Draggable view not sliding horizontally if used with swipable tabbed activity,open,2016-05-30T12:35:13Z,,bug
+pedrovgs/DraggablePanel,76,Error position DraggablePanel when landscape mode !!! ,open,2015-11-24T02:51:45Z,,bug
+pedrovgs/DraggablePanel,75,Dynamic change TopFragment's layout after calling initializeView,open,2015-11-16T22:40:02Z,,bug
+pedrovgs/DraggablePanel,47,PointerIndex out of range,open,2015-02-05T13:45:15Z,,bug
+pedrovgs/DraggablePanel,31,Facing Array index out of bound Exception,open,2014-12-10T14:17:41Z,,"bug, question"
+pedrovgs/DraggablePanel,22,DraggablePanel using resize transformer does not support landscape mode.,open,2014-11-13T11:43:44Z,,bug
+pedrovgs/DraggablePanel,21,DraggablePanel using ResizeTransformer goes below the screen and is half hidden.,closed,2014-11-13T11:29:10Z,2014-12-06T13:13:24Z,bug
+pedrovgs/DraggablePanel,20,Draggable view is not working as expected  in minimized state when moving left or right.,closed,2014-11-11T12:36:09Z,2014-12-05T14:24:57Z,bug
+pedrovgs/DraggablePanel,12,DraggablePanel and VideoPlayer usage generates some empty spaces between dragged view and second view.,closed,2014-10-17T10:36:21Z,2015-01-27T22:58:59Z,bug
+buddycloud/buddycloud-android,166,Unfollow own channel - shouldn't be shown,open,2015-03-09T08:14:50Z,,bug
+buddycloud/buddycloud-android,165,"Change the ""Email"" caption to ""username@domain.com"" on password reset screen.",closed,2015-03-09T01:18:28Z,2015-03-10T16:42:14Z,bug
+buddycloud/buddycloud-android,150,Subscriptions don't load,closed,2014-10-29T11:00:46Z,2015-01-22T16:47:29Z,bug
+buddycloud/buddycloud-android,148,DNS discovery needs update,closed,2014-05-12T11:26:28Z,2015-01-22T16:41:14Z,bug
+buddycloud/buddycloud-android,145,"""Not enough screenshots"" ",closed,2014-04-08T09:41:38Z,2015-01-27T11:51:09Z,bug
+buddycloud/buddycloud-android,143,Notifications: Clear new posts when channel is read,open,2014-01-14T14:27:31Z,,bug
+buddycloud/buddycloud-android,141,"Notifications: When receiving a notification for multiple posts, unread counters for my own channel disappear",closed,2014-01-13T13:54:09Z,2014-01-14T14:15:57Z,bug
+buddycloud/buddycloud-android,127,LoginActivity: Back button should not get the user to the MainActivity,closed,2013-12-13T18:16:32Z,2013-12-13T19:44:05Z,bug
+buddycloud/buddycloud-android,119,Post to /api//content/posts issue?,closed,2013-12-12T16:33:30Z,2015-03-06T18:37:05Z,bug
+buddycloud/buddycloud-android,116,"If certificates become invalid after login, we should display a warning",open,2013-12-12T12:56:45Z,,bug
+buddycloud/buddycloud-android,115,Unread counters: Post count increases when app launches even if there's no new post,closed,2013-12-10T23:12:46Z,2013-12-11T22:01:59Z,bug
+buddycloud/buddycloud-android,114,Backstack: Weird behaviour,closed,2013-12-10T23:11:22Z,2013-12-12T22:21:29Z,bug
+buddycloud/buddycloud-android,112,ShareIntent: Clicking twice in the channel field does not open the SearchActivity,closed,2013-12-10T18:38:05Z,2013-12-10T20:06:27Z,bug
+buddycloud/buddycloud-android,111,ShareIntent: Sharing images from backups doesn't work,closed,2013-12-10T18:35:50Z,2013-12-10T21:35:50Z,bug
+buddycloud/buddycloud-android,109,"Sharing intent shouldn't be called ""Post preview""",closed,2013-12-10T18:09:46Z,2013-12-10T18:30:53Z,bug
+buddycloud/buddycloud-android,106,Normalize URLs with spaces,closed,2013-11-28T15:15:33Z,2013-12-10T14:54:39Z,bug
+buddycloud/buddycloud-android,103,my own posts (from other clients) are added to the unread counter,closed,2013-11-28T08:36:36Z,2013-12-13T19:44:50Z,"bug, duplicate"
+buddycloud/buddycloud-android,100,Following a channel doesn't seem to change the subscribed channels list,closed,2013-11-27T13:26:40Z,2013-11-27T16:39:07Z,bug
+buddycloud/buddycloud-android,88,Duplicate posts ,closed,2013-10-12T14:15:53Z,2013-12-10T18:09:08Z,bug
+buddycloud/buddycloud-android,83,SSL issue during signup,closed,2013-09-23T15:27:40Z,2013-11-18T13:03:18Z,bug
+buddycloud/buddycloud-android,82,Recurrent startup issue seen in Play reports,closed,2013-09-16T14:07:19Z,2013-09-16T14:58:16Z,bug
+buddycloud/buddycloud-android,80,posts not being stored,closed,2013-09-14T16:55:35Z,2014-01-09T17:43:04Z,bug
+buddycloud/buddycloud-android,78,Format for ISO 8601 not working with time zones,closed,2013-09-10T13:17:44Z,2013-09-10T13:19:55Z,bug
+buddycloud/buddycloud-android,77,sharing for text links doesn't seem to work,closed,2013-09-10T11:43:42Z,2013-09-27T22:10:16Z,bug
+buddycloud/buddycloud-android,75,push notfications not triggering a sync,closed,2013-09-10T09:06:50Z,2013-09-10T13:38:09Z,bug
+buddycloud/buddycloud-android,74,reuse existing sessions,closed,2013-09-06T16:03:16Z,2013-09-13T18:41:31Z,"bug, time to glass"
+buddycloud/buddycloud-android,73,Missing sidebar for sek@buddycloud.org,closed,2013-08-27T19:33:43Z,2013-09-15T22:07:10Z,bug
+buddycloud/buddycloud-android,71,"Media posts with no content are printed as ""null""",closed,2013-08-26T15:18:27Z,2013-08-26T15:28:27Z,bug
+buddycloud/buddycloud-android,67,Unread counters not being reset,closed,2013-08-20T14:20:50Z,2013-08-27T14:53:06Z,bug
+buddycloud/buddycloud-android,66,App closes when the user opens the details activity for certain channels,closed,2013-08-08T21:25:48Z,2013-08-18T20:01:53Z,bug
+buddycloud/buddycloud-android,52,Respect the line feed,closed,2013-07-15T09:29:56Z,2013-08-18T18:21:52Z,bug
+buddycloud/buddycloud-android,50,Slightly confusing navigation / back arrow action,closed,2013-07-10T19:44:35Z,2013-09-12T03:06:00Z,bug
+buddycloud/buddycloud-android,38,ArrayIndexOutOfBoundsException during login,closed,2013-07-08T12:56:30Z,2013-07-08T13:42:33Z,bug
+buddycloud/buddycloud-android,36,Post timestamps are two hours behind,closed,2013-07-04T16:09:05Z,2013-07-08T13:20:58Z,bug
+buddycloud/buddycloud-android,26,Ensure post ordering,closed,2013-06-27T17:22:33Z,2013-07-08T13:47:32Z,bug
+buddycloud/buddycloud-android,24,Investigate strange behaviour when inflating views inside ListView,closed,2013-06-27T16:32:48Z,2013-07-19T17:26:55Z,bug
+buddycloud/buddycloud-android,20,Typing entries is incredibly slow,closed,2013-04-21T16:28:45Z,2013-06-27T16:28:56Z,bug
+buddycloud/buddycloud-android,13,Crash after registerInGCM() commit,closed,2013-04-06T21:38:44Z,2013-04-16T13:10:47Z,bug
+buddycloud/buddycloud-android,11,Unread counter does not down to zero when viewing a channel,closed,2013-04-05T11:21:14Z,2013-06-27T16:28:56Z,bug
+buddycloud/buddycloud-android,9,If I hit return when I'm viewing a specific topic I unexpectedly exit the app,closed,2013-04-05T11:12:59Z,2013-04-05T13:00:04Z,"bug, duplicate"
+buddycloud/buddycloud-android,3,avoid null posts,closed,2013-03-26T17:12:53Z,2013-04-16T15:25:20Z,bug
+gina-alaska/gina-puffinfeeder-android-viewer,15,Fix Unloaded Drawer NullPointer,closed,2013-08-05T19:00:45Z,2013-08-05T19:28:46Z,bug
+gina-alaska/gina-puffinfeeder-android-viewer,7,NullPointerException after changing size preference in ImageViewFrameActivity,closed,2013-07-30T21:11:11Z,2013-08-05T18:57:15Z,bug
+gina-alaska/gina-puffinfeeder-android-viewer,6,NullPointerException when navigating with the newer/older buttons in ImageViewerFragment,closed,2013-07-30T18:53:10Z,2013-07-30T19:41:38Z,bug
+ojacquemart/vlilleChecker,148,Permission asked in loop in the Maps tab,closed,2024-12-15T21:14:26Z,2024-12-15T22:40:06Z,bug
+ojacquemart/vlilleChecker,140,Information disappear at a certain font size,closed,2020-06-20T07:35:26Z,2022-05-09T21:32:25Z,bug
+ojacquemart/vlilleChecker,139,Unexpected behaviours after a screen orientation change (reported by activity),closed,2019-08-06T13:54:27Z,2022-05-09T21:31:42Z,"bug, good first issue"
+ojacquemart/vlilleChecker,122,Fix toast crash message,closed,2018-10-19T09:33:23Z,2018-10-19T09:52:19Z,"bug, hacktoberfest"
+ojacquemart/vlilleChecker,121,Settings screen crash when app is not initiliazed,closed,2018-10-19T09:32:54Z,2018-10-19T09:52:18Z,"bug, hacktoberfest"
+ojacquemart/vlilleChecker,115,"""passive"" location provider requires ACCESS_FINE_LOCATION permission.",closed,2017-11-06T22:28:14Z,2018-10-19T14:01:57Z,bug
+ojacquemart/vlilleChecker,113,Various issues from tracepot,closed,2017-10-25T21:30:51Z,2017-11-05T23:29:44Z,bug
+ojacquemart/vlilleChecker,110,Transpole api is down,closed,2017-10-25T00:58:50Z,2017-10-25T21:10:52Z,bug
+ojacquemart/vlilleChecker,109,Widget with white text,closed,2017-06-16T21:01:15Z,2017-06-16T21:10:10Z,bug
+ojacquemart/vlilleChecker,106,Update app on f-droid,closed,2017-04-17T16:59:11Z,2017-05-01T06:00:14Z,bug
+ojacquemart/vlilleChecker,104,Api key required on the map,closed,2017-04-01T12:27:06Z,2017-04-02T12:54:49Z,bug
+ojacquemart/vlilleChecker,102,Check stations available though the widgets,closed,2016-09-02T12:21:55Z,2017-04-02T13:07:17Z,"bug, question"
+ojacquemart/vlilleChecker,101,Favorite persistence,closed,2016-08-31T06:54:14Z,2016-08-31T21:43:15Z,bug
+ojacquemart/vlilleChecker,96,Map is not visible on android 6,closed,2016-01-02T10:37:54Z,2016-01-02T19:56:47Z,bug
+ojacquemart/vlilleChecker,91,Logs error during stations update,closed,2015-10-20T21:07:18Z,2015-11-01T17:21:42Z,bug
+ojacquemart/vlilleChecker,90,Station id should not be visible by default,closed,2015-10-20T21:01:08Z,2015-11-01T17:21:19Z,bug
+ojacquemart/vlilleChecker,88,Last update time is always updated,closed,2014-11-19T22:13:44Z,2014-11-20T13:30:23Z,bug
+ojacquemart/vlilleChecker,87,Update process log android.database.sqlite.SQLiteConstraintException,closed,2014-11-19T22:03:45Z,2014-11-20T13:30:23Z,bug
+ojacquemart/vlilleChecker,83,Action bar is not visible in the preference view,closed,2014-11-13T15:29:54Z,2014-11-20T13:30:23Z,bug
+ojacquemart/vlilleChecker,82,Action bar is not visible in the about view,closed,2014-11-13T15:26:35Z,2014-11-20T13:30:23Z,bug
+ojacquemart/vlilleChecker,71,Fix NPE in ContextHelper,closed,2014-05-30T06:50:43Z,2014-09-17T22:09:20Z,bug
+ojacquemart/vlilleChecker,68,Fix ACRA: java.lang.RuntimeException: Unable to start activity ComponentInfo,closed,2013-12-31T08:32:19Z,2014-09-17T22:09:20Z,bug
+ojacquemart/vlilleChecker,65,Credit card label displayed below the scroll bar,closed,2013-12-09T22:59:43Z,2013-12-14T23:33:22Z,bug
+ojacquemart/vlilleChecker,64,java.lang.IllegalStateException: Content view not yet created,closed,2013-11-12T15:59:55Z,2014-04-20T13:54:17Z,"bug, wontfix"
+ojacquemart/vlilleChecker,62,Fix java.lang.IllegalStateException: Content view not yet created,closed,2013-10-03T05:08:07Z,2014-09-17T21:06:53Z,bug
+ojacquemart/vlilleChecker,60,Fix java.util.ConcurrentModificationException,closed,2013-09-15T10:54:58Z,2014-09-22T19:37:28Z,bug
+ojacquemart/vlilleChecker,55,Fix android 7 design,closed,2013-08-24T22:46:47Z,2013-08-25T08:39:41Z,bug
+ojacquemart/vlilleChecker,51,Wrong coordinates passed to make an itinerary,closed,2013-08-19T17:32:42Z,2013-08-21T14:08:29Z,bug
+ojacquemart/vlilleChecker,48,Check network availabilty when update stations,closed,2013-08-19T10:28:11Z,2013-08-19T13:42:44Z,bug
+ojacquemart/vlilleChecker,44,"Map view, progress bar indeterminate not visible on android 2.1",closed,2013-08-17T17:23:01Z,2013-08-17T17:25:16Z,bug
+ojacquemart/vlilleChecker,43,"List view, the buttons bar of the last item is not always visible",closed,2013-08-17T16:24:53Z,2013-08-17T16:26:53Z,bug
+ojacquemart/vlilleChecker,42,"Map view, wrong error message when zoom level <= 15 and location is enabled",closed,2013-08-17T16:13:56Z,2013-08-17T16:15:04Z,bug
+ojacquemart/vlilleChecker,41,"Map view, the location circle overlay is no longer visible",closed,2013-08-17T15:45:15Z,2013-08-17T16:15:04Z,bug
+ojacquemart/vlilleChecker,40,"Map view, change the location circle color",closed,2013-08-17T15:37:21Z,2013-08-17T15:58:47Z,bug
+ojacquemart/vlilleChecker,39,"Settings, change the color of the text for the location distance",closed,2013-08-17T15:36:48Z,2013-08-17T15:58:40Z,bug
+ojacquemart/vlilleChecker,37,"When no network, in the map view tab, overlays disappear",closed,2013-08-14T08:28:23Z,2013-08-14T11:54:06Z,bug
+ojacquemart/vlilleChecker,25,"MapView, the click on the elements are not correctly handled in detailled mode",closed,2013-08-09T07:33:25Z,2013-08-10T13:36:31Z,bug
+ojacquemart/vlilleChecker,16,Unstar station from home doesn't refresh the station list,closed,2012-10-21T07:17:34Z,2012-10-21T07:29:27Z,bug
+ojacquemart/vlilleChecker,15,Change way to initiliaze stations,closed,2012-10-20T06:53:08Z,2012-10-21T20:54:34Z,bug
+ojacquemart/vlilleChecker,4,Maps stars,closed,2012-06-09T20:23:01Z,2012-06-12T20:20:58Z,bug
+aayaffe/SailingRaceCourseManager,128,The login screen appears twice while logging in,closed,2019-02-09T10:03:11Z,2019-03-16T15:26:51Z,"Priority: High, Type: Bug"
+aayaffe/SailingRaceCourseManager,127,First leg length in Windward leeward cruisers - wrong,closed,2019-02-09T09:22:48Z,2019-03-16T15:26:51Z,"Priority: High, Type: Bug"
+aayaffe/SailingRaceCourseManager,126,Event password was not saved,closed,2019-02-09T09:21:01Z,2019-07-05T19:02:49Z,"Priority: High, Type: Bug"
+aayaffe/SailingRaceCourseManager,125,Crashlytics not working,closed,2018-10-06T10:03:28Z,2021-07-31T17:21:09Z,"Priority: High, Type: Bug"
+aayaffe/SailingRaceCourseManager,124,"When entering a new event first as a helper boat, app crashes",closed,2018-10-06T10:02:40Z,2019-03-16T15:26:51Z,"Priority: Critical, Type: Bug"
+aayaffe/SailingRaceCourseManager,121,Boat turns red and stays like it,closed,2017-12-08T18:12:55Z,2023-05-27T10:55:37Z,"Priority: High, Type: Bug"
+aayaffe/SailingRaceCourseManager,120,Buoy assignments disappear ,open,2017-12-03T19:35:09Z,,"Priority: High, Type: Bug"
+aayaffe/SailingRaceCourseManager,117,fix build with sonaqube,closed,2017-12-01T21:54:14Z,2018-06-28T19:50:45Z,"Priority: High, Type: Bug"
+aayaffe/SailingRaceCourseManager,116,Out of range horizontal number picker entry should disable the dialog DONE button,open,2017-11-25T17:04:37Z,,"Priority: Medium, Type: Bug"
+aayaffe/SailingRaceCourseManager,115,Starting the application with a completely empty database,open,2017-10-13T09:39:29Z,,"Priority: Medium, Type: Bug"
+aayaffe/SailingRaceCourseManager,108,Unable to add the Olympic triangle ,closed,2017-06-07T19:44:04Z,2017-06-10T12:57:30Z,"Priority: High, Type: Bug"
+aayaffe/SailingRaceCourseManager,95,When logging out login screen should come up immediately ,closed,2017-02-18T20:14:49Z,2017-12-02T20:25:36Z,"Priority: Medium, Type: Bug"
+aayaffe/SailingRaceCourseManager,90,Admin revoked,closed,2017-01-06T18:29:29Z,2023-05-27T10:56:40Z,"Priority: Critical, Type: Bug"
+aayaffe/SailingRaceCourseManager,87,selected dates not saved,closed,2017-01-06T18:26:31Z,2017-01-27T15:26:31Z,"Priority: High, Type: Bug"
+aayaffe/SailingRaceCourseManager,81,Last finish line is not always deleted when setting a new race course,closed,2016-12-30T08:31:36Z,2017-01-01T21:31:25Z,"Priority: Medium, Type: Bug"
+aayaffe/SailingRaceCourseManager,80,Dialogs are not checked for input correctnes,closed,2016-12-30T08:27:09Z,2017-01-07T18:13:12Z,"Priority: Critical, Type: Bug"
+aayaffe/SailingRaceCourseManager,79,No decimal point input in start line length,closed,2016-12-30T07:56:56Z,2017-01-07T18:13:58Z,"Priority: High, Type: Bug"
+aayaffe/SailingRaceCourseManager,78,Maincourseonputactivity is not adjusted to smaller screen sizes,closed,2016-12-30T07:54:12Z,2017-01-02T19:57:53Z,"Priority: High, Type: Bug"
+aayaffe/SailingRaceCourseManager,77,Event name is not validated,closed,2016-12-30T07:53:14Z,2017-01-01T20:59:28Z,"Priority: Critical, Type: Bug"
+aayaffe/SailingRaceCourseManager,76,GPS updates stops when screen is turned off,closed,2016-12-30T07:52:36Z,2017-01-01T20:59:28Z,"Priority: Critical, Type: Bug"
+aayaffe/SailingRaceCourseManager,70,Horizontal number picker reaches bad values,closed,2016-12-24T20:48:42Z,2017-12-02T19:58:05Z,"Priority: High, Type: Bug"
+aayaffe/SailingRaceCourseManager,69,The same image appears behind different course options,closed,2016-12-24T20:48:03Z,2017-12-02T20:22:56Z,"Priority: Low, Type: Bug"
+aayaffe/SailingRaceCourseManager,68,Application crashes on event deletion,closed,2016-12-23T22:44:51Z,2016-12-25T13:46:02Z,"Priority: High, Type: Bug"
+aayaffe/SailingRaceCourseManager,64,Map zooms to bounds sporadically ,closed,2016-12-21T20:17:55Z,2016-12-24T23:16:27Z,"Priority: Medium, Type: Bug"
+aayaffe/SailingRaceCourseManager,60,Zoom to bounds after screen rotation,open,2016-12-20T21:14:48Z,,"Priority: Low, Type: Bug"
+aayaffe/SailingRaceCourseManager,59,Boat which is was not updated and turned red does revert to original color after update received,closed,2016-12-20T20:45:16Z,2016-12-23T10:50:04Z,"Priority: Medium, Type: Bug"
+aayaffe/SailingRaceCourseManager,58,Slow update of screen. when first starting and later,closed,2016-12-20T20:26:10Z,2017-01-02T21:04:45Z,"Priority: Medium, Type: Bug"
+aayaffe/SailingRaceCourseManager,57,"When pressing an info window, with no GPS available the app crashes",closed,2016-12-20T06:03:05Z,2016-12-20T20:31:15Z,"Priority: Critical, Type: Bug"
+aayaffe/SailingRaceCourseManager,56,zoom to bounds is obscured by tool bar and goto window,open,2016-12-19T19:33:30Z,,"Priority: Low, Type: Bug"
+aayaffe/SailingRaceCourseManager,53,Markers do not appear in the exact position ,closed,2016-12-19T08:37:28Z,2023-05-27T07:33:29Z,"Priority: Low, Type: Bug"
+aayaffe/SailingRaceCourseManager,52,Direction of finish line in race course ie trapezoid is incorrect,closed,2016-12-19T08:30:00Z,2016-12-23T21:44:08Z,"Priority: High, Type: Bug"
+aayaffe/SailingRaceCourseManager,51,Wind defined in a previous run of the system is ignored when setting the race course,closed,2016-12-19T08:28:22Z,2016-12-22T20:31:18Z,"Priority: Medium, Type: Bug"
+aayaffe/SailingRaceCourseManager,50,When first running the app and approving the usage of GPS the map needs to be closed and reopened to work,closed,2016-12-18T21:16:50Z,2016-12-23T21:44:08Z,"Priority: Medium, Type: Bug"
+aayaffe/SailingRaceCourseManager,49,Race course marks disappear and deleted from DB after a while usually after restart,closed,2016-12-18T21:16:04Z,2016-12-20T20:31:15Z,"Priority: Critical, Type: Bug"
+aayaffe/SailingRaceCourseManager,48,Direction and distance window to buoy does not disappear after removal of buoy,closed,2016-12-18T21:15:17Z,2016-12-22T20:31:18Z,"Priority: Low, Type: Bug"
+aayaffe/SailingRaceCourseManager,42,Start line position does not match race committee boat location,closed,2016-12-18T21:08:44Z,2016-12-22T22:11:08Z,"Priority: High, Type: Bug"
+aayaffe/SailingRaceCourseManager,40,Trapezoid is not the correct length for the second leg,closed,2016-12-11T10:19:44Z,2017-02-11T18:02:44Z,"Priority: High, Type: Bug"
+aayaffe/SailingRaceCourseManager,39,Boats deleted from database are not deleted from map,closed,2016-11-19T16:13:23Z,2016-12-18T21:18:33Z,"Priority: High, Type: Bug"
+aayaffe/SailingRaceCourseManager,37,Adjust zoom to bounds for assigned mode (Only top region of screen),open,2016-11-12T20:33:00Z,,"Priority: Low, Type: Bug"
+aayaffe/SailingRaceCourseManager,35,Marks and boats disappear from map when first running the application,closed,2016-11-12T20:09:19Z,2016-12-20T20:31:15Z,"Priority: Critical, Type: Bug"
+aayaffe/SailingRaceCourseManager,34,Marks do not show distance and bearing on the map,closed,2016-11-11T20:17:36Z,2016-12-22T20:31:18Z,"Priority: Medium, Type: Bug"
+aayaffe/SailingRaceCourseManager,26,After changing boat class and adding new race course (when one already existed) the buoys are doubled,closed,2016-04-27T20:08:11Z,2016-12-18T21:18:33Z,"Priority: Medium, Type: Bug"
+fridayideas/daytomato,139,After searching for a location on the map the view becomes permanently slanted,closed,2016-12-02T20:37:37Z,2016-12-11T18:11:29Z,bug
+fridayideas/daytomato,138,Filtering is not entirely functional,closed,2016-12-02T20:35:28Z,2016-12-11T19:03:36Z,bug
+fridayideas/daytomato,137,"App crashes after clicking ""search local trips"" button after clicking back",closed,2016-12-02T07:51:15Z,2016-12-11T19:16:17Z,bug
+fridayideas/daytomato,133,Can only explore current location,closed,2016-11-26T02:08:06Z,2016-12-11T20:06:26Z,bug
+fridayideas/daytomato,129,Profile picture is always null for some google accounts,closed,2016-11-22T23:58:45Z,2016-11-23T00:53:22Z,bug
+fridayideas/daytomato,122,"User can duplicate trip in ""My Trips""",closed,2016-11-18T19:43:25Z,2016-11-20T04:10:01Z,bug
+fridayideas/daytomato,121,"Upvoting pin hides it from ""Local Places""",closed,2016-11-18T19:14:32Z,2016-11-19T17:44:28Z,bug
+fridayideas/daytomato,119,"Drawer profile picture, seeds and pins look squished",closed,2016-11-16T07:12:56Z,2016-11-16T07:21:00Z,bug
+fridayideas/daytomato,118,Black selection popup when adding a photo to a pin,closed,2016-11-16T06:23:47Z,2016-12-11T21:28:31Z,bug
+fridayideas/daytomato,79,Liking/Disliking Trips Crashes app,closed,2016-10-28T17:29:04Z,2016-11-02T22:22:00Z,bug
+fridayideas/daytomato,78,Update android manifest to only allow portrait view,closed,2016-10-28T05:36:17Z,2016-10-28T23:06:12Z,bug
+fridayideas/daytomato,77,Catch empty field exceptions,closed,2016-10-28T05:35:21Z,2016-11-03T23:15:48Z,bug
+fridayideas/daytomato,76,"Logging in - ""This is not me"" not working",closed,2016-10-28T05:33:56Z,2016-11-01T17:02:31Z,bug
+fridayideas/daytomato,67,Autofill review for pins,closed,2016-10-18T20:08:22Z,2016-11-03T06:01:49Z,"bug, difficulty:medium"
+fridayideas/daytomato,58,Crash when viewing a newly created or updated pin after inputting an image,closed,2016-10-14T03:31:52Z,2016-10-14T18:48:44Z,"bug, difficulty:hard"
+digital-voting-pass/polling-station-app,144,Illegal derived key error in blockchain init,open,2017-06-15T13:30:28Z,,bug
+digital-voting-pass/polling-station-app,123,Returning to mainactivity from OCR scanner by pressing back button is very slow,closed,2017-06-12T08:56:07Z,2017-06-13T14:37:07Z,bug
+digital-voting-pass/polling-station-app,113,Fix NFC in API23,open,2017-06-09T13:15:13Z,,"bug, hardware"
+digital-voting-pass/polling-station-app,109,App opens mainactivity when a new block is generated or new connection,closed,2017-06-09T09:32:18Z,2017-06-09T13:11:22Z,"bug, voting helper app"
+digital-voting-pass/polling-station-app,93,Crash entering passport (nfc) connection activity,closed,2017-06-05T15:34:40Z,2017-06-05T18:26:39Z,bug
+digital-voting-pass/polling-station-app,90,White screen before splash screen,closed,2017-06-05T14:49:04Z,2017-06-08T10:12:03Z,bug
+digital-voting-pass/polling-station-app,58,Crash when returning,closed,2017-05-24T17:22:39Z,2017-05-29T14:43:12Z,bug
+digital-voting-pass/polling-station-app,45,OCR activity crashes if no permissions are granted,closed,2017-05-19T15:01:24Z,2017-05-26T09:33:08Z,"bug, voting station app"
+digital-voting-pass/polling-station-app,44,Black bar on OCR view,closed,2017-05-19T14:28:49Z,2017-06-02T13:27:35Z,bug
+digital-voting-pass/polling-station-app,42,"Camera orientation, camera feed is upside down when rotating 270 deg",closed,2017-05-19T07:33:13Z,2017-05-26T09:33:44Z,bug
+digital-voting-pass/polling-station-app,34,OCR activity crashes and won't start in special case,closed,2017-05-16T12:54:08Z,2017-06-02T14:41:33Z,bug
+alphadev-net/drive-mount,67,FAT 1 differs from FAT 0,open,2015-01-14T23:23:44Z,,"bug, app"
+alphadev-net/drive-mount,66,DocumentsProvider crashes on launch,closed,2014-12-29T09:43:59Z,2015-01-14T23:22:20Z,bug
+alphadev-net/drive-mount,63,Unmount does not work,open,2014-12-15T13:21:52Z,,"bug, app"
+alphadev-net/drive-mount,62,Last block is being chopped off on read(),closed,2014-12-15T13:14:41Z,2014-12-20T08:43:52Z,"bug, Drive Library"
+alphadev-net/drive-mount,61,Crash when browsing subdir,closed,2014-12-11T15:39:10Z,2014-12-12T06:05:51Z,"bug, Drive Library"
+alphadev-net/drive-mount,60,Threading issue when copying file to local Cache,closed,2014-12-11T03:38:32Z,2014-12-11T14:09:05Z,"bug, wontfix"
+alphadev-net/drive-mount,47,App shows 1. Jan 1970 as date,closed,2014-12-01T04:33:46Z,2014-12-01T06:42:41Z,"bug, Drive Library"
+alphadev-net/drive-mount,45,Space values are always reported as 0,open,2014-11-29T18:26:56Z,,"bug, upstream, deferred"
+alphadev-net/drive-mount,41,Partition offset is calculated in Sectors not Bytes,closed,2014-11-28T12:12:17Z,2014-11-29T17:11:54Z,"bug, Drive Library"
+alphadev-net/drive-mount,24,USB Drive does not show up in SAF listing,closed,2014-11-27T14:26:40Z,2014-11-29T17:11:48Z,"bug, imported_from_bitbucket, app"
+alphadev-net/drive-mount,14,Strange read behaviour,closed,2014-11-27T14:18:35Z,2014-11-27T14:19:19Z,"bug, imported_from_bitbucket"
+alphadev-net/drive-mount,7,BufferOverflow when parsing StandardInquiryAnswer,closed,2014-11-27T14:12:07Z,2014-11-27T14:12:09Z,"bug, imported_from_bitbucket"
+rcgonzalezf/weather-app-demo,66,"Latest version of the code, doesn't update the forecast list when entering text.",closed,2019-10-19T16:49:45Z,2020-07-03T16:55:45Z,bug
+rcgonzalezf/weather-app-demo,53,SnackBar shows Warning even when it shouldn't,closed,2016-10-13T02:12:17Z,2020-07-03T16:57:01Z,bug
+rcgonzalezf/weather-app-demo,49,Temperature Settings are not reflecting the change on UI,closed,2016-10-11T15:00:16Z,2017-02-05T01:07:55Z,bug
+rcgonzalezf/weather-app-demo,45,Potential memory Leak on WeatherApp,open,2016-10-10T00:23:44Z,,bug
+rcgonzalezf/weather-app-demo,43,"F are shown instead of C, when selecting on settings.",closed,2016-10-06T05:01:58Z,2017-02-05T01:44:22Z,bug
+rcgonzalezf/weather-app-demo,6,Searching by lat/lon shows empty screen ,closed,2016-07-23T23:44:17Z,2016-07-24T02:11:30Z,bug
+bradmont/OpenMPD,32,Hang on regenerate graph cache after mark monthly ,closed,2014-06-19T15:58:54Z,2014-09-05T00:39:36Z,bug
+bradmont/OpenMPD,22,Misnamed contacts,open,2014-05-21T23:22:52Z,,bug
+bradmont/OpenMPD,17,Correctly update changed donor addresses,closed,2014-05-17T19:21:27Z,2014-06-26T14:54:20Z,bug
+bradmont/OpenMPD,14,"Importing Gifts notification seems to ""hang""",closed,2014-05-15T14:11:06Z,2014-05-20T17:21:35Z,bug
+bradmont/OpenMPD,12,App crashes if opened while import in progress,closed,2014-05-02T15:38:32Z,2014-06-18T21:15:29Z,bug
+bradmont/OpenMPD,8,Repeat notifications for manually set contact statuses,closed,2014-01-20T16:34:07Z,2014-05-02T15:20:35Z,bug
+bradmont/OpenMPD,7,"Second ""set as monthly"" force closes",closed,2014-01-20T16:32:25Z,2014-01-29T16:03:50Z,bug
+bradmont/OpenMPD,4,ContactDetail BarGraph: Handle negative gifts sanely,closed,2013-12-20T22:10:51Z,2014-06-18T15:48:09Z,bug
+bradmont/OpenMPD,1,Organisation not set properly when editing an account,closed,2013-08-09T21:18:51Z,2014-06-26T14:01:02Z,bug
+seizonsenryaku/HayaiLauncher,89,Apps moved to external SD card not found,open,2016-07-09T19:07:14Z,,bug
+seizonsenryaku/HayaiLauncher,28,Launching app from notification or clicking home button should bring user to Main Screen,closed,2015-09-01T14:16:52Z,2015-09-01T18:03:50Z,bug
+seizonsenryaku/HayaiLauncher,9,Remove weird below action bar line on gingerbread,closed,2015-08-07T06:26:51Z,2015-08-08T19:28:32Z,bug
+seizonsenryaku/HayaiLauncher,3,Dismiss keyboard before launching a new application,closed,2015-08-06T20:40:07Z,2015-08-06T23:46:48Z,bug
+NCBSinfo/NCBSinfo,32,Contact activity button,closed,2018-01-14T06:17:14Z,2018-03-06T12:05:38Z,bug
+coder3101/Matrix-Calculator-for-Android,28,Runtime Exception when finding inverse of a matrix with determinant zero,closed,2018-12-28T06:29:24Z,2018-12-28T12:19:59Z,bug
+coder3101/Matrix-Calculator-for-Android,26,Null Pointer exception on MultiplyAll.getDataBundled() ,closed,2018-02-28T22:36:06Z,2018-03-01T05:43:09Z,bug
+coder3101/Matrix-Calculator-for-Android,24,Multiply Operation changes the value of original multipliers,closed,2018-01-30T22:39:49Z,2018-02-16T19:13:35Z,bug
+coder3101/Matrix-Calculator-for-Android,13,Dark theme Dialog,closed,2017-03-24T19:40:32Z,2017-04-01T16:16:47Z,bug
+akvo/akvo-rsr-up,209,Some projects are not loading in the rsr up app,closed,2018-09-24T07:18:22Z,2020-05-08T15:17:38Z,"Bug, stale"
+akvo/akvo-rsr-up,204,Organisation with no primary location breaks data fetch,closed,2017-03-30T08:51:00Z,2017-03-30T08:52:14Z,Bug
+akvo/akvo-rsr-up,191,"Updates with no photo show ""image error"" icon",closed,2016-10-10T12:27:19Z,2016-10-24T14:44:19Z,"Bug, 3 - Done"
+akvo/akvo-rsr-up,186,Project updates fetch fails due to endpoint changes,closed,2016-05-04T15:54:32Z,2016-05-04T16:44:03Z,Bug
+akvo/akvo-rsr-up,176,Need user-specific time of last fetch,closed,2015-08-28T09:02:38Z,2015-09-30T17:19:32Z,"Bug, 3 - Done"
+akvo/akvo-rsr-up,174,Time of last fetch is not reset when switching servers,closed,2015-08-25T14:20:06Z,2015-09-09T07:30:17Z,Bug
+akvo/akvo-rsr-up,166,Fetching project list from server times out,closed,2015-04-02T12:40:02Z,2015-04-21T15:58:34Z,"Bug, Priority 1: urgent"
+akvo/akvo-rsr-up,162,Login fails for RSR V3 unattached user,closed,2015-03-09T14:37:55Z,2015-03-09T17:57:10Z,Bug
+akvo/akvo-rsr-up,161,Forgot password - broken link,closed,2015-03-02T16:06:56Z,2015-04-21T15:59:54Z,"Bug, Priority 4: slightly important"
+akvo/akvo-rsr-up,157,Camera photo request may return empty data,closed,2014-11-27T16:05:42Z,2015-12-01T21:09:35Z,"Bug, 3 - Done"
+akvo/akvo-rsr-up,153,RSR Up project update fail,closed,2014-10-29T15:57:38Z,2015-04-21T16:00:33Z,Bug
+akvo/akvo-rsr-up,150,Placeholder ? in title text shold be removed.,closed,2014-10-20T13:16:20Z,2014-10-20T14:32:30Z,"Bug, 3 - Done, Request"
+akvo/akvo-rsr-up,145,Updates not synching,closed,2014-10-02T06:58:52Z,2020-05-08T16:17:14Z,"Bug, stale"
+akvo/akvo-rsr-up,137,Photo caption and credit,closed,2014-09-22T05:29:55Z,2014-09-22T13:21:30Z,"Bug, Request"
+akvo/akvo-rsr-up,130,Restart verification service (if needed) when app starts.,closed,2014-08-29T01:32:20Z,2020-05-08T16:17:11Z,"Bug, stale"
+akvo/akvo-rsr-up,116,draft remains after sending,closed,2014-05-14T12:20:17Z,2014-06-04T07:44:23Z,"Bug, Priority 3: important"
+akvo/akvo-rsr-up,114,Thumbnails really small,closed,2014-05-13T14:48:07Z,2014-05-15T07:37:32Z,"Bug, Priority 3: important"
+akvo/akvo-rsr-up,104,Fwd: RSR App_Set up RSR account for AIMS,closed,2014-03-28T07:56:00Z,2014-04-02T16:37:31Z,"Bug, 3 - Done"
+akvo/akvo-rsr-up,101,App crashes when attaching picture,closed,2014-03-24T08:25:42Z,2014-03-24T10:23:22Z,Bug
+akvo/akvo-rsr-up,100,NullPointerException in RsrDbAdapter.listMissingUsers reported by Play Store,closed,2014-03-21T17:53:18Z,2014-04-02T16:31:14Z,"Bug, 3 - Done"
+akvo/akvo-rsr-up,98,Delayed pictures go missing again when scrolled off the page,closed,2014-03-21T12:26:24Z,2020-05-08T15:17:33Z,"Bug, Priority 4: slightly important, stale"
+akvo/akvo-rsr-up,76,Fetching images takes a long time,closed,2014-02-13T12:29:43Z,2014-03-21T13:23:29Z,"Bug, Type: Images, Type: Connectivity, Priority 2: very important"
+akvo/akvo-rsr-up,75,upload is laggy and double posted,closed,2014-02-10T04:21:03Z,2014-03-24T15:43:24Z,"Bug, Type: Connectivity, Priority 1: urgent"
+akvo/akvo-rsr-up,72,Project subtitle shows copy of title,closed,2014-02-06T13:15:12Z,2014-03-19T18:47:53Z,"Bug, 3 - Done, Type: Design, Priority 2: very important"
+akvo/akvo-rsr-up,66,"the picture, must be landscape?",closed,2014-01-30T13:16:34Z,2014-04-02T16:36:56Z,"Bug, 3 - Done, Type: Images, Priority 1: urgent"
+akvo/akvo-rsr-up,64,Photograph re-sizing,closed,2014-01-28T12:58:39Z,2014-03-21T14:07:54Z,"Bug, Type: Images, Type: Connectivity, Priority 1: urgent"
+akvo/akvo-rsr-up,57,Cannot place Icon on Desktop (2.3),closed,2013-11-13T16:05:23Z,2014-03-21T13:42:27Z,"Bug, Priority 5: unimportant"
+akvo/akvo-rsr-up,56,Project image not displayed,closed,2013-10-30T08:39:38Z,2013-11-01T15:17:53Z,Bug
+akvo/akvo-rsr-up,55,'+ update' button not working,closed,2013-10-30T08:33:03Z,2013-10-30T16:58:20Z,Bug
+akvo/akvo-rsr-up,54,Logging in as different user does not refresh/clear old data,closed,2013-10-29T14:31:31Z,2013-10-30T17:00:08Z,"Bug, duplicate"
+akvo/akvo-rsr-up,53,no automatic update draft after exiting camera,closed,2013-10-28T10:40:57Z,2014-03-24T15:43:32Z,"Bug, 3 - Done"
+akvo/akvo-rsr-up,46,V0.67 Not sending updates with photos attached,closed,2013-10-23T13:36:25Z,2014-02-19T09:14:47Z,Bug
+akvo/akvo-rsr-up,45,V0.67 Saving updates as published & draft,closed,2013-10-23T13:35:26Z,2013-10-29T12:22:54Z,Bug
+akvo/akvo-rsr-up,43,V0.65 fails on 'add update' - does not save to draft,closed,2013-10-22T10:34:42Z,2013-10-22T15:38:26Z,Bug
+akvo/akvo-rsr-up,41,Hide project and update thumbnails from Android Gallery,closed,2013-10-18T13:36:59Z,2013-10-22T15:51:56Z,"Bug, 2 - Working"
+akvo/akvo-rsr-up,39,Images being stored,closed,2013-10-16T10:18:37Z,2014-02-19T10:15:29Z,"Bug, 3 - Done"
+akvo/akvo-rsr-up,35,Switching between users in different projects does not clear visible projects,closed,2013-10-16T02:01:21Z,2014-02-19T10:21:47Z,"Bug, 3 - Done"
+akvo/akvo-rsr-up,31,Image encoding uses too much memory,closed,2013-08-07T00:08:42Z,2013-08-08T08:44:12Z,"Bug, 3 - Done"
+akvo/akvo-rsr-up,28,Login activity registers many receivers,closed,2013-07-30T10:39:25Z,2013-07-30T12:39:50Z,"Bug, 3 - Done"
+akvo/akvo-rsr-up,27,Project listing not visible in landscape mode,closed,2013-07-29T11:57:13Z,2020-05-08T15:17:27Z,"Bug, Type: Design, Priority 4: slightly important, stale"
+akvo/akvo-rsr-up,24,Fetching projects from a bad URL fails silently,closed,2013-07-25T09:52:43Z,2013-07-25T11:09:55Z,"Bug, 2 - Working"
+akvo/akvo-rsr-up,23,Need a way to set which RSR server to use,closed,2013-07-18T01:06:31Z,2013-07-24T16:19:02Z,"Bug, 2 - Working"
+akvo/akvo-rsr-up,19,Version 0.42 Photo/Image displayed as landscape,closed,2013-07-10T13:48:03Z,2013-07-30T17:28:59Z,"Bug, wontfix"
+akvo/akvo-rsr-up,18,Line returns/lenghty text in Title field causes update to not be sendable,closed,2013-07-10T13:44:54Z,2014-10-14T13:03:58Z,"Bug, Type: General, Priority 3: important"
+akvo/akvo-rsr-up,16,Sign in needs a progress dialog,closed,2013-07-10T13:01:34Z,2013-07-15T00:12:26Z,"Bug, 3 - Done"
+akvo/akvo-rsr-up,14,Version 0.41 update description,closed,2013-07-09T20:41:01Z,2013-07-10T13:06:07Z,Bug
+akvo/akvo-rsr-up,11,Version 0.35 Photo position,closed,2013-07-09T14:33:42Z,2013-07-30T17:23:45Z,Bug
+akvo/akvo-rsr-up,9,v0.35 - Updates Unsynchronised,closed,2013-06-17T15:06:12Z,2013-07-09T17:40:47Z,"Bug, 3 - Done"
+akvo/akvo-rsr-up,8,Feedback V0.24,closed,2013-06-05T14:06:49Z,2013-07-10T13:03:07Z,"Bug, 2 - Working"
+akvo/akvo-rsr-up,7,Changing scren orientation during network operation crashes app,closed,2013-05-23T13:07:36Z,2013-06-17T12:37:18Z,"Bug, 3 - Done"
+nextgis/metro4all-android,38,Неправильно подсчитывается количество эскалаторов в сводке по маршруту,open,2015-11-12T11:53:53Z,,bug
+nextgis/metro4all-android,37,Ошибка при зуме на входах и выходах в Глазго,open,2015-11-12T11:52:39Z,,bug
+nextgis/metro4all-android,34,Время на входах и выходах округляется в меньшую сторону,closed,2015-07-14T19:51:16Z,2015-07-27T11:27:23Z,bug
+nextgis/metro4all-android,33,Последнее обновление данных не позволяет воспользоваться ими без перезапуска приложения,closed,2015-07-14T10:58:53Z,2015-10-07T14:04:46Z,bug
+nextgis/metro4all-android,32,Начало интервала времени сбрасывается к текущему при повороте экрана,closed,2015-07-09T14:43:45Z,2015-07-27T11:27:23Z,bug
+nextgis/metro4all-android,31,"Поменять название пункта настроек ""Сообщения по Wi-Fi""",closed,2015-07-09T14:17:13Z,2015-07-27T11:27:23Z,bug
+nextgis/metro4all-android,29,Крэш приложения,closed,2015-06-03T15:11:30Z,2015-06-24T13:43:48Z,bug
+nextgis/metro4all-android,26,"После отправки сообщения об ошибке, картинка карты иногда показывается с шумом",open,2015-05-22T15:09:15Z,,bug
+nextgis/metro4all-android,14,Москва различная прокладка маршрута в мобильном и веб приложениях,open,2015-03-06T20:48:41Z,,bug
+nextgis/metro4all-android,9,Black arrow,closed,2015-03-06T20:45:54Z,2015-04-15T08:49:31Z,bug
+nextgis/metro4all-android,8,Старт приложения,closed,2015-03-06T20:45:42Z,2015-07-02T20:15:23Z,bug
+nextgis/metro4all-android,6,Data package download bar runs forever,closed,2015-03-06T20:43:25Z,2015-07-02T20:16:03Z,bug
+nextgis/metro4all-android,4,Download package breaks and app crashes if orientation changes while downloading,closed,2015-03-06T20:42:40Z,2015-04-23T12:46:46Z,bug
+nextgis/metro4all-android,3,"Package is missing, but error message says 'No connection'",closed,2015-03-06T20:42:18Z,2015-07-02T20:19:43Z,bug
+nextgis/metro4all-android,1,Map icons doesn't get updated after limitations are turned on,closed,2015-03-06T17:26:05Z,2015-04-23T12:46:46Z,bug

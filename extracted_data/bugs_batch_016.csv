@@ -1,0 +1,275 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+nispok/snackbar,101,CalledFromWrongThreadException: Only the original thread that created a view hierarchy can touch its views.,closed,2015-03-23T16:23:58Z,2015-03-24T00:49:30Z,bug
+nispok/snackbar,76,Snackbar appears behind dialogs,closed,2015-02-01T12:32:16Z,2015-02-11T23:30:40Z,bug
+nispok/snackbar,64,Memory leak,closed,2015-01-11T20:16:25Z,2015-01-11T22:03:36Z,bug
+nispok/snackbar,50,Problem in SnackbarType.MULTI_LINE,closed,2014-12-22T13:35:49Z,2014-12-24T16:07:46Z,bug
+nispok/snackbar,48,how to use snackbar in nested preferences,closed,2014-12-20T08:29:25Z,2014-12-28T15:24:25Z,"bug, duplicate"
+nispok/snackbar,41,Snackbar shown behind navigation bar,closed,2014-12-12T19:10:43Z,2014-12-16T18:00:15Z,bug
+nispok/snackbar,27,Added fragment sometimes overlays the snackbar,closed,2014-12-01T08:49:45Z,2015-02-11T23:29:13Z,bug
+nispok/snackbar,23,Reusing same snackbar instance ,closed,2014-11-24T13:48:33Z,2015-03-01T13:32:44Z,bug
+momodalo/vimtouch,46,Scroll by visual line?,open,2013-03-13T04:58:32Z,,bug
+momodalo/vimtouch,44,intent from SL4A issue,closed,2013-03-09T01:36:23Z,2013-03-10T23:19:21Z,bug
+momodalo/vimtouch,41,The new tab bar breaks the UI,closed,2013-02-27T18:39:15Z,2013-03-01T15:15:57Z,bug
+momodalo/vimtouch,22,Open File fails with filenames that have spaces,closed,2012-10-18T21:12:55Z,2013-01-02T15:28:42Z,bug
+momodalo/vimtouch,21,Swype	Insert mode doesn't work correctly with Swype,closed,2012-10-16T12:19:02Z,2013-03-11T00:01:29Z,bug
+momodalo/vimtouch,17,Progress indicator freezes after download is finished,closed,2012-10-04T01:27:45Z,2012-10-07T16:09:59Z,bug
+momodalo/vimtouch,16,Progress indicator should have some text,closed,2012-10-04T01:22:35Z,2012-10-07T16:10:12Z,bug
+momodalo/vimtouch,10,vim-latex,open,2012-09-23T22:29:31Z,,bug
+momodalo/vimtouch,9,:m+1,closed,2012-09-23T22:26:53Z,2012-10-15T13:13:59Z,bug
+momodalo/vimtouch,1,Can't open unicode/multibyte file path,closed,2012-09-11T22:30:03Z,2012-09-15T03:54:46Z,bug
+GuacoIV/VisEQ,3,Samsung Galaxy Mini clips the text on RoleActivity,closed,2014-05-20T02:58:37Z,2014-05-23T03:07:41Z,bug
+GuacoIV/VisEQ,2,HTC OneX Plus camera issue,closed,2014-05-20T02:43:39Z,2014-05-23T03:07:23Z,bug
+GuacoIV/VisEQ,1,Convert search party tasks to threads,closed,2014-05-14T16:58:33Z,2014-05-20T02:35:26Z,bug
+loehnertz/HSRMMedialabTimetableApp,38,"If the app was not idled in the background but in deep sleep, the push notification will not cause a jump to the correct event",open,2017-06-20T21:28:30Z,,"bug, enhancement"
+loehnertz/HSRMMedialabTimetableApp,29,When logging out in 'portrait' one is sometimes logged in again when rotating to 'landscape',open,2017-05-21T11:38:15Z,,"bug, android"
+loehnertz/HSRMMedialabTimetableApp,28,Sometimes when going from 'landscape' to 'portrait' the 'EventItem' component's text is not 'flexed' properly,open,2017-05-21T10:42:45Z,,"bug, android"
+loehnertz/HSRMMedialabTimetableApp,26,An Orientation of 'landscape' causes several bugs on iOS,open,2017-05-20T16:57:02Z,,"bug, ios"
+loehnertz/HSRMMedialabTimetableApp,25,Upon reinstalling the app when one had it installed beforehand it just crashes,closed,2017-05-20T16:43:55Z,2017-05-20T18:40:25Z,"bug, ios"
+loehnertz/HSRMMedialabTimetableApp,24,If the modal in the WeekView is still open when the screen is rotated the app freezes,open,2017-05-20T16:25:49Z,,"bug, ios"
+loehnertz/HSRMMedialabTimetableApp,19,The text in the cards in the DayView overflows out of the card in some cases,closed,2017-05-13T19:51:25Z,2017-05-14T00:10:08Z,"bug, ios, android"
+loehnertz/HSRMMedialabTimetableApp,18,Upon opening the info modal in the WeekView the orientation automatically goes back to 'portrait',closed,2017-05-13T18:24:13Z,2017-05-20T18:40:25Z,"bug, ios"
+loehnertz/HSRMMedialabTimetableApp,17,The labels of some days in the WeekView are too long and cause a visual overflow,closed,2017-05-13T18:23:25Z,2017-05-13T22:57:48Z,"bug, ios"
+loehnertz/HSRMMedialabTimetableApp,14,The 'pull to refresh' needs a huge distance before it triggers (only sometimes),closed,2017-05-13T18:19:54Z,2017-05-13T20:45:52Z,"bug, ios"
+loehnertz/HSRMMedialabTimetableApp,13,The label of the field for the 'username' is too small respectively the font is too large,closed,2017-05-13T18:19:00Z,2017-05-13T23:29:29Z,"bug, ios"
+loehnertz/HSRMMedialabTimetableApp,12,Copyright notice in the Login and Settings components flows out of the view,closed,2017-05-13T18:16:39Z,2017-05-13T19:44:14Z,"bug, ios"
+loehnertz/HSRMMedialabTimetableApp,11,No real scrolling is possible in the DayView,closed,2017-05-13T18:15:44Z,2017-05-13T20:45:14Z,"bug, ios"
+loehnertz/HSRMMedialabTimetableApp,10,Header has no white space to the top,closed,2017-05-13T18:14:30Z,2017-05-13T18:26:11Z,"bug, ios"
+enra64/Votenote,27,Notifications issued for all subjects after reboot,closed,2016-07-21T09:22:43Z,2016-07-29T13:08:06Z,bug
+enra64/Votenote,26,Somehow sliding in lesson setup scrolls up,closed,2016-06-15T07:22:45Z,2016-07-29T12:38:21Z,bug
+enra64/Votenote,23,Notificatioj restore on reboot does not work ,closed,2016-04-20T13:18:56Z,2016-07-21T09:22:23Z,bug
+enra64/Votenote,22,Cannot change lessons in some circumstances,closed,2016-04-20T11:47:46Z,2016-04-28T17:25:40Z,bug
+enra64/Votenote,21,Logger makes toast for no folder even if folder exists,open,2016-04-06T06:11:11Z,,bug
+enra64/Votenote,20,Percentage tracker creation onResume,closed,2016-04-03T20:23:51Z,2016-04-04T19:34:26Z,bug
+enra64/Votenote,15,show empty title validation errors only when exiting field,closed,2016-03-24T23:54:10Z,2016-03-26T19:13:43Z,bug
+enra64/Votenote,14,Activity title does not update if subject has no admission percentage counters,closed,2016-03-07T17:42:11Z,2016-03-07T20:18:35Z,bug
+enra64/Votenote,12,Graph exception,closed,2016-01-18T09:44:57Z,2016-03-08T14:37:32Z,bug
+enra64/Votenote,6,Empty subjects,closed,2016-01-18T09:27:40Z,2016-03-08T15:18:23Z,bug
+ScreamingHawk/android-slideshow,153,Files in Hidden Folders not visible.,open,2021-03-28T08:00:51Z,,bug
+ScreamingHawk/android-slideshow,150,"Can't get past ""Stuck? Click to go Home screen""",open,2020-11-27T20:23:00Z,,"bug, LineageOS"
+ScreamingHawk/android-slideshow,135,"Issue with Exif tags, glide strategy and Auto",open,2019-01-13T16:15:20Z,,bug
+ScreamingHawk/android-slideshow,124,Last Modified Date should include year,closed,2018-10-09T21:49:21Z,2018-11-04T18:46:59Z,"bug, good first issue"
+ScreamingHawk/android-slideshow,121,Status bar is white in list view,closed,2018-09-09T19:45:54Z,2018-09-13T19:39:38Z,"bug, help wanted, good first issue"
+ScreamingHawk/android-slideshow,120,Handle NullPointerException on ImageActivity.loadImage,closed,2018-09-09T19:37:38Z,2018-11-04T18:46:26Z,"bug, help wanted, good first issue"
+ScreamingHawk/android-slideshow,115,Change Log pop up appears twice,closed,2018-04-03T19:28:48Z,2018-04-09T19:26:04Z,"bug, good first issue"
+ScreamingHawk/android-slideshow,114,Rotating Phone Restarts Application,closed,2018-04-03T13:40:54Z,2019-01-18T00:34:15Z,"bug, help wanted"
+ScreamingHawk/android-slideshow,112,Crash when viewing high quality images,open,2018-03-30T14:42:37Z,,"bug, question"
+ScreamingHawk/android-slideshow,109,Image orientation,closed,2018-03-11T22:19:54Z,2018-04-09T00:20:44Z,bug
+ScreamingHawk/android-slideshow,107,Handle IllegalArgumentException in Glide load/preload,open,2018-02-22T18:49:30Z,,"bug, help wanted"
+ScreamingHawk/android-slideshow,106,Handle NullPointerException in CustomImageStrategy.load,closed,2018-02-22T18:48:11Z,2018-03-18T18:22:13Z,"bug, help wanted, good first issue"
+ScreamingHawk/android-slideshow,105,Handle IllegalArgumentException when using Share feature,open,2018-02-22T18:45:39Z,,"bug, help wanted"
+ScreamingHawk/android-slideshow,104,Handle Error: `android.graphics.Canvas.throwIfCannotDraw`,open,2018-02-22T18:43:21Z,,"bug, help wanted"
+ScreamingHawk/android-slideshow,103,Move slideshow loading to background thread,open,2018-02-22T18:42:06Z,,"bug, help wanted"
+ScreamingHawk/android-slideshow,100,Build failure: Could not find com.android.tools.build:gradle:3.0.1,closed,2018-02-13T05:19:30Z,2018-04-02T19:27:23Z,bug
+ScreamingHawk/android-slideshow,99,Pause Feature shouldn't work when controls are visible,closed,2018-02-12T18:24:15Z,2018-02-12T18:26:12Z,bug
+ScreamingHawk/android-slideshow,95,Picture in picture causes crashes,closed,2018-02-07T23:41:19Z,2018-02-08T19:01:13Z,bug
+ScreamingHawk/android-slideshow,91,Support slide delay of fractions of a second,closed,2017-11-24T09:29:33Z,2017-11-24T09:42:46Z,bug
+ScreamingHawk/android-slideshow,88,Cannot browse to external USB drive,open,2017-11-05T19:34:25Z,,"bug, help wanted"
+ScreamingHawk/android-slideshow,87,Tag for v2.2.0 missing,closed,2017-10-13T22:59:48Z,2017-10-15T18:17:47Z,bug
+ScreamingHawk/android-slideshow,84,Do not show List Activity when entering picture in picture mode,open,2017-09-14T20:01:43Z,,"bug, help wanted"
+ScreamingHawk/android-slideshow,83,Correct ImageActivity title,closed,2017-09-14T19:17:01Z,2017-09-14T20:03:24Z,bug
+ScreamingHawk/android-slideshow,78,Fix positioning of snackbar when slideshow stopped,closed,2017-09-10T19:50:40Z,2017-09-11T02:42:55Z,bug
+ScreamingHawk/android-slideshow,77,Fix black spaces between images,closed,2017-09-10T19:43:38Z,2017-09-10T20:56:55Z,bug
+ScreamingHawk/android-slideshow,73,Timing Issue,closed,2017-09-06T19:24:38Z,2017-09-07T19:44:49Z,"bug, enhancement"
+ScreamingHawk/android-slideshow,67,Thumbnail sometimes doesn't show until row falls off screen,closed,2017-07-19T20:20:56Z,2017-09-05T21:12:00Z,bug
+ScreamingHawk/android-slideshow,66,New thumbnail generation sometimes overwrite with wrong image,closed,2017-07-19T20:17:10Z,2017-07-19T20:21:06Z,bug
+ScreamingHawk/android-slideshow,65,Location image details should only show path,closed,2017-07-16T06:52:43Z,2017-07-16T07:01:19Z,bug
+ScreamingHawk/android-slideshow,63,Hide translator credits when using English,closed,2017-07-09T19:56:49Z,2017-07-09T20:05:06Z,bug
+ScreamingHawk/android-slideshow,52,Thumbnail display could be better,closed,2017-06-23T02:16:56Z,2017-07-18T23:22:46Z,"bug, enhancement"
+ScreamingHawk/android-slideshow,50,Share feature broken in Android O beta,closed,2017-05-18T08:56:58Z,2017-05-18T09:25:52Z,bug
+ScreamingHawk/android-slideshow,25,Image Details not updating on setting change,closed,2017-03-02T18:23:42Z,2017-06-22T20:07:44Z,bug
+ScreamingHawk/android-slideshow,18,Handle Image Too Large error,closed,2017-02-12T20:29:29Z,2017-03-01T18:01:50Z,bug
+ScreamingHawk/android-slideshow,17,Reset slide change timer on manual slide change,closed,2017-02-12T18:37:07Z,2017-02-14T03:07:58Z,bug
+ScreamingHawk/android-slideshow,13,Random order doesn't start on the selected image,closed,2017-02-07T18:41:28Z,2017-02-07T19:36:41Z,bug
+ScreamingHawk/android-slideshow,12,Reload preferences when returning to activity,closed,2017-02-07T18:39:26Z,2017-02-07T19:36:39Z,bug
+ScreamingHawk/android-slideshow,11,Out of memory error,closed,2017-02-06T22:54:04Z,2017-02-08T03:25:56Z,bug
+ScreamingHawk/android-slideshow,10,Do not automatically resume the slideshow once manually stopped,closed,2017-02-06T18:56:20Z,2017-02-06T19:27:23Z,bug
+ScreamingHawk/android-slideshow,5,Unnecessary padding around scroll view in list view,closed,2017-02-05T07:47:56Z,2017-02-05T20:11:07Z,bug
+ScreamingHawk/android-slideshow,4,Remember scroll position when leaving and returning to app in list view,closed,2017-02-03T08:53:34Z,2017-02-08T03:25:05Z,bug
+wKovacs64/mTorch,5,App prevents device sleep when in the foreground,closed,2014-11-09T04:47:58Z,2015-04-01T01:50:04Z,bug
+wKovacs64/mTorch,4,Torch fails to illuminate while on a phone call - HTC One M8,closed,2014-11-09T04:38:40Z,2015-06-22T15:26:40Z,"bug, wontfix"
+wKovacs64/mTorch,2,Auto On silently fails to illuminate on quick re-launch,closed,2014-08-18T22:49:02Z,2015-09-30T18:30:25Z,"bug, help wanted"
+wKovacs64/mTorch,1,Failure to acquire the camera needs to notify the user and quit,closed,2014-02-05T06:20:10Z,2014-02-05T06:34:13Z,bug
+tbpalsulich/NYU-BusTracker-Android,49,Short Sticky List Header List has Extra Space in Dialog,closed,2014-02-24T21:21:40Z,2014-03-03T19:46:53Z,bug
+tbpalsulich/NYU-BusTracker-Android,48,Route C Next Bus Time Incorrect,closed,2014-02-24T21:20:11Z,2014-02-24T22:35:08Z,bug
+tbpalsulich/NYU-BusTracker-Android,47,Force Close When Start Stop is 550 First Ave,closed,2014-02-24T21:18:48Z,2014-02-24T21:40:55Z,bug
+tbpalsulich/NYU-BusTracker-Android,45,Make Tests,closed,2014-02-02T16:46:20Z,2014-02-24T22:42:16Z,bug
+tbpalsulich/NYU-BusTracker-Android,44,Retry Download if Parsing is Unsuccessful,closed,2014-02-02T07:27:19Z,2014-02-24T21:16:27Z,bug
+tbpalsulich/NYU-BusTracker-Android,25,Not All Routes Discovered When Selecting New Stop,closed,2013-12-13T20:13:42Z,2013-12-13T21:46:54Z,bug
+tbpalsulich/NYU-BusTracker-Android,22,Force Close on 14th and 3rd Southbound,closed,2013-11-01T22:26:17Z,2013-11-14T05:56:51Z,bug
+tbpalsulich/NYU-BusTracker-Android,18,Combine Stops,closed,2013-10-30T23:04:33Z,2013-12-12T19:29:35Z,"bug, enhancement"
+tbpalsulich/NYU-BusTracker-Android,17,Opposite Stops,closed,2013-10-30T23:04:05Z,2013-12-12T19:29:24Z,"bug, enhancement"
+tbpalsulich/NYU-BusTracker-Android,13,Check Every Bus To Get List of Times To/From,closed,2013-10-23T20:05:09Z,2013-12-12T19:24:12Z,bug
+tbpalsulich/NYU-BusTracker-Android,9,Route B Greenwich Times,closed,2013-10-07T22:23:00Z,2014-04-29T18:38:57Z,bug
+tbpalsulich/NYU-BusTracker-Android,8,Time Until Next Bus Incorrect,closed,2013-10-07T16:07:57Z,2013-12-14T19:34:17Z,bug
+tbpalsulich/NYU-BusTracker-Android,6,Implement Map with Segments and Vehicles,closed,2013-10-07T15:00:11Z,2013-11-21T16:21:21Z,bug
+tbpalsulich/NYU-BusTracker-Android,4,Check Version JSON for Updates,closed,2013-10-05T14:48:00Z,2014-02-03T05:32:41Z,bug
+dasmikko/facepunchdroid,101,"Side panel shows ""not logged in"" even though you're logged in",closed,2017-12-15T11:46:07Z,2018-03-20T11:37:31Z,bug
+dasmikko/facepunchdroid,96,"Smiley picker has changed, fix new one",closed,2017-04-10T18:17:30Z,2018-03-20T11:37:36Z,bug
+dasmikko/facepunchdroid,95,"Wonky symbols on ""leaving this site"" message",closed,2017-04-06T11:08:40Z,2017-04-10T07:25:14Z,bug
+dasmikko/facepunchdroid,91,Notification not updating if there are more new posts,closed,2016-12-21T09:00:16Z,2018-03-20T11:37:59Z,"bug, cloudflare-issue"
+dasmikko/facepunchdroid,89,Make Thread button at top is gone,closed,2016-11-07T12:19:59Z,2016-11-07T12:39:10Z,bug
+dasmikko/facepunchdroid,78,App crashes when saving image from long press menu,closed,2016-10-19T13:23:42Z,2016-11-01T09:19:17Z,bug
+dasmikko/facepunchdroid,73,Navigation Drawer Icons Cut Off,closed,2016-05-28T23:06:49Z,2016-07-19T07:40:21Z,bug
+dasmikko/facepunchdroid,68,Read threads moves around while loading,closed,2016-05-18T13:50:46Z,2016-07-12T12:53:09Z,bug
+dasmikko/facepunchdroid,66,Text is still black on pre-Marshmallow devices in settings page using dark theme,closed,2016-05-12T08:54:24Z,2017-08-28T10:38:27Z,bug
+dasmikko/facepunchdroid,60,Advanced Post/Edit Post styling error,closed,2016-04-26T19:07:40Z,2016-07-13T07:38:49Z,"bug, help wanted"
+dasmikko/facepunchdroid,58,Lower the time on the cache on image loader in drawer.,closed,2016-04-23T16:27:12Z,2016-04-25T15:09:44Z,bug
+dasmikko/facepunchdroid,48,News node articles open in thread instead of opening page,closed,2016-04-13T18:21:15Z,2016-05-06T11:50:53Z,bug
+dasmikko/facepunchdroid,45,Page selector only show scrollbar when there is enough space,closed,2016-04-10T13:40:07Z,2016-04-19T04:57:29Z,bug
+dasmikko/facepunchdroid,44,Email tag crashs app,closed,2016-04-10T13:14:34Z,2016-04-11T15:10:21Z,bug
+dasmikko/facepunchdroid,43,Foward button placement in PM,closed,2016-04-08T13:56:29Z,2016-04-11T15:17:19Z,bug
+dasmikko/facepunchdroid,42,File selector goes to weird folder,closed,2016-04-07T19:39:38Z,2016-04-12T09:17:59Z,bug
+dasmikko/facepunchdroid,40,Delay when first opening drawer after opening app,closed,2016-04-05T20:31:40Z,2017-08-28T10:33:07Z,bug
+dasmikko/facepunchdroid,39,Share button sets starting page,closed,2016-04-05T13:05:30Z,2016-04-05T13:54:03Z,bug
+dasmikko/facepunchdroid,32,Quoted imgur albums fucks up the page. ,closed,2016-03-28T18:59:26Z,2016-03-30T14:51:04Z,bug
+dasmikko/facepunchdroid,22,Thread polls need styling,closed,2016-03-24T07:03:45Z,2016-03-25T01:23:03Z,bug
+dasmikko/facepunchdroid,20,Progress bar gets stuck sometimes,closed,2016-03-23T22:15:23Z,2016-04-08T07:54:19Z,bug
+dasmikko/facepunchdroid,17,Text is huge on Nexus 6P,closed,2016-03-22T20:26:35Z,2016-03-29T18:17:16Z,bug
+dasmikko/facepunchdroid,13,Close drawer with hardware back button,closed,2016-03-22T04:25:15Z,2016-03-22T04:46:00Z,bug
+dasmikko/facepunchdroid,11,Custom CSS file is not applied,closed,2016-03-21T14:56:26Z,2016-04-12T09:18:36Z,bug
+dasmikko/facepunchdroid,4,Long thread titles break things! ,closed,2016-03-20T03:58:49Z,2016-03-20T20:41:03Z,bug
+stopbystop/sbs-app,41,Desktop - Filter child window is not displayed properly.,open,2017-05-02T15:30:11Z,,"bug, p3"
+stopbystop/sbs-app,40,"Desktop - ""Add to route"" button text missing.",open,2017-04-25T13:48:20Z,,bug
+stopbystop/sbs-app,38,Scenario 4 - Yelp options are missing.,closed,2017-03-14T17:39:11Z,2017-05-06T21:54:13Z,bug
+stopbystop/sbs-app,34,Scenario 7 - For All Platform - 'Add To Route' option is not provided in Map view.,closed,2016-12-12T07:17:27Z,2016-12-29T18:22:05Z,"bug, p1"
+stopbystop/sbs-app,3,Scenario 2 - iphone - 'Seattle' option not displayed in drop down.,closed,2016-10-28T05:01:28Z,2016-11-22T12:55:25Z,"bug, p3"
+davemorrissey/subsampling-scale-image-view,49,Moiré patterns occur at certain zoom levels,closed,2015-03-09T10:08:46Z,2015-03-10T08:31:39Z,bug
+davemorrissey/subsampling-scale-image-view,48,Out of Memory when rotating,closed,2015-03-09T09:45:45Z,2015-03-24T22:36:34Z,bug
+davemorrissey/subsampling-scale-image-view,34,Switch to page on zoomed image not always works,closed,2015-01-07T13:08:21Z,2015-01-09T07:11:02Z,bug
+davemorrissey/subsampling-scale-image-view,23,"Loaded bitmap is ""pixelated""",closed,2014-10-07T12:20:15Z,2014-10-14T06:07:41Z,bug
+davemorrissey/subsampling-scale-image-view,22,incorrect displaying of some jpegs,closed,2014-10-01T01:05:46Z,2014-10-01T21:26:56Z,bug
+davemorrissey/subsampling-scale-image-view,15,"After double tapping, flinging doesn't work and it performs a click",closed,2014-08-02T11:09:03Z,2014-08-02T22:24:16Z,bug
+davemorrissey/subsampling-scale-image-view,3,Pinch and Zoom stop working after setOnClickListener(),closed,2013-11-20T02:03:03Z,2014-05-21T07:26:15Z,bug
+pdaddyo/soundbounce,286,(chrome-extension) Pages of play.spotify.com and app.soundbounce.org are crashing when track is not available in my region.,open,2016-01-13T17:31:41Z,,"bug, Chrome Extension"
+pdaddyo/soundbounce,276,"Searching for ' artist:""artist name"" ' doesn't include tracks already in the room",open,2015-07-27T12:59:55Z,,"bug, front-end"
+pdaddyo/soundbounce,271,"Tracks unavailable (out of region) just silently fail with web player, no warning message",open,2015-07-01T11:54:27Z,,"bug, Chrome Extension"
+pdaddyo/soundbounce,264,Fix seeking skip when you join a room midway through a track,open,2015-06-30T12:06:41Z,,"bug, Chrome Extension"
+pdaddyo/soundbounce,263,"Add ""star"" support to chrome extension",closed,2015-06-30T12:06:13Z,2015-06-30T22:51:31Z,"bug, Chrome Extension"
+pdaddyo/soundbounce,261,"Chrome Extension doesn't work on player.spotify.com, only on play.spotify.com",open,2015-06-29T03:18:08Z,,"bug, Chrome Extension"
+pdaddyo/soundbounce,259,"Click star for now playing track, invisible star is still clickable afterwards.",open,2015-06-25T15:50:02Z,,"bug, front-end"
+pdaddyo/soundbounce,257,"click link to star event in chat should star the track, not vote for it.",open,2015-06-23T09:31:50Z,,"bug, front-end"
+pdaddyo/soundbounce,254,fix artists box floating over icons at certain widths,open,2015-06-20T15:43:41Z,,"bug, front-end"
+pdaddyo/soundbounce,216,[WebUI] Missing searched-filtered rooms after closing selected a room,open,2015-03-06T12:40:28Z,,"bug, ready"
+pdaddyo/soundbounce,211,"CEF is storing files in %temp% root, not Soundbounce_temp",open,2015-01-22T23:38:18Z,,"bug, windows"
+pdaddyo/soundbounce,210,Votes past 5 are not displaying the + symbol like before,closed,2015-01-21T18:42:38Z,2015-02-02T15:04:38Z,"bug, front-end"
+pdaddyo/soundbounce,205,Client hangs when playing back tracks of a long duration,open,2015-01-13T19:12:03Z,,"bug, native client, front-end"
+pdaddyo/soundbounce,203,"Artist list, comma is white on search results (should be same as artist text)",closed,2015-01-13T15:50:09Z,2015-04-23T07:21:21Z,"bug, front-end"
+pdaddyo/soundbounce,197,"Tracks do not always recycle as expected, rooms end up empty",closed,2015-01-12T19:35:43Z,2015-01-12T20:28:08Z,"bug, server"
+pdaddyo/soundbounce,167,long room names will overlap the description/not fit in the container,closed,2015-01-07T21:02:08Z,2015-01-09T23:07:05Z,"bug, front-end"
+pdaddyo/soundbounce,166,"When more than 4 votes, the + symbol isn't aligned properly.  should be room colour too.",closed,2015-01-07T19:40:45Z,2015-01-10T16:59:15Z,"bug, front-end"
+pdaddyo/soundbounce,165,Electro House vs Electro house - don't allow room names with just case differences,closed,2015-01-07T19:11:24Z,2015-01-09T23:37:42Z,"bug, server"
+pdaddyo/soundbounce,159,Windows client compounding memory usage,closed,2015-01-06T21:44:59Z,2015-01-09T21:39:19Z,"bug, windows"
+pdaddyo/soundbounce,158,[OSX Beta] Trying to sign in with Twitter account yields white screen,open,2015-01-06T19:57:12Z,,"bug, help wanted, osx, ready"
+pdaddyo/soundbounce,156,Unable to add tracks that do not have album photos on Spotify while using Mac OS X Yosemite 10.10,closed,2015-01-06T15:06:07Z,2015-01-10T16:08:11Z,bug
+pdaddyo/soundbounce,152,Server saving data every 10 minutes should use async json stream to prevent lockups,closed,2015-01-05T21:34:06Z,2015-01-12T21:43:57Z,"bug, enhancement, server"
+pdaddyo/soundbounce,150,Artist names in search results...,closed,2015-01-05T17:41:24Z,2015-01-05T20:16:19Z,"bug, front-end"
+pdaddyo/soundbounce,142,Voting from the chat window sometimes gives votes or adds the wrong song.,closed,2015-01-03T00:22:15Z,2015-03-01T00:26:08Z,"bug, front-end"
+pdaddyo/soundbounce,115,"user ""Soundbounce"" is occasionally voting on tracks, when it should only auto-top-up",closed,2014-12-24T13:39:09Z,2014-12-27T11:34:49Z,"bug, server"
+pdaddyo/soundbounce,109,"Spotify icon, remove icons misaligned when player is certain widths",closed,2014-12-23T16:02:08Z,2015-04-23T09:10:59Z,"bug, front-end, osx, windows"
+pdaddyo/soundbounce,108,When preview fails current track is indicated to be unavailable,closed,2014-12-23T14:05:20Z,2014-12-27T12:36:58Z,"bug, front-end"
+pdaddyo/soundbounce,94,Major performance issue - separate out the track position interval from the full room state,closed,2014-12-22T18:18:24Z,2014-12-22T20:08:47Z,"bug, front-end"
+pdaddyo/soundbounce,92,Auto-top up seems to only use first 50/100 songs in playlist?,closed,2014-12-22T16:36:34Z,2014-12-27T11:05:04Z,"bug, server"
+pdaddyo/soundbounce,86,Implement our own modal for confirm(),closed,2014-12-19T18:14:44Z,2014-12-19T18:39:12Z,bug
+pdaddyo/soundbounce,76,offset playlist scrollbar so the top is the top of frame.,closed,2014-12-18T18:01:52Z,2014-12-19T15:06:21Z,"bug, wontfix, front-end"
+pdaddyo/soundbounce,75,"Tracks only cycle around once, because they're re-added by the ""soundbounce"" user so don't come back around again",closed,2014-12-18T18:00:43Z,2014-12-19T18:43:36Z,"bug, server"
+pdaddyo/soundbounce,59,"After editing room with multiple listeners, progress bar stops working and next track doesn't always play",closed,2014-12-17T18:40:59Z,2014-12-17T23:28:15Z,bug
+pdaddyo/soundbounce,57,names in chat are a bit hard to read,closed,2014-12-17T18:26:15Z,2014-12-17T19:21:55Z,bug
+pdaddyo/soundbounce,43,make text selectable in chat window,closed,2014-12-16T18:54:53Z,2014-12-16T21:17:16Z,bug
+pdaddyo/soundbounce,39,"replace all alert() calls with something prettier, and also less ugly",closed,2014-12-16T16:21:53Z,2014-12-16T18:15:53Z,"bug, enhancement"
+pdaddyo/soundbounce,37,empty chat messages get sent,closed,2014-12-16T15:59:12Z,2014-12-16T17:36:49Z,bug
+pdaddyo/soundbounce,36,"can't review chat history whilst people are chatting, because it jumps scroll back down",closed,2014-12-16T15:59:04Z,2015-04-22T07:52:08Z,bug
+pdaddyo/soundbounce,33,"Links (e.g. in chat) open in new window, but still soundbounce's chrome.  needs to use native browser.",closed,2014-12-16T09:55:23Z,2014-12-16T21:32:10Z,bug
+pdaddyo/soundbounce,28,"linkify in chat thinks nu:tone is URL - limit to http:, https: + spotify:",closed,2014-12-15T12:30:32Z,2014-12-15T19:37:09Z,bug
+pdaddyo/soundbounce,26,long links overrun in chat window,closed,2014-12-14T22:27:52Z,2014-12-15T18:59:59Z,bug
+pdaddyo/soundbounce,25,"new room, searching scrollbars are off (due to no ""now playing"")",closed,2014-12-14T21:51:50Z,2014-12-14T21:55:54Z,bug
+pdaddyo/soundbounce,24,$material is not being initialised after first room render (after first sync),closed,2014-12-14T00:04:48Z,2014-12-14T18:56:57Z,bug
+pdaddyo/soundbounce,17,Handle unavailable tracks (e.g. region locked),closed,2014-12-13T11:39:01Z,2014-12-15T20:19:01Z,bug
+pdaddyo/soundbounce,1,Local time calculations need adjusting to server time,closed,2014-12-13T11:23:32Z,2014-12-15T19:37:09Z,bug
+castaway2000/PawpadsAndroid,18,chats disconnect and don't reconnect.,closed,2017-08-15T19:05:16Z,2017-11-01T08:46:30Z,bug
+castaway2000/PawpadsAndroid,17,age is a 13+ app but reg limits it to 15.,closed,2017-08-13T06:35:25Z,2017-11-01T08:48:02Z,bug
+castaway2000/PawpadsAndroid,15,make login more verbose,closed,2017-08-13T02:59:02Z,2018-05-14T16:17:39Z,bug
+castaway2000/PawpadsAndroid,9,UDID bug,closed,2017-03-24T17:36:33Z,2017-04-18T21:06:11Z,"bug, help wanted"
+weitsai/iHelp-android,43,若取得一次位置後，關閉網路及GPS移動到另外一個建築物內，會取得上一個位置的點,open,2013-11-20T00:07:21Z,,bug
+weitsai/iHelp-android,39,Android 2.3.3 模糊搜尋的功能失效,open,2013-11-03T09:35:28Z,,bug
+weitsai/iHelp-android,27,Geocoder 不穩定，有時候會轉址失敗,closed,2013-10-03T12:12:38Z,2013-10-05T20:57:40Z,bug
+weitsai/iHelp-android,13,one x 手機經緯度轉住址會直接 error,closed,2013-08-22T13:14:26Z,2013-09-02T03:05:48Z,bug
+rapidpro/surveyor,39,"Launcher uses ""Choose Organization"" as title",closed,2019-02-13T14:35:03Z,2019-02-14T19:40:44Z,bug
+rapidpro/surveyor,9,Incomplete submissions fail to submit,closed,2016-07-05T20:57:27Z,2016-07-14T20:08:11Z,bug
+rapidpro/surveyor,8,Google API Client causes crash,closed,2016-07-05T20:45:37Z,2016-07-14T20:08:29Z,bug
+AsherGlick/Passcodes,31,Firefox extention sometimes does not insert password or close,open,2013-12-20T06:16:44Z,,"Bug, Firefox Extention"
+AsherGlick/Passcodes,28,Default Settings Loading,closed,2013-10-06T13:25:00Z,2013-12-16T05:56:49Z,"Bug, Console App"
+AsherGlick/Passcodes,27,Imgur Displays the wrong url,closed,2013-06-14T23:46:49Z,2013-12-20T06:05:29Z,"Bug, Firefox Extention"
+AsherGlick/Passcodes,26,SHA256 is only run once,open,2013-04-12T04:15:24Z,,"Bug, Enhancement, Web UI, Chrome Plugin, Firefox Extention, Android App"
+AsherGlick/Passcodes,19,The web interface does not work in Internet Explorer 9,open,2013-02-17T17:00:34Z,,"Bug, Web UI"
+AsherGlick/Passcodes,18,Website can replicate the look of passcod.es context menu,open,2013-02-16T16:17:14Z,,"Bug, Chrome Plugin, Firefox Extention"
+AsherGlick/Passcodes,15,CSS3 size manipulations do not work in internet explorer,open,2013-02-07T14:32:08Z,,"Bug, Web UI"
+AsherGlick/Passcodes,11,Output box will deselect text when clicked if the text is already selected,open,2013-01-03T17:34:21Z,,"Bug, Web UI"
+AsherGlick/Passcodes,10,Output hash does not get selected in iOS safari,open,2013-01-03T05:40:26Z,,"Bug, Web UI"
+AsherGlick/Passcodes,9,Submit button does not get CSS in iOS safari,closed,2013-01-03T05:39:54Z,2013-01-03T05:52:18Z,"Bug, Web UI"
+AsherGlick/Passcodes,5,Web UI generates a hash even if one of the fields is blank,closed,2013-01-03T03:56:38Z,2013-03-06T21:21:01Z,"Bug, Enhancement, wontfix, Web UI"
+AsherGlick/Passcodes,1,This method of password generation is not standard,open,2013-01-03T03:52:35Z,,Bug
+UweTrottmann/wp-display-android,23,Stats: java.net.ProtocolException: unexpected end of stream,open,2023-01-04T12:12:42Z,,bug
+UweTrottmann/wp-display-android,4,Show connection error if data request detects no connection,closed,2014-11-28T09:24:44Z,2014-11-28T09:58:11Z,bug
+UweTrottmann/wp-display-android,2,Add credits,closed,2014-11-27T12:07:09Z,2014-11-28T09:58:04Z,bug
+bdiegel/android-giftwise,6,Gift list not refreshed when recipient is modified,closed,2015-06-19T01:21:30Z,2015-06-20T18:10:43Z,bug
+avram/zandy,142,Subcollection parenting is not correctly synced,open,2017-10-19T16:12:38Z,,"api, bug"
+avram/zandy,83,Catch OAuth errors,closed,2012-01-29T18:55:43Z,2014-01-18T10:00:03Z,bug
+avram/zandy,80,Item memberships don't sync reliably to server,closed,2012-01-13T09:53:55Z,2012-01-15T11:04:35Z,bug
+avram/zandy,72,Rework aggressive syncing,open,2011-12-01T17:59:55Z,,"api, bug"
+avram/zandy,71,Out-of-memory crash on large sync,closed,2011-12-01T17:56:03Z,2012-01-28T21:39:40Z,bug
+avram/zandy,61,Sync initiated from locally-created item causes crash,closed,2011-11-10T06:22:29Z,2011-11-14T09:32:23Z,bug
+avram/zandy,60,"Crash on sync after adding item from ""Share page""",closed,2011-11-09T21:37:10Z,2011-11-10T06:21:09Z,bug
+avram/zandy,58,Database connection safety,closed,2011-11-08T03:47:58Z,2011-11-08T07:20:07Z,"db, bug"
+avram/zandy,57,Case insensitive searching for non-ASCII characters,closed,2011-11-06T07:08:29Z,2014-01-18T09:42:00Z,"db, bug"
+avram/zandy,55,Prevent attachment name collisions,closed,2011-11-05T21:06:14Z,2011-11-06T06:51:42Z,bug
+avram/zandy,35,"After viewing item, collection shows only 10 items",closed,2011-10-01T11:38:46Z,2011-10-01T18:48:04Z,bug
+avram/zandy,31,Tag creation,closed,2011-09-24T08:28:52Z,2011-09-25T04:58:06Z,bug
+avram/zandy,30,Creator dialog issues,closed,2011-09-24T04:20:03Z,2011-09-25T04:28:49Z,"interface, bug"
+avram/zandy,29,Decomposed Unicode characters display incorrectly,closed,2011-09-24T04:17:32Z,2014-10-03T04:51:33Z,bug
+avram/zandy,26,Settings don't stick,closed,2011-09-22T17:11:05Z,2011-09-24T04:44:08Z,bug
+avram/zandy,25,Freezes around login,closed,2011-09-22T17:07:42Z,2011-09-25T05:30:45Z,bug
+avram/zandy,22,Switching to Zandy using app switcher breaks back button,closed,2011-09-22T02:05:49Z,2011-09-25T06:36:09Z,bug
+avram/zandy,19,cursor hygiene,closed,2011-09-20T04:21:30Z,2011-10-02T00:12:50Z,"db, bug"
+plusCubed/velociraptor,83,Speeds from HERE in wrong format,open,2017-12-30T20:02:17Z,,bug
+plusCubed/velociraptor,79,[Issue] v1.6.0 speed alert BELOW speed limit,closed,2017-11-24T08:34:49Z,2017-12-30T19:55:53Z,bug
+plusCubed/velociraptor,59,Speed limit is shown in mph even when switching to km/h,open,2017-01-29T23:58:53Z,,bug
+plusCubed/velociraptor,46,Velociraptor app violates Overpass API usage policy,closed,2016-07-14T19:01:36Z,2021-09-09T10:43:20Z,bug
+plusCubed/velociraptor,41,Doesn't hide when apps are opened through notification,open,2016-06-18T15:13:58Z,,bug
+plusCubed/velociraptor,39,Exceed Speed limit warning sound too quiet and not configurable.,closed,2016-06-15T13:15:32Z,2016-07-25T10:32:36Z,"bug, enhancement"
+plusCubed/velociraptor,33,Black background on some devices,open,2016-05-06T02:11:32Z,,bug
+plusCubed/velociraptor,25,Google maps constantly rotating,closed,2016-04-26T00:11:35Z,2017-04-04T07:21:07Z,bug
+plusCubed/velociraptor,21,App is always asking for GPS even when not in use,closed,2016-04-20T13:49:17Z,2016-04-23T21:49:47Z,bug
+plusCubed/velociraptor,15,Velocity issue,closed,2016-04-11T21:15:07Z,2016-04-18T00:49:35Z,bug
+plusCubed/velociraptor,9,Location listener sometimes persists after floating service is killed,closed,2016-04-08T18:55:37Z,2016-05-04T00:38:29Z,bug
+thecosmicfrog/LuasataGlance,14,App not displaying times on Huawei Watch running AndroidWear 2.0,open,2017-06-07T15:05:57Z,,"bug, wear"
+thecosmicfrog/LuasataGlance,11,Stop forecast should display a message when no trams are due,closed,2015-02-22T16:49:50Z,2015-02-24T20:50:16Z,"bug, mobile, wear"
+thecosmicfrog/LuasataGlance,9,Add a timeout check on the client-side,open,2015-02-19T14:26:37Z,,"bug, mobile, wear"
+thecosmicfrog/LuasataGlance,8,Inbound and Outbound views should be cleared when loading a new stop forecast,closed,2015-02-13T17:50:23Z,2015-02-14T18:38:27Z,"bug, mobile"
+thecosmicfrog/LuasataGlance,7,Progress circle should disappear after a stop forecast is loaded,closed,2015-01-26T10:31:52Z,2015-02-13T20:17:39Z,"bug, mobile"
+thecosmicfrog/LuasataGlance,6,App occasionally crashes when screen is rotated many times in a short space of time,closed,2015-01-25T20:53:00Z,2015-01-25T21:00:55Z,"bug, mobile"
+caarmen/FRCAndroidWidget,36,Fix icons in widget popup,closed,2017-03-07T07:17:56Z,2017-07-20T20:36:10Z,bug
+caarmen/FRCAndroidWidget,33,Crash when showing notification: honeycomb + ics,closed,2017-02-11T14:23:06Z,2017-02-11T14:28:44Z,bug
+caarmen/FRCAndroidWidget,19,Widget text wrapped when resized,closed,2015-10-05T09:06:41Z,2015-10-05T09:19:35Z,bug
+caarmen/FRCAndroidWidget,16,Widget not not available,closed,2015-03-22T11:51:21Z,2016-05-21T12:31:25Z,bug
+caarmen/FRCAndroidWidget,12,Cannot add widget,closed,2014-12-05T21:04:19Z,2014-12-05T21:30:51Z,bug
+caarmen/FRCAndroidWidget,5,Pixelized rendering ,closed,2014-07-26T01:11:53Z,2014-07-28T21:04:11Z,bug
+caarmen/FRCAndroidWidget,1,Fix accented characters in weekday names,closed,2014-07-18T05:54:34Z,2014-07-18T19:25:01Z,bug
+outlying/card-check,18,Data validation is missing for students cards,open,2017-02-21T10:53:18Z,,bug
+ianhanniballake/TripleSolitaire,47,Pausing Game Should Stop Autoplay,closed,2013-01-10T06:26:32Z,2013-01-15T03:32:25Z,"Bug, Gameplay"
+ianhanniballake/TripleSolitaire,31,Multiple games are started on launch,closed,2011-10-09T17:10:38Z,2011-10-09T17:12:02Z,Bug
+ianhanniballake/TripleSolitaire,26,"Game Freezes, Unable To Move Cards",closed,2011-08-11T04:56:55Z,2011-08-13T23:34:38Z,"Bug, Gameplay"
+ianhanniballake/TripleSolitaire,22,Autoplay option not hiding when overlapping with Progress Bar,closed,2011-08-03T06:00:09Z,2011-08-04T01:16:54Z,"Bug, Graphics"
+ianhanniballake/TripleSolitaire,20,Interrupting an Autoplay with Flip of Ace Disables Foundation,closed,2011-08-02T18:15:21Z,2011-08-04T03:53:31Z,"Bug, Gameplay"
+ianhanniballake/TripleSolitaire,19,"Timer Starts Before First Move After Selecting ""New Game""",closed,2011-08-02T09:10:00Z,2011-08-03T13:40:21Z,"Bug, Gameplay"
+ianhanniballake/TripleSolitaire,13,Fix Time and Move Count in 'You won' dialog,closed,2011-08-02T05:29:35Z,2011-08-04T05:13:10Z,"Bug, Gameplay"
+ianhanniballake/TripleSolitaire,11,Graphics Issue in Empty Foundation Location,open,2011-08-02T05:16:50Z,,"Bug, Graphics"
+ianhanniballake/TripleSolitaire,2,Cannot Move Card from Foundation to Cascade when Autoplay when Obvious is on,closed,2011-08-01T22:33:46Z,2011-08-02T03:27:55Z,"Bug, Gameplay"
+midhunhk/trip-o-meter,19,Positioning of FloatingActionButton in Expenses List Fragment,closed,2017-07-02T03:04:01Z,2017-07-02T03:05:32Z,"bug, fixed"
+midhunhk/trip-o-meter,16,App crashes on selecting some contacts,closed,2017-04-15T05:30:23Z,2017-04-15T09:09:42Z,bug
+midhunhk/trip-o-meter,14,IllegalStateException on go back from TripDetails,closed,2017-03-15T15:25:18Z,2017-03-15T15:25:40Z,bug
+midhunhk/trip-o-meter,11,App crashes due to permission issue.,closed,2017-03-04T07:30:37Z,2017-03-08T05:37:28Z,"bug, fixed"
+midhunhk/trip-o-meter,9,Trip distance value disappears on orientation change,closed,2017-01-23T04:59:03Z,2017-06-28T20:51:56Z,"bug, low priority"
+midhunhk/trip-o-meter,4,About screen changes background color of notification bar which makes icons unlegible,closed,2017-01-06T02:30:52Z,2017-01-10T20:00:10Z,"bug, fixed, low priority"
+midhunhk/trip-o-meter,1,On initial load %s is displayed in labels,closed,2016-12-29T12:29:37Z,2016-12-29T18:38:52Z,"bug, fixed"
+ellenpoe/TuxRacer-SDL2,5,Black screen and freezing during background->resume flow,closed,2018-08-31T02:10:42Z,2020-05-20T16:52:01Z,bug
+ellenpoe/TuxRacer-SDL2,4,Accelerometer flipped on Pixel 2,closed,2018-08-31T02:06:20Z,2020-05-20T02:42:38Z,bug

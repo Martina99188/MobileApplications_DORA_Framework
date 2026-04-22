@@ -1,0 +1,835 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+Esri/maps-app-android,171,Build fails finding android.arch.lifecycle 'runtime' dependency,closed,2018-10-24T07:37:10Z,2019-04-03T20:46:54Z,"Type - Bug, Status - Done"
+Esri/maps-app-android,166,App crashes when logging in,closed,2017-11-28T21:56:37Z,2019-04-03T20:47:22Z,"Type - Bug, Closed - Invalid"
+Esri/maps-app-android,154,Would like to use maps-app-android when on airplane mode but connected to wi-fi,closed,2016-11-21T16:25:51Z,2016-11-21T22:30:55Z,"Type - Bug, Type - Enhancement, Status - Done"
+Esri/maps-app-android,148,Crash when signing into a portal,closed,2016-11-14T19:13:52Z,2017-03-22T17:12:03Z,"Type - Bug, Status - Done, Priority - High"
+Esri/maps-app-android,135,Android soft keyboard appears after switching basemaps,closed,2016-07-12T20:43:54Z,2016-09-20T23:17:56Z,"Type - Bug, Status - Done, Priority - Moderate"
+Esri/maps-app-android,124,Compass icon gets out of sync with map orientation after toggling location tracking,closed,2016-04-07T19:42:49Z,2016-07-12T19:19:15Z,Type - Bug
+Esri/maps-app-android,123,Location tracking needs to be enabled on all maps,closed,2016-04-07T19:09:59Z,2016-04-11T23:38:43Z,Type - Bug
+Esri/maps-app-android,122,maps-app FATAL EXCEPTION for Android version 6.0.1 due to SecurityException,closed,2016-04-07T19:02:16Z,2016-04-11T23:40:52Z,Type - Bug
+Esri/maps-app-android,121,Signing in to Portal Generates a Bad Request (400),closed,2016-04-01T20:24:18Z,2016-07-12T21:40:35Z,"Type - Bug, Status - Done, Priority - High"
+Esri/maps-app-android,118,map-app throws FATAL EXCEPTION on Samsung device SCH-I435 running Android version 4.4.2,closed,2016-03-15T23:18:22Z,2016-04-12T14:47:41Z,Type - Bug
+Esri/maps-app-android,60,Application stops responding when the search button in action bar is tapped,closed,2014-07-28T19:50:18Z,2014-08-21T22:16:08Z,Type - Bug
+Esri/maps-app-android,32,Need a start graphic location for routing,closed,2014-03-11T22:38:33Z,2014-03-12T17:22:52Z,Type - Bug
+Esri/maps-app-android,29,Map's My Location is Redlands,closed,2014-03-11T16:06:48Z,2014-03-11T22:38:43Z,Type - Bug
+Esri/maps-app-android,26,Single tap on features doesn't work,closed,2014-03-05T18:09:33Z,2014-03-11T16:01:37Z,Type - Bug
+Esri/maps-app-android,25,GPS keeps running when you quit the app,closed,2014-03-05T18:08:12Z,2014-03-11T16:01:56Z,Type - Bug
+Esri/maps-app-android,18,Action bar messed up after Search>Directions>BACK,closed,2013-12-03T11:56:14Z,2014-03-13T05:00:32Z,Type - Bug
+Esri/maps-app-android,13,Choosing a new basemap recenters app on Esri Redlands campus,closed,2013-10-11T17:41:58Z,2014-03-11T16:04:36Z,Type - Bug
+Esri/maps-app-android,12,LocationService doesn't terminate on minimize,closed,2013-10-11T16:21:50Z,2014-03-13T05:01:39Z,Type - Bug
+Esri/maps-app-android,11,The Options > About button doesn't display anything,closed,2013-10-11T15:24:41Z,2014-03-13T05:02:13Z,Type - Bug
+Esri/maps-app-android,10,Remove static modifier to MapView,closed,2013-09-25T16:46:34Z,2013-09-25T16:48:55Z,Type - Bug
+Esri/maps-app-android,6,Retain Reverse Geocoding functionality when changing basemaps,closed,2013-09-03T00:30:40Z,2014-03-11T16:01:12Z,Type - Bug
+Esri/maps-app-android,5,Need to refactor getLastNonConfigurationInstance() to use Fragment API,closed,2013-07-31T05:04:36Z,2013-09-03T00:20:19Z,Type - Bug
+gatzka/android-scan,35,Put version key into devices.json,closed,2016-04-03T18:13:42Z,2016-04-18T18:50:31Z,bug
+gatzka/android-scan,28,Show all announced IPv4 addresses in ConfigureActivity.,closed,2016-03-13T17:08:54Z,2016-04-03T07:46:02Z,bug
+SteamGifts/SteamGifts,64,WebView state lost after device rotation,open,2018-04-22T17:01:51Z,,bug
+SteamGifts/SteamGifts,57,Avatars not loading while in discussion overview,closed,2017-10-31T20:26:46Z,2017-11-02T11:32:34Z,bug
+SteamGifts/SteamGifts,54,user profiles don't work,closed,2017-09-18T06:13:49Z,2017-09-26T21:46:40Z,bug
+SteamGifts/SteamGifts,53,The buttons for entering giveaways don't update when your number of points changes,closed,2017-03-24T16:06:05Z,2017-11-02T11:22:10Z,bug
+SteamGifts/SteamGifts,52,Quickly double-clicking the Quick Enter button crashes the app,closed,2017-02-07T07:56:09Z,2017-02-16T10:08:26Z,bug
+SteamGifts/SteamGifts,51,Dialog disappears on device rotation,closed,2017-01-16T11:02:49Z,2017-01-16T13:28:44Z,bug
+SteamGifts/SteamGifts,49,Dialog changes state on device rotation,closed,2017-01-16T10:36:50Z,2017-01-16T11:39:46Z,"bug, duplicate"
+SteamGifts/SteamGifts,48,"Can't fetch any giveaway from ""All""",closed,2017-01-13T15:30:08Z,2017-09-16T16:06:27Z,bug
+SteamGifts/SteamGifts,45,Filter dialog not properly displayed on some devices,closed,2017-01-12T16:56:20Z,2017-01-18T12:38:59Z,"bug, device-specific-bug"
+SteamGifts/SteamGifts,44,Crashes when opening the sidebar,closed,2017-01-11T13:32:56Z,2017-01-12T15:58:57Z,bug
+SteamGifts/SteamGifts,41,"Page fails to load when ""#"" character is present",closed,2017-01-04T12:43:13Z,2017-01-04T15:03:10Z,bug
+SteamGifts/SteamGifts,40,Sidebar items offset after upgrading to Android 7.0,closed,2017-01-03T23:14:54Z,2017-01-04T15:36:39Z,bug
+SteamGifts/SteamGifts,38,Giveaway views are broken again,closed,2016-11-11T14:24:34Z,2016-11-11T16:03:29Z,bug
+SteamGifts/SteamGifts,37,recent website update broke all list views,closed,2016-10-28T06:41:57Z,2016-10-28T16:57:31Z,bug
+SteamGifts/SteamGifts,35,'Failed to fetch items' on created list,closed,2016-05-28T17:05:35Z,2016-05-28T18:51:47Z,bug
+SteamGifts/SteamGifts,33,Link not working ,closed,2016-04-25T11:06:10Z,2016-04-26T12:17:31Z,bug
+SteamGifts/SteamGifts,32,problem entering giveaway,closed,2016-04-13T05:45:14Z,2016-04-15T19:49:52Z,bug
+SteamGifts/SteamGifts,30,GA List broken,closed,2016-04-12T07:43:26Z,2016-04-15T19:49:52Z,bug
+SteamGifts/SteamGifts,29,Won giveaway notification might reappear for games if you've marked a newer one as received,closed,2016-02-22T18:56:32Z,2016-02-23T13:03:00Z,bug
+SteamGifts/SteamGifts,18,Hiding a Game doesn't propagate hiding to parent activities,closed,2016-01-10T19:19:19Z,2016-01-10T21:40:26Z,bug
+SteamGifts/SteamGifts,17,unable to comment/hide a giveaway if you can't enter/leave it,closed,2016-01-10T19:18:27Z,2016-01-10T21:50:48Z,bug
+SteamGifts/SteamGifts,12,"Deleted posts show ""This comment was deleted [spoiler]"" instead of the un-spoilered date.",closed,2016-01-06T01:17:28Z,2016-01-06T01:31:49Z,bug
+SteamGifts/SteamGifts,9,Nested comments below a certain level are impossible to read,closed,2016-01-05T15:20:33Z,2016-01-06T13:40:37Z,bug
+SteamGifts/SteamGifts,8,Unable to view text whilst commenting on a long comment,closed,2016-01-05T15:19:49Z,2016-01-06T16:30:51Z,bug
+oldergod/red,32,Java Reserved Named Resources,closed,2016-11-01T05:07:37Z,2016-11-02T13:16:32Z,"bug, priority 4 (must), size S"
+oldergod/red,25,App icon quality,closed,2016-10-30T08:19:52Z,2016-11-25T08:30:03Z,"bug, priority 3 (should), size S"
+oldergod/red,20,Only the first broadcaster logo is displayed,closed,2016-10-26T08:33:21Z,2016-10-27T06:59:37Z,"bug, in progress, priority 4 (must)"
+sangcomz/FishBun,268,[BUG]  [Android 15] Compatibility Issue: Function Failure with targetSdkVersion 35,closed,2025-08-25T02:55:15Z,2025-11-30T14:47:19Z,bug
+sangcomz/FishBun,267,[BUG]太奇葩了！就是找不到,open,2025-06-13T07:13:25Z,,bug
+sangcomz/FishBun,264,[BUG] open failed: EPERM (Operation not permitted),open,2023-06-21T01:14:26Z,,bug
+sangcomz/FishBun,262,[BUG] lateinit property imageAdapter has not been initialized,open,2023-01-30T03:19:34Z,,bug
+sangcomz/FishBun,261,Android 13 albums are not showing up to select the images,open,2023-01-27T10:04:19Z,,bug
+sangcomz/FishBun,255,[BUG],closed,2022-11-08T15:54:49Z,2022-11-11T00:09:21Z,bug
+sangcomz/FishBun,253,[BUG] lateinit property imageAdapter crash when using fish bun in fragment,closed,2022-08-25T09:06:08Z,2022-12-15T13:50:05Z,bug
+sangcomz/FishBun,250,"[BUG] Open gallery and click image, image black when select detail",closed,2022-06-29T09:07:21Z,2022-06-29T09:53:03Z,bug
+sangcomz/FishBun,249,[BUG] Screen is stuck after selecting 25 images and clicking Done. And also after that seeing black screen for some seconds before it moves to particular activity.,open,2022-04-05T08:30:03Z,,bug
+sangcomz/FishBun,242,[BUG],open,2021-08-12T04:27:41Z,,bug
+sangcomz/FishBun,240,Will it working on Android 11 if the sdk version is still 29?,closed,2021-07-10T06:29:51Z,2021-09-30T11:08:35Z,bug
+sangcomz/FishBun,239,[BUG] onActivityResult deprecated on AndroidX,closed,2021-07-01T17:26:20Z,2022-01-08T14:40:58Z,bug
+sangcomz/FishBun,238,Jcenter remove issues,closed,2021-05-25T12:58:57Z,2022-01-08T11:04:52Z,bug
+sangcomz/FishBun,235,[BUG] TransactionTooLargeException: data parcel size 624832 bytes,open,2021-04-10T02:29:54Z,,bug
+sangcomz/FishBun,234,UninitializedPropertyAccessException,closed,2021-03-10T08:11:57Z,2022-12-15T14:08:21Z,bug
+sangcomz/FishBun,229,[BUG]Why don't you see the buttons at the top left and right，I'm sure I set them,closed,2020-12-02T08:21:18Z,2020-12-02T08:21:35Z,bug
+sangcomz/FishBun,227,[BUG] androidx.constraintlayout:constraintlayout:2.0.4 version issue,closed,2020-11-23T05:50:27Z,2021-01-06T13:51:55Z,bug
+sangcomz/FishBun,224,[BUG] Camera button does not work for devices targeting Android 11,open,2020-10-26T23:47:08Z,,bug
+sangcomz/FishBun,223,[BUG] no media shown at all,closed,2020-10-25T08:35:36Z,2021-01-13T01:12:30Z,bug
+sangcomz/FishBun,222,[BUG] No data received in onActivityResult,open,2020-10-23T15:52:38Z,,bug
+sangcomz/FishBun,221,[BUG] images not showing in detail view; i get black screen; no crash;,open,2020-10-08T19:49:42Z,,bug
+sangcomz/FishBun,220,Permission ACCESS_MEDIA_LOCATION [BUG],open,2020-10-06T22:44:29Z,,bug
+sangcomz/FishBun,215,setSelectedImages paths result in incorrect data.,closed,2020-08-02T03:35:23Z,2020-08-08T08:39:47Z,bug
+sangcomz/FishBun,213,Fatal Exception: java.lang.NullPointerException ImageAdapter.loadImage at PickerGridAdapter,open,2020-07-17T22:24:01Z,,bug
+sangcomz/FishBun,211,[BUG] java.io.IOException: No such file or directory,open,2020-06-26T19:38:12Z,,bug
+sangcomz/FishBun,209,[BUG] Camera: Android 10: java.io.IOException: No such file or directory,open,2020-04-29T10:31:56Z,,bug
+sangcomz/FishBun,208,[BUG] OutOfMemory for large pictures error,open,2020-04-27T10:16:41Z,,bug
+sangcomz/FishBun,207,crashed:  java.lang.NoClassDefFoundError: Failed resolution of: Landroidx/core/widget/TintableCompoundDrawablesView;,open,2020-04-26T09:15:17Z,,bug
+sangcomz/FishBun,204,Non-existent images are not filtered,open,2020-03-06T03:38:13Z,,bug
+sangcomz/FishBun,201,About the bug of turning on the camera button ,open,2020-01-10T05:40:50Z,,bug
+sangcomz/FishBun,200,[BUG] Incorrect URI of the picture taken by the camera,open,2019-12-30T07:35:43Z,,bug
+sangcomz/FishBun,199,[BUG] Pixel XL - Taking a photo in Fishbun returns wrong orientation.,open,2019-12-16T23:02:26Z,,bug
+sangcomz/FishBun,198,[BUG]java.lang.NoClassDefFoundError: com.bumptech.glide.util.CachedHashCodeArrayMap,open,2019-11-27T09:08:57Z,,bug
+sangcomz/FishBun,197,[BUG] how to show fishbun result to gridview,open,2019-11-21T16:24:42Z,,bug
+sangcomz/FishBun,196,[BUG] Fragment::onActivityResult not triggered,closed,2019-11-18T10:18:29Z,2020-03-22T06:04:21Z,bug
+sangcomz/FishBun,193,GPS EXIF Lost [BUG],open,2019-10-28T13:20:28Z,,bug
+sangcomz/FishBun,189,Photo view displaying blank screen,open,2019-10-16T16:39:21Z,,bug
+sangcomz/FishBun,188,[BUG] App Crash-Bug,open,2019-10-15T20:21:46Z,,bug
+sangcomz/FishBun,169,[BUG] handleWindowVisibility: no activity for token android.os.BinderProxy@22067a8 When no albumn,open,2019-09-07T10:53:16Z,,bug
+sangcomz/FishBun,168,[BUG] App Crash Issue,open,2019-09-06T09:18:38Z,,bug
+sangcomz/FishBun,167,[BUG] Images taken by the camera are not reindexed with the MediaScanner,closed,2019-09-03T09:03:14Z,2019-09-03T13:14:35Z,bug
+sangcomz/FishBun,165,java.lang.NoSuchFieldError: No static field recycler_picker_list[BUG],closed,2019-08-26T08:02:59Z,2019-08-27T13:48:44Z,bug
+sangcomz/FishBun,163,Missing space in title,closed,2019-08-02T08:18:42Z,2019-09-02T13:33:39Z,bug
+sangcomz/FishBun,162,"[CRASH] When used in flutter, Fileprovider paths can be overwritten",closed,2019-07-30T09:30:41Z,2019-10-18T13:31:20Z,bug
+sangcomz/FishBun,157,[BUG]Image Rotate,open,2019-06-03T06:48:45Z,,bug
+sangcomz/FishBun,146,Fatal Exception: java.lang.NullPointerException ImageAdapter.loadImage,open,2019-04-07T09:03:12Z,,bug
+sangcomz/FishBun,141,Enable Proguard True Got RuntimeException,closed,2019-03-19T19:22:35Z,2019-03-19T21:32:14Z,bug
+sangcomz/FishBun,138,"NullPointerException: Attempt to invoke interface method 'void com.sangcomz.fishbun.adapter.image.ImageAdapter.loadImage(android.content.Context, android.widget.ImageView, android.net.Uri)' on a null object reference  ",closed,2019-02-06T13:47:44Z,2019-03-09T16:26:06Z,bug
+sangcomz/FishBun,137,DetailActivity - NullPointerException: Attempt to read from null array  ,closed,2019-02-06T13:44:08Z,2019-03-09T16:27:34Z,bug
+sangcomz/FishBun,136,Image not displayed on capturing image from camera at a time,open,2019-02-06T08:03:24Z,,bug
+sangcomz/FishBun,135,NullPointerException: Attempt to read from field 'long com.sangcomz.fishbun.bean.Album.bucketId' on a null object reference,open,2019-02-05T15:50:57Z,,bug
+sangcomz/FishBun,125,Photos in portrait mode showing as album,closed,2018-10-09T17:35:23Z,2021-04-16T12:52:09Z,bug
+sangcomz/FishBun,121,User can take picture even if .setCamera(false) by touching camera icon in loading screen,closed,2018-08-19T21:18:08Z,2021-04-16T12:51:32Z,bug
+sangcomz/FishBun,117,CRASH: Attempt to invoke virtual method 'android.content.res.XmlResourceParser,closed,2018-03-21T10:08:00Z,2018-04-08T09:29:18Z,bug
+sangcomz/FishBun,113,Crash without Picasso,closed,2018-01-29T09:26:17Z,2018-02-05T07:03:27Z,bug
+sangcomz/FishBun,109,Compile error when import and update project in Androidstudio 3.0 (from gradle  3.3 to 4.1),closed,2017-11-27T14:17:33Z,2021-04-16T12:47:43Z,bug
+sangcomz/FishBun,107,Fatal exception when picking photo from gallery,closed,2017-09-21T08:03:13Z,2021-04-16T12:47:01Z,bug
+sangcomz/FishBun,106,Picasso crashed when launching camera,closed,2017-09-09T05:11:42Z,2021-04-16T12:43:49Z,bug
+sangcomz/FishBun,105,Do not compile on Oreo,closed,2017-09-06T13:40:33Z,2017-09-21T15:40:56Z,bug
+sangcomz/FishBun,101,NoSuchFieldError,closed,2017-07-10T17:49:43Z,2021-04-16T12:44:49Z,bug
+sangcomz/FishBun,96,count bug,closed,2017-06-18T15:11:22Z,2017-06-19T16:31:06Z,bug
+sangcomz/FishBun,89,App crashes when no photos in gallery.,closed,2017-05-21T20:35:35Z,2019-10-19T14:21:00Z,bug
+sangcomz/FishBun,68,Crash when taking a picture,closed,2017-02-22T11:27:00Z,2021-04-16T12:40:53Z,bug
+sangcomz/FishBun,60,Proguard build bug,closed,2017-02-07T15:35:37Z,2017-02-16T15:15:03Z,bug
+sangcomz/FishBun,52,"In Android M, FishBun can not display some pictures while in fact the picture exists.",closed,2017-01-20T10:14:36Z,2017-02-02T13:51:12Z,bug
+sangcomz/FishBun,45,IllegalArgumentException Width and height must be Target#SIZE_ORIGINAL or > 0,closed,2016-10-19T10:47:45Z,2017-01-07T15:53:32Z,bug
+sangcomz/FishBun,44,FileUriExposedException - Android Nougat,closed,2016-10-17T07:42:33Z,2017-01-16T14:42:16Z,bug
+sangcomz/FishBun,43,Two images saved after capture photo with camera,closed,2016-09-14T19:43:47Z,2021-04-16T12:39:56Z,"bug, ready, Unknown"
+sangcomz/FishBun,42,NullPointerException PickerActivity:onActivityResult,closed,2016-09-14T17:51:43Z,2021-04-16T12:39:26Z,bug
+sangcomz/FishBun,40,화면 회전 및 권한으로 인한 데이터 손실 막기,closed,2016-08-28T13:49:38Z,2016-09-15T04:13:53Z,bug
+sangcomz/FishBun,37,"FishBun crash when ""Deny Permission"" is clicked.",closed,2016-08-13T09:58:50Z,2017-01-07T15:51:53Z,bug
+sangcomz/FishBun,36,"Crash when pressing ""<-"" (back arrow) button after rotate screen",closed,2016-08-13T09:55:35Z,2016-08-26T15:38:53Z,bug
+sangcomz/FishBun,34,SQLiteException: unable to open database file,closed,2016-07-20T18:46:22Z,2021-04-16T12:39:08Z,bug
+sangcomz/FishBun,32,카메라촬영시 에러,closed,2016-07-04T04:29:52Z,2020-12-21T15:15:48Z,bug
+sangcomz/FishBun,29,Memory leak in AlbumActivity,closed,2016-06-14T12:36:59Z,2016-08-12T20:07:29Z,bug
+sangcomz/FishBun,27,PickerActivity DisplayImage task Null Pointer Exception,closed,2016-04-26T07:40:43Z,2016-05-02T09:24:26Z,bug
+sangcomz/FishBun,22,NoClassDefFoundError,closed,2016-04-03T07:57:43Z,2016-04-03T09:32:33Z,bug
+sangcomz/FishBun,21,PickerActivity.getAllMediaThumbnailsPath ArrayIndexOutOfBoundsException Error,closed,2016-03-30T02:49:20Z,2017-01-07T15:47:16Z,bug
+sangcomz/FishBun,20,gallery selection bug,closed,2016-03-29T07:25:27Z,2019-10-20T07:04:13Z,bug
+sangcomz/FishBun,19,폰에 저장된 이미지가 없을때,closed,2016-03-29T01:25:41Z,2017-01-16T14:42:15Z,"bug, enhancement"
+sangcomz/FishBun,17,Crashing when add .setCamera(true),closed,2016-03-15T16:25:07Z,2021-04-16T12:38:36Z,bug
+sangcomz/FishBun,13,bug take a pic..,closed,2016-02-25T07:00:14Z,2016-02-26T02:05:34Z,bug
+sangcomz/FishBun,7,Memory leak in BaseProperty,closed,2015-12-02T18:39:39Z,2021-04-16T12:37:06Z,bug
+sangcomz/FishBun,2,How to set the Toolbar?,closed,2015-11-19T12:45:26Z,2016-02-19T04:32:51Z,bug
+kiall/android-tvheadend,197,App does not restart correctly after crash/kill,open,2017-06-12T15:11:58Z,,bug
+kiall/android-tvheadend,166,Player crashing after switching to channel with multi-audio to single audio,open,2017-04-23T18:46:34Z,,"bug, needs more info"
+kiall/android-tvheadend,165,Playback fails after upgrade to 0.3.7,closed,2017-04-21T18:16:50Z,2017-04-30T16:41:08Z,bug
+kiall/android-tvheadend,164,Video is unexpectedly unavailable,closed,2017-04-20T00:17:17Z,2017-04-24T19:38:01Z,bug
+kiall/android-tvheadend,163,Instability after resume from standby,closed,2017-04-14T20:59:26Z,2017-06-11T19:31:56Z,"bug, needs more info"
+kiall/android-tvheadend,150,"App occasionally locks up, and a restart is required to start playback again",closed,2017-03-11T19:02:04Z,2017-04-30T17:04:26Z,bug
+kiall/android-tvheadend,149,Stuttering while audio track changes on the fly,open,2017-03-10T20:20:44Z,,"bug, Upstream Limitation"
+kiall/android-tvheadend,146,Playback hanging after a while,closed,2017-03-01T09:52:08Z,2017-03-10T15:05:54Z,bug
+kiall/android-tvheadend,141,Thread.start() in EpgSyncTask constructor,open,2017-02-27T16:26:08Z,,bug
+kiall/android-tvheadend,140,Sony AppLink TransactionTooLargeException on banner image,open,2017-02-24T09:59:29Z,,"bug, device/Sony"
+kiall/android-tvheadend,136,Initial setup failed to add account since v0.2.78/77,closed,2017-02-22T09:58:47Z,2017-02-22T12:01:19Z,bug
+kiall/android-tvheadend,135,EPG: Handle episodeOnscreen,open,2017-02-21T21:13:03Z,,bug
+kiall/android-tvheadend,134,HTSP: AAC Audio Support,closed,2017-02-21T16:47:10Z,2017-02-25T21:55:31Z,bug
+kiall/android-tvheadend,124,Channel logos broken since intro of new HTSP library ,closed,2017-02-12T21:24:03Z,2017-02-14T23:40:08Z,bug
+kiall/android-tvheadend,117,Change of aspect ratio during playback is not detected,open,2017-01-20T12:38:43Z,,bug
+kiall/android-tvheadend,116,Attempt to invoke virtual method .. SocketChannel.register,closed,2017-01-20T11:46:16Z,2017-02-12T12:07:59Z,bug
+kiall/android-tvheadend,107,java.lang.IllegalStateException: Multiple renderer media clocks enabled,closed,2017-01-07T14:50:59Z,2017-03-14T20:46:17Z,bug
+kiall/android-tvheadend,104,Exoplayer shrinking screen to 3/4 size,closed,2017-01-03T16:20:06Z,2017-03-11T19:12:36Z,"bug, device/Sony"
+kiall/android-tvheadend,102,Picture doesn't display when switching from SD to HD channel,closed,2017-01-03T12:33:59Z,2017-01-03T15:48:24Z,"bug, needs more info"
+kiall/android-tvheadend,92,Sony: Sorting channels,closed,2016-11-28T22:02:41Z,2017-03-11T15:17:25Z,"bug, device/Sony"
+kiall/android-tvheadend,91,EPG does not updates after initial load from server.,closed,2016-11-23T21:28:58Z,2017-01-11T13:19:37Z,bug
+kiall/android-tvheadend,84,Crashing with Sony Android 6 ,closed,2016-11-03T19:29:09Z,2017-01-03T12:54:25Z,"bug, device/Sony"
+kiall/android-tvheadend,82,Logcat errors during EPG updates,closed,2016-11-01T10:50:54Z,2017-01-01T23:13:07Z,bug
+kiall/android-tvheadend,81,Playback freezes after a few seconds when using LibVLC,closed,2016-11-01T10:41:56Z,2017-01-03T11:36:32Z,bug
+kiall/android-tvheadend,80,UncaughtException: java.lang.IllegalArgumentException: redundant track ID: 0-771,closed,2016-10-30T22:56:40Z,2017-01-03T11:49:15Z,bug
+kiall/android-tvheadend,40,Missing EPG Data.,closed,2016-08-10T11:58:06Z,2016-10-23T21:34:42Z,bug
+kiall/android-tvheadend,25,Discard S0 E0 metadata,closed,2016-07-26T12:03:29Z,2016-10-14T17:44:20Z,bug
+kiall/android-tvheadend,15,Support anamorphic source video,closed,2016-07-23T13:57:04Z,2016-07-26T18:05:16Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,267,Menu buttons stopped working after 3.0.6 update (on Android 5.1),closed,2017-06-02T05:08:51Z,2017-07-02T00:41:43Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,256,Search Provider not displayed,closed,2017-02-11T16:20:14Z,2017-02-12T14:54:31Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,249,Firebase/Fatal: IllegalStateException - LooperScheduler$ScheduledAction.run,closed,2017-02-03T02:18:47Z,2017-02-07T02:43:07Z,"bug, Firebase Crash"
+MythTV-Clients/MythtvPlayerForAndroid,246,Firebase: Exception java.lang.StringIndexOutOfBoundsException: length=7; regionStart=0; regionLength=-1,closed,2017-01-30T17:58:09Z,2017-02-05T00:25:27Z,"bug, Firebase Crash"
+MythTV-Clients/MythtvPlayerForAndroid,243,Dvr/GetSavedBookmark not found on some users backends,closed,2017-01-29T02:52:30Z,2017-01-29T14:57:01Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,241,Backend Discovery should only show backends at minimum mythtv version,open,2017-01-26T17:37:13Z,,bug
+MythTV-Clients/MythtvPlayerForAndroid,237,All icons on the UPCOMING page have a circled ! on them,closed,2017-01-26T05:13:52Z,2017-01-26T15:21:27Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,225,Can't mark recording 'Watched',closed,2017-01-20T02:39:25Z,2017-01-20T16:45:44Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,216,NullPointerException - MediaItemDetailsActivity.onButtonFabPlay,closed,2017-01-18T16:50:08Z,2017-01-19T01:40:30Z,"bug, Firebase Crash"
+MythTV-Clients/MythtvPlayerForAndroid,212,Fatal Exception: java.lang.RuntimeException: Unable to start activity,closed,2017-01-18T00:48:34Z,2017-01-18T23:51:58Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,197,External Player broken after implementing Google Cast,closed,2016-07-23T15:09:23Z,2016-07-24T22:21:08Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,186,Amazon FireTV does not support Google Voice Search,closed,2016-06-17T13:06:45Z,2017-01-22T15:41:42Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,184,AndroidTV Search Crash,closed,2016-06-12T18:09:43Z,2016-06-14T00:03:41Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,177,Shorten Short Description for German Translation,closed,2016-06-08T16:22:30Z,2016-06-08T18:26:38Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,171,Update readme to fix releases,closed,2016-06-06T13:20:33Z,2016-06-06T14:06:42Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,159,"Recordings/Videos don't play, hostname and port are missing from query",closed,2016-05-14T04:04:56Z,2016-05-15T19:26:16Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,151,Reinstate Copyrights via Android Studio,closed,2016-05-06T18:47:16Z,2016-05-07T00:57:30Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,149,Home->RECENT only displays recordings in the 'Default' Storage Group,closed,2016-05-06T00:44:57Z,2016-05-13T21:56:38Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,147,"NPE,  Attempt to invoke interface method",closed,2016-05-04T04:09:26Z,2016-06-08T01:22:42Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,144,Update Watched Status doesn't work for episodes recorded after scheduled start time.,closed,2016-05-03T23:52:41Z,2016-05-04T01:10:33Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,139,Upper left arrow doesn't work (develop branch),closed,2016-05-02T22:40:44Z,2016-05-04T00:06:20Z,"bug, 4.0.4"
+MythTV-Clients/MythtvPlayerForAndroid,135,Fix Android Manifest for Android TV,closed,2016-05-02T13:06:52Z,2016-05-02T15:56:52Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,131,Unexpected episodes displayed in titles that have multiple inetrefs,closed,2016-04-29T18:55:40Z,2017-01-21T03:54:55Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,128,Pressing Home/Up on RecordingDetails loads list of all episodes,closed,2016-04-29T12:42:53Z,2016-05-01T02:11:22Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,122,Some text overlaps pictures or other text in 4.0.4,closed,2016-04-24T20:18:11Z,2016-05-02T15:56:52Z,"bug, 4.0.4"
+MythTV-Clients/MythtvPlayerForAndroid,108,Loading Videos from cache periodically causes App Crash after cache expired,closed,2016-03-24T02:49:09Z,2016-04-06T16:59:47Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,106,Implement Google Cast Support,closed,2016-03-23T18:15:37Z,2016-11-12T03:03:16Z,"bug, enhancement"
+MythTV-Clients/MythtvPlayerForAndroid,105,"0.27 Watch Recordings ""There was an application error""",closed,2016-03-22T02:14:25Z,2016-03-22T23:38:27Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,103,Half height titles on 4.4.2 tablet,closed,2016-03-20T19:26:04Z,2016-03-22T03:25:18Z,"bug, 4.4.2"
+MythTV-Clients/MythtvPlayerForAndroid,102,NoSuchMethodError,closed,2016-03-20T16:58:28Z,2016-03-20T18:50:41Z,"bug, 4.4.2"
+MythTV-Clients/MythtvPlayerForAndroid,100,IllegalStateException from Select Default Recording Group,closed,2016-03-17T03:43:11Z,2016-03-18T13:08:22Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,99,Slow startup at initial installation or after force stop/clear cache,closed,2016-03-15T15:06:27Z,2016-03-23T01:27:05Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,98,RuntimeException Unable to start activity from episode/settings/back arrow,closed,2016-03-14T21:25:54Z,2016-03-18T13:08:22Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,97,Settings unavaible from episode screen,closed,2016-03-14T21:22:06Z,2016-03-18T13:08:22Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,96,REST with TitleRegEx and special characters misses episodes,closed,2016-03-10T04:31:27Z,2016-03-18T13:08:21Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,95,Titles with no inetref display banners from other titles,closed,2016-03-09T21:19:14Z,2016-03-10T03:34:34Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,93,Exception: ActivityNotFoundException,closed,2016-01-28T04:11:06Z,2016-03-18T13:08:21Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,92,NullPointerException: Attempt to invoke virtual method,closed,2016-01-26T19:20:00Z,2016-03-18T01:47:56Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,87,Google Play Crash: Error processing SVG image,closed,2015-08-08T14:38:21Z,2015-08-08T14:40:10Z,"bug, 5.0"
+MythTV-Clients/MythtvPlayerForAndroid,86,Developer Console: java.net.MalformedURLException,closed,2015-06-24T03:51:51Z,2015-06-27T03:27:32Z,"bug, enhancement"
+MythTV-Clients/MythtvPlayerForAndroid,84,An episode with no coverart displays white text on a near white background,closed,2015-06-13T22:56:09Z,2015-06-27T13:22:25Z,"bug, retested OK"
+MythTV-Clients/MythtvPlayerForAndroid,83,Settings display over 'MythTV blue' background when invoked from Watch Videos,closed,2015-06-13T20:51:11Z,2015-06-24T00:36:04Z,"bug, retested OK"
+MythTV-Clients/MythtvPlayerForAndroid,82,Banners with white backgrounds prevent Back and Search icons from showing,closed,2015-06-12T02:33:44Z,2015-08-12T00:48:57Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,81,"Missing Back, Search and Settings icons",closed,2015-06-11T18:46:52Z,2015-06-12T01:48:30Z,"bug, 4.4.2, retested OK"
+MythTV-Clients/MythtvPlayerForAndroid,70,Nexus Player - Entering data with on screen keyboard and remote.,closed,2015-05-28T01:31:50Z,2016-03-20T13:16:45Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,67,"Developer Console: NumberFormatException: Invalid int: """", App version 1.1.9",closed,2015-05-21T16:49:46Z,2015-05-23T02:08:48Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,66,"Watch Recordings: Titles Appear OK With Coverart, but Empty Tile Also Appears",closed,2015-05-17T14:01:15Z,2015-05-23T02:36:19Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,65,Search Suggestions Colors make text unreadable on Android 4.x,closed,2015-05-14T13:15:41Z,2015-08-09T16:50:12Z,"bug, 4.4.2, 4.0.3, 4.0.4"
+MythTV-Clients/MythtvPlayerForAndroid,63,"Initial Load, press Settings, Navigation Drawer stays open",closed,2015-05-07T01:36:08Z,2015-05-07T02:08:54Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,62,Recordings: Missing All Titles Without inetrefs,closed,2015-05-04T13:10:15Z,2015-05-23T01:49:20Z,"bug, upstream"
+MythTV-Clients/MythtvPlayerForAndroid,58,Scrolling through missing coverart sends GetFile with no filename,closed,2015-04-30T03:57:39Z,2015-05-02T22:51:37Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,56,Fatal Exception: NullPointerException Fired When Trying To Leave Watch Videos Screen,closed,2015-04-27T23:24:04Z,2016-03-20T13:21:39Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,55,"Recordings No Longer Display ""Ready To Stream"" on 1.1.10.",closed,2015-04-27T22:45:10Z,2015-04-28T00:47:23Z,"bug, 5.1, retested OK"
+MythTV-Clients/MythtvPlayerForAndroid,52,Watch Video/TV/Queue HLS/PLAY Fails: Handle Spaces (etc.) In File Names,closed,2015-04-23T23:49:30Z,2015-04-27T15:28:58Z,"bug, retested OK"
+MythTV-Clients/MythtvPlayerForAndroid,50,Recording and Video Details does not switch player button correctly on settings change,closed,2015-04-21T19:12:17Z,2015-04-27T02:37:43Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,47,Developer Console: Null Pointer In RecordingPlayerActivity.onCreate (RecordingPlayerActivity.java:50),closed,2015-04-16T01:51:35Z,2015-04-27T16:05:18Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,37,AddRecordingLiveStream Fails With 0.27 Backend. UTC Issue,closed,2015-04-09T02:28:42Z,2015-04-09T13:58:27Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,36,Consistency: AndroidTV Videos Look and Feel incorrect,closed,2015-04-09T00:59:39Z,2015-04-09T02:39:01Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,35,AndroidTV Toast message always displays failed to download recordings,closed,2015-04-09T00:59:08Z,2015-04-10T03:01:51Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,33,Consistency: Horizontal All Recordings Tile Is Larger Than Vertical Tile,closed,2015-04-08T02:44:55Z,2015-04-08T13:02:58Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,31,"Titles With Special Characters Display In All Recordings, But Not In Watch Recordings Episode Lists",closed,2015-04-05T20:29:14Z,2015-04-28T02:10:42Z,"bug, 4.1.1, retested OK"
+MythTV-Clients/MythtvPlayerForAndroid,28,Black Preview Causes Near White On White Text,closed,2015-04-04T20:28:35Z,2015-04-05T03:56:20Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,27,Fatal Exception: RuntimeException; On Watch Recordings Using Text or Voice Search,closed,2015-04-04T01:46:42Z,2015-04-04T23:35:11Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,26,"Titles Without inetrefs Display In All Recordings, But Not Individually",closed,2015-04-02T00:34:00Z,2015-04-04T23:35:11Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,24,Skip programs with no starttime,closed,2015-04-01T13:55:57Z,2015-04-10T18:15:42Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,23,RetrofitError Http Status can be null,closed,2015-03-31T14:34:02Z,2015-03-31T14:35:22Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,20,Fatal Exception: Null Pointer When Returning To a Queued Episode,closed,2015-03-30T02:57:02Z,2015-03-30T12:57:49Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,17,Fatal Exception: NullPointerException; In Watch Videos Screen,closed,2015-03-27T18:12:44Z,2015-03-28T13:59:04Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,16,PLAY Becomes QUEUE HLS On Episode Screen When the Screen Is Rotated,closed,2015-03-24T04:01:42Z,2015-03-24T18:10:50Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,14,Fatal Exception: NullPointerException: Attempt to invoke virtual method...,closed,2015-03-24T01:41:59Z,2015-03-24T01:55:40Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,13,"10""/7"" Tablet Preview Images Are Cropped",closed,2015-03-22T17:16:07Z,2015-03-24T00:22:10Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,12,Internal Player: Pressing Volume Up/Down During Playback Displays Progress Bar,closed,2015-03-22T17:08:18Z,2015-04-04T23:48:04Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,10,Exception After Playback Ends and Isn't Manually Exited,closed,2015-03-22T13:33:47Z,2015-04-04T23:48:04Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,9,Black Screen at Start of Playback,closed,2015-03-22T13:29:22Z,2015-05-28T21:33:01Z,"bug, 4.1.1, 4.4.2"
+MythTV-Clients/MythtvPlayerForAndroid,8,Fatal RuntimeException when trying to connect to a backend that isn't running.,closed,2015-03-20T16:36:02Z,2015-03-20T19:49:05Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,7,Fatal Exception (invalid cast),closed,2015-03-13T14:08:49Z,2015-03-14T15:19:55Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,6, FATAL EXCEPTION: When removing non-existant Live Streams,closed,2015-02-19T23:59:23Z,2015-02-20T01:29:58Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,3,Problem initiating a transcode on a slave backend.,closed,2015-02-13T16:29:37Z,2015-04-09T14:55:45Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,2,Stacktrace from crash when selecting a video to play(not an mythtv recording),closed,2015-02-13T14:28:26Z,2015-02-14T03:54:20Z,bug
+MythTV-Clients/MythtvPlayerForAndroid,1,Stacktrace from crash when selecting a recording to play.,closed,2015-02-10T22:01:17Z,2015-02-12T03:47:31Z,bug
+BuildmLearn/BuildmLearn-Toolkit-Android,447,Change of toolbar colour on selecting and unselecting items in templates,open,2017-09-10T16:37:12Z,,"bug, Hacktoberfest"
+BuildmLearn/BuildmLearn-Toolkit-Android,180,Pressing back button should open home fragment,closed,2016-10-25T11:03:57Z,2016-12-04T21:13:15Z,bug
+agersant/polaris-android,57,[Bug] Can't seek or resume (but I can pause) from the notification bar,closed,2025-02-07T02:33:37Z,2025-02-13T08:10:00Z,bug
+agersant/polaris-android,56,App doesnt load once it has been removed from recents and opened again,closed,2025-02-05T17:42:52Z,2025-02-06T07:07:59Z,bug
+agersant/polaris-android,50,Tracks missing in library,closed,2023-03-26T22:28:40Z,2023-03-27T00:29:56Z,bug
+agersant/polaris-android,40,Unintuitive back button behavior,closed,2021-06-05T21:37:15Z,2025-01-19T00:40:35Z,bug
+agersant/polaris-android,30,Artist name is difficult to read in player view,closed,2020-12-26T06:22:56Z,2020-12-26T23:00:46Z,bug
+agersant/polaris-android,28,F-Droid is not distributing new releases of Polaris Android,closed,2020-12-12T22:55:49Z,2020-12-22T22:53:48Z,bug
+agersant/polaris-android,18,ExoPlayer does not respect cross-protocol redirect,closed,2019-02-17T08:00:38Z,2019-02-21T08:39:16Z,bug
+agersant/polaris-android,16,"Rarely, playback will stop at the end of the first track in the queue",closed,2018-12-11T04:33:10Z,2019-02-21T08:38:55Z,bug
+agersant/polaris-android,15,"Sometimes, the playback queue overlap its tutorial",closed,2018-12-11T04:32:03Z,2020-04-18T22:30:39Z,bug
+agersant/polaris-android,14,"Once, the app crashed after clearing the playback queue",closed,2018-11-14T06:15:18Z,2018-11-16T08:28:49Z,bug
+agersant/polaris-android,13,"When opening the app, it often forgets where it was in the current track",closed,2018-11-06T05:23:49Z,2018-11-14T06:14:23Z,bug
+agersant/polaris-android,10,Scrubbing within a song does not work in offline mode,closed,2018-10-24T18:30:10Z,2018-11-12T02:14:51Z,bug
+ceaseless-prayer/CeaselessAndroid,99,Deleting notes in bulk ends up deleting the wrong note,closed,2018-01-30T18:59:49Z,2018-01-30T22:40:12Z,bug
+ceaseless-prayer/CeaselessAndroid,93,Enable reading of long notes and deleting them in them note detail view.,closed,2016-09-28T04:10:10Z,2018-03-10T07:57:05Z,bug
+ceaseless-prayer/CeaselessAndroid,90,The notification doesn't match who to pray for for that day.,closed,2016-08-29T17:08:13Z,2016-10-20T05:19:39Z,bug
+ceaseless-prayer/CeaselessAndroid,88,"User cannot remove contacts from Ceaseless from ""People"" view",closed,2016-08-22T22:01:15Z,2018-03-13T18:39:59Z,bug
+ceaseless-prayer/CeaselessAndroid,78,"When the user finishes praying for friends, they can't continue",closed,2016-05-13T21:22:05Z,2016-05-21T23:30:03Z,"bug, high"
+ceaseless-prayer/CeaselessAndroid,75,App crashes when it returns to the People view from background after onDestroyView has been called I think,open,2016-01-29T00:24:42Z,,bug
+ceaseless-prayer/CeaselessAndroid,73,App crashes on Samsung S6 with Android 5.1.1 on startup because it cannot initialize renderscript,closed,2016-01-22T05:26:31Z,2016-05-13T21:24:05Z,"bug, high"
+ceaseless-prayer/CeaselessAndroid,72,When the app comes back from background it just shows all white sometimes.,closed,2016-01-19T20:02:46Z,2016-01-19T20:35:42Z,bug
+ceaseless-prayer/CeaselessAndroid,65,Tagging multiple people in a note shows multiple copies of the note in the journal,closed,2015-11-11T05:29:10Z,2015-11-12T01:28:42Z,"bug, medium"
+ceaseless-prayer/CeaselessAndroid,59,Notifications are off by default even though the switch shows on,closed,2015-11-10T19:29:03Z,2016-01-26T22:32:01Z,bug
+ceaseless-prayer/CeaselessAndroid,58,App crashes when I add a note,closed,2015-11-10T19:28:36Z,2015-11-12T01:29:11Z,"bug, high"
+ceaseless-prayer/CeaselessAndroid,50,Deleting a person should not delete associated notes and should mark it inactive instead of deleting the record itself,open,2015-11-03T20:48:35Z,,"bug, high"
+ceaseless-prayer/CeaselessAndroid,47,Get more profile images when available,closed,2015-11-03T06:41:01Z,2015-11-13T02:15:39Z,"bug, low"
+ceaseless-prayer/CeaselessAndroid,43,Change the menu actions on the scripture card,closed,2015-11-02T19:09:00Z,2016-05-13T21:16:58Z,"bug, question, medium"
+ceaseless-prayer/CeaselessAndroid,41,"Sometimes when the app returns from the background, it shows no cards",closed,2015-11-02T19:06:23Z,2016-01-13T05:49:00Z,"bug, medium"
+ceaseless-prayer/CeaselessAndroid,32,"[Android M] Denying READ_CONTACTS and re-opening app causes ""show rationale"" to loop",closed,2015-10-28T05:18:57Z,2018-03-10T09:19:17Z,"bug, medium"
+ceaseless-prayer/CeaselessAndroid,28,Preferences should be in a separate activity,open,2015-10-16T21:55:36Z,,"bug, low"
+ceaseless-prayer/CeaselessAndroid,25,UI elements not cleaned up and staying behind cards,closed,2015-10-14T03:25:51Z,2015-10-14T03:47:10Z,bug
+ceaseless-prayer/CeaselessAndroid,24,People page indicator does not render when view opened via nav,closed,2015-10-14T02:22:04Z,2015-10-14T02:27:45Z,"bug, medium"
+ceaseless-prayer/CeaselessAndroid,22,Include page indicator on view pager based view for daily prayer experience,closed,2015-10-10T19:24:29Z,2015-10-13T20:07:48Z,"bug, medium"
+ceaseless-prayer/CeaselessAndroid,2,App crashes if no contacts exist on phone,closed,2015-10-04T20:08:01Z,2015-11-02T19:06:59Z,"bug, medium"
+caarmen/scrumchatter,65,The Scrum Chatter App Crashes ~ bug,closed,2018-03-25T20:40:17Z,2018-07-11T10:07:12Z,bug
+caarmen/scrumchatter,63,"During meeting, a member's chronometer sometimes doesn't work",closed,2018-03-02T12:23:45Z,2018-03-02T17:12:25Z,bug
+caarmen/scrumchatter,60,Empty list text isn't centered vertically.,closed,2018-01-31T20:11:20Z,2018-03-02T10:43:25Z,bug
+caarmen/scrumchatter,42,Animation not working,closed,2015-08-08T01:48:44Z,2015-08-08T02:29:38Z,bug
+caarmen/scrumchatter,40,Bug in menu color on Lollipop,closed,2015-02-21T20:22:42Z,2015-02-22T17:18:10Z,bug
+caarmen/scrumchatter,31,Importing a DB is very slow.,closed,2013-08-09T22:53:09Z,2013-08-11T11:09:20Z,bug
+caarmen/scrumchatter,30,"Crash: import DB, then rotate the device.",closed,2013-07-30T20:34:53Z,2013-08-09T20:13:08Z,bug
+caarmen/scrumchatter,28,Persist dialogs when rotating device,closed,2013-07-28T01:30:01Z,2013-08-09T20:13:21Z,bug
+caarmen/scrumchatter,27,Fix monkey crashes,closed,2013-07-25T01:35:00Z,2013-07-27T13:31:49Z,bug
+caarmen/scrumchatter,26,"Properly manage ""resurrecting"" team members",open,2013-07-24T20:40:27Z,,bug
+caarmen/scrumchatter,18,"On 2.x, the error tooltip when trying to add an existing member is hard to read",closed,2013-07-09T23:53:15Z,2013-07-10T07:41:11Z,bug
+caarmen/scrumchatter,16,Drawables for all densities,closed,2013-06-24T22:22:33Z,2013-08-11T22:19:15Z,bug
+caarmen/scrumchatter,8,Increase the clickable area in the meeting list items ,closed,2013-06-19T21:48:36Z,2013-06-20T21:19:16Z,bug
+caarmen/scrumchatter,6,Don't include 0 talk time in average calculation ,closed,2013-06-18T20:20:01Z,2013-06-19T21:08:15Z,bug
+MarquisLP/World-Scribe,60,App crashes when the user cancels Dropbox authentication,closed,2020-12-25T15:36:00Z,2021-03-04T00:29:39Z,bug
+MarquisLP/World-Scribe,57,Dropbox upload fails if any Article name in the uploaded World has a trailing space,open,2020-11-21T01:31:31Z,,bug
+MarquisLP/World-Scribe,51,Can't backup to Dropbox on some file systems,open,2020-05-06T00:32:06Z,,bug
+MarquisLP/World-Scribe,49,"Black border appears around the app, and the app crashes when the border is tapped",open,2020-03-20T19:59:26Z,,bug
+MarquisLP/World-Scribe,45,App crashes when sending an error log email on some devices,open,2020-02-18T23:37:57Z,,bug
+MarquisLP/World-Scribe,43,App crashes after selecting a storage location on some Android 10 devices,open,2020-02-15T00:24:04Z,,bug
+MarquisLP/World-Scribe,40,Privacy policy Layout fix,closed,2020-01-20T18:25:32Z,2020-03-01T16:22:35Z,bug
+MarquisLP/World-Scribe,21,Saving data fails if the necessary folder is missing,closed,2019-10-08T01:51:25Z,2019-12-08T00:47:43Z,bug
+MarquisLP/World-Scribe,10,Some users are unable to upload to Dropbox,closed,2018-04-12T18:02:41Z,2018-07-15T16:32:46Z,bug
+MarquisLP/World-Scribe,8,Use .nomedia files to fix Gallery issues,closed,2017-12-12T03:01:21Z,2017-12-23T22:56:39Z,bug
+MarquisLP/World-Scribe,1,Files with a . prefix aren't being uploaded to Dropbox,closed,2017-08-28T18:21:09Z,2017-08-28T22:19:43Z,bug
+nutritionfactsorg/daily-dozen-android,75,Same title shown when pressing Generate Full Data and Generate Random Data buttons inside DebugActivity,closed,2017-10-08T12:51:35Z,2017-10-17T13:07:49Z,"bug, beginner, Hacktoberfest"
+nutritionfactsorg/daily-dozen-android,50,Blackness on screen on a Galaxy S2 (app version 12.1),closed,2017-06-05T14:35:09Z,2017-06-08T21:59:58Z,bug
+nutritionfactsorg/daily-dozen-android,35,this error,closed,2016-11-20T07:18:18Z,2017-05-14T22:26:00Z,bug
+nutritionfactsorg/daily-dozen-android,33,"Only 4 servings of ""Beverages"" clickable on Galaxy S2 on version 11 of the app",closed,2016-10-17T15:43:29Z,2017-05-14T22:02:12Z,bug
+nutritionfactsorg/daily-dozen-android,30,Swap images between Greens and Cruciferous Vegetables,closed,2016-08-31T21:52:43Z,2016-09-19T00:55:11Z,"bug, beginner"
+NasaGeek/utexas-utilities,43,Cannot finding Patton Hall on map. ,closed,2018-08-29T13:58:45Z,2018-11-03T07:56:18Z,bug
+NasaGeek/utexas-utilities,41,Bus route times are broken,closed,2017-01-20T04:32:26Z,2018-11-03T08:00:31Z,bug
+NasaGeek/utexas-utilities,40,Data Usage login is broken,closed,2016-09-16T17:39:46Z,2017-01-19T05:59:12Z,bug
+NasaGeek/utexas-utilities,39,crashes on launch,closed,2016-02-24T00:00:30Z,2016-02-25T12:54:43Z,bug
+NasaGeek/utexas-utilities,38,"Menus: If restaurant is changed while loading, information from original request will still be shown",open,2016-02-19T04:30:18Z,,bug
+NasaGeek/utexas-utilities,36,Implement runtime permission handling,closed,2016-02-01T18:28:42Z,2016-02-07T03:40:00Z,"bug, enhancement"
+NasaGeek/utexas-utilities,35,Refreshing transactions loads old data,closed,2016-02-01T18:27:31Z,2016-02-07T03:40:00Z,bug
+NasaGeek/utexas-utilities,28,New PNA certificate is not trusted by Android,closed,2015-09-06T17:29:43Z,2015-09-12T07:14:35Z,bug
+NasaGeek/utexas-utilities,27,Disabled features on main screen are re-enabled but still logged out when closing and re-opening the app,closed,2015-09-06T17:16:58Z,2015-09-10T14:59:19Z,bug
+NasaGeek/utexas-utilities,26,Button disappears when feature is disabled on Android <5.0,closed,2015-09-05T01:17:28Z,2015-09-10T14:59:35Z,bug
+NasaGeek/utexas-utilities,25,Calendar export is missing class locations,closed,2015-01-26T19:24:10Z,2015-01-26T21:54:49Z,"bug, low-hanging-fruit"
+NasaGeek/utexas-utilities,24,"Schedule shows ""not enrolled"" after relogging in",open,2015-01-23T22:50:09Z,,bug
+NasaGeek/utexas-utilities,20,Handles exams with no location more gracefully,closed,2014-09-28T09:39:15Z,2014-10-05T20:35:38Z,"bug, low-hanging-fruit"
+NasaGeek/utexas-utilities,17,All Canvas screens only show the first 10 items,closed,2014-09-23T19:56:46Z,2015-09-05T01:13:30Z,"bug, canvas"
+NasaGeek/utexas-utilities,14,Clean up course list,closed,2014-09-22T21:00:23Z,2014-09-23T08:15:21Z,"bug, canvas"
+NasaGeek/utexas-utilities,13,Not able to login to Canvas,closed,2014-09-22T05:04:02Z,2014-09-22T05:26:54Z,bug
+NasaGeek/utexas-utilities,12,Course list crashes on launch for some users,closed,2014-09-21T22:48:42Z,2014-09-23T08:04:56Z,"bug, canvas"
+NasaGeek/utexas-utilities,6,Blackboard class showing in wrong semester in certain cases,closed,2014-08-19T07:17:43Z,2014-08-19T07:26:41Z,bug
+NasaGeek/utexas-utilities,2,Horizontal scrolling somewhat broken in WebView on SlidingPaneLayout (BB),closed,2013-09-23T04:39:30Z,2013-09-27T04:26:06Z,bug
+cbeyls/fosdem-companion-android,47,The widgets on the action bar disapper after a series of operations about searching events,closed,2019-09-16T07:29:13Z,2019-09-20T22:40:21Z,bug
+intari/readingtracker,1,Login GUI on HP Slate 21 works very bad,open,2014-12-24T18:15:20Z,,bug
+hiposfer/hive,172,bug: automatically change kamal area based on user selection,closed,2019-01-04T16:07:50Z,2019-01-11T22:23:11Z,bug
+hiposfer/hive,171,fix: display map by default,closed,2019-01-04T16:00:05Z,2019-01-18T19:00:21Z,bug
+hiposfer/hive,165,fix: compilations :advanced optimizations,open,2018-12-08T17:15:24Z,,bug
+hiposfer/hive,125,error reporting snippet appears even if everything is ok,closed,2018-07-20T09:19:57Z,2018-07-21T18:56:48Z,bug
+hiposfer/hive,105,React Native packager error: Cannot find entry file,closed,2018-06-25T09:20:29Z,2018-11-02T12:18:20Z,bug
+hiposfer/hive,73,remove unstable native-base dependency,closed,2018-04-28T17:47:05Z,2018-06-03T21:29:29Z,bug
+hiposfer/hive,7,rename fetch function,closed,2017-04-10T22:00:13Z,2017-05-19T11:38:05Z,bug
+danirod/rectball,79,java.lang.NullPointerException at es.danirod.rectball.android.settings.MigrationV1.migrate,closed,2017-09-04T18:33:32Z,2021-04-14T19:48:09Z,bug
+danirod/rectball,75,NullPointerException: Attempt to invoke virtual method 'boolean com.badlogic.gdx.utils.JsonValue.has(java.lang.String)' on a null object reference,closed,2017-06-03T16:13:55Z,2017-08-24T12:20:18Z,"bug, won't fix"
+danirod/rectball,71,Bug en pantalla de estadísticas ,closed,2016-07-24T03:56:24Z,2016-07-28T18:52:57Z,"bug, invalid, won't fix"
+danirod/rectball,66,Critical: Statistics loading is broken,closed,2016-03-21T19:40:08Z,2016-03-21T20:15:17Z,bug
+danirod/rectball,64,java.lang.InstantiationException,closed,2016-03-21T15:32:20Z,2016-03-21T16:05:10Z,bug
+danirod/rectball,59,Blurry fonts on Android using v0.4.5,closed,2015-11-21T11:31:44Z,2017-08-24T11:21:17Z,bug
+danirod/rectball,58,Android: Crash when press Back during loading screen,closed,2015-11-20T13:19:25Z,2016-03-21T16:07:07Z,bug
+danirod/rectball,55,Fix the crappy Action system,closed,2015-11-13T01:15:42Z,2021-04-14T21:10:45Z,"bug, task"
+danirod/rectball,54,Navigation bar doesn't dissapear on inmersive mode,closed,2015-11-10T09:55:19Z,2015-11-13T00:38:06Z,bug
+danirod/rectball,53,Botón de ayuda bugeado 2,closed,2015-11-07T07:04:52Z,2015-11-13T01:24:35Z,bug
+danirod/rectball,52,Botón de ayuda bugeado,closed,2015-11-07T06:45:40Z,2015-11-13T01:24:35Z,bug
+danirod/rectball,51,Hint doesn't always substract time,closed,2015-10-30T14:43:05Z,2015-10-30T14:47:37Z,bug
+danirod/rectball,47,Bug con tecla back ,closed,2015-10-24T02:34:00Z,2015-10-30T15:12:33Z,bug
+danirod/rectball,45,marcador de tiempo,closed,2015-10-23T20:59:26Z,2015-10-24T00:10:49Z,bug
+danirod/rectball,41,Bug con la tecla back,closed,2015-10-17T11:04:03Z,2015-10-18T01:22:16Z,bug
+danirod/rectball,35,Board detection issues are still a thing,closed,2015-10-14T12:26:16Z,2015-10-14T13:17:05Z,bug
+danirod/rectball,33,Game wrongly resumes on Android when activity changes during pause,closed,2015-10-13T13:00:31Z,2015-10-13T18:55:41Z,bug
+danirod/rectball,30,Statistics is not translated correctly,closed,2015-10-13T07:36:46Z,2015-10-13T08:01:31Z,bug
+danirod/rectball,25,The screen turns off (no wake lock),closed,2015-10-12T22:44:37Z,2015-10-13T08:01:01Z,bug
+danirod/rectball,24,The game doesn't run properly on desktop! (at least on Linux),closed,2015-10-12T22:44:29Z,2015-10-13T08:17:27Z,bug
+danirod/rectball,23,Se cierra al usar el boton back,closed,2015-10-12T22:40:41Z,2015-10-13T08:03:59Z,bug
+danirod/rectball,21,Se apaga la pantalla en Android,closed,2015-10-12T22:32:23Z,2015-10-13T07:58:58Z,bug
+danirod/rectball,20,Board is not correctly reset when starting a second game,closed,2015-10-10T21:14:29Z,2015-10-11T23:38:43Z,bug
+danirod/rectball,16,Pause has a bug,closed,2015-10-10T19:16:41Z,2015-10-11T23:40:42Z,bug
+danirod/rectball,12,Bolas grises en Game Over,closed,2015-10-03T19:17:10Z,2015-10-11T23:36:18Z,bug
+danirod/rectball,7,Error al mostrar la combinación al perder (este es otro),closed,2015-09-27T01:43:15Z,2015-10-11T21:47:31Z,bug
+danirod/rectball,5,Error al mostrar la combinación al perder,closed,2015-09-26T22:39:59Z,2015-09-27T00:02:11Z,bug
+24HeuresINSA/24h-android-app,201,pas d'horaire sur le detail expand - 4.1 et 4.2,closed,2015-05-10T13:17:09Z,2015-05-10T13:44:00Z,"bug, critical"
+24HeuresINSA/24h-android-app,200,beach volay : plus d'horaire planifié,closed,2015-05-10T13:16:24Z,2015-05-10T14:50:36Z,bug
+24HeuresINSA/24h-android-app,199,gros favoris dans action bar,open,2015-05-10T13:15:58Z,,bug
+24HeuresINSA/24h-android-app,195,regression sur la mise a jour du detail (tout mode),closed,2015-05-09T10:16:09Z,2015-05-09T11:32:28Z,bug
+24HeuresINSA/24h-android-app,180,static activity : crash when switching between itself,closed,2015-05-07T11:30:02Z,2015-05-09T16:08:57Z,bug
+24HeuresINSA/24h-android-app,169,Navigation drawer on rotate,closed,2015-05-04T14:57:31Z,2015-05-07T09:18:12Z,"bug, Design"
+24HeuresINSA/24h-android-app,141,prevent multiple click on open browser (TicketFragment),closed,2015-04-30T08:30:21Z,2015-04-30T10:37:39Z,"bug, normal"
+24HeuresINSA/24h-android-app,139,Application closes when selecting another Static Activity in the navigation drawer,closed,2015-04-28T19:05:11Z,2015-04-29T12:38:32Z,"bug, critical"
+24HeuresINSA/24h-android-app,135,Crash when rotating screen,closed,2015-04-27T21:42:58Z,2015-05-04T15:16:03Z,"bug, critical"
+24HeuresINSA/24h-android-app,134,detail : favoris mal deplacé si on monte trop vite,closed,2015-04-27T21:17:56Z,2015-04-28T10:28:30Z,"bug, normal"
+24HeuresINSA/24h-android-app,127,detail : retour trop rapide,closed,2015-04-27T07:11:56Z,2015-04-28T16:57:44Z,"bug, critical"
+24HeuresINSA/24h-android-app,126,detail fait crash lorsqu'on s'amuse avec,open,2015-04-27T07:09:52Z,,"bug, critical"
+24HeuresINSA/24h-android-app,125,detail sliding up + searchview,closed,2015-04-27T07:05:07Z,2015-04-27T07:48:15Z,bug
+24HeuresINSA/24h-android-app,124,search view : encore des soucis !,open,2015-04-27T07:01:05Z,,"bug, normal"
+24HeuresINSA/24h-android-app,123,probleme de chargement de quelques images (404 not found),open,2015-04-27T06:58:56Z,,"bug, backend, normal"
+24HeuresINSA/24h-android-app,120,detail favorite,closed,2015-04-26T20:33:59Z,2015-04-28T10:29:22Z,"bug, minor"
+24HeuresINSA/24h-android-app,109,search view : is selected when navigation drawer is open,open,2015-04-25T21:41:49Z,,"bug, minor"
+24HeuresINSA/24h-android-app,100,URGENT : export cassé,closed,2015-04-22T21:53:34Z,2015-04-22T22:06:00Z,"bug, backend"
+24HeuresINSA/24h-android-app,85,version name in splash,closed,2015-04-20T13:44:45Z,2015-04-20T20:20:12Z,bug
+24HeuresINSA/24h-android-app,78,dayMaps act weird after a rotate,closed,2015-04-18T23:10:50Z,2015-04-26T15:05:34Z,bug
+24HeuresINSA/24h-android-app,77,dayMaps act weird after a rotate,closed,2015-04-18T21:58:12Z,2015-04-25T20:53:51Z,bug
+24HeuresINSA/24h-android-app,76,search view,closed,2015-04-18T21:54:38Z,2015-04-20T17:58:46Z,bug
+24HeuresINSA/24h-android-app,52,impossible de selectionner directement une category lorsqu'on arrive sur la liste,closed,2015-04-09T14:37:17Z,2015-04-18T23:10:13Z,bug
+24HeuresINSA/24h-android-app,49,retour du detail apres une recherche,closed,2015-04-09T14:30:04Z,2015-04-09T18:24:08Z,bug
+24HeuresINSA/24h-android-app,33,filter by categories,closed,2015-03-19T22:20:43Z,2015-03-21T21:29:41Z,"bug, fonctionnel"
+24HeuresINSA/24h-android-app,32,rotate list - tabs indicator doesn't respawn at the right place,closed,2015-03-18T22:35:00Z,2015-03-21T21:45:23Z,"bug, Design"
+24HeuresINSA/24h-android-app,28,action bar : au restore du search text le clavier apparait,open,2015-03-18T21:41:49Z,,"bug, minor"
+24HeuresINSA/24h-android-app,12,Maps - retour sélection vide,closed,2015-01-04T09:34:11Z,2015-03-18T21:34:51Z,bug
+jawg/osm-contributor,165,Error when scrolling down on POI Edition,open,2018-05-14T08:17:26Z,,"bug, JungleBus"
+jawg/osm-contributor,159,Loading screen never ending,closed,2018-04-01T07:46:49Z,2018-04-02T09:44:15Z,"bug, JungleBus, blocking"
+jawg/osm-contributor,158,Implement new h2geo specification,open,2018-03-25T19:08:34Z,,"bug, blocking"
+jawg/osm-contributor,137,[JUNGLE BUS] Delete the duplicate button,closed,2017-10-16T09:17:04Z,2017-11-24T17:16:45Z,"bug, feature"
+jawg/osm-contributor,136,Always display a prompt to enable GPS while clicking on the position button if GPS is disabled,closed,2017-10-05T12:30:48Z,2018-02-15T18:54:43Z,bug
+jawg/osm-contributor,112,[BUG] Save modifications: comment disappears on failed upload,closed,2017-07-14T10:28:50Z,2017-07-17T20:20:32Z,"bug, blocking"
+jawg/osm-contributor,110,"[BUG] Clicking ""Find my location"" Button returns to initial location",closed,2017-07-14T10:21:31Z,2017-07-17T20:23:36Z,"bug, ux"
+jawg/osm-contributor,109,[BUG] Non breakable permission loop in add picture to POI,closed,2017-07-14T10:11:24Z,2017-07-17T20:25:53Z,"bug, ux, blocking"
+jawg/osm-contributor,93,[Bug] Authentication is broken,closed,2017-06-23T08:15:02Z,2017-07-13T15:41:50Z,bug
+jawg/osm-contributor,74,Validate changesets before upload: avoid empty keys and value,closed,2017-02-01T12:34:03Z,2017-02-02T10:05:21Z,bug
+jawg/osm-contributor,60,[Bug] Wrong tag and values shown during edition,closed,2016-08-28T20:03:18Z,2016-09-21T08:27:21Z,bug
+jawg/osm-contributor,57,[Bug] TimePicker widget don't show values without month indications,closed,2016-08-28T19:00:57Z,2016-09-21T16:26:29Z,bug
+jawg/osm-contributor,56,Tags aren't visible with the POI edition tool,closed,2016-08-25T13:11:54Z,2016-08-29T08:24:51Z,bug
+jawg/osm-contributor,55,POI wrong position adjustment on the map,closed,2016-08-24T07:00:39Z,2017-01-12T10:28:11Z,bug
+jawg/osm-contributor,54,Tags not visible on POI edition,closed,2016-08-24T06:51:41Z,2016-08-25T13:14:11Z,bug
+jawg/osm-contributor,49,Duplicate in filters menu,closed,2016-06-27T11:39:34Z,2016-06-27T11:46:25Z,bug
+jawg/osm-contributor,46,Note icon when trying to edit way point position,closed,2016-06-23T15:20:29Z,2016-06-24T10:21:50Z,bug
+jawg/osm-contributor,44,"After back navigation to note creation mode, MapboxGL default icon on note appear",closed,2016-06-23T15:16:34Z,2016-08-04T13:27:55Z,bug
+jawg/osm-contributor,43,"In expert mode, when trying to go back to the map, the app freeze",closed,2016-06-23T15:15:37Z,2016-07-11T14:33:07Z,bug
+jawg/osm-contributor,42,Adding POI with too far zoom doesn't work,closed,2016-06-23T15:14:40Z,2016-08-09T14:54:23Z,bug
+jawg/osm-contributor,41,"After POI name edition, the name is not modified on the map",closed,2016-06-23T15:13:10Z,2016-08-04T13:20:30Z,bug
+jawg/osm-contributor,37,Icons by default are not loaded properly,closed,2016-06-23T15:02:29Z,2016-06-27T07:30:13Z,bug
+jawg/osm-contributor,34,Wrong note icon after close/reopen,closed,2016-06-21T13:51:30Z,2016-06-23T07:47:44Z,bug
+jawg/osm-contributor,30,Floating button icon doesn't change after collapsing,closed,2016-06-20T14:12:25Z,2016-06-23T09:04:10Z,bug
+jawg/osm-contributor,29,Menu icon disappear after poi deletion,closed,2016-06-20T14:11:42Z,2016-06-23T09:05:20Z,bug
+jawg/osm-contributor,28,"Cancel deletion of POI doesn't work, application crash",closed,2016-06-20T13:31:30Z,2016-06-20T14:14:25Z,bug
+jawg/osm-contributor,27,Cancel creation of POI not working,closed,2016-06-20T13:22:35Z,2016-06-20T13:30:44Z,bug
+jawg/osm-contributor,26,Display icon after POI creation,closed,2016-06-20T13:22:05Z,2016-06-20T13:30:55Z,bug
+jawg/osm-contributor,23,Notes disappear after reloading POI/Note,closed,2016-06-15T15:24:31Z,2016-06-15T15:26:13Z,bug
+jawg/osm-contributor,20,Handle user's location,closed,2016-06-14T10:09:06Z,2016-06-14T12:01:06Z,bug
+jawg/osm-contributor,13,Last position information,closed,2016-05-25T08:56:12Z,2016-06-14T12:01:20Z,bug
+jawg/osm-contributor,12,Menu icon disappears,closed,2016-05-25T08:53:09Z,2016-06-14T11:51:37Z,bug
+jawg/osm-contributor,10,The app freezes when refreshing POIs ,closed,2016-05-25T08:39:56Z,2016-06-14T11:51:37Z,bug
+jawg/osm-contributor,8,Delete a POI doesn't work,closed,2016-05-25T08:35:50Z,2016-06-14T11:51:37Z,bug
+jawg/osm-contributor,4,Problem with edition of POI represented as ways,closed,2015-11-23T14:23:55Z,2016-08-23T13:00:09Z,bug
+nguillaumin/osmtracker-android,676,Export DataBase error,open,2026-01-29T00:13:25Z,,"type:bug, scope:export, prio:needs-pr"
+nguillaumin/osmtracker-android,566,Crash - Attempt to invoke virtual method 'int android.os.Bundle.getInt(java.lang.String)' on a null object reference,closed,2025-04-14T10:36:00Z,2026-01-13T19:57:14Z,"type:bug, prio:normal"
+nguillaumin/osmtracker-android,554,Waypoint preview does not work,closed,2025-03-08T15:55:18Z,2025-05-04T21:38:03Z,"type:bug, prio:high"
+nguillaumin/osmtracker-android,511,"Aditional ""."" in zip name",closed,2025-02-12T05:34:08Z,2025-02-13T17:24:28Z,"type:bug, good first issue"
+nguillaumin/osmtracker-android,479,DividerItemDecoration is added more than once,closed,2024-12-08T03:31:04Z,2024-12-16T22:17:04Z,"type:bug, prio:normal"
+nguillaumin/osmtracker-android,468,Not all photos are exported,closed,2024-11-30T18:40:34Z,2024-12-04T21:56:48Z,"type:bug, prio:high"
+nguillaumin/osmtracker-android,467,'Display track': no background map anymore,closed,2024-11-30T09:46:33Z,2024-12-03T09:24:55Z,"type:bug, prio:high"
+nguillaumin/osmtracker-android,464,Missing waypoints,closed,2024-11-27T02:44:17Z,2024-11-30T08:09:00Z,"type:bug, prio:high"
+nguillaumin/osmtracker-android,453,Notifications blocked,closed,2024-08-27T00:54:41Z,2024-11-22T11:39:44Z,type:bug
+nguillaumin/osmtracker-android,443,GPX export not working,closed,2024-07-21T15:09:20Z,2024-11-22T11:43:39Z,type:bug
+nguillaumin/osmtracker-android,442,OSMTracker v2024.07.09: Question marks in 'Accuracy ..m (?/?)' line,closed,2024-07-20T16:43:35Z,2024-11-22T11:44:30Z,type:bug
+nguillaumin/osmtracker-android,441,Camera not available,closed,2024-07-18T14:30:47Z,2024-11-22T11:47:13Z,type:bug
+nguillaumin/osmtracker-android,353,Displaying tracks that cross the Antimeridian,open,2023-05-16T18:21:56Z,,"type:bug, prio:normal"
+nguillaumin/osmtracker-android,351,Crazy 4 button zoom,closed,2023-04-04T12:25:45Z,2025-02-14T02:31:22Z,"type:bug, scope:map-view, prio:high"
+nguillaumin/osmtracker-android,343,Wrong date in exported GPX,closed,2022-11-07T09:53:19Z,2024-12-16T22:13:17Z,"type:bug, scope:export, prio:high, good first issue"
+nguillaumin/osmtracker-android,333,Change exported GPX filenames to 'YYYY-MM-DD_hh-mm-ss_OSMTracker.gpx',closed,2022-07-11T13:35:16Z,2025-02-13T23:07:36Z,"type:bug, scope:export, prio:high, good first issue"
+nguillaumin/osmtracker-android,330,Compass direction not recorded or not exported in GPX file,open,2022-02-22T21:48:06Z,,"type:bug, scope:export, scope:recording, prio:high"
+nguillaumin/osmtracker-android,325,layouts are not updating although the pull request has been merged,closed,2021-10-17T12:23:20Z,2024-11-22T22:09:14Z,type:bug
+nguillaumin/osmtracker-android,315,UI buttons for marking waypoint features remain disabled even after acquiring an accurate position fix,closed,2021-05-21T19:10:08Z,2024-11-22T22:35:04Z,"type:bug, prio:high"
+nguillaumin/osmtracker-android,314,“Uploaded to OpenStreetMap” always reported as “1 Jan 1970 01:00:00”,closed,2021-05-21T18:13:23Z,2025-02-13T19:21:25Z,"type:bug, prio:normal, good first issue"
+nguillaumin/osmtracker-android,313,Upload failure (XML parser error) when either `title` or `description` contains ampersand character(s),closed,2021-05-21T18:00:49Z,2026-01-13T20:28:21Z,"type:bug, prio:high, good first issue"
+nguillaumin/osmtracker-android,307,Crash when exporting a long GPX,closed,2021-03-07T21:11:02Z,2021-03-19T21:37:57Z,type:bug
+nguillaumin/osmtracker-android,305,links to 3gpp files now missing in exported GPX,closed,2021-03-05T16:48:49Z,2021-03-12T22:00:11Z,type:bug
+nguillaumin/osmtracker-android,303,Delete Layout Test Instrumentation Test fails,closed,2021-02-13T02:05:50Z,2024-12-03T12:50:20Z,"type:bug, scope:test, prio:high"
+nguillaumin/osmtracker-android,299,"App not tracking when goes on background (Android 11, v1.0.0-beta)",closed,2021-01-29T15:32:25Z,2021-02-04T00:13:50Z,type:bug
+nguillaumin/osmtracker-android,298,"Always <sat>0</sat>, despite screen",closed,2021-01-26T18:59:36Z,2021-02-10T15:37:34Z,type:bug
+nguillaumin/osmtracker-android,296,Some tracks can't be uploaded or exported,closed,2021-01-26T05:20:33Z,2021-01-28T22:48:43Z,type:bug
+nguillaumin/osmtracker-android,279,Update of App does not track anymore. No track points.,closed,2020-08-23T04:08:19Z,2021-01-10T14:59:13Z,type:bug
+nguillaumin/osmtracker-android,277,Bug when exporting GPX to storage ,closed,2020-08-22T01:13:35Z,2021-01-10T15:09:19Z,type:bug
+nguillaumin/osmtracker-android,267,User preference storage_dir ignored for fotos,closed,2020-07-20T12:30:46Z,2024-11-22T22:52:11Z,"type:bug, prio:high"
+nguillaumin/osmtracker-android,265,<accuracy> tag missing for trackpoints,open,2020-07-18T19:09:19Z,,"type:bug, prio:normal, good first issue"
+nguillaumin/osmtracker-android,259,EACCES issues on API level 29 (Android 10),closed,2020-07-09T21:44:33Z,2021-03-02T00:23:26Z,type:bug
+nguillaumin/osmtracker-android,258,Can't upload ,closed,2020-06-29T07:00:55Z,2020-07-12T15:39:17Z,type:bug
+nguillaumin/osmtracker-android,238,/sdcard/OSMTracker.sqlitedb.gz belongs in a subdirectory,closed,2020-03-09T23:31:29Z,2025-02-25T19:25:10Z,"type:bug, prio:normal"
+nguillaumin/osmtracker-android,196,v0.7 does not export Tracks,closed,2019-03-16T20:40:08Z,2019-07-02T21:05:38Z,type:bug
+nguillaumin/osmtracker-android,190,Oauth tokens appear to point to wrong site: googlecode.com,closed,2019-02-22T19:52:44Z,2024-12-03T12:48:13Z,"type:bug, prio:high"
+nguillaumin/osmtracker-android,162,initial track name time stamp in ISO-style,closed,2018-10-11T10:53:30Z,2020-02-17T18:11:02Z,type:bug
+nguillaumin/osmtracker-android,140,Rendering issues: some tracks appear intermittently and cause lag,closed,2018-06-03T15:38:18Z,2026-01-13T20:09:15Z,"type:bug, scope:map-view, prio:low"
+nguillaumin/osmtracker-android,137,Error 500: Internal Server Error when upload GPX data to OSM,closed,2018-05-22T02:31:35Z,2018-07-06T22:06:02Z,type:bug
+nguillaumin/osmtracker-android,127,MapQuest Open background map is all white.,closed,2018-01-23T11:04:02Z,2019-07-02T21:26:36Z,"type:bug, scope:map-view"
+nguillaumin/osmtracker-android,125,Cycle map says API key required,closed,2018-01-23T10:57:54Z,2019-07-02T21:30:37Z,"type:bug, scope:map-view"
+nguillaumin/osmtracker-android,113,"""uploaded"" icon disappears when scrolling",closed,2017-09-28T04:46:29Z,2019-01-08T20:40:24Z,type:bug
+nguillaumin/osmtracker-android,96,Cycle map says API key required,closed,2017-05-16T13:01:12Z,2019-07-02T21:30:46Z,"type:bug, scope:map-view"
+nguillaumin/osmtracker-android,93,0 meter scale bar,closed,2017-05-16T09:08:37Z,2021-01-29T02:16:42Z,"type:bug, scope:map-view"
+nguillaumin/osmtracker-android,74,resource leak: database cursor not closed,closed,2016-10-01T09:11:16Z,2016-10-15T19:11:28Z,type:bug
+nguillaumin/osmtracker-android,71,Enable Voice Note during Lock,open,2016-08-15T12:18:57Z,,"type:enhancement, type:bug, prio:needs-pr, scope:recording"
+nguillaumin/osmtracker-android,70,Applocation crash when UI language is Hebrew,closed,2016-06-25T18:18:16Z,2016-11-20T20:28:22Z,type:bug
+nguillaumin/osmtracker-android,68,Upload failure on Marshmallow,closed,2016-04-10T09:12:22Z,2019-07-02T21:42:05Z,"type:bug, scope:osm"
+nguillaumin/osmtracker-android,61,switching off the display makes OSMTracker forget tiles,closed,2016-02-07T17:13:28Z,2016-11-20T20:09:37Z,type:bug
+futurice/vor,76,Wrong picture in the 3D printer card,open,2016-01-28T13:15:54Z,,"bug, android"
+futurice/vor,73,E/JSON Parser: Error parsing data: No value for id,closed,2016-01-27T15:38:09Z,2016-01-27T16:28:32Z,"bug, android"
+futurice/vor,67,Reset map size when changing between floors,closed,2016-01-25T15:07:31Z,2016-02-02T11:04:38Z,"bug, android"
+futurice/vor,60,NullPointerException - MapActivityFragment.convertToMapLocation,open,2016-01-19T12:13:07Z,,"bug, android"
+futurice/vor,57,"NullPointerException in ImageViewActivity.java, line 48",closed,2016-01-12T10:04:25Z,2016-01-12T10:06:33Z,bug
+futurice/vor,46,SettingsActivity crashes with Android 4.4,closed,2016-01-05T07:49:12Z,2016-01-05T15:47:48Z,"bug, android"
+futurice/vor,34,No map updates after falling asleep,closed,2015-12-30T14:45:38Z,2016-01-25T12:31:23Z,"bug, android"
+futurice/vor,33,"If no WIFI on startup, clicking a card can crash the app",closed,2015-12-30T14:44:45Z,2015-12-31T11:47:30Z,"bug, android"
+futurice/vor,32,App crashes when opening the ToiletMapFragment,closed,2015-12-30T13:56:00Z,2015-12-31T12:09:04Z,"bug, android, pull-request"
+futurice/vor,28,Init not getting the right cards,closed,2015-12-30T10:15:23Z,2015-12-30T11:59:58Z,"bug, android, pull-request"
+futurice/vor,27,When in CardsNowFragment and press back button we go to oblivion,closed,2015-12-30T10:13:35Z,2015-12-30T12:59:44Z,"bug, android, pull-request"
+futurice/vor,25,Wrong image opened when card image clicked,closed,2015-12-30T10:02:14Z,2015-12-30T12:02:01Z,"bug, android, pull-request"
+futurice/vor,24,Cards not showing in real time,closed,2015-12-30T10:01:33Z,2015-12-30T10:11:58Z,"bug, android"
+futurice/vor,12,"When pool card image is clicked, it opens the wrong image",closed,2015-12-19T18:44:22Z,2015-12-19T19:16:22Z,bug
+sky-map-team/stardroid,361,Cannot close search when in time travel model,closed,2020-10-04T16:48:22Z,2020-10-25T16:46:03Z,bug
+sky-map-team/stardroid,252,UI glitch in the search screen,open,2019-03-27T08:54:35Z,,bug
+sky-map-team/stardroid,154,Shaky on the S7,open,2016-09-18T19:02:44Z,,bug
+sky-map-team/stardroid,134,Gyro mode does not change label orientation....,closed,2016-07-12T01:44:21Z,2016-09-06T00:58:39Z,bug
+sky-map-team/stardroid,93,The new dialog fragments are causing crashes.,closed,2016-04-06T15:00:34Z,2016-04-20T03:33:05Z,bug
+sky-map-team/stardroid,92,Occasional crashes on the touch screen on Galaxy phones,closed,2016-04-04T12:33:12Z,2016-04-20T03:33:05Z,bug
+sky-map-team/stardroid,87,Multiple users report that the stars are ahead/behind of where they should be,open,2016-03-25T16:23:26Z,,bug
+sky-map-team/stardroid,74,Close buttons for time travel etc hard to hit,open,2016-03-09T19:47:01Z,,bug
+sky-map-team/stardroid,73,Status/App bar intrudes on layer selection buttons,open,2016-03-09T19:46:19Z,,bug
+sky-map-team/stardroid,51,Map layer does not show on some devices,closed,2016-03-04T05:21:20Z,2016-06-04T18:57:54Z,bug
+sky-map-team/stardroid,47,Search box title is too long in German,closed,2016-03-01T23:06:32Z,2016-03-02T22:35:08Z,bug
+sky-map-team/stardroid,46,Pink boxes,closed,2016-03-01T09:08:20Z,2020-08-27T23:48:56Z,bug
+sky-map-team/stardroid,45,Search/Time Travel cancellation buttons are hard to click...,closed,2016-02-29T19:18:31Z,2016-03-07T20:56:37Z,bug
+sky-map-team/stardroid,44,Time travel dialog appears empty on some devices (user reported),closed,2016-02-29T18:18:16Z,2016-03-22T03:22:14Z,bug
+sky-map-team/stardroid,43,Set uses features correctly in the manifest,closed,2016-02-29T18:14:58Z,2016-03-05T19:27:00Z,bug
+DylanVann/react-native-fast-image,1069,Tried to access a JS module before the React instance was fully set up.,closed,2025-07-21T10:05:56Z,2025-07-21T10:06:10Z,bug
+DylanVann/react-native-fast-image,1068,Doesn't support asset:/ on Android,open,2025-06-21T19:00:41Z,,bug
+DylanVann/react-native-fast-image,1065,Broken BUILD STATUS badge in README,open,2025-04-17T15:58:57Z,,bug
+DylanVann/react-native-fast-image,1064,Require .avif Image not work: None of these files exist...,open,2025-03-02T00:48:09Z,,bug
+DylanVann/react-native-fast-image,1062,alternative to react-native-fast-image? this package looks dead,open,2025-01-30T02:04:19Z,,bug
+DylanVann/react-native-fast-image,1059,作者已经跑路了，大家伙儿散了吧,open,2024-12-07T09:57:49Z,,bug
+DylanVann/react-native-fast-image,1058,error load image on IOS,closed,2024-12-03T07:41:50Z,2025-11-06T08:36:35Z,bug
+DylanVann/react-native-fast-image,1055,Animated WebP not being played,open,2024-10-25T16:43:45Z,,bug
+DylanVann/react-native-fast-image,1054,Warning: TypeError: Cannot read property 'bubblingEventTypes' of null,closed,2024-10-14T06:07:36Z,2024-10-24T12:53:28Z,bug
+DylanVann/react-native-fast-image,1052,Error load image in android,open,2024-10-08T02:20:42Z,,bug
+DylanVann/react-native-fast-image,1051,Photos not caching on Android,open,2024-10-01T01:24:26Z,,bug
+DylanVann/react-native-fast-image,1048,Incompatible with RN 0.75.2 - > Task :react-native-fast-image:compileDebugJavaWithJavac FAILED,open,2024-09-03T10:55:33Z,,bug
+DylanVann/react-native-fast-image,1046,React Native FastImage not Loading Properly on 5G Network,open,2024-08-30T06:51:05Z,,bug
+DylanVann/react-native-fast-image,1044,"When fallback is set to true, images cannot be imported using require.",open,2024-08-23T06:25:06Z,,bug
+DylanVann/react-native-fast-image,1043,[Error: cannot inherit from final ImageSource] after update react-native to 0.75.1,open,2024-08-15T15:40:21Z,,bug
+DylanVann/react-native-fast-image,1042,how to get fastimage image data,open,2024-08-02T07:46:26Z,,bug
+DylanVann/react-native-fast-image,1041,Tried to access a JS module before the React instance was fully set up. ,open,2024-07-30T11:44:52Z,,bug
+DylanVann/react-native-fast-image,1035,setOnFastImageError,open,2024-03-22T08:03:28Z,,bug
+DylanVann/react-native-fast-image,1033,App crashes when loading high resolution image.,open,2024-03-18T00:26:45Z,,bug
+DylanVann/react-native-fast-image,1031,Update to SDWebImage to 5.18.7 or higher for privacy manifest before Apple's May 1 deadline,open,2024-03-12T01:39:41Z,,bug
+DylanVann/react-native-fast-image,1030,"""FastImageView"" was not found in the UIManager",open,2024-03-06T14:17:53Z,,bug
+DylanVann/react-native-fast-image,1029,Kotlin support for the current React native version,closed,2024-03-04T09:17:48Z,2024-03-05T00:18:44Z,bug
+DylanVann/react-native-fast-image,1028,Android onError is not called when uri is empty or null,open,2024-03-01T12:52:55Z,,bug
+DylanVann/react-native-fast-image,1022,"Android FastImage keeps refreshing on background to foreground, iOS is fine. ",open,2024-02-14T17:24:07Z,,bug
+DylanVann/react-native-fast-image,1020,react-native 0.73 [FFFastImageView setOnClick:]: unrecognized selector sent to instance,open,2023-12-07T06:09:54Z,,bug
+DylanVann/react-native-fast-image,1016,Gifs only play once,closed,2023-11-21T03:43:34Z,2023-11-21T08:45:10Z,bug
+DylanVann/react-native-fast-image,1014,Gif in ios,open,2023-11-02T11:17:17Z,,bug
+DylanVann/react-native-fast-image,1011,Critical WebP 0-day security CVE-2023-4863,open,2023-10-06T06:13:37Z,,bug
+DylanVann/react-native-fast-image,1009,Is it abandoned?,closed,2023-09-28T11:43:47Z,2024-09-09T13:56:22Z,bug
+DylanVann/react-native-fast-image,1006,Error due tintColor,open,2023-09-25T12:14:08Z,,bug
+DylanVann/react-native-fast-image,1004,"Need an alternative, this repo is dead",open,2023-09-01T00:03:58Z,,bug
+DylanVann/react-native-fast-image,1003,defaultSource not working,open,2023-08-26T23:06:22Z,,bug
+DylanVann/react-native-fast-image,1002,Support for iOS 17,open,2023-08-09T21:01:10Z,,bug
+DylanVann/react-native-fast-image,998,[Glide] Error:  setDataSource failed: status = 0x80000000,open,2023-07-25T13:52:22Z,,bug
+DylanVann/react-native-fast-image,997,App crashed on Android if Source uri is empty,open,2023-07-19T02:03:40Z,,bug
+DylanVann/react-native-fast-image,994,Vulnerability reported by Snyk - libwebp,open,2023-07-03T20:28:45Z,,bug
+DylanVann/react-native-fast-image,985,New Architecture support,open,2023-03-20T09:33:55Z,,bug
+DylanVann/react-native-fast-image,983,"First time opening with zoom, the second shows right",open,2023-03-09T12:56:17Z,,bug
+DylanVann/react-native-fast-image,981,Weird waves in details of images. ,open,2023-03-07T22:52:49Z,,bug
+DylanVann/react-native-fast-image,980,FastImage not showing images,closed,2023-03-06T20:57:22Z,2024-02-19T06:20:08Z,bug
+DylanVann/react-native-fast-image,976,Not working on IOS with XCode v12.3,open,2023-03-01T15:04:31Z,,bug
+DylanVann/react-native-fast-image,975,"Android: onLoad, onLoadStart, onLoadEnd events not arriving in order",closed,2023-02-23T12:45:24Z,2023-05-24T10:57:31Z,bug
+DylanVann/react-native-fast-image,974,Not rendering images in Android RN 0.70,open,2023-02-22T14:44:25Z,,bug
+DylanVann/react-native-fast-image,970,Feat Request: Image Buffering (Avoid Flashing / Flickering),open,2023-02-17T05:58:29Z,,bug
+DylanVann/react-native-fast-image,969,Expo,open,2023-02-14T18:24:19Z,,bug
+DylanVann/react-native-fast-image,968,Declaration of 'RCTDirectEventBlock' must be imported from module 'React.RCTView',open,2023-02-13T19:01:11Z,,bug
+DylanVann/react-native-fast-image,965,"【Android only】To load local Animated webp, last animation frame is kept.",closed,2023-02-01T10:15:02Z,2023-02-03T02:23:58Z,bug
+DylanVann/react-native-fast-image,963,"Fatal Exception: java.lang.IllegalStateException: You cannot call Glide.get() in registerComponents(), use the provided Glide instance instead",open,2023-01-24T05:21:42Z,,bug
+DylanVann/react-native-fast-image,962,"Fatal Exception: java.lang.NullPointerException: Attempt to invoke virtual method 'com.bumptech.glide.Registry com.bumptech.glide.Registry.replace(java.lang.Class, java.lang.Class, ",open,2023-01-24T05:20:43Z,,bug
+DylanVann/react-native-fast-image,957,Error: Tried to register two views with the same name FastImageView,open,2023-01-04T08:52:38Z,,bug
+DylanVann/react-native-fast-image,956,GIFs playing too fast on iOS,open,2023-01-03T04:21:48Z,,bug
+DylanVann/react-native-fast-image,955,will preload function check cache before hit image url?,open,2023-01-02T08:58:08Z,,bug
+DylanVann/react-native-fast-image,952,java.lang.NullPointerException: Attempt to invoke virtual method 'boolean com.dylanvann.fastimage.FastImageSource.isResource()' on a null object reference,open,2022-12-14T10:35:34Z,,bug
+DylanVann/react-native-fast-image,950,Crash samsung device S21,open,2022-11-28T14:23:11Z,,bug
+DylanVann/react-native-fast-image,949,"when source is empty and defaultSource is set, android end will crash",open,2022-11-18T06:42:42Z,,bug
+DylanVann/react-native-fast-image,948,Not able make release build apk,open,2022-11-17T06:26:05Z,,bug
+DylanVann/react-native-fast-image,946,[iOS] TintColor via style prop not working,open,2022-11-15T05:56:40Z,,bug
+DylanVann/react-native-fast-image,945,[Android] defaultSource not working,open,2022-11-12T22:03:36Z,,bug
+DylanVann/react-native-fast-image,944,onLoad() prop returns wrong values in 'height' and 'width' on Android,open,2022-11-10T19:39:59Z,,bug
+DylanVann/react-native-fast-image,942,Is there has any option of no loop?,closed,2022-11-09T06:24:42Z,2022-11-10T05:27:51Z,bug
+DylanVann/react-native-fast-image,941,UPDATE SDWEBIMAGE VERSION FOR AVOID CRASH WITH IOS,open,2022-11-09T04:22:36Z,,bug
+DylanVann/react-native-fast-image,938,Update podsspac with latest version of SDWebImage Version (~> 5.12.0),open,2022-10-14T05:53:27Z,,bug
+DylanVann/react-native-fast-image,937,AutoSizeExample is not working at 8.6.x in andorid.,open,2022-10-11T05:00:47Z,,bug
+DylanVann/react-native-fast-image,936,./gradlew :app:bundleRelease throws an error,open,2022-10-08T07:34:53Z,,bug
+DylanVann/react-native-fast-image,931,Error while updating property 'source' of a view managed by: FastImageView ,open,2022-09-20T07:00:20Z,,bug
+DylanVann/react-native-fast-image,929,Feature request: distribute types in a separate package eg. @types/react-native-fast-image,open,2022-09-17T12:54:09Z,,bug
+DylanVann/react-native-fast-image,925,It does not support the new architecture yet,open,2022-09-05T08:10:50Z,,bug
+DylanVann/react-native-fast-image,923,Typo in Flow type def in 8.6.0,closed,2022-08-29T22:14:52Z,2022-09-05T04:47:48Z,"bug, released"
+DylanVann/react-native-fast-image,922,resizeMode behaviour is inconsistent between 8.5.12 and 8.6.0,closed,2022-08-29T12:45:44Z,2023-08-03T13:48:35Z,bug
+DylanVann/react-native-fast-image,920,SDWebImageCacheMemoryOnly removed on SDWebImage 5.x version,open,2022-08-29T02:34:05Z,,bug
+DylanVann/react-native-fast-image,919,Add support for the new Fabric renderer,open,2022-08-25T07:28:55Z,,bug
+DylanVann/react-native-fast-image,915,Support for RN 0.69.x,closed,2022-08-01T22:53:47Z,2022-08-28T02:57:38Z,bug
+DylanVann/react-native-fast-image,913,"FastImage can not show jpg file in android ,React native 0.68 ",open,2022-07-26T10:56:12Z,,bug
+DylanVann/react-native-fast-image,912,Gif images play faster in iPhone 13 pro max,open,2022-07-22T11:09:31Z,,bug
+DylanVann/react-native-fast-image,911,iOS SDWebImage Crash on SDGraphicsGetImageFromCurrentImageContext,open,2022-07-21T09:25:30Z,,bug
+DylanVann/react-native-fast-image,910,"The module ""react-native fast-image"" or its corresponding type declaration could not be found.",closed,2022-07-16T09:49:25Z,2022-07-25T08:51:17Z,bug
+DylanVann/react-native-fast-image,907,Maintainers,open,2022-06-28T17:42:56Z,,bug
+DylanVann/react-native-fast-image,904,Caching wrong keys (urls) on redirects,open,2022-06-10T07:41:53Z,,bug
+DylanVann/react-native-fast-image,898,[IOS][webP] webP show blank on IOS 13.6,closed,2022-05-16T13:37:32Z,2022-05-17T13:56:11Z,bug
+DylanVann/react-native-fast-image,897,"Unimplemented component FastImage, React native 0.68 ",open,2022-04-27T10:00:16Z,,bug
+DylanVann/react-native-fast-image,896,Memory problem that caused the crash,open,2022-04-26T05:45:14Z,,bug
+DylanVann/react-native-fast-image,895,Invariant Violation: View config getter callback for component `FastImageView` must be a function (received `undefined`).,open,2022-04-26T04:01:56Z,,bug
+DylanVann/react-native-fast-image,893,FastImage.preload make app crash on android when uri is empty,open,2022-04-12T14:01:55Z,,bug
+DylanVann/react-native-fast-image,892,TIFF file format is not supported for Android,open,2022-04-12T09:13:15Z,,bug
+DylanVann/react-native-fast-image,889,"how to check if image exist or not from the server using reactjs (don't use fetch, xmlhttprequest and size. use try catch method only )",open,2022-03-31T12:22:56Z,,bug
+DylanVann/react-native-fast-image,887,Low quality of vertical (portrait) images!,open,2022-03-27T21:55:02Z,,bug
+DylanVann/react-native-fast-image,884,"Expo web: ""export 'requireNativeComponent' was not found in 'react-native-web/dist/index' ",open,2022-03-15T18:12:44Z,,bug
+DylanVann/react-native-fast-image,883,http images are not rendering in real device while appearing in debug mode ,open,2022-03-10T06:31:40Z,,bug
+DylanVann/react-native-fast-image,881,Task :react-native-fast-image:compileDebugJavaWithJavac FAILED,closed,2022-02-22T07:11:47Z,2022-05-08T07:17:13Z,bug
+DylanVann/react-native-fast-image,880,Feature Request: Allow for customization of the cache mechanism.,open,2022-02-20T20:48:49Z,,bug
+DylanVann/react-native-fast-image,879,Loading View when is big image loading?,open,2022-02-19T23:07:06Z,,bug
+DylanVann/react-native-fast-image,878,Android crash issue fixed when URL is undefined in react-native-fast-image,open,2022-02-19T07:18:45Z,,bug
+DylanVann/react-native-fast-image,870,Border radius with scale not working on android as expected,open,2022-01-31T13:16:30Z,,bug
+DylanVann/react-native-fast-image,869,Same Image URL on different components/screents?,open,2022-01-30T03:59:47Z,,bug
+DylanVann/react-native-fast-image,865,[Android] `onLoad` will never get fired when height and width is set to 0,open,2022-01-19T22:43:08Z,,bug
+DylanVann/react-native-fast-image,859,The app builds failed on RN 0.66.4,open,2022-01-10T07:53:00Z,,bug
+DylanVann/react-native-fast-image,856,Do chrome web browsers use Glide to cache images,closed,2022-01-04T12:48:46Z,2022-08-28T03:22:45Z,bug
+DylanVann/react-native-fast-image,855,images are pixelating,open,2022-01-04T06:58:09Z,,bug
+DylanVann/react-native-fast-image,854,GIF speed not right in devices with ProMotion refresh rates,open,2021-12-29T11:11:26Z,,bug
+DylanVann/react-native-fast-image,853,"However, this package itself specifies a main module field that could not be resolved ",open,2021-12-23T09:22:17Z,,bug
+DylanVann/react-native-fast-image,852,"Some images throws error, but loads OK with React Native Image component.",open,2021-12-19T17:55:43Z,,bug
+DylanVann/react-native-fast-image,850,Grainy images,open,2021-12-13T13:27:17Z,,bug
+DylanVann/react-native-fast-image,849,Null Pointer Exception in FastImageSource.java Glide lib doesn't allow null or empty string to be passed to GlideUrl object.,open,2021-12-08T06:49:34Z,,bug
+DylanVann/react-native-fast-image,847,Android screen falls asleep while displaying gif images,open,2021-11-26T07:59:35Z,,bug
+DylanVann/react-native-fast-image,846,Element type is invalid on Storybook ,open,2021-11-12T02:55:14Z,,bug
+DylanVann/react-native-fast-image,845,[Question] Should android do clearDiskCache in background thread ?,open,2021-11-10T03:36:03Z,,bug
+DylanVann/react-native-fast-image,844,Glide Annotations library not included in classpath at build time,open,2021-11-04T17:03:10Z,,bug
+DylanVann/react-native-fast-image,840,"[Android] Crash, Error while updating property 'source' of a view managed by: FastImageView",open,2021-10-16T06:22:47Z,,bug
+DylanVann/react-native-fast-image,838,Svg images not shown with dynamic link on react-native 65,open,2021-10-10T06:37:56Z,,bug
+DylanVann/react-native-fast-image,835,Feature request: can color value in ImageStyle use type ColorValue?,open,2021-10-09T09:23:22Z,,bug
+DylanVann/react-native-fast-image,833,_reactNativeFastImage.default.clearDiskCache is not a function,open,2021-10-01T14:43:33Z,,bug
+DylanVann/react-native-fast-image,832,App crash on play store & image not showing on iOS app,open,2021-09-29T06:07:31Z,,bug
+DylanVann/react-native-fast-image,831,how do i find out if a file exists in cache?,open,2021-09-27T13:24:22Z,,bug
+DylanVann/react-native-fast-image,828,feat: getDiskCacheSize and getMemoryCacheSize,open,2021-09-26T08:28:28Z,,"bug, feature"
+DylanVann/react-native-fast-image,827,Blur support for Android,open,2021-09-25T22:07:01Z,,bug
+DylanVann/react-native-fast-image,824,Using multiple large images on Android will cause the app to become stuck,open,2021-09-08T10:16:37Z,,bug
+DylanVann/react-native-fast-image,819,[typescript] FastImageProps extends wrong interface,closed,2021-08-27T13:11:56Z,2021-09-27T08:53:25Z,"bug, released"
+DylanVann/react-native-fast-image,817,How to keep showing old image until new image loaded when source changes?,open,2021-08-26T08:34:48Z,,bug
+DylanVann/react-native-fast-image,816,App goes slow with like 200 images,open,2021-08-25T07:48:14Z,,bug
+DylanVann/react-native-fast-image,813,Failing to load with error “Generatedappglidemodule impl is implemented incorrectly..”,open,2021-08-24T04:21:13Z,,bug
+DylanVann/react-native-fast-image,809,crash on launch after FastImage.preload(),open,2021-08-10T02:01:06Z,,bug
+DylanVann/react-native-fast-image,808,Could not resolve com.android.tools.build:gradle:3.4.0,open,2021-08-05T03:41:10Z,,bug
+DylanVann/react-native-fast-image,806,No support for activeOpacity,closed,2021-07-28T13:01:05Z,2021-07-28T13:17:00Z,bug
+DylanVann/react-native-fast-image,805,pre-load doesn't work (iOS and Android),closed,2021-07-23T23:51:46Z,2021-09-27T10:56:07Z,bug
+DylanVann/react-native-fast-image,803,build failing due to jcenter shutting down,open,2021-07-15T00:14:30Z,,bug
+DylanVann/react-native-fast-image,801,Can blurRadius prop be added ?,open,2021-07-12T14:21:53Z,,bug
+DylanVann/react-native-fast-image,800,ios - 'SDWebImage/SDWebImage.h' file not found,closed,2021-07-09T17:01:21Z,2021-09-27T10:47:58Z,bug
+DylanVann/react-native-fast-image,797,Error logs when using fallback,open,2021-06-27T17:49:48Z,,bug
+DylanVann/react-native-fast-image,796,Inconsistent animation count for the same GIF,open,2021-06-21T14:54:50Z,,bug
+DylanVann/react-native-fast-image,793,Not installing if project react version >= 17.0.1,closed,2021-06-08T07:33:04Z,2021-09-27T10:48:26Z,bug
+DylanVann/react-native-fast-image,792,Error while updating property 'source' of a view managed by: FastImageView,open,2021-05-13T12:29:44Z,,bug
+DylanVann/react-native-fast-image,780,delete it,closed,2021-03-22T15:39:54Z,2021-03-23T00:40:12Z,bug
+DylanVann/react-native-fast-image,778,"LoadError - dlopen(/Applications/MAMP/Library/lib/ruby/gems/2.3.0/gems/ffi-1.15.0/lib/ffi_c.bundle, 9): no suitable image found. ",open,2021-03-15T17:12:05Z,,bug
+DylanVann/react-native-fast-image,777,Warning on IOS: Calling bridge.imageLoader ,open,2021-03-15T08:33:40Z,,bug
+DylanVann/react-native-fast-image,776,Does this cache images to disk or in memory?,open,2021-03-10T22:46:49Z,,bug
+DylanVann/react-native-fast-image,772,Execution failed for task ':react-native-fast-image:javaPreCompileDebug',open,2021-02-21T20:52:46Z,,bug
+DylanVann/react-native-fast-image,771,[iOS] Use of undeclared identifier 'SDImageCodersManager',open,2021-02-17T19:49:51Z,,bug
+DylanVann/react-native-fast-image,767,[Android] Image disappears when using react-native-screens,open,2021-02-08T09:50:16Z,,bug
+DylanVann/react-native-fast-image,765,How to remove unused images from cache which are not in use ?,open,2021-02-03T11:30:50Z,,bug
+DylanVann/react-native-fast-image,762,"Stateful changes in ""resizeMode"" prop on Android do not affect the image",open,2021-01-18T04:54:21Z,,bug
+DylanVann/react-native-fast-image,761,Unable to find a specification for `React-Core` depended upon by `RNFastImage`,open,2021-01-16T21:37:12Z,,bug
+DylanVann/react-native-fast-image,757,The handling of borderWidth and borderRadius is a bit weird,open,2021-01-05T17:25:45Z,,bug
+DylanVann/react-native-fast-image,756,"This is a code check, not a bug report.",open,2020-12-30T07:38:36Z,,bug
+DylanVann/react-native-fast-image,754,Performance difference between Image and react-native-fast-image,open,2020-12-26T18:31:52Z,,bug
+DylanVann/react-native-fast-image,753, 安卓 背景闪烁 Android background flashing,open,2020-12-17T02:30:35Z,,bug
+DylanVann/react-native-fast-image,750,Git clone repo with error [[ac1f4b3fb601582f919d4c411108a57556fb98466570f61b7c4c896d2deadc10] Object does not exist on the server: [404] Object does not exist on the server],open,2020-12-04T02:25:24Z,,bug
+DylanVann/react-native-fast-image,746,Require Image not work ,open,2020-11-18T04:11:53Z,,bug
+DylanVann/react-native-fast-image,742,Is there any way to solve ios memory is full,open,2020-11-06T03:30:28Z,,bug
+DylanVann/react-native-fast-image,738,iOS memory leaks when render WebP images,open,2020-10-24T22:56:57Z,,bug
+DylanVann/react-native-fast-image,737,can not load the url Image,open,2020-10-22T12:26:36Z,,bug
+DylanVann/react-native-fast-image,736,ios memory issue,open,2020-10-21T05:44:12Z,,bug
+DylanVann/react-native-fast-image,735,Android - Blank space at the time of image loading,open,2020-10-19T13:36:17Z,,bug
+DylanVann/react-native-fast-image,734,Using border radius on Android 10 produce glitches on texts,open,2020-10-02T15:21:44Z,,bug
+DylanVann/react-native-fast-image,733,Image cache is removed if its URL is expired,open,2020-10-02T07:52:32Z,,bug
+DylanVann/react-native-fast-image,731,"CocoaPods could not find compatible versions for pod ""SDWebImage""",closed,2020-09-21T09:05:57Z,2020-09-21T09:13:48Z,bug
+DylanVann/react-native-fast-image,730,xcode 12 + ios14: image displays as blank view,open,2020-09-19T09:27:54Z,,bug
+DylanVann/react-native-fast-image,728,how to get the images cache,open,2020-09-10T08:54:50Z,,bug
+DylanVann/react-native-fast-image,727,"WEBP Images loading fine but getting warnings in React Native saying ""Error decoding image data <NSData....""",open,2020-09-05T01:15:37Z,,bug
+DylanVann/react-native-fast-image,726,Blur Radius,open,2020-09-04T04:06:14Z,,bug
+DylanVann/react-native-fast-image,725,Support for react-native-windows,open,2020-09-02T20:55:30Z,,bug
+DylanVann/react-native-fast-image,723,Images don't load on Android when content type is 'application / octet-stream',closed,2020-08-28T12:23:16Z,2020-08-28T21:02:31Z,bug
+DylanVann/react-native-fast-image,721,Image first loads older one when updated on the server,open,2020-08-19T06:26:48Z,,bug
+DylanVann/react-native-fast-image,720,Bundled Image Support?,open,2020-08-16T06:44:26Z,,bug
+DylanVann/react-native-fast-image,719,Android Can't  Show Border radius,open,2020-08-15T14:52:05Z,,bug
+DylanVann/react-native-fast-image,718,Cannot open FastImage.xcodeproj,open,2020-08-14T14:53:54Z,,bug
+DylanVann/react-native-fast-image,717,Library Not found for -lRNFastImnage in iOS,open,2020-08-09T17:30:07Z,,bug
+DylanVann/react-native-fast-image,716,Image content update is not reflecting,open,2020-08-07T13:15:43Z,,bug
+DylanVann/react-native-fast-image,713,Image Cache by ID,open,2020-07-25T19:56:26Z,,bug
+DylanVann/react-native-fast-image,711,borderRadius on android cause sawtooth.,open,2020-07-21T12:15:51Z,,bug
+DylanVann/react-native-fast-image,710,"Image not show on android, but still working on IOS",open,2020-07-20T07:10:51Z,,bug
+DylanVann/react-native-fast-image,709,Error with RN Animated.createAnimatedComponent(),open,2020-07-17T07:29:46Z,,bug
+DylanVann/react-native-fast-image,706,Image from S3 not showing on TestFlight,open,2020-07-16T15:26:10Z,,bug
+DylanVann/react-native-fast-image,704,"""FastImageView"" was not found in the UI Manager using Expo",open,2020-07-09T10:23:36Z,,bug
+DylanVann/react-native-fast-image,702,Image is not rendering on ios 14 when serving from remote url.,open,2020-07-04T00:38:59Z,,bug
+DylanVann/react-native-fast-image,700,memory leak detected in leakCanary.,open,2020-06-30T06:15:43Z,,bug
+DylanVann/react-native-fast-image,699,How to manually remove a url from cache,open,2020-06-29T06:43:03Z,,bug
+DylanVann/react-native-fast-image,697,Wrong TS types for Cache,closed,2020-06-24T21:12:39Z,2020-09-21T12:37:07Z,bug
+DylanVann/react-native-fast-image,694,FastImage will stop working when loading multiple remote images,open,2020-06-16T08:32:47Z,,bug
+DylanVann/react-native-fast-image,692,"requireNativeComponent: ""FastImageView"" was not found in the UIManager.",open,2020-06-12T03:42:34Z,,bug
+DylanVann/react-native-fast-image,690,"[iOS] Headers for one request are sent for all subsequent requests, even if no headers specified",closed,2020-06-05T09:52:30Z,2020-07-17T08:39:06Z,bug
+DylanVann/react-native-fast-image,687,"Android auto size error, in hook",open,2020-06-03T10:13:20Z,,bug
+DylanVann/react-native-fast-image,686,Black image shows in Android TV.,open,2020-05-27T06:20:15Z,,bug
+DylanVann/react-native-fast-image,684,how to clear cache if same uri is used in fast image,open,2020-05-22T12:53:30Z,,bug
+DylanVann/react-native-fast-image,682,Using FastImage as an ImageComponent in React Native Elements produces a TS compilation error,open,2020-05-09T13:20:43Z,,bug
+DylanVann/react-native-fast-image,681,FastImage.cacheControl.immutable default doesn't work,open,2020-05-08T11:39:38Z,,bug
+DylanVann/react-native-fast-image,679,Could not find com.android.tools.build:gradle:3.4.0,open,2020-05-05T23:10:29Z,,bug
+DylanVann/react-native-fast-image,674,Xcode / React-native app: Reference from react-native-fast-image to RCTCompnent is ambiguous,open,2020-04-28T10:23:39Z,,bug
+DylanVann/react-native-fast-image,671,Does this lib support .getSize?,closed,2020-04-18T20:06:44Z,2021-06-03T14:00:31Z,bug
+DylanVann/react-native-fast-image,670,Android error FastImageOkHttpProgressGlideModule.java,open,2020-04-14T13:32:24Z,,bug
+DylanVann/react-native-fast-image,668,[Question] Create Image using raw pixel array (UInt8ClampedArray),closed,2020-04-12T17:33:13Z,2020-04-12T17:34:00Z,bug
+DylanVann/react-native-fast-image,667,[NSURLResponse allHeaderFields]: unrecognized selector sent to instance,closed,2020-04-11T14:06:23Z,2020-04-15T00:44:25Z,bug
+DylanVann/react-native-fast-image,662,[iOS][react-native 0.62.1] Crash app when use source uri base64 or file:///,closed,2020-04-05T12:16:43Z,2020-04-30T09:21:13Z,bug
+DylanVann/react-native-fast-image,660,EXC_BAD_ACCESS [FFFastImageView downloadImage:options:],open,2020-04-03T22:45:18Z,,bug
+DylanVann/react-native-fast-image,659,XCode crash after installing version 8.1.0,open,2020-04-01T03:25:03Z,,bug
+DylanVann/react-native-fast-image,658,Long image has bad quality,open,2020-03-28T16:01:57Z,,bug
+DylanVann/react-native-fast-image,657,Preload images,open,2020-03-25T22:45:53Z,,bug
+DylanVann/react-native-fast-image,656,1-frame gif support,open,2020-03-25T07:09:12Z,,bug
+DylanVann/react-native-fast-image,655,"GIFs SIGSEGV Crashing in Feed, iPhone X/XR, Not iPhone 11",open,2020-03-24T00:36:50Z,,bug
+DylanVann/react-native-fast-image,652,iOS: Images don't appear after update app from app store,open,2020-03-16T19:55:54Z,,bug
+DylanVann/react-native-fast-image,650,Pixelated image border,open,2020-03-12T22:01:38Z,,bug
+DylanVann/react-native-fast-image,646,JSX element type 'FastImage' does not have any construct or call signatures,closed,2020-03-10T23:15:49Z,2020-03-12T04:56:13Z,bug
+DylanVann/react-native-fast-image,645,iOS Error since 8.1.0 commit.,closed,2020-03-09T13:56:47Z,2020-03-10T00:23:35Z,bug
+DylanVann/react-native-fast-image,644,"Invalid `RNFastImage.podspec` file: syntax error, unexpected tIDENTIFIER, expecting '}'",closed,2020-03-09T03:30:55Z,2020-03-09T05:24:08Z,bug
+DylanVann/react-native-fast-image,636,Is there a similar library for videos?,open,2020-02-26T17:29:34Z,,bug
+DylanVann/react-native-fast-image,635,Broken image URL's break entire app (memory spikes and no error handling),open,2020-02-24T07:41:10Z,,bug
+DylanVann/react-native-fast-image,634,rotate doesn't work,open,2020-02-18T06:33:27Z,,bug
+DylanVann/react-native-fast-image,633,onProgress no longer working,closed,2020-02-15T20:08:44Z,2020-02-15T20:34:44Z,bug
+DylanVann/react-native-fast-image,632,Question - is the cache reliable?,open,2020-02-12T23:09:43Z,,bug
+DylanVann/react-native-fast-image,629,Which version can be use?,closed,2020-02-07T06:40:36Z,2020-02-07T06:49:00Z,bug
+DylanVann/react-native-fast-image,626,No able to build Android in Release mode,open,2020-01-27T07:14:58Z,,bug
+DylanVann/react-native-fast-image,624,I can help as a maintainer for this library,open,2020-01-22T18:17:39Z,,bug
+DylanVann/react-native-fast-image,623,Error while updating property 'source' of a view managed by: FastImageView,closed,2020-01-22T15:42:54Z,2020-08-25T09:13:03Z,bug
+DylanVann/react-native-fast-image,622,Memory leak: App crashes when it load more than 300 WebP images,closed,2020-01-17T03:59:17Z,2020-07-17T03:49:25Z,bug
+DylanVann/react-native-fast-image,621,problem with HEIC,closed,2020-01-15T10:30:36Z,2020-01-22T11:50:49Z,bug
+DylanVann/react-native-fast-image,620,Missing  SDWebImage for IOS,open,2020-01-11T13:14:39Z,,bug
+DylanVann/react-native-fast-image,617,Can I use react-native-progressive-image with this library?,open,2020-01-06T15:01:57Z,,bug
+DylanVann/react-native-fast-image,616,🔥Support pinch to zoom,open,2020-01-06T09:52:32Z,,bug
+DylanVann/react-native-fast-image,613,Setting priority high will have no effect on the downloading order of the images ,open,2020-01-03T21:17:19Z,,bug
+DylanVann/react-native-fast-image,612,Peer dependency warning,closed,2020-01-03T20:57:39Z,2020-07-17T02:08:13Z,"bug, released"
+DylanVann/react-native-fast-image,611,`react-native link` is still required?,closed,2019-12-30T23:41:44Z,2020-01-06T16:35:16Z,bug
+DylanVann/react-native-fast-image,610,Any plans for react native web or expo web?,open,2019-12-30T03:32:14Z,,bug
+DylanVann/react-native-fast-image,608,Who can fix a copy of the wrong Android onload width and height,open,2019-12-22T12:38:52Z,,bug
+DylanVann/react-native-fast-image,606,Error decoding image data,closed,2019-12-07T04:29:25Z,2019-12-09T00:59:28Z,bug
+DylanVann/react-native-fast-image,605,IphoneX FastImage performance,open,2019-11-29T16:00:27Z,,bug
+DylanVann/react-native-fast-image,604,blurRadius Property like <Image /> Tag doesnot work in react-native-fast-image Library in android,open,2019-11-23T17:53:05Z,,bug
+DylanVann/react-native-fast-image,603,Bad Android Scrolling Performance,open,2019-11-18T13:27:48Z,,bug
+DylanVann/react-native-fast-image,602,Caching image with token (Amazon S3 bucket image),open,2019-11-16T18:46:18Z,,bug
+DylanVann/react-native-fast-image,599,Could not resolve all artifacts for configuration ':react-native-fast-image:classpath'.    > Could not download kotlin-reflect.jar,closed,2019-11-14T02:19:07Z,2019-11-14T02:43:37Z,bug
+DylanVann/react-native-fast-image,598,resizeMode.cover and resizeMode.center work inverted on some Samsung devices.,open,2019-11-13T19:42:13Z,,bug
+DylanVann/react-native-fast-image,597,FastImage support for CameraRoll images is really needed. Instructions needed for enabling with SDWebImagePhotosPlugin,open,2019-11-12T21:11:17Z,,bug
+DylanVann/react-native-fast-image,595,Fatal Exception: java.lang.NoSuchMethodError android.app.Activity.isDestroyed,open,2019-11-07T12:44:15Z,,bug
+DylanVann/react-native-fast-image,593,v8.0.0 not released on npm,closed,2019-10-29T14:22:25Z,2020-03-09T02:58:15Z,bug
+DylanVann/react-native-fast-image,592, java.lang.String cannot be cast to com.facebook.react.bridge.ReadableNativeMap,open,2019-10-26T17:41:31Z,,bug
+DylanVann/react-native-fast-image,588,NullPointerException: Attempt to invoke virtual method ... in Nexus 5X (Android),closed,2019-10-20T23:44:52Z,2020-03-12T22:49:16Z,bug
+DylanVann/react-native-fast-image,585,Images from http uris do not load / blank spaces on Android,closed,2019-10-15T21:56:23Z,2019-10-15T21:56:40Z,bug
+DylanVann/react-native-fast-image,575,[v0.61.2] com.facebook.react.views.imagehelper does not exist,open,2019-10-12T03:37:40Z,,bug
+DylanVann/react-native-fast-image,572,JSON::ParserError - 743: unexpected token at '',open,2019-10-09T15:14:19Z,,bug
+DylanVann/react-native-fast-image,571,iOS Image header caching,open,2019-10-04T10:47:40Z,,bug
+DylanVann/react-native-fast-image,569,Images are not showing,open,2019-09-29T16:23:39Z,,bug
+DylanVann/react-native-fast-image,568,FastImage isn't avaiable on Expo ? ,open,2019-09-26T14:47:30Z,,bug
+DylanVann/react-native-fast-image,567,Base64 WebP on iOS,open,2019-09-26T11:48:48Z,,bug
+DylanVann/react-native-fast-image,565,Error while updating the property 'Source' of FastImage,closed,2019-09-21T04:32:04Z,2019-09-21T05:10:39Z,bug
+DylanVann/react-native-fast-image,562,android: fix onload not called,open,2019-09-17T10:27:25Z,,bug
+DylanVann/react-native-fast-image,560,iOS Memory Leak,open,2019-09-16T18:20:03Z,,bug
+DylanVann/react-native-fast-image,559,[Feature] Add size callback to FastImage.preload,open,2019-09-13T16:18:42Z,,bug
+DylanVann/react-native-fast-image,558,App must re-awake the image to load properly,open,2019-09-12T07:16:11Z,,bug
+DylanVann/react-native-fast-image,556, Invalid prop `source` supplied to `Image`,open,2019-09-10T04:35:52Z,,bug
+DylanVann/react-native-fast-image,555,Dependency issue when building with 6.0.3,closed,2019-09-09T14:29:05Z,2019-09-11T12:50:53Z,bug
+DylanVann/react-native-fast-image,549,Android performance issues,open,2019-08-29T09:03:33Z,,bug
+DylanVann/react-native-fast-image,548,Android 7 Border Radius Problem,open,2019-08-28T09:14:21Z,,bug
+DylanVann/react-native-fast-image,547,iOS: Enable rendering WebP,closed,2019-08-23T04:30:21Z,2019-08-23T04:32:07Z,bug
+DylanVann/react-native-fast-image,546,'React/Core/RCTConvert.h' file not found,open,2019-08-21T10:44:38Z,,bug
+DylanVann/react-native-fast-image,545,Large PNG-files don't seem to load,open,2019-08-21T10:41:19Z,,bug
+DylanVann/react-native-fast-image,543,"iOS ""Camera Roll"" Images rendering as white views",open,2019-08-16T21:43:11Z,,bug
+DylanVann/react-native-fast-image,537,Clarification: How to change the overlay of the image using fast-image,open,2019-08-09T07:46:13Z,,bug
+DylanVann/react-native-fast-image,536,Crash: NullPointerException on App Startup,closed,2019-08-06T13:08:20Z,2020-03-12T22:48:10Z,bug
+DylanVann/react-native-fast-image,535,Can not open FastImage.xcodeproj,closed,2019-08-06T10:53:22Z,2019-10-14T01:37:14Z,bug
+DylanVann/react-native-fast-image,534,cocoapod install error,closed,2019-08-05T11:11:24Z,2019-08-12T08:43:00Z,bug
+DylanVann/react-native-fast-image,532,activity.isDestroyed() is not available in API 16,open,2019-07-29T21:01:11Z,,bug
+DylanVann/react-native-fast-image,530,IOS: Invalid NSURLRequestCachePolicy 'immutable'.,open,2019-07-29T06:45:44Z,,bug
+DylanVann/react-native-fast-image,529,"No callbacks called, except onLoadStart",open,2019-07-28T14:26:30Z,,bug
+DylanVann/react-native-fast-image,528,Why the onLoadStart is triggered twice?,open,2019-07-28T07:53:39Z,,bug
+DylanVann/react-native-fast-image,527,Xcode crashes after upgrade to version 7.0.0,closed,2019-07-25T10:44:13Z,2021-09-15T21:35:34Z,bug
+DylanVann/react-native-fast-image,525,Android Images Disappearing,open,2019-07-23T19:37:26Z,,bug
+DylanVann/react-native-fast-image,523,Android app crashes after upgrade to 7.0.2 with Glide error,closed,2019-07-22T20:10:40Z,2020-02-27T02:06:23Z,bug
+DylanVann/react-native-fast-image,522,Support Base64 animated Webp Images on iOS,open,2019-07-17T02:43:37Z,,bug
+DylanVann/react-native-fast-image,520,Android Images not showing after upgrade,open,2019-07-12T14:16:38Z,,bug
+DylanVann/react-native-fast-image,519,Xcode has encountered an error reading an invalid project file,open,2019-07-11T18:14:34Z,,bug
+DylanVann/react-native-fast-image,518,cani't search it from cocopod,closed,2019-07-11T09:50:16Z,2019-07-15T08:50:05Z,bug
+DylanVann/react-native-fast-image,517,"ANDROID Invariant Violation: requireNativeComponent: ""FastImageView"" was not found in the UIManager.",closed,2019-07-08T03:04:55Z,2019-07-08T03:44:51Z,bug
+DylanVann/react-native-fast-image,516,Android App crashes on startup.,closed,2019-07-06T21:18:25Z,2019-09-05T03:09:40Z,bug
+DylanVann/react-native-fast-image,515,run error,open,2019-07-06T09:36:23Z,,bug
+DylanVann/react-native-fast-image,514,ld: library not found for -lFastImage,closed,2019-07-05T08:33:47Z,2019-07-16T23:10:16Z,bug
+DylanVann/react-native-fast-image,509,GIF won't auto play on iOS after upgrading to 6.0,closed,2019-07-02T06:27:31Z,2019-07-03T01:32:21Z,bug
+DylanVann/react-native-fast-image,508,"Image caching ""immutable"" broken on iOS",closed,2019-07-01T08:19:07Z,2019-07-01T08:33:45Z,bug
+DylanVann/react-native-fast-image,507,Infinite GET requests for images URI,closed,2019-06-29T06:41:26Z,2019-07-01T08:33:53Z,bug
+DylanVann/react-native-fast-image,505,Ejected app from expo crashes android,closed,2019-06-26T13:59:01Z,2019-09-05T03:09:52Z,bug
+DylanVann/react-native-fast-image,504,React hooks crashes onLoadEnd,open,2019-06-26T09:21:21Z,,bug
+DylanVann/react-native-fast-image,503,Get Error After Migrated to AndroidX,closed,2019-06-25T05:04:14Z,2019-07-05T06:11:15Z,bug
+DylanVann/react-native-fast-image,502,Execution failed  error: resource android:attr/fontVariationSettings not found,open,2019-06-20T11:12:28Z,,bug
+DylanVann/react-native-fast-image,501,Build fails on 6.0.3 when using fastlane,closed,2019-06-20T09:55:24Z,2019-07-05T06:15:28Z,bug
+DylanVann/react-native-fast-image,497,Add import androidx,closed,2019-06-20T02:07:55Z,2019-07-05T06:12:19Z,bug
+DylanVann/react-native-fast-image,494,EXPO SDK 33.0 Android Sync gradle fail,closed,2019-06-14T15:09:26Z,2019-09-05T03:10:34Z,bug
+DylanVann/react-native-fast-image,493,"When resizeMode.contain is it possible not ""center"" the image?",open,2019-06-13T17:37:29Z,,bug
+DylanVann/react-native-fast-image,492,Android memory leak,open,2019-06-12T05:53:54Z,,bug
+DylanVann/react-native-fast-image,484,error while updating 'source' of a view on android null uri,closed,2019-05-28T01:26:18Z,2019-05-29T05:08:32Z,bug
+DylanVann/react-native-fast-image,480,Conflicting android two glide modules,closed,2019-05-22T17:59:30Z,2019-07-05T06:13:51Z,bug
+DylanVann/react-native-fast-image,477,Scrolling through images list on iOS is very laggy,closed,2019-05-17T07:07:10Z,2019-06-13T12:52:08Z,bug
+DylanVann/react-native-fast-image,476,WebP with 6.0.0,closed,2019-05-15T12:35:08Z,2019-06-02T08:23:26Z,bug
+DylanVann/react-native-fast-image,474,Android error on launch,open,2019-05-14T08:58:17Z,,bug
+DylanVann/react-native-fast-image,471,Black images for proguard enabled release in Android,closed,2019-05-12T05:05:28Z,2019-05-18T11:13:49Z,bug
+DylanVann/react-native-fast-image,470,Fallback prop with cache,closed,2019-05-09T10:41:41Z,2020-07-17T05:10:24Z,bug
+DylanVann/react-native-fast-image,469,Is this also useful for local images?,open,2019-05-09T04:51:53Z,,bug
+DylanVann/react-native-fast-image,468,"XCode 10.2 generates an unshippable ""Generic Archive"" with 6.0.0",closed,2019-05-09T00:45:42Z,2019-06-03T22:10:48Z,bug
+DylanVann/react-native-fast-image,195,Memory issues when showing a ton of images.,open,2018-04-27T02:48:13Z,,bug
+DylanVann/react-native-fast-image,153,borderRadius on android cause sawtooth.,closed,2018-02-27T02:24:49Z,2018-06-10T03:06:20Z,"bug, react native"
+DylanVann/react-native-fast-image,152,Border doesn't work well.,open,2018-02-26T16:30:34Z,,bug
+DylanVann/react-native-fast-image,28,Fix View.propTypes deprecation warning.,closed,2017-07-31T15:26:07Z,2017-11-30T17:41:30Z,bug
+DylanVann/react-native-fast-image,19,Strange behaviour using stretch resizemode.,closed,2017-07-07T07:54:02Z,2018-05-10T03:30:13Z,bug
+DylanVann/react-native-fast-image,14,Cannot set per request headers. Headers are global.,open,2017-06-20T06:02:05Z,,bug
+salRoid/Filmy,143,Null pointer exception when BackPressed on any movie opened from Upcoming Fragment,closed,2022-01-01T10:37:25Z,2022-01-07T18:08:56Z,bug
+salRoid/Filmy,117,Content AutoScrolled,closed,2017-10-10T16:49:27Z,2017-10-14T07:52:28Z,"bug, Hacktoberfest"
+salRoid/Filmy,114,Fragment Not Closed,closed,2017-07-05T04:28:26Z,2017-10-15T16:23:20Z,bug
+salRoid/Filmy,106,Bug in Detailed Activity,closed,2017-06-12T11:49:25Z,2017-06-12T13:52:27Z,bug
+salRoid/Filmy,104,Crash in DetailsActivity,closed,2017-05-21T11:05:12Z,2017-06-12T13:52:05Z,bug
+ppareit/swiftp,133,FTP server does not return to work after scheduled hotspot reboot,open,2019-05-02T14:14:11Z,,BUG
+ppareit/swiftp,56,Can't start FTP server when USB tethering,closed,2015-01-05T13:52:03Z,2015-07-19T10:40:20Z,BUG
+ppareit/swiftp,53,Can't connect through IPv6,open,2014-11-19T23:52:54Z,,BUG
+ppareit/swiftp,48,Failed to discover server via ZeroConf,open,2014-08-17T00:16:23Z,,BUG
+ppareit/swiftp,44,FEAT,closed,2014-08-03T16:33:34Z,2014-11-08T11:07:05Z,BUG
+ppareit/swiftp,39,Android 4.4 cannot write to external microSD Cards,closed,2014-02-16T11:15:33Z,2018-05-13T15:43:12Z,BUG
+ppareit/swiftp,36,Double entries when transfering files to device,closed,2014-01-09T15:34:34Z,2014-08-02T14:59:53Z,BUG
+ppareit/swiftp,35,Wrong status update possible,closed,2014-01-01T21:38:37Z,2015-12-31T11:28:48Z,BUG
+ppareit/swiftp,34,Demo and Paid intents clash,closed,2013-12-31T12:38:16Z,2014-01-04T16:47:57Z,BUG
+ppareit/swiftp,32,Wifi stops not handled,closed,2013-12-26T21:55:48Z,2015-12-31T14:38:11Z,BUG
+ppareit/swiftp,31,State becomes invalid when user swipes preferences away in task manager,closed,2013-12-24T16:35:57Z,2014-03-01T09:23:01Z,BUG
+ppareit/swiftp,29,Preserve date and time,closed,2013-12-09T20:08:47Z,2014-03-01T15:45:17Z,"BUG, FEATURE"
+SimpleMobileTools/Simple-Flashlight,165,Flash light turns off if you use the camera app but the button remains in pressed state,open,2022-08-16T20:48:57Z,,bug
+SimpleMobileTools/Simple-Flashlight,159,Button remains in pressed state if you turn screen lock on/off,closed,2022-07-22T09:27:10Z,2023-07-25T13:28:31Z,bug
+SimpleMobileTools/Simple-Flashlight,118,SOS stops when the device falls asleep,open,2020-09-28T17:00:53Z,,bug
+SimpleMobileTools/Simple-Flashlight,92,"5.0.3 reportedly broke the quick tile, icon is an empty square",closed,2019-08-30T07:13:48Z,2019-08-30T10:46:30Z,bug
+SimpleMobileTools/Simple-Flashlight,88,Quick Setting Tile Has Vanished,closed,2019-07-10T01:07:24Z,2019-08-31T03:50:03Z,bug
+SimpleMobileTools/Simple-Flashlight,82,Led is noticeably dimmer than stock app,closed,2019-02-21T11:19:46Z,2020-12-29T16:20:42Z,bug
+SimpleMobileTools/Simple-Flashlight,71,"I believe ""Turn flashlight on at startup"" needs a tweak",closed,2018-08-20T07:52:12Z,2023-07-11T13:07:08Z,bug
+SimpleMobileTools/Simple-Flashlight,55,HomePage Doesn't Respond To Landscape Rotation.,closed,2018-03-15T03:11:09Z,2018-04-05T09:54:11Z,bug
+SimpleMobileTools/Simple-Flashlight,24,Strobe not working on devices with android version 6.0 and 6.0.1,closed,2017-02-08T11:20:22Z,2017-02-09T21:24:50Z,bug
+SimpleMobileTools/Simple-Flashlight,19,Resources occupied after closing this app properly and openning another app,closed,2016-11-16T02:22:50Z,2017-11-06T11:26:22Z,bug
+SimpleMobileTools/Simple-Flashlight,8,MainActivity crash on Huawei Honor Marshmallow,closed,2016-08-01T21:36:52Z,2017-11-06T11:24:12Z,bug
+SimpleMobileTools/Simple-Flashlight,7,Can't able to open Camera when widget in use,closed,2016-07-31T19:25:47Z,2017-11-06T11:24:31Z,bug
+SimpleMobileTools/Simple-Flashlight,4,"App can't turn off light (LG G2, Android 5.0.2)",closed,2016-07-16T09:36:34Z,2016-07-26T22:21:27Z,bug

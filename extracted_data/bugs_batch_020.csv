@@ -1,0 +1,260 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+stanidesis/quotograph,174,Handle Fabric Issue #21,closed,2016-05-19T22:03:52Z,2016-05-19T23:46:57Z,bug
+stanidesis/quotograph,171,Handle Fabric Issue 14,closed,2016-05-14T20:33:29Z,2016-05-19T23:51:34Z,bug
+stanidesis/quotograph,161,Look into Blur Failure on Rozzie's Phone,closed,2016-05-09T02:32:05Z,2016-10-08T16:26:32Z,bug
+stanidesis/quotograph,134,Fix word cutoff by finding the largest word and guaranteeing the font size allows that character width,closed,2016-03-17T21:16:46Z,2016-03-19T20:32:47Z,bug
+stanidesis/quotograph,133,Fix Fabric Issue 10,closed,2016-03-11T00:07:33Z,2016-03-19T19:28:49Z,bug
+stanidesis/quotograph,132,Fix Fabric Issues 11 and 12,closed,2016-03-11T00:05:52Z,2016-03-19T19:51:01Z,bug
+stanidesis/quotograph,124,Refreshing a wallpaper sometimes locks up,closed,2016-02-09T04:39:59Z,2016-02-12T21:05:30Z,bug
+stanidesis/quotograph,123,Repeated searches sometimes prohibit clicking the /- button,closed,2016-02-09T00:33:11Z,2016-02-12T21:06:01Z,bug
+stanidesis/quotograph,121,Fix spinner in FTUE,closed,2016-02-07T18:04:41Z,2016-02-12T21:05:30Z,bug
+stanidesis/quotograph,112,Memory Consumption is OOC (out-of-control),closed,2016-02-03T23:34:30Z,2016-02-05T23:52:53Z,"bug, enhancement"
+stanidesis/quotograph,109,Saving wallpaper from notification before accepting permission request does not start permission flow,closed,2016-01-26T20:34:04Z,2016-02-04T23:56:37Z,"bug, enhancement"
+stanidesis/quotograph,108,Generating a wallpaper from the playlist does not black out current wallpaper,closed,2016-01-26T20:33:22Z,2016-02-03T23:14:23Z,bug
+stanidesis/quotograph,107,Exiting Quotograph during wallpaper generation loses state,closed,2016-01-26T20:32:48Z,2016-02-05T00:14:11Z,bug
+stanidesis/quotograph,106,Look into better quote randomization,closed,2016-01-24T18:41:46Z,2016-02-04T21:07:08Z,"bug, duplicate, enhancement"
+stanidesis/quotograph,104,Bug: The interface locks up after creating a new wallpaper in the app,closed,2016-01-20T01:53:39Z,2016-02-03T23:16:02Z,bug
+stanidesis/quotograph,97,Fix sharing with Facebook: text does not copy over,closed,2016-01-14T21:37:50Z,2016-02-04T00:36:04Z,"bug, wontfix, enhancement"
+stanidesis/quotograph,96,Look into repeated quotes when fresh ones are available,closed,2016-01-14T03:25:10Z,2016-02-04T21:06:58Z,"bug, enhancement"
+stanidesis/quotograph,90,Fix color for page indicators in FTUE,closed,2016-01-10T22:15:48Z,2016-01-13T05:53:11Z,bug
+stanidesis/quotograph,74,Unsplash pulling back 500s,closed,2015-10-24T17:53:32Z,2015-10-24T17:54:08Z,bug
+stanidesis/quotograph,47,Update to match unsplash,closed,2015-08-25T22:54:42Z,2015-09-07T22:21:28Z,bug
+stanidesis/quotograph,33,"Fix Fresco cache, it doesn't empty properly",closed,2015-08-11T00:27:34Z,2015-08-14T16:34:34Z,bug
+stanidesis/quotograph,28,New rotation bug,closed,2015-08-03T18:52:02Z,2015-08-05T04:30:15Z,bug
+stanidesis/quotograph,26,"Use palette wisely, make sure high contrast colors are presented",closed,2015-07-29T06:34:14Z,2015-08-03T18:49:56Z,bug
+stanidesis/quotograph,22,Landscape mode displays inappropriately,closed,2015-07-21T05:05:38Z,2015-07-27T03:57:44Z,bug
+arnef/ligatool-hamburg,3,login button has to be clicked twice,closed,2017-03-09T22:14:38Z,2017-03-14T16:42:31Z,bug
+benstreb/RPGme,34,Phone got REALLY hot when left on battle screen overnight,open,2013-11-21T23:02:38Z,,bug
+benstreb/RPGme,28,"use/sell are now switched on the inventory menu for some reason, but the graphic isn't",closed,2013-11-21T01:22:34Z,2013-11-21T02:51:05Z,bug
+benstreb/RPGme,25,Nav bar not displaying in dungeon,open,2013-11-20T08:52:59Z,,bug
+benstreb/RPGme,24,New crash bug,closed,2013-11-20T00:32:49Z,2013-11-20T01:39:17Z,bug
+benstreb/RPGme,20,Dungeon doesn't save if you don't return to main menu.,closed,2013-11-18T03:13:24Z,2013-11-19T05:15:55Z,bug
+benstreb/RPGme,15,App crashes on reinstall,closed,2013-11-16T23:55:12Z,2013-11-19T05:12:04Z,bug
+benstreb/RPGme,14,"In Dungeon, z-ordering is sometimes messed up",open,2013-11-15T08:41:10Z,,bug
+benstreb/RPGme,13,You can scroll off the screen vertically in the Dungeon,closed,2013-11-15T06:55:20Z,2013-11-16T23:44:46Z,bug
+benstreb/RPGme,12,Crash when monster is killed,closed,2013-11-13T02:18:38Z,2013-11-15T06:52:22Z,bug
+benstreb/RPGme,10,App crashes on reloading dungeon or battle menu,closed,2013-11-11T23:49:50Z,2013-11-15T06:52:39Z,bug
+benstreb/RPGme,9,"Monster: If it's defense is higher than the player's attack damage, monster will heal when attacked",closed,2013-11-11T23:46:11Z,2013-11-19T05:12:13Z,bug
+benstreb/RPGme,8,Nothing Saves on Exit,closed,2013-11-01T07:43:43Z,2013-11-02T01:55:49Z,bug
+benstreb/RPGme,7,Back up through CreatePlayerActivity 3 times to reach splash screen.,closed,2013-10-31T22:52:06Z,2013-11-19T05:12:26Z,bug
+benstreb/RPGme,6,Equipment doesn't scale to screen?,closed,2013-10-31T22:07:53Z,2013-11-21T00:02:31Z,bug
+benstreb/RPGme,4,Completed Quests are uncompleted.,closed,2013-10-29T21:45:33Z,2013-10-31T19:30:45Z,bug
+benstreb/RPGme,3,Splash screen always goes to player creation,closed,2013-10-20T20:52:15Z,2013-10-29T22:55:54Z,bug
+benstreb/RPGme,2,Player creation crashes instead of going to the MainActivity,closed,2013-10-20T20:47:23Z,2013-10-21T07:19:09Z,bug
+benstreb/RPGme,1,Image changing doesn't work when creating a player,closed,2013-10-20T20:43:12Z,2013-11-19T05:12:59Z,bug
+CS-Worcester/TaskButler,16,Pressing on a task in the list moves the view to the very top of the list,closed,2012-08-02T00:36:21Z,2012-08-03T03:35:22Z,bug
+CS-Worcester/TaskButler,15,Completion status of a task is not saved,closed,2012-08-01T23:43:32Z,2012-08-03T03:35:22Z,bug
+CS-Worcester/TaskButler,5,Changing screen orientation deletes the task list,closed,2012-07-28T22:51:14Z,2012-07-31T22:27:00Z,bug
+Kyrremann/TagStory,16,Ensure black text on older phones,open,2014-12-04T18:42:56Z,,bug
+Kyrremann/TagStory,13,Dialog for asking users to turn on certain features,open,2014-12-04T18:41:38Z,,"bug, enhancement"
+Kyrremann/TagStory,12,A fallback mode if the app suddenly crash or get closed by outside mode,closed,2014-12-04T18:41:09Z,2015-01-30T09:58:14Z,bug
+Kyrremann/TagStory,9,Better history of where you are in the story (in case of app failure),open,2014-12-04T18:40:38Z,,"bug, enhancement"
+Kyrremann/TagStory,5,Need better quiz-support,open,2014-12-04T18:38:07Z,,"bug, enhancement"
+Kyrremann/TagStory,3,Remove compass from codebase,open,2014-12-04T18:35:39Z,,bug
+ZafraniTechLLC/Companion-For-PUBG-Android,70,Crash on Android 4.4,closed,2017-05-31T18:11:42Z,2017-05-31T19:39:50Z,bug
+OpenSeizureDetector/Android_Pebble_SD,209,User Reported Crash on Data Sharing Screen,open,2025-11-04T20:26:12Z,,bug
+OpenSeizureDetector/Android_Pebble_SD,207,Crash when pressing 'Install Watch App' button,open,2025-01-09T20:16:12Z,,bug
+OpenSeizureDetector/Android_Pebble_SD,202,Unable to change SMS count down timer,closed,2024-10-10T17:32:11Z,2024-10-10T19:47:39Z,bug
+OpenSeizureDetector/Android_Pebble_SD,201,Enormous amount of Data sent by OSD,closed,2024-07-23T22:16:09Z,2025-07-18T20:18:47Z,bug
+OpenSeizureDetector/Android_Pebble_SD,199,V4.2.10:  Data Sharing Screen Very Slow,closed,2024-06-23T18:48:01Z,2025-07-18T20:14:52Z,bug
+OpenSeizureDetector/Android_Pebble_SD,191,V4.2.8 Crash During Start-Up,open,2024-06-02T18:42:28Z,,bug
+OpenSeizureDetector/Android_Pebble_SD,185,Crash in ExportActivity when using comma as decimal separator,closed,2024-05-02T21:00:35Z,2024-05-27T20:05:09Z,bug
+OpenSeizureDetector/Android_Pebble_SD,179,V4.2.7 - PineTime Disconnection Problem,closed,2024-04-28T19:13:04Z,2024-06-02T18:36:33Z,bug
+OpenSeizureDetector/Android_Pebble_SD,178,V4.2.7 - BangleJS2 does not work with new BLE2 data source,open,2024-04-28T19:10:50Z,,bug
+OpenSeizureDetector/Android_Pebble_SD,176,V4.2.6 - Crash when opening app from notification,closed,2024-04-15T19:34:48Z,2024-05-08T21:01:23Z,bug
+OpenSeizureDetector/Android_Pebble_SD,169,V4.2.4+ - BLE Data Source Issues,closed,2024-04-08T20:13:10Z,2024-04-14T19:47:24Z,bug
+OpenSeizureDetector/Android_Pebble_SD,166,V4.2.4 - Problems with Android 13 Go Edition (Moto E13),closed,2024-04-06T14:43:15Z,2024-04-08T19:39:59Z,bug
+OpenSeizureDetector/Android_Pebble_SD,161,4.2.4.b Algorithms seem to flicker IF enabled without restarting OSD,open,2024-03-27T08:04:12Z,,bug
+OpenSeizureDetector/Android_Pebble_SD,153,Adaptive HR and average HR active if simple HR is active.,closed,2024-03-23T08:46:48Z,2024-03-23T20:09:13Z,bug
+OpenSeizureDetector/Android_Pebble_SD,152,V4.2.3 - Incorrect operation after changing settings,closed,2024-03-22T19:27:45Z,2024-04-14T19:51:15Z,bug
+OpenSeizureDetector/Android_Pebble_SD,149,V4.2.1 - Error on PineTime watch screen,closed,2024-03-16T22:14:31Z,2024-03-21T21:44:59Z,bug
+OpenSeizureDetector/Android_Pebble_SD,147,Problem with Alarms failing after sending SMS alert,closed,2024-03-03T20:23:55Z,2024-06-02T18:38:54Z,bug
+OpenSeizureDetector/Android_Pebble_SD,146,Latch Alarms Function not Working Correctly (V4.2.x),closed,2024-03-03T19:54:52Z,2024-03-24T16:39:27Z,bug
+OpenSeizureDetector/Android_Pebble_SD,145,V4.2.1 FAULT condition after Fidget Alarm resets,closed,2024-02-28T20:00:05Z,2024-06-02T18:39:29Z,bug
+OpenSeizureDetector/Android_Pebble_SD,143,V4.2.1 - crash editing data sharing event,open,2024-02-03T07:55:37Z,,bug
+OpenSeizureDetector/Android_Pebble_SD,141,New MainActivity screen blanks,closed,2024-01-31T20:53:55Z,2024-01-31T21:44:56Z,bug
+OpenSeizureDetector/Android_Pebble_SD,139,Audio warning,open,2024-01-28T20:34:43Z,,bug
+OpenSeizureDetector/Android_Pebble_SD,136,V4.2.1n - Old UI screen corrupted,closed,2024-01-27T20:09:44Z,2024-01-27T20:26:24Z,bug
+OpenSeizureDetector/Android_Pebble_SD,135,V4.2.x Background Service Crash,closed,2024-01-26T14:37:02Z,2024-01-27T21:20:50Z,bug
+OpenSeizureDetector/Android_Pebble_SD,133,V4.2.1n:  Start/Stop Server Menu Option Not Working,closed,2024-01-25T09:54:27Z,2024-01-25T23:24:16Z,bug
+OpenSeizureDetector/Android_Pebble_SD,128,V4.1.12 - Issue with SMS Location Alerts on Android 14,closed,2023-11-27T21:17:52Z,2024-12-27T16:10:43Z,bug
+OpenSeizureDetector/Android_Pebble_SD,120,Crash when trying to export data,closed,2023-08-21T13:18:01Z,2023-08-21T20:48:04Z,bug
+OpenSeizureDetector/Android_Pebble_SD,113,Enabling Heart Rate or O2Sat alarms with Phone Data Source gives continuous alarms.,closed,2023-07-05T18:36:36Z,2023-07-05T19:18:05Z,bug
+OpenSeizureDetector/Android_Pebble_SD,112,Crash report seizure when not logged in,closed,2023-07-04T06:24:20Z,2023-12-21T17:43:28Z,bug
+OpenSeizureDetector/Android_Pebble_SD,106,V4.1.8 - Crash when enabling NDA Logging,closed,2023-06-18T18:05:09Z,2023-07-23T19:44:49Z,bug
+OpenSeizureDetector/Android_Pebble_SD,105,V4.1.7 - Average HR Alarm not working correctly,closed,2023-06-17T20:08:46Z,2023-06-17T20:44:00Z,bug
+OpenSeizureDetector/Android_Pebble_SD,104,V4.1.7 - repeated false alarms with recent update - garmin 735xt,closed,2023-06-17T14:09:29Z,2023-12-21T16:02:34Z,bug
+OpenSeizureDetector/Android_Pebble_SD,102,V4.1.7 - LogManager Crash,closed,2023-06-16T10:05:52Z,2023-06-17T20:44:27Z,bug
+OpenSeizureDetector/Android_Pebble_SD,101,V4.3.x - WearReceiver and isRunning check conflicting when starting startupActivity.,open,2023-06-13T13:48:13Z,,bug
+OpenSeizureDetector/Android_Pebble_SD,100,V4.1.7 - Security Exception in BLE Scan Activity,closed,2023-06-12T18:26:19Z,2023-06-17T20:45:54Z,bug
+OpenSeizureDetector/Android_Pebble_SD,99,V4.0.7 - Crash during data sharing authentication?,closed,2023-06-11T15:44:16Z,2023-06-11T19:15:35Z,bug
+OpenSeizureDetector/Android_Pebble_SD,97,V4.1.6 - Data Sharing does not always sync with remote server,open,2023-06-11T15:29:30Z,,bug
+OpenSeizureDetector/Android_Pebble_SD,96,V4.3.x - Occasional server re-starts during transition from portrait to landscape mode,open,2023-06-11T15:27:32Z,,bug
+OpenSeizureDetector/Android_Pebble_SD,95,V4.1.6 - spurious FAULT indication after heart rate measurement restored,closed,2023-06-11T15:23:59Z,2023-06-11T19:30:51Z,bug
+OpenSeizureDetector/Android_Pebble_SD,93,V4.1.5 - Export Data screen Displayed Incorrectly,closed,2023-06-10T05:03:01Z,2023-06-10T18:57:22Z,bug
+OpenSeizureDetector/Android_Pebble_SD,88,Crash null serviceLiveData,open,2023-06-05T20:38:59Z,,bug
+OpenSeizureDetector/Android_Pebble_SD,80,Pending Intent Error,closed,2023-05-31T17:15:07Z,2023-06-04T20:14:06Z,bug
+OpenSeizureDetector/Android_Pebble_SD,75,Android Versions <10 get stuck in start-up screen when SMS alarms enabled,closed,2023-02-04T20:17:06Z,2023-06-11T20:16:31Z,bug
+OpenSeizureDetector/Android_Pebble_SD,74,Crash of V4.1.x if Google Play Services not available,closed,2023-01-22T14:18:10Z,2023-06-04T20:15:56Z,bug
+OpenSeizureDetector/Android_Pebble_SD,73,Crash on Kindle Fire when Alarm Generated,closed,2023-01-22T14:16:08Z,2023-06-04T20:13:21Z,bug
+OpenSeizureDetector/Android_Pebble_SD,62,Data Log Manager Refresh,closed,2022-08-06T15:59:29Z,2022-08-06T20:34:08Z,bug
+OpenSeizureDetector/Android_Pebble_SD,61,Crash when closing data log manager,closed,2022-08-05T20:33:47Z,2022-08-06T20:32:59Z,bug
+OpenSeizureDetector/Android_Pebble_SD,60,User Reported Crash - appears to be selecting BLE Data Source with bluetooth permission not granted,closed,2022-06-28T19:42:22Z,2023-07-22T20:59:50Z,bug
+OpenSeizureDetector/Android_Pebble_SD,58,The Unvalidated Events notification does not clear automatically,closed,2022-05-28T21:40:49Z,2022-08-06T20:34:34Z,bug
+OpenSeizureDetector/Android_Pebble_SD,57,V4.0.4 Crash when reporting seizure,closed,2022-05-23T20:42:56Z,2022-05-28T21:39:40Z,bug
+OpenSeizureDetector/Android_Pebble_SD,54,4.0.4b - Server crash when removing permissions in phone settings,closed,2022-04-13T20:29:54Z,2023-06-13T19:55:19Z,bug
+OpenSeizureDetector/Android_Pebble_SD,53,V4.0.4b - Hang on start-up screen,closed,2022-04-13T19:58:32Z,2022-08-06T20:35:32Z,bug
+OpenSeizureDetector/Android_Pebble_SD,52,Version 4.x sometimes uploads a large number of events,closed,2022-04-10T21:52:30Z,2022-08-06T20:38:21Z,bug
+OpenSeizureDetector/Android_Pebble_SD,48,Crash using 'Report Seizure' function,closed,2022-03-13T22:56:16Z,2022-03-24T20:54:06Z,bug
+OpenSeizureDetector/Android_Pebble_SD,47,Version 4.0.0 Sometimes uploads duplicate events,closed,2022-03-13T18:28:37Z,2022-08-06T20:36:31Z,bug
+OpenSeizureDetector/Android_Pebble_SD,43,Crash because of network error?,closed,2022-03-05T13:47:02Z,2022-03-05T20:23:56Z,bug
+OpenSeizureDetector/Android_Pebble_SD,40,Crash from graph drawing library,closed,2022-03-04T09:08:38Z,2023-06-04T20:17:15Z,bug
+OpenSeizureDetector/Android_Pebble_SD,37,Events are always labelled as WARNING even if they contain an ALARM state,closed,2022-03-01T17:30:05Z,2022-03-10T20:44:58Z,bug
+OpenSeizureDetector/Android_Pebble_SD,27,Sometimes background service will not shutdown,closed,2022-02-23T19:46:51Z,2023-06-04T20:19:04Z,bug
+OpenSeizureDetector/Android_Pebble_SD,22,Fall detection doesn't seem to work at all,closed,2021-03-12T20:29:52Z,2023-12-21T17:53:53Z,bug
+OpenSeizureDetector/Android_Pebble_SD,9,Sometimes crashes with error during re-start,closed,2016-04-23T17:47:15Z,2022-02-23T19:54:56Z,bug
+OpenSeizureDetector/Android_Pebble_SD,7,Shows 'Watch Not Connected' when using Pebble Time,closed,2016-01-16T19:20:06Z,2016-01-16T19:25:49Z,bug
+OpenSeizureDetector/Android_Pebble_SD,6,"App crashes with a ""...has stopped"" error message when shutting down server.",closed,2015-12-07T20:26:37Z,2016-01-16T19:37:24Z,bug
+OpenSeizureDetector/Android_Pebble_SD,5,Fault alarm not raised on client device if watch battery runs out,closed,2015-12-07T20:24:32Z,2016-04-02T20:38:48Z,bug
+OpenSeizureDetector/Android_Pebble_SD,1,Difficult to Stop Server,closed,2015-11-14T23:31:34Z,2016-01-16T19:36:35Z,bug
+jklmnn/ParkenDD,51,The forecast button causes the app to crash when it is lunched ,open,2018-05-13T15:55:40Z,,bug
+jklmnn/ParkenDD,43,Crash on map button click,closed,2017-05-24T13:12:57Z,2017-07-06T17:46:50Z,bug
+jklmnn/ParkenDD,38,Crash on search.,closed,2017-01-21T19:59:30Z,2017-01-24T11:39:26Z,bug
+jklmnn/ParkenDD,37,Update city locations/distances,closed,2017-01-06T10:57:52Z,2017-01-19T15:04:42Z,bug
+jklmnn/ParkenDD,34,Fix missing translations.,closed,2016-03-04T14:03:07Z,2016-03-24T12:35:16Z,bug
+jklmnn/ParkenDD,33,Date doesn't change in forecast.,closed,2015-12-17T13:45:21Z,2016-03-02T23:04:53Z,bug
+jklmnn/ParkenDD,19,Fehlermeldung ohne Fehler,closed,2015-06-18T09:39:32Z,2015-06-18T18:08:38Z,bug
+BenoitDuffez/AndroidCupsPrint,130,MdnsServices.kt line 99,closed,2018-10-28T10:09:40Z,2018-11-29T19:43:04Z,"bug, Crashlytics"
+BenoitDuffez/AndroidCupsPrint,115,jobName not initialized,closed,2018-09-16T15:35:25Z,2018-09-20T19:25:00Z,"bug, Crashlytics"
+BenoitDuffez/AndroidCupsPrint,112,HTTP basic auth not detected properly,closed,2018-09-12T11:41:00Z,2018-09-20T19:01:37Z,"bug, Crashlytics"
+BenoitDuffez/AndroidCupsPrint,108,TextView.java line 10688,closed,2018-09-02T10:06:52Z,2018-09-06T22:53:10Z,"bug, unclear, Crashlytics"
+BenoitDuffez/AndroidCupsPrint,102,Issues Printing,closed,2018-04-20T21:33:23Z,2018-09-27T19:52:01Z,"bug, unclear"
+BenoitDuffez/AndroidCupsPrint,101,TextView.java line 9404,closed,2018-04-05T13:40:23Z,2018-09-06T22:39:07Z,"bug, unclear"
+BenoitDuffez/AndroidCupsPrint,100,IppOperation.java line 77,closed,2018-03-25T13:39:21Z,2018-09-06T22:39:42Z,"bug, unclear, Crashlytics"
+BenoitDuffez/AndroidCupsPrint,99,ActivityThread.java line 2373,closed,2018-03-05T17:58:59Z,2018-09-06T22:40:01Z,"bug, unclear, Crashlytics"
+BenoitDuffez/AndroidCupsPrint,98,CupsService.java line 139,closed,2018-02-22T20:47:08Z,2018-09-06T22:40:17Z,"bug, unclear, Crashlytics"
+BenoitDuffez/AndroidCupsPrint,96,CupsPrinterDiscoverySession.java line 206,closed,2018-01-24T04:08:27Z,2018-09-06T22:41:13Z,"bug, unclear, Crashlytics"
+BenoitDuffez/AndroidCupsPrint,95,TextView.java line 9774,closed,2018-01-09T18:50:07Z,2018-09-06T22:41:29Z,"bug, unclear, Crashlytics"
+BenoitDuffez/AndroidCupsPrint,94,MdnsServices.java line 116,closed,2017-12-13T15:30:08Z,2018-09-06T22:41:42Z,"bug, unclear, Crashlytics"
+BenoitDuffez/AndroidCupsPrint,93,CupsPrinterDiscoverySession.java line 445,closed,2017-11-17T05:19:23Z,2018-09-06T22:41:58Z,"bug, unclear, Crashlytics"
+BenoitDuffez/AndroidCupsPrint,92,"Can't print: ""invalid argument""",open,2017-11-01T15:03:38Z,,"bug, help wanted, unclear"
+BenoitDuffez/AndroidCupsPrint,90,ManageManualPrintersActivity.java line 58,closed,2017-10-08T08:40:41Z,2018-09-06T23:48:52Z,"bug, Crashlytics"
+BenoitDuffez/AndroidCupsPrint,89,Autodetect doesn't allow text hostname,closed,2017-09-29T15:13:33Z,2018-09-06T23:48:53Z,bug
+BenoitDuffez/AndroidCupsPrint,88,TextView.java,closed,2017-09-09T10:01:42Z,2018-09-06T22:44:37Z,"bug, unclear, Crashlytics"
+BenoitDuffez/AndroidCupsPrint,86,L.java line 58,closed,2017-08-08T04:03:44Z,2018-09-06T22:53:30Z,"bug, unclear, Crashlytics"
+BenoitDuffez/AndroidCupsPrint,84,Auto discovery creates wrong device urls,closed,2017-08-03T21:23:28Z,2018-09-06T23:48:52Z,bug
+BenoitDuffez/AndroidCupsPrint,83,ViewRootImpl.java line 890,closed,2017-07-25T20:10:50Z,2018-09-06T23:13:26Z,"bug, unclear, Crashlytics"
+BenoitDuffez/AndroidCupsPrint,82,CupsPrinterDiscoverySession.java line 203,closed,2017-07-22T16:23:29Z,2018-09-06T23:48:52Z,"bug, Crashlytics"
+BenoitDuffez/AndroidCupsPrint,73,IllegalStateException: No default media size specified,open,2017-04-29T13:07:24Z,,"bug, help wanted, Crashlytics"
+BenoitDuffez/AndroidCupsPrint,72,MdnsServices.java line 82,closed,2017-04-26T23:10:49Z,2018-09-27T19:47:41Z,"bug, help wanted, unclear, Crashlytics"
+BenoitDuffez/AndroidCupsPrint,71,L.java line 58,closed,2017-04-26T17:15:30Z,2018-09-06T22:44:56Z,"bug, unclear, Crashlytics"
+BenoitDuffez/AndroidCupsPrint,70,IppOperation.java line 230,closed,2017-04-25T20:35:43Z,2018-09-06T22:49:24Z,"bug, help wanted, unclear, Crashlytics"
+BenoitDuffez/AndroidCupsPrint,67,CupsPrinterDiscoverySession.java line 441,closed,2017-04-16T09:18:52Z,2017-04-18T08:05:39Z,bug
+BenoitDuffez/AndroidCupsPrint,65,CupsClient.java line 192,closed,2017-04-14T09:57:08Z,2018-09-06T23:36:03Z,"bug, Crashlytics"
+BenoitDuffez/AndroidCupsPrint,63,"Can't enter actual hostname, just IP address",closed,2017-04-13T20:50:37Z,2018-09-27T19:55:33Z,"bug, enhancement"
+BenoitDuffez/AndroidCupsPrint,38,Only work the first time after installation,closed,2017-01-12T18:13:04Z,2017-02-09T13:43:31Z,bug
+BenoitDuffez/AndroidCupsPrint,37,CupsGetPrintersOperation.java line 59,closed,2017-01-12T14:43:15Z,2017-04-12T22:31:36Z,bug
+BenoitDuffez/AndroidCupsPrint,28,Notification stays forever,open,2017-01-01T23:42:08Z,,"bug, help wanted"
+BenoitDuffez/AndroidCupsPrint,27,Doesn't show all printers on a server,closed,2016-12-11T14:41:44Z,2017-03-19T00:08:59Z,bug
+BenoitDuffez/AndroidCupsPrint,25,It doesn't work with Samsung SCX-3400 + Archlinux + CM13,closed,2016-11-21T16:58:16Z,2017-03-19T08:55:10Z,bug
+BenoitDuffez/AndroidCupsPrint,14,86acef4 seems to make application crash on mdns query,closed,2016-03-01T22:51:05Z,2017-01-24T21:40:51Z,bug
+BenoitDuffez/AndroidCupsPrint,6,"Printer is detected and shown, but then ""currently not availble"" in print dialog",closed,2016-02-09T13:27:34Z,2016-07-19T13:03:42Z,bug
+za419/Android-calculator,35,Calculations in progress do not persist through configuration change,open,2016-08-02T07:01:09Z,,"bug, enhancement, Medium Priority"
+za419/Android-calculator,33,Fix RTL support,open,2016-07-25T01:57:28Z,,"bug, enhancement, Low Priority"
+za419/Android-calculator,29,Complex branch: e and pi are not recognized in certain numbers,closed,2016-07-21T04:27:19Z,2016-07-23T09:53:30Z,"bug, Critical Priority"
+za419/Android-calculator,23,Complex branch: Landscape layout doesn't behave ,closed,2016-07-11T06:58:51Z,2016-07-11T07:25:20Z,"bug, enhancement, Medium Priority, Code Management"
+za419/Android-calculator,22,Complex branch: Cube root button doesn't work,closed,2016-07-11T06:56:10Z,2016-07-11T07:12:00Z,"bug, Medium Priority"
+za419/Android-calculator,21,Complex branch: exponentiation for complex powers is incorrect,closed,2016-07-11T04:02:25Z,2016-07-11T06:49:55Z,"bug, Medium Priority"
+za419/Android-calculator,19,Complex branch: arctan produces incorrect results,closed,2016-07-11T02:32:30Z,2016-07-11T03:02:14Z,bug
+za419/Android-calculator,18,Complex branch: arccos produces incorrect results,closed,2016-07-11T02:30:05Z,2016-07-11T03:02:44Z,bug
+za419/Android-calculator,17,Complex branch: Results seem to 'accumulate' in memory,closed,2016-07-09T03:24:24Z,2016-07-11T05:12:43Z,"bug, High Priority"
+za419/Android-calculator,16,Complex branch: 1.0i sometimes appears in results,closed,2016-07-09T03:20:26Z,2016-07-09T05:19:37Z,"bug, enhancement"
+za419/Android-calculator,15,Complex branch: Multiply and divide sometimes don't work with imaginaries,closed,2016-07-09T03:14:16Z,2016-07-09T05:18:55Z,bug
+za419/Android-calculator,14,Prime? results cause crashes if used as numbers,closed,2016-01-25T00:55:46Z,2016-01-25T01:06:07Z,"bug, crash"
+za419/Android-calculator,12,Calculate button does not disappear ,closed,2015-12-27T11:01:34Z,2015-12-29T02:57:53Z,bug
+za419/Android-calculator,11,Display on TVs looks awful,open,2015-12-25T09:41:30Z,,"bug, enhancement, Medium Priority"
+za419/Android-calculator,9,Fix text selection ,open,2015-12-25T02:05:40Z,,"bug, enhancement, Low Priority"
+za419/Android-calculator,4,Constant display does not behave with negative numbers,closed,2015-12-09T21:32:36Z,2015-12-10T08:40:54Z,"bug, enhancement"
+za419/Android-calculator,1,Complex branch does not currently use complex,closed,2015-11-29T04:51:48Z,2016-07-08T06:32:37Z,"bug, feature"
+gentlecat/counter,150,Edit dialog doesn't allow entering negative values,closed,2025-01-04T21:48:47Z,2025-01-04T21:53:52Z,bug
+gentlecat/counter,97,Theme and UI enhancements,closed,2020-09-27T01:06:58Z,2025-01-02T06:37:40Z,"bug, new feature"
+gentlecat/counter,96,Tap space around value to increment,closed,2020-09-20T05:00:41Z,2023-08-27T04:54:41Z,bug
+gentlecat/counter,73,Bug: The app's sound does not work properly,open,2019-04-09T00:13:16Z,,bug
+gentlecat/counter,70,Counter editor doesn't have proper limits for values,closed,2019-03-13T02:55:03Z,2020-05-08T05:53:38Z,bug
+gentlecat/counter,43,Counter hardly visible on dark theme with landscape orientation,closed,2017-04-30T18:06:32Z,2017-10-22T01:22:21Z,bug
+gentlecat/counter,27,Back button is not working properly,closed,2013-12-13T05:44:33Z,2013-12-13T07:26:19Z,bug
+gentlecat/counter,21,Layout of a counter is not displayed properly with action bar and navigation drawer,closed,2013-09-27T13:45:26Z,2013-10-25T13:34:20Z,bug
+gentlecat/counter,20,Title is not set properly after counter is selected,closed,2013-09-27T13:43:06Z,2013-11-09T14:55:18Z,bug
+gentlecat/counter,14,Counter value is barely visible on xlarge screens,closed,2013-03-30T14:30:54Z,2013-03-30T15:21:50Z,bug
+gentlecat/counter,13,add counter - no highlight,closed,2013-03-29T17:25:53Z,2016-11-02T03:44:21Z,bug
+gentlecat/counter,12,Wrong text color in AlertDialog on older devices,closed,2013-03-29T11:54:20Z,2017-10-22T01:37:14Z,bug
+gentlecat/counter,11,Counter removal feature is not working properly,closed,2013-03-25T19:58:40Z,2013-03-25T20:46:17Z,bug
+gentlecat/counter,10,TextView with value disappears after edits,closed,2013-03-23T12:56:44Z,2013-03-29T09:06:57Z,bug
+gentlecat/counter,3,Numbers with more than 3 characters are not properly displayed,closed,2012-03-05T06:19:03Z,2012-03-08T00:53:35Z,bug
+gentlecat/counter,1,"Counter label is invisible in ""Dark"" theme",closed,2012-02-11T05:31:07Z,2012-03-08T21:05:37Z,bug
+JaySoyer/Advanced-Adapters,57,PatchedExpandableListAdapter - ListView instance change will result in click listeners breaking,closed,2015-03-24T20:18:13Z,2015-04-02T00:47:09Z,bug
+JaySoyer/Advanced-Adapters,55,Synchronize Filter's publishResults,closed,2015-02-15T00:40:32Z,2015-02-15T00:41:41Z,bug
+JaySoyer/Advanced-Adapters,54,"CAB ""Selected"" text not localized",closed,2015-01-25T17:49:41Z,2015-02-21T14:06:51Z,bug
+JaySoyer/Advanced-Adapters,52,Gradle related settings,closed,2015-01-03T11:08:22Z,2015-01-05T19:52:33Z,bug
+JaySoyer/Advanced-Adapters,50,Clarify List vs Array Instantiation For Array Based Adapters,closed,2014-12-04T01:01:52Z,2015-02-15T00:55:43Z,bug
+JaySoyer/Advanced-Adapters,48,Crash - Rolodex Invalidating Data with Stable IDs,closed,2014-11-30T19:58:30Z,2014-12-04T01:50:19Z,bug
+JaySoyer/Advanced-Adapters,23,"Objects or Items, Code Naming Inconsistency",closed,2014-07-20T03:00:43Z,2014-08-09T15:27:46Z,bug
+JaySoyer/Advanced-Adapters,12,Fix ICS Styling Issues,closed,2014-06-29T20:03:10Z,2014-06-29T20:41:35Z,bug
+elman22/pocket-amc-reader,17,Resume crash #3,closed,2016-04-24T15:21:30Z,2017-05-17T19:45:49Z,bug
+elman22/pocket-amc-reader,15,"When changing catalog in settings, app restart is not forced",closed,2016-04-23T14:47:40Z,2017-04-27T12:34:50Z,bug
+elman22/pocket-amc-reader,13,Resume crash #2,closed,2016-01-16T15:16:35Z,2017-05-17T19:46:25Z,bug
+elman22/pocket-amc-reader,12,Resume crash,closed,2016-01-16T15:15:33Z,2016-04-24T15:18:57Z,bug
+elman22/pocket-amc-reader,11,"No pressed state on listview, need to add one",closed,2016-01-16T14:49:00Z,2017-04-27T13:46:00Z,bug
+elman22/pocket-amc-reader,10,Import and settings activities don't use global font,closed,2016-01-16T13:33:55Z,2017-04-27T12:31:26Z,bug
+elman22/pocket-amc-reader,8,Update all icons,closed,2016-01-04T22:41:17Z,2017-06-27T19:02:28Z,bug
+elman22/pocket-amc-reader,5,"When in picutre view, clicking back in Action Bar returns to wrong parent",closed,2016-01-04T22:38:12Z,2016-04-24T14:53:17Z,bug
+elman22/pocket-amc-reader,1,Reinitialization of ImageLoader when rotating device,open,2015-12-06T15:31:59Z,,bug
+sbhs-forkbombers/sbhs-timetable-android,17,"Bugs, everywhere!",closed,2015-01-28T06:07:40Z,2015-01-29T12:27:15Z,"bug, enhancement, blocker"
+sbhs-forkbombers/sbhs-timetable-android,15,The day it shows in TimetableFragment is still off by one,closed,2014-11-27T22:54:44Z,2015-01-28T06:08:30Z,bug
+sbhs-forkbombers/sbhs-timetable-android,6,Timer flashes every time it updates,closed,2014-09-22T12:33:08Z,2014-09-23T08:15:52Z,bug
+sbhs-forkbombers/sbhs-timetable-android,5,Friday Morning,closed,2014-09-11T23:58:42Z,2014-09-23T08:18:25Z,"bug, blocker"
+sbhs-forkbombers/sbhs-timetable-android,3,Login dialog requires two visits,closed,2014-09-07T10:15:39Z,2014-09-09T08:28:59Z,"bug, help wanted"
+tranquvis/SimpleSmsRemote,42,Hotspot/WiFi module not working on Android 10.,open,2020-07-26T17:59:37Z,,bug
+tranquvis/SimpleSmsRemote,41,Broad cast reciever not responding ,open,2020-06-25T17:14:11Z,,bug
+tranquvis/SimpleSmsRemote,40,Failed to send command execution reply to sender,closed,2020-05-01T15:28:28Z,2021-04-02T08:57:18Z,bug
+tranquvis/SimpleSmsRemote,38,Error on startup,open,2019-10-22T08:20:15Z,,bug
+tranquvis/SimpleSmsRemote,32,"Bug Cannot enter text in ""Granted phone"" field",open,2019-03-30T22:45:07Z,,bug
+tranquvis/SimpleSmsRemote,26,"Bug In ""Simple SMS Remote"" App(Button are not working after take tour)",closed,2018-04-01T09:33:33Z,2018-04-13T17:06:01Z,bug
+tranquvis/SimpleSmsRemote,24,Bug Found in Simple SMS Remote app (Ok button are not showing),closed,2018-03-21T13:21:50Z,2018-04-13T17:06:01Z,bug
+davidgraeff/Android-NetPowerctrl,90,Art Absturz von acra,closed,2014-11-19T23:07:33Z,2014-11-21T09:28:03Z,bug
+davidgraeff/Android-NetPowerctrl,16,Log für widget Aktivitäten + Widget updates,closed,2014-07-11T01:26:25Z,2014-08-28T00:42:56Z,bug
+davidgraeff/Android-NetPowerctrl,15,HTTP Energiesparmodus,closed,2014-06-19T00:05:05Z,2014-08-21T21:24:16Z,bug
+davidgraeff/Android-NetPowerctrl,14,NullPointerException in NeighbourFragment,closed,2014-05-13T10:42:14Z,2014-05-16T14:00:18Z,bug
+Universav/UniversavPoke,14,[CSS] First li dot isn't shown,open,2016-08-01T00:49:26Z,,bug
+Dimezis/BlurView,242,Scale and rotation animation is broken,open,2025-08-03T20:28:24Z,,bug
+Dimezis/BlurView,178,Wrong activity background blurring effect,closed,2022-05-17T04:36:28Z,2024-11-18T16:23:38Z,bug
+Dimezis/BlurView,128,Rounding issue in setupInternalCanvasMatrix(),closed,2020-11-06T17:13:41Z,2022-04-03T18:35:03Z,bug
+Dimezis/BlurView,36,Disabling blur auto update is overridden by BlurView after layout,closed,2017-02-05T14:15:19Z,2017-02-20T23:26:32Z,bug
+Dimezis/BlurView,22,"Crash, Fatal Exception: java.lang.ArrayIndexOutOfBoundsException",closed,2016-08-02T10:53:28Z,2016-09-01T20:14:14Z,bug
+Dimezis/BlurView,17,There is an offset at the boundray between blured part an un-blured part [see screenshots],closed,2016-07-02T08:37:53Z,2016-07-11T17:34:09Z,bug
+Dimezis/BlurView,16,NullPointerException on a BlurView previously shown,closed,2016-06-29T22:09:04Z,2016-06-30T19:43:29Z,bug
+Dimezis/BlurView,15,Drawing not stopped when used in RecyclerView,closed,2016-06-28T10:24:31Z,2016-06-30T19:59:53Z,bug
+Dimezis/BlurView,14,RenderScript visual artifacts when setting up BlurView in postDelayed(),closed,2016-06-27T17:28:55Z,2016-09-01T20:35:14Z,bug
+Dimezis/BlurView,11,NullPointerException ,closed,2016-06-24T15:19:58Z,2016-07-03T18:08:59Z,bug
+Sigimera/sigimera-android-app,14,Remove the crisis details button,closed,2013-01-26T22:51:37Z,2013-12-21T13:32:34Z,bug
+Sigimera/sigimera-android-app,12,Crises list not showing all the near crises,open,2013-01-18T23:15:22Z,,"bug, ready"
+Sigimera/sigimera-android-app,11,The nearest crisis show incorrect info when radius is enable,closed,2013-01-18T23:14:06Z,2013-01-26T22:49:34Z,bug
+kiruto/debug-bottle,4,Can't monitor OkHttp3,closed,2016-10-19T09:15:09Z,2016-11-14T07:29:47Z,bug
+yassirh/digitalocean-swimmer,59,Error 500 on yassirh.com when trying to add new account. ,closed,2016-03-30T03:38:46Z,2016-03-30T11:49:02Z,bug
+yassirh/digitalocean-swimmer,32,Refreshing droplets causes force close,open,2015-01-20T08:03:36Z,,bug
+yassirh/digitalocean-swimmer,19,Droplets is not listed,closed,2014-10-19T01:30:40Z,2014-10-21T21:52:04Z,bug
+yassirh/digitalocean-swimmer,10,Access denied,closed,2014-06-07T16:05:58Z,2014-10-04T13:29:00Z,bug
+yassirh/digitalocean-swimmer,7,Long record names hide data and add lots of extra whitespace,closed,2014-05-15T04:37:36Z,2014-05-22T21:23:41Z,bug
+yassirh/digitalocean-swimmer,5,Access Denied,closed,2014-05-10T09:36:22Z,2014-06-07T23:35:23Z,bug
+souch/SMP,47,"No file listing when set ""Root folders"" to ""/"" ?",open,2018-06-04T17:41:17Z,,bug
+souch/SMP,34,"Media ""Play"" doesn't work when ""Save song position"" is enabled",open,2018-01-17T09:04:59Z,,bug
+souch/SMP,31,"Media Pause does not update notification area when SicMu is in background, shows as still playing",closed,2018-01-08T15:44:49Z,2018-01-27T22:27:46Z,bug
+souch/SMP,30,Anecdotal: Android battery usage tracking claims SicMu is using a lot of battery,closed,2018-01-08T10:27:27Z,2018-01-27T21:47:45Z,bug
+souch/SMP,23,Buggy sound at beggining of track on LineageOS 14.1 based on 7.1.2,open,2017-08-13T07:21:45Z,,bug
+souch/SMP,22,available on F-Droid?,closed,2017-06-16T19:35:39Z,2017-06-22T21:07:59Z,bug
+souch/SMP,14,randomly takes long time to play next shuffle track,open,2015-09-21T22:39:41Z,,bug
+souch/SMP,1,error on start,closed,2015-02-23T15:31:31Z,2015-02-23T18:58:34Z,bug
+WikiJourney/wikijourney_app,92,Empty popups ?,open,2016-06-11T20:28:46Z,,bug
+WikiJourney/wikijourney_app,37,Some layouts are not adapted to bigger screens,closed,2015-08-26T13:33:39Z,2015-12-29T13:17:28Z,bug
+WikiJourney/wikijourney_app,29,Title in the InfoWindow of the starter marker isn't showing,open,2015-07-28T17:10:53Z,,bug
+WikiJourney/wikijourney_app,11,Pressing the back button doesn't remove previous Fragments,open,2015-07-22T12:02:03Z,,bug

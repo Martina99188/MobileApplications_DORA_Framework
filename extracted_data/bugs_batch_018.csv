@@ -1,0 +1,304 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+PietsmietApp/pietsmiet_android,92,Fix failing tests,closed,2017-05-17T16:28:57Z,2017-05-21T00:04:25Z,bug
+PietsmietApp/pietsmiet_android,90,YT-posts duplicates,closed,2017-05-06T23:40:13Z,2017-05-07T12:16:40Z,bug
+PietsmietApp/pietsmiet_android,85,SqlException & OKHttpException - Opened too many files,closed,2017-05-02T07:24:49Z,2017-05-04T09:23:41Z,bug
+PietsmietApp/pietsmiet_android,84,Move to youtube playlist api endpoint because of loading inconsistencies,open,2017-05-01T21:34:01Z,,bug
+PietsmietApp/pietsmiet_android,82,NullPointerException in updateCurrentPosts,closed,2017-05-01T21:31:43Z,2017-05-06T12:11:42Z,bug
+PietsmietApp/pietsmiet_android,81,Prevent OutOfMemoryError ,closed,2017-05-01T21:30:34Z,2017-07-31T14:02:38Z,"bug, waiting"
+PietsmietApp/pietsmiet_android,65,Adapter bug: associates images wrong,closed,2017-04-21T23:59:13Z,2017-04-22T12:27:41Z,bug
+PietsmietApp/pietsmiet_android,32,Das Laden nach App verlassen beenden | RxJava,closed,2016-12-05T15:08:01Z,2017-04-18T18:13:49Z,bug
+PietsmietApp/pietsmiet_android,28,Bilder bei Twitter werden nicht immer angezeigt ,closed,2016-11-26T19:48:14Z,2016-11-27T13:34:31Z,bug
+PietsmietApp/pietsmiet_android,22,[BUG] Datum verschwindet,closed,2016-11-20T20:10:59Z,2016-11-22T16:16:33Z,bug
+donglua/PhotoPicker,180,Two issues needs to be fixed asap,open,2017-02-21T06:09:29Z,,bug
+donglua/PhotoPicker,60,查看图片问题,closed,2016-02-26T00:16:00Z,2016-04-24T14:58:21Z,bug
+donglua/PhotoPicker,21,two bugs,closed,2015-07-27T03:02:01Z,2015-07-27T08:12:29Z,bug
+donglua/PhotoPicker,19,Folder chooser,closed,2015-07-24T06:36:48Z,2015-07-28T01:35:46Z,bug
+donglua/PhotoPicker,15,怎么移植到eclipse中？,closed,2015-07-20T01:09:07Z,2015-07-27T14:20:01Z,"bug, question"
+nickfox/GpsTracker,60,Javascipt does not refresh drop down combo box contents,open,2016-05-30T01:17:50Z,,bug
+nickfox/GpsTracker,57,Update Adroid app to use latest gradle,closed,2016-05-27T21:51:09Z,2016-05-30T23:19:43Z,bug
+nickfox/GpsTracker,47,1 minute setting not working right,open,2016-05-11T15:45:32Z,,bug
+nickfox/GpsTracker,35,Wrong time interval on server,open,2015-11-09T09:57:44Z,,bug
+makovkastar/FloatingActionButton,41,Inconsistent view when a transparent background color is used ,open,2014-11-01T17:42:43Z,,bug
+makovkastar/FloatingActionButton,39,Can't use circular reveal on FAB,closed,2014-10-28T03:19:54Z,2014-12-03T18:32:02Z,bug
+makovkastar/FloatingActionButton,25,Appears beneath the empty view,open,2014-10-02T15:48:00Z,,bug
+daquexian/chaoli-forum-for-android-2,4,Crash on answering some specific questions,closed,2017-01-02T03:51:08Z,2017-01-16T16:16:46Z,bug
+daquexian/chaoli-forum-for-android-2,3,Crash on posting without logging in,closed,2017-01-02T03:47:38Z,2017-01-02T09:26:31Z,bug
+PrivacyApps/calendar-import-export,45,Hang when trying to back out of Export filename dialog,closed,2016-05-25T10:03:49Z,2016-05-26T09:13:18Z,bug
+PrivacyApps/calendar-import-export,43,no such column: deleted on Android 2.2/2.3,closed,2016-05-21T14:18:26Z,2016-05-25T04:39:58Z,bug
+PrivacyApps/calendar-import-export,42,NullPointerException from getDateTime during export,closed,2016-05-20T00:33:11Z,2016-05-23T12:28:40Z,bug
+PrivacyApps/calendar-import-export,33,NullPointerException when writing data to file,closed,2016-01-07T18:47:47Z,2016-05-20T06:33:41Z,bug
+PrivacyApps/calendar-import-export,11,TimeZoneRegistryImpl NullPointerException,closed,2013-08-10T17:22:15Z,2015-09-07T10:35:55Z,bug
+PrivacyApps/calendar-import-export,4,Imported bug: Umlauts are shown as �,closed,2013-04-20T19:14:04Z,2015-09-08T06:19:19Z,bug
+Sloy/SeviBus,36,Update database not working in some cases due to ClassCastException,open,2017-06-12T13:47:07Z,,bug
+Sloy/SeviBus,20,Bus location is not received,open,2016-05-25T07:28:51Z,,bug
+daniel-stoneuk/material-about-library,107,Icons show up as black boxes in 3.1.2 but not 2.4.2 MaterialAboutActionItem Builder,open,2020-07-10T19:46:56Z,,"bug, awaiting confirmation"
+daniel-stoneuk/material-about-library,102,AboutFragment: FATAL EXCEPTION,closed,2020-02-29T14:23:12Z,2020-04-20T08:31:47Z,bug
+daniel-stoneuk/material-about-library,89,Issue with LTR text on RTL devices,open,2018-11-06T18:37:04Z,,bug
+daniel-stoneuk/material-about-library,28,Disable sound effects on items that has no onClick action,closed,2017-01-20T09:49:28Z,2017-01-20T18:01:54Z,bug
+daniel-stoneuk/material-about-library,12,android.permission.CALL_PHONE,closed,2017-01-09T14:45:18Z,2017-01-09T15:13:51Z,bug
+RefugeRestrooms/refugerestrooms-android,53,Cannot search a location (Android),closed,2017-07-07T21:33:21Z,2017-08-25T22:15:16Z,bug
+JohnPersano/SuperToasts,88,I've got an error from android Kitkat 4.4.4,open,2016-09-01T08:07:19Z,,bug
+JohnPersano/SuperToasts,58,can't show SuperToasts from BroadcastReceiver on lock screen,open,2014-11-07T18:00:34Z,,bug
+JohnPersano/SuperToasts,45,SuperActivityToast now showing (and not clickable) occasionally ?,closed,2014-07-12T07:43:12Z,2016-07-17T22:57:04Z,bug
+JohnPersano/SuperToasts,18,Button listeners buggy on devices API > 11 when trying to save state,closed,2014-01-10T20:32:26Z,2014-02-09T21:14:28Z,bug
+JohnPersano/SuperToasts,16,SuperActivityToast/SuperCardToast crash onSaveInstanceState.,closed,2013-12-19T20:11:42Z,2013-12-28T20:04:06Z,bug
+Tyde/TuCanMobile,72,"""Login Fehlerhaft"" bei Angabe korrekter Login-Daten",closed,2015-11-03T09:15:50Z,2016-02-13T10:47:23Z,bug
+Tyde/TuCanMobile,67,RuntimeException bei SimpleSecureBrowser,closed,2014-11-21T10:18:38Z,2014-11-21T12:28:24Z,"bug, priority-high"
+Tyde/TuCanMobile,52,Bewerbungsmodus erkennen und handlen,open,2013-08-21T14:47:52Z,,bug
+Tyde/TuCanMobile,51,Bei screen rotation in login activity crash,closed,2013-01-17T09:22:42Z,2013-08-21T20:49:11Z,"bug, priority-high"
+Tyde/TuCanMobile,50,Nach Logout kann wieder per Back button auf Das Hauptmenu zugegriffen werden,closed,2012-07-01T10:43:03Z,2014-11-19T23:46:01Z,"bug, priority-medium"
+Tyde/TuCanMobile,48,NullPointer bei RegisterExams.java:98,closed,2012-06-01T12:20:03Z,2014-11-21T12:57:09Z,"bug, priority-medium"
+Tyde/TuCanMobile,47,NullPointer bei RegisterExams.java:170,closed,2012-06-01T12:18:32Z,2012-06-02T21:39:00Z,"bug, priority-medium"
+Tyde/TuCanMobile,46,Error at casting linkedlist to jsoup.node,closed,2012-06-01T12:12:22Z,2013-08-21T14:48:50Z,"bug, priority-low"
+Tyde/TuCanMobile,45,NullPointer bei Messages:113,closed,2011-12-13T12:24:39Z,2014-11-21T12:57:28Z,"bug, priority-medium"
+Tyde/TuCanMobile,43,VV:120 Bug bei Leerer liste,closed,2011-11-19T10:09:55Z,2011-11-19T10:20:36Z,"bug, priority-high"
+Tyde/TuCanMobile,42,Crash bei anderer Materialanordnung,closed,2011-11-15T14:52:14Z,2011-11-15T14:52:39Z,"bug, priority-high"
+Tyde/TuCanMobile,41,MainMenu:249 ArrayIndexOutOfBoundsException,closed,2011-11-09T21:50:02Z,2011-11-19T10:35:16Z,"bug, priority-high"
+Tyde/TuCanMobile,38,TucanMobileActivity versucht schnell-login Methode bei abgelaufener session ,closed,2011-11-07T15:45:39Z,2012-05-26T10:45:14Z,"bug, priority-low"
+Tyde/TuCanMobile,37,Spinner verliert beim drehen die values. ,closed,2011-11-07T15:43:41Z,2014-11-21T12:59:35Z,"bug, priority-medium"
+Tyde/TuCanMobile,33,Crash bei MainMenu bei keiner Veranstaltung und <1 Messages,closed,2011-11-03T16:18:42Z,2011-11-03T16:21:17Z,"bug, priority-high"
+Tyde/TuCanMobile,31,crash bei orientaion wechsel während des Ladevorgangs,closed,2011-11-01T13:39:30Z,2011-11-03T16:19:44Z,"bug, priority-high"
+Tyde/TuCanMobile,30,login fehlerhaft bei android 2.1,closed,2011-10-31T17:12:14Z,2011-10-31T20:52:56Z,"bug, priority-critical"
+Tyde/TuCanMobile,29,crash bei onresume bei session timeout bei einigen activities ,closed,2011-10-31T17:09:57Z,2011-10-31T20:56:55Z,"bug, priority-high"
+Tyde/TuCanMobile,28,java.lang.ArrayIndexOutOfBoundsException in Schedule,closed,2011-10-31T09:37:56Z,2011-10-31T18:16:38Z,"bug, priority-medium"
+Tyde/TuCanMobile,27,"Illegal ArgumentException at ""beim aufrufen des stundenplans...""",closed,2011-10-31T09:37:16Z,2011-10-31T09:45:46Z,"bug, priority-medium"
+Tyde/TuCanMobile,25,"Crash bei klick auf ""Keine Heutigen Veranstaltungen"" in MainMenu",closed,2011-10-30T23:00:02Z,2011-10-30T23:03:57Z,"bug, priority-medium"
+Tyde/TuCanMobile,13,"crash im MainMenu, wenn ungelesene Nachrichten da sind",closed,2011-10-23T17:28:40Z,2011-10-30T11:41:07Z,"bug, priority-critical"
+Tyde/TuCanMobile,1,Service does not bind,closed,2011-10-04T22:18:23Z,2011-10-17T19:48:19Z,"bug, priority-critical"
+CUNYTech/BudgetApp,57,User Creation - User Pictures,closed,2017-04-04T16:56:59Z,2017-04-11T02:21:07Z,"bug, enhancement"
+CUNYTech/BudgetApp,55,Friend Scene - searchbar styling,closed,2017-04-04T16:54:04Z,2017-04-09T23:23:15Z,bug
+CUNYTech/BudgetApp,54,Dashboard - Daily Points Section - *rethink*,closed,2017-04-04T16:52:56Z,2017-04-19T00:21:04Z,"bug, enhancement"
+CUNYTech/BudgetApp,53,Points Scene - Functionalty,closed,2017-04-04T16:49:43Z,2017-04-08T21:57:34Z,bug
+CUNYTech/BudgetApp,52,Dashboard Scene - Budget Section style,closed,2017-04-04T16:48:31Z,2017-04-09T06:52:47Z,bug
+CUNYTech/BudgetApp,51,Dashboard Scene - goals section placeholders,closed,2017-04-04T16:43:22Z,2017-04-15T20:14:53Z,bug
+CUNYTech/BudgetApp,50,Goal scene - style,closed,2017-04-04T16:42:01Z,2017-04-15T20:14:20Z,bug
+CUNYTech/BudgetApp,48,Goals Scene - modal for saving towards a goal,closed,2017-04-04T16:39:40Z,2017-04-15T20:14:32Z,bug
+fython/PackageTracker,66,[Bug] 信息经常反复提醒,open,2018-09-17T01:09:37Z,,bug
+fython/PackageTracker,59,[Bug] 从通知进入应用后返回到包裹列表界面，数据不刷新,closed,2018-04-17T08:10:03Z,2019-02-15T14:39:58Z,bug
+fython/PackageTracker,55,[Bug] 使用主动推送后，就没见他弹出过通知说到哪了,open,2018-03-16T15:05:49Z,,bug
+fython/PackageTracker,53,[Bug] FFM 推送过来的消息点开时间格式有问题,open,2018-03-15T15:47:05Z,,bug
+fython/PackageTracker,46,[Bug] 存在包裹单号导致闪退,closed,2017-09-25T15:25:26Z,2019-02-15T03:50:28Z,bug
+fython/PackageTracker,35,[Bug] 从通知进入时夜间主题没有被正确应用,open,2017-06-18T14:13:57Z,,bug
+fython/PackageTracker,33,[Bug] DHL全球件每个节点更新都被标为已到达,open,2017-04-17T16:09:33Z,,bug
+fython/PackageTracker,11,[Bug] 快递签收后重复提醒,open,2016-08-09T04:15:18Z,,bug
+Nutomic/ensichat,56,App crash on start,closed,2016-09-29T14:50:28Z,2016-09-30T08:23:20Z,bug
+Nutomic/ensichat,53,Problems in a WLAN network,closed,2016-09-28T19:29:09Z,2017-02-25T17:11:46Z,bug
+Nutomic/ensichat,42,Clean Build Fails,open,2015-11-19T22:58:05Z,,bug
+heinrichreimer/material-intro,318,"Resource Not Found: mi_ic_skip, mi_ic_previous, mi_ic_next, mi_ic_finish",open,2023-05-13T16:42:18Z,,bug
+heinrichreimer/material-intro,306,A slide can be skipped even if navigation is blocked,open,2021-01-03T22:16:13Z,,bug
+heinrichreimer/material-intro,305,Slider cannot open screens ,open,2020-12-31T06:49:55Z,,bug
+heinrichreimer/material-intro,303,Could not find com.heinrichreimersoftware:material-intro:x.y.z.,closed,2020-11-10T00:16:10Z,2020-11-10T00:16:50Z,bug
+heinrichreimer/material-intro,302, Could not find com.heinrichreimersoftware:material-intro:x.y.z.,closed,2020-11-10T00:10:10Z,2020-11-10T00:19:32Z,bug
+heinrichreimer/material-intro,300,NullPointerException,open,2020-09-19T11:46:44Z,,bug
+heinrichreimer/material-intro,299,Glitch when moving from slide without button to slide with button,open,2020-09-13T10:09:38Z,,bug
+heinrichreimer/material-intro,298,Button doesn't adjust its size depending on length of text,open,2020-09-12T18:48:28Z,,bug
+heinrichreimer/material-intro,297,Title and description don't show up when picture is portrait,closed,2020-09-11T13:44:41Z,2020-09-12T18:31:46Z,bug
+heinrichreimer/material-intro,220,NoClassDefFoundError:  for DataBinderMapper even after enabling data binding,closed,2017-07-08T06:54:59Z,2017-07-18T07:02:50Z,"type-bug, flag-help-wanted, state-analysis, priority-med"
+heinrichreimer/material-intro,219,Autoplay doesn't work,open,2017-06-26T12:08:30Z,,"type-bug, flag-help-wanted, state-analysis, priority-med"
+heinrichreimer/material-intro,215,Back arrow is in wrong position when navigating with clicks,open,2017-06-05T12:59:29Z,,"type-bug, flag-help-wanted, state-analysis, priority-med"
+heinrichreimer/material-intro,214,On orientation change or another destroying action makes state to become unstable,open,2017-06-04T20:18:17Z,,"type-bug, flag-help-wanted, priority-high, state-analysis"
+heinrichreimer/material-intro,210,Issue with transparency when canGoForward is false,open,2017-05-27T12:12:52Z,,"type-bug, flag-help-wanted, state-analysis, priority-med"
+heinrichreimer/material-intro,208,pointerIndex out of range Exception,open,2017-05-23T08:43:31Z,,"type-bug, flag-help-wanted, priority-high, state-analysis"
+heinrichreimer/material-intro,205,Visual Glitch When Some Screen Has CTA Button and Some Not,closed,2017-05-08T15:34:17Z,2022-10-11T15:49:21Z,"type-bug, flag-help-wanted, priority-low, state-analysis"
+heinrichreimer/material-intro,204,ButtonCta not working?,closed,2017-05-04T19:04:40Z,2017-05-08T18:50:10Z,"type-bug, flag-help-wanted, state-analysis, priority-med"
+heinrichreimer/material-intro,199,NEXT button remains visible in the last slide,closed,2017-03-25T11:15:54Z,2022-10-11T15:49:07Z,"type-bug, flag-help-wanted, priority-high, state-analysis"
+heinrichreimer/material-intro,194,Bugs in demo,closed,2017-03-20T14:26:55Z,2017-03-21T06:37:48Z,type-bug
+heinrichreimer/material-intro,174,Android L button colors problem,open,2017-03-05T18:00:12Z,,"type-bug, type-documentation, priority-high, state-analysis, flag-device-specific"
+heinrichreimer/material-intro,170,ANR Input dispatching timed out ,closed,2017-02-08T12:30:34Z,2017-02-08T15:12:17Z,"type-bug, flag-help-wanted, state-analysis, priority-med"
+heinrichreimer/material-intro,164,ArrayIndexOutOfBound,closed,2017-01-09T19:46:08Z,2017-01-12T13:50:21Z,type-bug
+heinrichreimer/material-intro,162,IndexOutOfBoundsException in SlideAdapter.getSlide called from canGoBackward,closed,2017-01-07T08:16:17Z,2017-03-21T06:37:48Z,type-bug
+heinrichreimer/material-intro,161,OutOfMemoryError in SimpleSlide onCreateView of Fragment,closed,2017-01-07T08:08:35Z,2017-01-08T01:10:27Z,type-bug
+heinrichreimer/material-intro,154,Wrong Button Color,closed,2016-12-07T17:35:52Z,2017-01-18T13:54:45Z,type-bug
+heinrichreimer/material-intro,149,Attempt to invoke virtual method 'void android.view.VelocityTracker.addMovement(android.view.MotionEvent)' on a null object reference,closed,2016-11-04T10:05:49Z,2016-12-08T02:26:55Z,"type-bug, flag-duplicate"
+heinrichreimer/material-intro,148,NullPointerException in onAnimationUpdate,closed,2016-11-04T09:44:17Z,2017-03-21T02:25:09Z,type-bug
+heinrichreimer/material-intro,144,Android 7.0: Fatal Exception when resizing the app in split-screen mode,open,2016-09-26T00:28:36Z,,"type-bug, flag-help-wanted, priority-high, state-ready"
+heinrichreimer/material-intro,133,Strange/Glitchy navigation animations in Release 1.5.8,closed,2016-09-11T01:40:30Z,2016-09-20T21:34:13Z,type-bug
+heinrichreimer/material-intro,132,Page indicator not centered when setButtonNextVisible() is called,closed,2016-09-10T18:10:20Z,2016-09-11T00:11:10Z,type-bug
+heinrichreimer/material-intro,130,IllegalStateException: No fake drag in progress. Call beginFakeDrag first,closed,2016-09-10T17:39:50Z,2016-09-11T00:11:08Z,type-bug
+heinrichreimer/material-intro,125,Regression 1.5.8 - Recreate fragments when swiping is locked,closed,2016-09-03T00:37:29Z,2016-09-06T19:08:09Z,type-bug
+heinrichreimer/material-intro,124,page indicator is not centered,closed,2016-09-02T11:53:11Z,2016-09-11T00:11:08Z,type-bug
+heinrichreimer/material-intro,123,back button is in wrong position,closed,2016-09-02T11:42:19Z,2016-09-12T11:18:40Z,type-bug
+heinrichreimer/material-intro,122,super.OnCreate NPE error,closed,2016-08-31T13:13:06Z,2016-09-11T00:20:40Z,type-bug
+heinrichreimer/material-intro,120,Typo on main page,closed,2016-08-26T20:04:13Z,2016-08-31T11:41:35Z,"type-bug, priority-low"
+heinrichreimer/material-intro,113,Over scrolling on locked slide.,closed,2016-08-10T15:19:43Z,2016-09-01T14:37:17Z,"type-bug, priority-high"
+heinrichreimer/material-intro,109,IllegalStateException: Fragment already active,closed,2016-08-08T00:18:09Z,2016-09-01T14:37:17Z,type-bug
+heinrichreimer/material-intro,106,NullPointerException,closed,2016-07-31T06:24:37Z,2016-08-13T20:23:42Z,"type-bug, priority-high"
+heinrichreimer/material-intro,104,Title and Description not showing,closed,2016-07-25T09:39:36Z,2016-08-13T20:25:37Z,"type-bug, type-question"
+heinrichreimer/material-intro,103,"IndexOutOfBoundsException: Invalid index 3, size is 3",closed,2016-07-20T06:18:15Z,2016-09-01T14:37:17Z,type-bug
+heinrichreimer/material-intro,102,Clicking next does not close keyboard,closed,2016-07-18T21:00:43Z,2016-07-19T03:35:36Z,"type-bug, flag-wontfix"
+heinrichreimer/material-intro,100,The skip icon does not hide correctly when used in a two page intro,closed,2016-07-18T01:31:57Z,2016-07-18T03:01:56Z,type-bug
+heinrichreimer/material-intro,99,Blank slide when adding slide after onCreate,closed,2016-07-17T23:56:00Z,2016-07-18T01:34:00Z,"type-bug, priority-high"
+heinrichreimer/material-intro,97,Showing CTAButton on custom fragment slide,closed,2016-07-10T13:19:49Z,2016-07-10T14:53:02Z,"type-bug, priority-high"
+heinrichreimer/material-intro,92,Full screen mode goes away when keyboard opens,closed,2016-07-01T09:26:16Z,2016-07-05T18:18:55Z,"type-bug, flag-wontfix, priority-low"
+heinrichreimer/material-intro,91,Potential bug in version  1.5.5,closed,2016-06-30T09:57:46Z,2016-07-06T22:34:53Z,type-bug
+heinrichreimer/material-intro,90,ArrayIndexOutOfBandException,closed,2016-06-29T15:23:45Z,2016-06-29T21:31:32Z,type-bug
+heinrichreimer/material-intro,89,"Custom Slide Fragment ""jumps"" down after previous slide",closed,2016-06-26T11:31:11Z,2016-07-06T22:32:30Z,type-bug
+heinrichreimer/material-intro,88,Visual Glitch after Finish button is clicked,closed,2016-06-25T12:00:36Z,2016-07-05T17:04:19Z,type-bug
+heinrichreimer/material-intro,77,Swipe error if previously blocked,closed,2016-06-09T06:27:36Z,2016-06-09T22:01:32Z,"type-bug, type-question"
+heinrichreimer/material-intro,70,Permission slide behavior,closed,2016-06-03T06:18:33Z,2016-06-06T21:03:45Z,type-bug
+heinrichreimer/material-intro,64,'Get Started' button appears when orientation is changed on last slide,closed,2016-05-31T20:54:18Z,2016-06-01T01:32:45Z,"type-bug, priority-high"
+heinrichreimer/material-intro,63,"Pager indicator and ""Get started"" button disappear on rotation change ",closed,2016-05-31T08:09:30Z,2016-06-01T01:17:09Z,type-bug
+heinrichreimer/material-intro,59,IndexOutOfBoundsException when scrolling to the end of the intro,closed,2016-05-30T20:05:41Z,2016-06-01T00:38:10Z,"type-bug, priority-high"
+heinrichreimer/material-intro,58,Screen rotation resets intro slides in splash screen demo ,closed,2016-05-30T13:05:13Z,2016-06-01T00:57:50Z,type-bug
+heinrichreimer/material-intro,57,setFullscreen(true) does not work on Android 4.x,closed,2016-05-29T19:14:26Z,2016-06-01T01:44:35Z,type-bug
+heinrichreimer/material-intro,56,Next button does not work after screen rotation,closed,2016-05-28T21:35:36Z,2016-05-30T22:28:48Z,"type-bug, priority-high"
+heinrichreimer/material-intro,53,ActionButtonColors are not changing,closed,2016-05-23T06:06:45Z,2016-05-27T23:00:02Z,type-bug
+heinrichreimer/material-intro,52,java.lang.IndexOutOfBoundsException occurs on Samsung S Advance,closed,2016-05-19T10:45:40Z,2016-05-27T23:40:57Z,type-bug
+heinrichreimer/material-intro,51,Permission Slide does not block navigation correctly,closed,2016-05-17T16:29:02Z,2016-05-27T23:33:57Z,"type-bug, priority-high"
+heinrichreimer/material-intro,45,"Fragments reset to first page when screen rotates, or the app completely closes  ",closed,2016-04-27T11:28:53Z,2016-04-30T04:25:24Z,type-bug
+heinrichreimer/material-intro,40,NullPointerException: Attempt to invoke virtual method 'void FadeableViewPager.setAdapter(PagerAdapter)' on a null object reference,closed,2016-04-19T19:04:43Z,2016-04-20T17:08:31Z,type-bug
+heinrichreimer/material-intro,28,How can I start a new activity when I click the finish button or reach the last slide,closed,2016-03-22T13:41:53Z,2016-03-23T09:38:29Z,"type-bug, type-enhancement, priority-low"
+heinrichreimer/material-intro,27,Bug: ArrayIndexOutOfBoundsException when clicking skip button,closed,2016-03-22T13:38:29Z,2016-03-29T20:31:28Z,"type-bug, priority-high"
+heinrichreimer/material-intro,21,FinishActivity opens even if checkbox isn't checked in sample app,closed,2016-03-07T15:32:24Z,2016-03-07T15:42:36Z,"type-bug, priority-low"
+heinrichreimer/material-intro,20,Avoid restarting and restore state after performing landscape,closed,2016-03-07T05:46:18Z,2016-04-02T21:51:47Z,"type-bug, flag-help-wanted, priority-high"
+heinrichreimer/material-intro,19,Next button arrow icon not visible until reached last slide,closed,2016-03-06T17:09:29Z,2016-03-07T14:42:51Z,type-bug
+heinrichreimer/material-intro,11,Content bleeds into status bar when using translucent bars,closed,2016-02-22T21:15:55Z,2016-03-07T15:51:15Z,"type-bug, priority-low"
+heinrichreimer/material-intro,9,setSkipEnabled is not found in the IntroActivity.class,closed,2016-02-22T17:59:52Z,2016-02-23T23:16:00Z,type-bug
+heinrichreimer/material-intro,6,"""Next"" FAB shows both checkmark and arrow when only using one page",closed,2016-02-21T21:13:31Z,2016-02-22T21:17:53Z,type-bug
+heinrichreimer/material-intro,5,Force close when not supplying all options to SimpleSlide.Builder,closed,2016-02-21T21:12:37Z,2016-03-07T15:56:37Z,"type-bug, type-documentation, priority-low"
+heinrichreimer/material-intro,4,Marshmallows light statusbar feature doesn't apply when on first slide.,closed,2016-02-21T16:55:06Z,2016-02-21T19:31:05Z,type-bug
+heinrichreimer/material-intro,1,FragmentSlide.Builder.fragment() accepts only FragmentSlide.Fragment as parameter,closed,2016-02-20T22:38:00Z,2016-02-21T19:31:05Z,"type-bug, priority-high"
+seanmonstar/ServiceDroid,94,NullPointerException in ServiceDroidDocument.getSchema,open,2012-10-05T19:49:57Z,,"bug, P1"
+seanmonstar/ServiceDroid,93,IndexOutOfBoundsException in CallEditActivity.onResume,closed,2012-10-05T19:48:51Z,2012-10-05T20:10:09Z,"bug, P2"
+seanmonstar/ServiceDroid,92,NullPointerException in getAnonCalls,closed,2012-10-05T19:46:53Z,2012-10-05T20:12:11Z,"bug, P1"
+seanmonstar/ServiceDroid,85,sometimes carries over 1 too many minutes,closed,2012-02-01T18:31:58Z,2014-03-04T17:18:11Z,"bug, P2"
+seanmonstar/ServiceDroid,76,NullPointer exception in checkForTimer,closed,2011-08-24T04:15:41Z,2011-08-24T04:32:28Z,"bug, P1"
+seanmonstar/ServiceDroid,75,error on backup for old versions of Android,closed,2011-08-24T04:13:06Z,2011-09-16T07:22:45Z,"bug, P1"
+seanmonstar/ServiceDroid,74,NullPointerException at com.monstarlab.servicedroid.activity.TimeActivity.checkForTimer,closed,2011-08-07T06:01:10Z,2011-08-07T06:39:25Z,"bug, P1"
+seanmonstar/ServiceDroid,73,restoring sometimes puts placements on the wrong Call,closed,2011-08-07T05:58:23Z,2011-09-16T07:22:46Z,"bug, P2"
+seanmonstar/ServiceDroid,69,null pointer doing a restore from ServiceDroidDocument,closed,2011-05-17T17:41:38Z,2011-07-12T22:46:06Z,"bug, P1"
+seanmonstar/ServiceDroid,68,ServiceDroidDocument should save longtext in elements instead of attributes,closed,2011-05-17T17:36:22Z,2011-07-12T22:40:41Z,"bug, P1"
+seanmonstar/ServiceDroid,67,editing Time Entries errors if too many hours,closed,2011-05-17T07:48:17Z,2011-05-17T17:24:43Z,bug
+seanmonstar/ServiceDroid,64,SMS button doesn't send via SMS,closed,2011-04-19T00:48:06Z,2011-04-19T03:57:21Z,bug
+seanmonstar/ServiceDroid,58,rotating screen while entering Time creates an entry,closed,2011-04-14T17:06:31Z,2011-04-14T18:36:41Z,bug
+seanmonstar/ServiceDroid,55,Notification no longer shows up,closed,2011-04-02T00:58:08Z,2011-04-14T21:41:20Z,bug
+seanmonstar/ServiceDroid,52,typing hours into time entry doesnt get saved,closed,2011-03-18T17:05:25Z,2011-04-14T21:41:20Z,bug
+seanmonstar/ServiceDroid,50,"in call book, address can be too long",closed,2011-03-12T21:37:45Z,2011-04-11T20:45:38Z,bug
+seanmonstar/ServiceDroid,49,send report via SMS,closed,2011-03-06T23:27:02Z,2011-04-14T18:36:41Z,bug
+seanmonstar/ServiceDroid,48,the timer autostarts for some people,closed,2011-03-01T19:02:43Z,2011-03-05T02:25:26Z,bug
+seanmonstar/ServiceDroid,47,Deleting a call should remove the active Bible study,closed,2011-03-01T06:30:22Z,2011-03-05T02:43:35Z,bug
+seanmonstar/ServiceDroid,46,Timer sometimes doesn't track time,closed,2011-03-01T06:22:45Z,2011-07-12T22:39:30Z,bug
+seanmonstar/ServiceDroid,45,BackupWorker doesnt write to disk on pre-2.2,closed,2011-03-01T06:21:36Z,2011-03-05T02:09:45Z,bug
+seanmonstar/ServiceDroid,44,BackupAgent does not seem to restore a backup,open,2011-02-23T23:06:54Z,,"bug, P3"
+seanmonstar/ServiceDroid,43,rotating screen wipes out text in notes,closed,2011-02-23T23:03:42Z,2011-03-05T02:09:45Z,bug
+seanmonstar/ServiceDroid,33,switching to Service Year in Stats moves too far forward,closed,2010-12-10T22:14:43Z,2010-12-11T00:35:36Z,bug
+seanmonstar/ServiceDroid,31,timer stops if task gets killed,closed,2010-12-09T20:19:13Z,2011-01-09T00:08:12Z,bug
+seanmonstar/ServiceDroid,26,"after starting timer, closing app, and re-opening, menu shows Start Timer",closed,2010-11-20T21:10:43Z,2010-11-21T00:54:02Z,bug
+seanmonstar/ServiceDroid,23,time entries sort in a weird order,closed,2010-11-18T17:20:59Z,2010-11-18T20:43:37Z,bug
+seanmonstar/ServiceDroid,19,bible studies show wrong stats in past months,closed,2010-11-04T03:49:00Z,2010-11-04T06:36:28Z,bug
+seanmonstar/ServiceDroid,9,deleting a placement doesn't update the list until you leave and come back,closed,2010-11-02T18:53:03Z,2010-11-02T19:54:51Z,bug
+seanmonstar/ServiceDroid,7,editting a Magazine placement doesnt work,closed,2010-11-02T07:42:14Z,2010-11-02T19:54:51Z,bug
+seanmonstar/ServiceDroid,5,selecting Start Time is buggy,closed,2010-10-27T06:40:56Z,2010-11-03T00:10:51Z,bug
+HRVBand/hrv-band,155,"Measurement Details: When returning to Overview, you are asked if you want to save the measurement",open,2018-03-27T13:30:53Z,,bug
+HRVBand/hrv-band,154,Measurement Details: Saving a measurement duplicates it,closed,2018-03-27T13:29:02Z,2018-03-28T12:27:01Z,bug
+HRVBand/hrv-band,146,Delete Project From Repository If Editor Is Open,closed,2017-10-25T08:40:47Z,2017-10-25T08:43:49Z,bug
+HRVBand/hrv-band,145,Top left back button does not work in the history view,closed,2017-10-19T18:13:24Z,2018-03-27T13:22:59Z,bug
+HRVBand/hrv-band,139,Check HRV parameters,closed,2017-04-18T08:27:44Z,2017-04-25T18:36:26Z,bug
+HRVBand/hrv-band,135,New HRVlib version,closed,2017-03-14T08:12:42Z,2017-03-15T17:32:17Z,"bug, enhancement"
+HRVBand/hrv-band,134,NegativeArraySizeException in HRVlib,closed,2017-03-14T08:11:23Z,2017-03-15T17:32:26Z,bug
+HRVBand/hrv-band,132,Number To Small Exception in HRVLib,closed,2017-03-07T16:12:09Z,2017-03-15T17:32:33Z,bug
+HRVBand/hrv-band,125,Screen Timeout during Measurement,closed,2017-02-27T21:06:49Z,2017-02-27T21:17:52Z,"bug, enhancement"
+HRVBand/hrv-band,116,NullPointerException in hrv.band.app.storage.SQLite.SQLController.saveData,closed,2017-02-02T12:28:09Z,2017-02-07T11:53:23Z,bug
+HRVBand/hrv-band,112,The calendar sign overlays the newest HRV-Parameter ,closed,2017-01-30T11:42:21Z,2017-02-07T11:48:53Z,bug
+HRVBand/hrv-band,100,Nullpointer Exception if disconnect devices,closed,2017-01-19T11:07:12Z,2017-01-19T16:21:31Z,bug
+HRVBand/hrv-band,85,Calculations,closed,2017-01-08T01:03:37Z,2017-01-30T22:03:48Z,bug
+HRVBand/hrv-band,78,Timeout Ant,closed,2017-01-05T15:10:11Z,2017-01-07T19:47:35Z,"bug, enhancement"
+HRVBand/hrv-band,76,The app crashes in the first minute of measurements.,closed,2016-12-15T14:00:56Z,2017-01-04T16:29:54Z,bug
+HRVBand/hrv-band,69,App Crush if starts in landscape,closed,2016-12-01T23:16:25Z,2017-01-02T18:19:49Z,bug
+HRVBand/hrv-band,68,floating button measurecontent,closed,2016-12-01T20:09:05Z,2017-01-03T14:42:22Z,bug
+HRVBand/hrv-band,67,Disclaimer ablehnung durch back button,closed,2016-12-01T20:00:03Z,2016-12-03T12:56:14Z,bug
+HRVBand/hrv-band,66,textumbrüche,closed,2016-12-01T19:56:45Z,2017-01-17T10:57:43Z,"bug, wontfix"
+HRVBand/hrv-band,65,Haftungsausschluss  scrolling,closed,2016-12-01T19:55:24Z,2017-01-03T12:45:27Z,bug
+HRVBand/hrv-band,50,overview doppel klick,closed,2016-11-04T13:37:25Z,2017-01-17T20:04:32Z,"bug, wontfix"
+HRVBand/hrv-band,49,load data,closed,2016-11-04T13:25:18Z,2016-11-05T00:29:44Z,bug
+HRVBand/hrv-band,48,SQLiteException Delete Parameter,closed,2016-11-03T17:07:27Z,2016-11-03T18:45:00Z,bug
+HRVBand/hrv-band,46,Einstellungspunkte,closed,2016-10-31T14:40:45Z,2016-11-06T21:27:51Z,bug
+HRVBand/hrv-band,18,Datenbank wird gelöscht wenn sie geupdated wird,closed,2016-06-23T12:25:36Z,2016-07-01T15:00:58Z,bug
+HRVBand/hrv-band,16,App Stürzt ab,closed,2016-06-23T11:51:23Z,2016-07-16T19:39:21Z,bug
+HRVBand/hrv-band,14,Speichern der berechneten Parameter optimieren,closed,2016-06-18T09:26:54Z,2016-07-01T14:59:23Z,"bug, enhancement"
+HRVBand/hrv-band,1,Sd1Sd2 Ratio,closed,2016-06-12T11:23:59Z,2016-06-23T12:12:46Z,bug
+OpenStreetMap-Monitoring/OsMoDroid,125,С переходом на новую форму авторизации...,closed,2017-04-25T16:50:27Z,2017-05-30T09:03:36Z,bug
+OpenStreetMap-Monitoring/OsMoDroid,122,Время событий в уведомлениях,closed,2017-03-24T18:54:13Z,2017-12-29T00:53:50Z,bug
+OpenStreetMap-Monitoring/OsMoDroid,102,Уведомление о недоступности GPS и интернета,closed,2016-12-30T14:11:41Z,2024-10-10T12:45:42Z,bug
+OpenStreetMap-Monitoring/OsMoDroid,98,При возврате ошибки действие метода не должно продолжаться...,closed,2016-12-21T10:15:47Z,2016-12-25T12:58:41Z,"bug, wontfix"
+OpenStreetMap-Monitoring/OsMoDroid,97,Парсинг треков групп,closed,2016-12-18T23:42:20Z,2016-12-25T11:44:09Z,bug
+OpenStreetMap-Monitoring/OsMoDroid,90,Модифицировать GPR,closed,2016-10-21T18:06:37Z,2016-10-28T18:00:45Z,"bug, enhancement"
+OpenStreetMap-Monitoring/OsMoDroid,86,"Раздел ""Треки""",closed,2015-12-01T23:21:15Z,2015-12-16T14:02:28Z,bug
+OpenStreetMap-Monitoring/OsMoDroid,79,MapSurfer изменить адрес тайлов,closed,2015-11-05T08:03:15Z,2015-11-06T09:20:49Z,bug
+OpenStreetMap-Monitoring/OsMoDroid,76,При выходе из группы она не стирается из списка!,closed,2015-11-04T18:24:35Z,2015-11-06T09:21:17Z,bug
+OpenStreetMap-Monitoring/OsMoDroid,75,Блокировка устройства или пользователя,closed,2015-10-31T14:38:49Z,2016-05-10T04:12:02Z,bug
+OpenStreetMap-Monitoring/OsMoDroid,73,"""Мониторинг на устройстве ""ххх"" запущен""",closed,2015-10-04T18:56:33Z,2015-10-30T00:36:28Z,bug
+OpenStreetMap-Monitoring/OsMoDroid,72,Уведомления из чата не имеют звука :(,closed,2015-09-25T09:08:30Z,2015-10-30T00:34:56Z,bug
+OpenStreetMap-Monitoring/OsMoDroid,67,Заедание GPS при работе с OsMoDroid,closed,2015-07-19T01:42:16Z,2015-10-30T00:34:37Z,bug
+OpenStreetMap-Monitoring/OsMoDroid,65,Ошибка исчёкшей авторизации,closed,2015-06-24T16:24:09Z,2015-10-30T00:38:42Z,"bug, enhancement"
+OpenStreetMap-Monitoring/OsMoDroid,64,Update map on the background,closed,2015-06-23T02:55:22Z,2015-11-18T11:32:34Z,"bug, wontfix"
+OpenStreetMap-Monitoring/OsMoDroid,62,Offline режим,closed,2015-06-22T05:10:47Z,2015-08-13T04:24:00Z,"bug, enhancement"
+OpenStreetMap-Monitoring/OsMoDroid,61,Вывод скорости участника из группы!,closed,2015-06-21T02:46:57Z,2015-11-06T09:39:26Z,"bug, invalid"
+OpenStreetMap-Monitoring/OsMoDroid,58,Авторизация...,closed,2015-06-06T15:43:23Z,2015-11-06T09:52:16Z,bug
+OpenStreetMap-Monitoring/OsMoDroid,56,Формат скорости...,closed,2015-05-30T22:36:51Z,2015-11-06T09:43:41Z,"bug, invalid"
+OpenStreetMap-Monitoring/OsMoDroid,54,"""Невидимые слои""",closed,2015-05-23T15:40:16Z,2015-06-01T10:34:45Z,"bug, invalid"
+OpenStreetMap-Monitoring/OsMoDroid,53,Ответ на удалённые команды! БАГ! RCR!,closed,2015-05-20T03:50:39Z,2015-05-23T15:38:58Z,bug
+OpenStreetMap-Monitoring/OsMoDroid,50,Если высота или HDOP равны 0 не посылать её!,closed,2015-04-30T07:47:44Z,2016-11-23T21:02:43Z,"bug, invalid"
+OpenStreetMap-Monitoring/OsMoDroid,45,Баг в product,closed,2015-01-26T06:10:08Z,2015-03-07T20:58:29Z,bug
+OpenStreetMap-Monitoring/OsMoDroid,44,Отправка данных трекеру - пустые нули,closed,2015-01-17T07:28:55Z,2015-03-07T20:58:04Z,"bug, invalid"
+OpenStreetMap-Monitoring/OsMoDroid,37,Ошибка подключения! мега-надоед!,closed,2014-11-10T11:00:23Z,2014-12-05T10:09:44Z,"bug, enhancement, help wanted, invalid, wontfix"
+OpenStreetMap-Monitoring/OsMoDroid,36,Иконка ошибки старая,closed,2014-11-09T18:19:44Z,2014-12-05T10:08:53Z,bug
+OpenStreetMap-Monitoring/OsMoDroid,30,Определение местоположения по мобильным сетям!,closed,2014-10-30T05:16:44Z,2014-10-30T09:55:54Z,"bug, wontfix"
+OpenStreetMap-Monitoring/OsMoDroid,24,При блокировке неясно что я заблокирован!,closed,2014-10-23T05:32:22Z,2014-11-02T09:40:40Z,"bug, help wanted, invalid, wontfix"
+OpenStreetMap-Monitoring/OsMoDroid,23,При блокировке доступа к prepare делается auth! Это ошибка!,closed,2014-10-20T06:43:19Z,2014-11-02T09:42:04Z,bug
+OpenStreetMap-Monitoring/OsMoDroid,22,Коллапс от браундмаеров!,closed,2014-10-20T06:16:14Z,2014-11-02T09:58:23Z,"bug, invalid"
+OpenStreetMap-Monitoring/OsMoDroid,19,На HD в карте ж... (((,closed,2014-10-16T04:26:38Z,2014-12-20T20:53:46Z,"bug, help wanted"
+OpenStreetMap-Monitoring/OsMoDroid,16,Требование SMS чтения убрало из маркета приложения для без симочных устройств!,closed,2014-10-10T16:37:00Z,2014-10-12T20:07:43Z,"bug, wontfix"
+OpenStreetMap-Monitoring/OsMoDroid,12,В оповещениях об онлайн и статусах бага!,closed,2014-10-07T04:53:33Z,2015-08-06T09:18:30Z,bug
+OpenStreetMap-Monitoring/OsMoDroid,5,На экране статистики кнопка сброса не требует подтверждения,closed,2014-10-04T06:47:31Z,2014-10-04T17:35:13Z,"bug, wontfix"
+florent37/MaterialViewPager,86,Return when first time yOffset == 0,open,2015-06-23T21:27:36Z,,"bug, duplicate"
+florent37/MaterialViewPager,79,Switching Fragmens,open,2015-06-15T14:32:32Z,,"bug, question"
+florent37/MaterialViewPager,77,Add apt support,closed,2015-06-13T10:51:36Z,2015-07-07T06:40:37Z,"bug, help wanted, question"
+florent37/MaterialViewPager,75,Bug: Title should get hidden when scrolled to top.,open,2015-06-10T22:07:54Z,,bug
+florent37/MaterialViewPager,59,Add custom font for application using Calligraphy ,closed,2015-06-03T03:57:45Z,2015-06-05T10:53:30Z,"bug, help wanted"
+florent37/MaterialViewPager,50,maybe a bug?,closed,2015-05-30T14:49:36Z,2015-06-10T15:31:41Z,bug
+florent37/MaterialViewPager,32,How disable header and show only tabs with elevation?,open,2015-05-21T16:44:03Z,,"bug, help wanted"
+florent37/MaterialViewPager,23,items overlaps header and tabs on orientation change ,closed,2015-05-13T11:58:16Z,2015-05-21T14:27:37Z,"bug, help wanted"
+florent37/MaterialViewPager,17,parallax problem,closed,2015-05-10T09:05:05Z,2015-06-10T15:25:12Z,"bug, help wanted"
+florent37/MaterialViewPager,14,Header animation dosent'work,closed,2015-05-07T16:21:52Z,2015-05-08T23:09:20Z,bug
+florent37/MaterialViewPager,5,big white rectangle which suddenly disappear while scrolling,open,2015-05-03T19:54:12Z,,bug
+HugoGresse/Anecdote,64,gradient grey overlay bottom button zone when zooming in images,closed,2018-04-26T15:10:48Z,2018-04-26T15:50:21Z,bug
+HugoGresse/Anecdote,45,Picture not centred when in full screen,open,2016-12-30T09:55:09Z,,bug
+HugoGresse/Anecdote,41,Only one xkcd after reloading,closed,2016-12-22T13:06:13Z,2017-03-18T21:51:53Z,bug
+HugoGresse/Anecdote,36,"Copy an anecdote only copy the word ""anecdote""",closed,2016-12-19T18:50:36Z,2016-12-22T12:58:17Z,bug
+HugoGresse/Anecdote,27,App crashes on Add Custom Website,open,2016-12-10T13:37:15Z,,bug
+HugoGresse/Anecdote,19,Crashes after selecting website,closed,2016-12-06T14:50:11Z,2016-12-09T13:42:19Z,"bug, question"
+SecUSo/privacy-friendly-pedometer,102,"Change ""cal"" to ""kcal""",closed,2022-01-27T14:30:57Z,2022-09-06T07:59:05Z,bug
+SecUSo/privacy-friendly-pedometer,96,Import from backup app currently not working correctly,closed,2021-10-28T13:48:45Z,2023-07-29T16:43:47Z,bug
+SecUSo/privacy-friendly-pedometer,85,v2.4 on Android - stopped counting again,closed,2021-07-14T12:43:12Z,2024-02-03T08:27:41Z,bug
+SecUSo/privacy-friendly-pedometer,79,After upgrade to 2.2 on android Pedometer stopped counting steps,closed,2021-07-06T11:47:17Z,2021-07-13T20:32:40Z,bug
+SecUSo/privacy-friendly-pedometer,69,Motivation alert received although the switch is deactivated,open,2019-05-09T07:29:09Z,,bug
+SecUSo/privacy-friendly-pedometer,66,Daily count,closed,2018-06-04T08:08:37Z,2023-03-31T10:02:34Z,bug
+SecUSo/privacy-friendly-pedometer,63,it does not work well,closed,2018-03-22T19:17:22Z,2023-03-31T10:03:30Z,bug
+SecUSo/privacy-friendly-pedometer,62,Reaccess of tutorial via nav drawer,open,2017-10-06T13:55:23Z,,bug
+SecUSo/privacy-friendly-pedometer,50,ClassNotFoundException,closed,2017-05-31T12:46:05Z,2021-07-27T13:16:29Z,bug
+SecUSo/privacy-friendly-pedometer,49,ClassNotFoundException,closed,2017-05-31T12:45:52Z,2023-03-31T10:06:42Z,bug
+SecUSo/privacy-friendly-pedometer,45,java.lang.NumberFormatException in java.lang.Integer.parseInt,closed,2017-04-26T12:36:08Z,2017-10-06T14:08:03Z,"bug, v2.0"
+SecUSo/privacy-friendly-pedometer,44,Time always in UTC,closed,2017-04-25T09:42:44Z,2017-10-06T13:56:08Z,"bug, v2.0"
+SecUSo/privacy-friendly-pedometer,43,android.view.ViewRootImpl$CalledFromWrongThreadException: Only the original thread that created a view hierarchy can touch its views.,closed,2017-04-25T09:16:57Z,2017-10-06T14:02:06Z,"bug, v2.0"
+SecUSo/privacy-friendly-pedometer,41,Steps not counted,open,2017-04-13T21:27:28Z,,"bug, v2.0"
+SecUSo/privacy-friendly-pedometer,28,Android 4.4.2/ Samsung GT-N7100: Crashes on start.,closed,2016-12-23T00:38:02Z,2016-12-23T19:58:23Z,bug
+SecUSo/privacy-friendly-pedometer,23,Error on RecyclerView,closed,2016-12-14T13:35:16Z,2017-10-06T14:00:41Z,"bug, v2.0"
+SecUSo/privacy-friendly-pedometer,22,Timeline is  not displayed correctly,closed,2016-12-05T12:21:49Z,2017-10-06T13:57:39Z,"bug, v2.0"
+SecUSo/privacy-friendly-pedometer,16,Start of counting delayed,closed,2016-11-24T14:26:13Z,2017-03-07T20:40:07Z,bug
+SecUSo/privacy-friendly-pedometer,15,Potential high battery drain,open,2016-11-24T14:25:17Z,,"bug, in discussion, v2.0"
+SecUSo/privacy-friendly-pedometer,3,Unit of weight missing,closed,2016-11-06T22:08:51Z,2016-11-17T17:40:37Z,bug
+ChristopherGittner/OSMBugs,42,Can not access settings,open,2024-12-30T15:00:46Z,,bug
+ChristopherGittner/OSMBugs,28,Crash at start,closed,2021-05-22T08:15:52Z,2024-05-24T18:09:35Z,bug
+ChristopherGittner/OSMBugs,25,app v1-3-1 F-droid constantly crashes on start,closed,2021-02-25T18:09:54Z,2021-02-26T14:58:59Z,bug
+ChristopherGittner/OSMBugs,22,Mapdust failes to load when using Android 9,closed,2019-06-30T18:50:13Z,2019-09-28T15:34:11Z,"bug, wait.for.provider"
+ChristopherGittner/OSMBugs,20,App crashes when using the Zoom Buttons,closed,2019-06-19T10:57:41Z,2019-09-28T15:06:16Z,"bug, wait.for.provider"
+ChristopherGittner/OSMBugs,19,Failed to download bugs,closed,2019-04-21T14:49:33Z,2019-07-01T10:08:34Z,"bug, wait.for.response"
+ChristopherGittner/OSMBugs,13,Bugs persistence,closed,2017-09-18T16:16:46Z,2017-09-28T14:01:44Z,"bug, question"
+ChristopherGittner/OSMBugs,12,Map tile cacheing,closed,2017-09-18T16:04:29Z,2017-09-28T17:58:16Z,bug
+ChristopherGittner/OSMBugs,11,"Automatically load Tiles, if above the Tile Providers max zoom level",closed,2017-09-16T22:22:21Z,2018-06-06T15:54:17Z,"bug, enhancement"
+ChristopherGittner/OSMBugs,5,OSM Notes ignore user credentials,closed,2015-09-24T21:42:34Z,2015-10-21T14:13:49Z,bug
+yankovskiy/PhotoTools,15,"Incorrect ""My location"" in Sunset calc",closed,2014-04-21T21:38:45Z,2014-04-24T04:45:09Z,bug
+yankovskiy/PhotoTools,6,DoF: not calculate until will not be scrolled wheel,closed,2014-03-05T12:27:07Z,2014-03-18T04:28:07Z,bug
+yankovskiy/PhotoTools,2,Ненужная проверка на разрешение определения местоположения,closed,2013-11-05T23:23:18Z,2013-11-06T06:04:37Z,bug
+yankovskiy/PhotoTools,1,Некорректная обработка событий жизненного цикла приложения,closed,2013-09-24T12:56:08Z,2013-09-26T06:02:28Z,bug

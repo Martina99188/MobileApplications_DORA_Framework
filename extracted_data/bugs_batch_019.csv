@@ -1,0 +1,244 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+prajjwaldimri/GithubXamarin,89,Problem with navigation on events page,closed,2017-05-07T19:13:25Z,2017-06-08T18:01:00Z,bug
+prajjwaldimri/GithubXamarin,88,Text is missing from events,closed,2017-05-04T18:52:56Z,2017-06-08T18:01:30Z,bug
+prajjwaldimri/GithubXamarin,83,Events View crashing when clicking on an event which shows issue,closed,2017-04-13T06:02:05Z,2017-04-15T09:28:08Z,bug
+prajjwaldimri/GithubXamarin,75,Fix notifications algorithm,closed,2017-03-27T09:26:41Z,2017-04-16T08:17:00Z,"bug, enhancement"
+prajjwaldimri/GithubXamarin,74,Crashing action menu in toolbar,closed,2017-03-27T07:07:06Z,2017-03-27T14:05:34Z,"bug, ui, android"
+prajjwaldimri/GithubXamarin,71,App not closing when pressing back button,closed,2017-03-26T09:54:15Z,2017-03-26T17:54:58Z,"bug, android"
+prajjwaldimri/GithubXamarin,54,Issues Button in Repository View is navigating to all Issues of current user,closed,2017-03-17T10:49:46Z,2017-03-24T15:04:38Z,"bug, core"
+prajjwaldimri/GithubXamarin,50,Opening this repo's page causes gitit to crash,closed,2017-03-16T17:05:04Z,2017-03-16T21:00:13Z,"bug, core"
+prajjwaldimri/GithubXamarin,45,Feedback button Not Working on store app,closed,2017-03-14T03:34:08Z,2017-03-14T04:51:28Z,"bug, ui, windows"
+prajjwaldimri/GithubXamarin,42,Occasionally the Xaml behaviors are not working.,closed,2017-02-19T15:28:15Z,2017-02-19T15:31:58Z,"bug, windows"
+prajjwaldimri/GithubXamarin,41,Pressing back button exits the app.,closed,2017-02-18T12:29:04Z,2017-02-18T18:09:41Z,"bug, windows"
+prajjwaldimri/GithubXamarin,40,Hamburger menu highlights the menu options even when they are not in use.,closed,2017-02-18T10:43:21Z,2017-02-18T11:08:36Z,"bug, ui, windows"
+prajjwaldimri/GithubXamarin,37,Integrate Template10 with MVVMCross,closed,2017-01-07T07:32:41Z,2017-01-15T10:01:00Z,"bug, enhancement"
+prajjwaldimri/GithubXamarin,23,What is UniversalMarkdown from project?,closed,2016-11-28T15:35:54Z,2016-11-28T18:29:00Z,bug
+prajjwaldimri/GithubXamarin,14,Not showing UserProfilePage,closed,2016-11-19T13:10:05Z,2017-02-12T09:54:08Z,bug
+prajjwaldimri/GithubXamarin,11,The margins on the profile picture in Shell are wrong.,closed,2016-11-19T11:40:45Z,2017-02-12T09:53:52Z,bug
+prajjwaldimri/GithubXamarin,10,Running the app in high contrast mode crashes it,closed,2016-11-19T10:50:51Z,2017-02-10T10:47:24Z,"bug, help wanted, 3rd-party"
+ogarcia/opensudoku,107,Unable to import puzzles,closed,2021-01-28T09:43:14Z,2021-01-29T09:57:42Z,bug
+ogarcia/opensudoku,96,"[Bug] App crash when using ""Resume""",closed,2020-09-11T09:36:12Z,2020-09-14T12:28:04Z,bug
+cndbain/lakemendotabuoy,8,"Application crashes when server reports ""nan"" for data values",closed,2013-11-12T04:43:25Z,2013-11-12T04:49:41Z,bug
+cndbain/lakemendotabuoy,6,Can't read text for About dialog on the kindle,open,2013-07-17T14:23:52Z,,bug
+cndbain/lakemendotabuoy,1,Change default update frequency,closed,2013-07-16T20:50:15Z,2013-07-16T21:11:29Z,bug
+kshoji/USB-MIDI-Driver,52,Synthesizer doesn't be registered to MidiSystem,open,2016-01-08T04:32:04Z,,bug
+kshoji/USB-MIDI-Driver,51,Separate RPN/NRPN messages for each cableId.,closed,2015-12-10T05:51:47Z,2015-12-10T14:31:10Z,bug
+kshoji/USB-MIDI-Driver,46,UsbMidiDriver.getConnectedUsbDevices() returns empty set,closed,2015-07-12T03:32:33Z,2015-09-08T04:47:53Z,bug
+kshoji/USB-MIDI-Driver,44,Refine RPN/NRPN codes,closed,2015-06-29T06:56:16Z,2015-09-08T08:55:23Z,"bug, enhancement"
+kshoji/USB-MIDI-Driver,41,SysEx can't be received correctly with several cableIds at the same time,closed,2015-05-12T04:41:54Z,2015-05-12T06:27:28Z,bug
+kshoji/USB-MIDI-Driver,38,OnMidiDeviceDetachedListener method doesn't called at the screen rotation,closed,2015-05-08T03:24:13Z,2015-09-08T11:20:58Z,bug
+kshoji/USB-MIDI-Driver,24,Can't detect USB MIDI device when the device had attached again.,closed,2014-08-05T05:00:20Z,2014-08-29T03:51:23Z,bug
+kshoji/USB-MIDI-Driver,20,Some threads are remaining at the app being destroyed.,closed,2014-04-04T09:07:02Z,2014-04-04T09:14:00Z,bug
+kshoji/USB-MIDI-Driver,17,javax.sound.midi issues,closed,2014-03-12T09:12:32Z,2014-03-12T09:24:02Z,bug
+kshoji/USB-MIDI-Driver,15,MidiDeviceConnectionWatcher leaks UsbMidiGrantedReceiver,closed,2014-02-24T09:14:06Z,2014-02-25T11:17:01Z,bug
+kshoji/USB-MIDI-Driver,14,Solve problems with sending SysEx,closed,2014-02-14T09:21:01Z,2014-02-14T13:43:24Z,bug
+kshoji/USB-MIDI-Driver,8,ANR exception thrown at MidiOutputDevice.sendMidiMessage,closed,2013-07-09T10:59:13Z,2013-09-09T07:26:54Z,bug
+kshoji/USB-MIDI-Driver,6,Application will shutdown when the huge amount of MIDI data has been sent.,closed,2013-04-05T03:49:05Z,2013-04-05T03:53:43Z,bug
+kshoji/USB-MIDI-Driver,5,sometimes midi note skipped.,closed,2013-03-13T05:39:41Z,2013-03-15T04:15:17Z,bug
+kshoji/USB-MIDI-Driver,4,Application shutdowns unexpectedly with 'ReferenceTable overflow'.,closed,2013-03-13T03:53:33Z,2013-03-13T04:11:04Z,bug
+nitroshare/nitroshare-android,38,Transfers to Android are not working,open,2017-10-17T05:28:44Z,,bug
+nitroshare/nitroshare-android,37,Exit button only kills the app,closed,2017-10-14T21:00:40Z,2020-04-27T18:48:42Z,bug
+nitroshare/nitroshare-android,34,Dark theme bug,closed,2017-09-08T21:35:02Z,2017-09-08T22:01:38Z,bug
+nitroshare/nitroshare-android,30,Unable to swipe transfer when another transfer is in progress,closed,2017-07-05T04:00:50Z,2017-07-07T22:15:49Z,bug
+nitroshare/nitroshare-android,25,Revoking storage permission causes crash,closed,2017-06-02T19:03:39Z,2017-06-02T22:24:48Z,bug
+nitroshare/nitroshare-android,22,Progress notifications linger,closed,2017-05-26T00:45:18Z,2017-10-11T07:19:29Z,bug
+nitroshare/nitroshare-android,13,NitroShare doesn't start after boot,closed,2017-04-13T02:21:07Z,2017-10-11T17:38:15Z,bug
+nitroshare/nitroshare-android,12,App not restarting after upgrade,closed,2017-03-23T00:29:28Z,2017-03-23T01:35:34Z,bug
+nitroshare/nitroshare-android,4,Permission page in intro shown to pre-Marshmallow users,closed,2017-03-06T21:33:47Z,2017-05-07T01:25:32Z,bug
+Tortel/SysLog,12,Adopted Storage,closed,2016-02-01T15:46:12Z,2016-02-07T00:35:10Z,bug
+Tortel/SysLog,6,File name append text allows invalid characters,closed,2014-01-07T19:00:38Z,2014-01-09T03:13:34Z,bug
+Tortel/SysLog,3,Permission Errors,closed,2013-11-22T18:02:06Z,2013-12-09T03:02:39Z,bug
+spookypeanut/Love-Tag,62,Can't tag some tracks,closed,2015-11-16T16:38:32Z,2016-01-12T20:58:00Z,"bug, critical"
+spookypeanut/Love-Tag,61,Error when tapping widget when playing specific track,closed,2015-09-03T08:50:09Z,2016-01-13T19:45:24Z,bug
+spookypeanut/Love-Tag,59,Tapping tab widget without being logged in doesn't show toast,closed,2015-07-02T10:56:21Z,2016-01-13T22:10:42Z,bug
+spookypeanut/Love-Tag,58,Fix back issue,closed,2015-07-02T07:13:06Z,2016-01-13T23:05:21Z,bug
+spookypeanut/Love-Tag,57,Errors when track isn't in last.fm,closed,2015-06-19T22:28:32Z,2015-06-28T23:29:07Z,bug
+spookypeanut/Love-Tag,55,Add error message when tag doesn't work,closed,2015-05-18T09:50:09Z,2015-06-29T21:19:46Z,bug
+spookypeanut/Love-Tag,52,Crash when track changes while logging in,closed,2015-03-19T09:49:07Z,2015-03-20T00:14:58Z,"bug, critical"
+spookypeanut/Love-Tag,51,Tag widget is broken when added,closed,2015-03-18T12:24:50Z,2015-03-19T23:23:15Z,"bug, critical"
+spookypeanut/Love-Tag,50,Loving crashes,closed,2015-03-18T12:24:17Z,2015-03-19T23:23:15Z,"bug, critical"
+spookypeanut/Love-Tag,46,Fix really long tag names,open,2015-03-12T22:23:05Z,,bug
+spookypeanut/Love-Tag,45,Indication when recent tracks could not be retrieved,closed,2015-03-11T07:11:05Z,2015-03-12T21:39:14Z,bug
+spookypeanut/Love-Tag,34,Love gets confused when a track is auto-corrected,closed,2015-03-06T11:10:19Z,2015-03-15T00:08:43Z,bug
+spookypeanut/Love-Tag,32,Sort out menus,closed,2015-03-05T23:52:34Z,2015-03-06T00:20:21Z,bug
+spookypeanut/Love-Tag,24,Get corrected track name from last.fm,closed,2015-02-26T08:48:33Z,2015-03-05T00:33:29Z,bug
+spookypeanut/Love-Tag,23,Fix tag window on nexus 5,closed,2015-02-25T09:59:01Z,2015-02-25T23:43:05Z,bug
+spookypeanut/Love-Tag,22,Disable ok button if no tags are entered,closed,2015-02-24T11:02:49Z,2015-02-24T23:07:31Z,bug
+spookypeanut/Love-Tag,21,Use something other than getDrawable,closed,2015-02-24T00:22:02Z,2015-02-24T22:39:00Z,bug
+spookypeanut/Love-Tag,20,Update recent tracks when resuming Love activity,closed,2015-02-23T14:41:41Z,2015-02-24T23:12:53Z,bug
+spookypeanut/Love-Tag,17,Sort out which fricking intents to use,closed,2015-02-23T12:04:43Z,2015-03-06T23:47:39Z,bug
+spookypeanut/Love-Tag,13,Report if currently playing track is loved or not,closed,2015-02-18T11:26:38Z,2015-02-23T12:01:54Z,bug
+spookypeanut/Love-Tag,7,Remove duplicates from list,closed,2015-02-02T12:13:29Z,2015-02-09T13:26:04Z,bug
+spookypeanut/Love-Tag,5,Use media controller,open,2015-02-02T11:03:17Z,,bug
+saschpe/PlanningPoker,6,Restore card overview properly,closed,2018-10-20T15:58:33Z,2020-03-02T20:48:56Z,bug
+SecUSo/privacy-friendly-passwordgenerator,44,Screen Recordings are blocked but dialogs in the app are still visible,open,2022-08-03T16:43:58Z,,bug
+SecUSo/privacy-friendly-passwordgenerator,34,Application error occurs when I finish using the Benchmark feature [Privacy Friendly Password Generator v1.0.3],open,2019-06-15T10:08:03Z,,bug
+SecUSo/privacy-friendly-passwordgenerator,24,Generated password gets taken away when screen is rotated on the Password Generator app.,open,2018-05-20T23:59:02Z,,bug
+SecUSo/privacy-friendly-passwordgenerator,23,Search Results disappears when sreen is rotated on the Password generator app.,open,2018-05-20T23:23:32Z,,bug
+SecUSo/privacy-friendly-passwordgenerator,19,java.lang.IllegalStateException on Android 4 devices,open,2017-07-05T15:15:50Z,,bug
+TriangleLeft/Flashcards,21,Change language errors (and a fix),open,2017-03-31T22:16:43Z,,bug
+TriangleLeft/Flashcards,20,Learning direction dialogue has stuck locale identifiers,open,2017-03-31T22:07:21Z,,bug
+miketrewartha/positional,247,Make the app light weight if possible ,closed,2024-09-28T10:35:38Z,2024-10-13T22:05:43Z,bug
+miketrewartha/positional,35,Location/date combinations without solar times are broken,closed,2023-12-09T18:44:46Z,2023-12-09T18:52:17Z,bug
+nvllsvm/Audinaut,55,Invisible currently playing icon on white background,closed,2020-01-09T09:02:50Z,2020-01-11T22:51:54Z,bug
+nvllsvm/Audinaut,48,hide keyboard when switching to now playing,closed,2019-05-28T02:08:27Z,2020-01-13T16:01:03Z,bug
+nvllsvm/Audinaut,45,Incorrect track time shown,open,2019-03-21T21:43:31Z,,bug
+nvllsvm/Audinaut,42,Use light icons in notification when using dark mode,closed,2019-01-15T22:53:26Z,2020-01-15T20:47:39Z,"bug, enhancement"
+nvllsvm/Audinaut,37,Use query parameters instead of body,closed,2018-07-21T14:14:03Z,2019-03-08T03:19:47Z,bug
+nvllsvm/Audinaut,33,Audinaut v 0.3.0 can not change the equalizer sound effect on android 6.0.1,open,2018-06-01T19:30:17Z,,bug
+nvllsvm/Audinaut,32,Unable to choose sound equilisers. ,open,2018-05-18T09:29:32Z,,bug
+nvllsvm/Audinaut,30,Using the now playing screen in multi window mode crashes,open,2018-05-15T14:58:35Z,,bug
+nvllsvm/Audinaut,25,App stopped While Click on Playlists When we are in offline mode. ,closed,2018-04-01T09:14:59Z,2020-04-30T17:09:10Z,bug
+nvllsvm/Audinaut,23,Crashes on launch on Lollipop,closed,2018-03-13T19:29:29Z,2018-03-24T15:06:34Z,bug
+nvllsvm/Audinaut,19,Does not reliably respond to media keys,open,2017-08-05T18:29:46Z,,bug
+nvllsvm/Audinaut,17,Now Playing screen has a out-of-place drop-down ,closed,2017-06-10T21:07:00Z,2019-08-27T00:27:02Z,bug
+nvllsvm/Audinaut,9,"""Hide from other"" does not persist after clearing music cache",open,2017-03-17T05:38:23Z,,bug
+nvllsvm/Audinaut,7,Error : connection failure with 0.2.0,closed,2017-03-15T13:49:16Z,2017-04-13T18:18:45Z,bug
+nvllsvm/Audinaut,3,Account is labeled as a Subsonic account in Account settings,closed,2017-03-02T13:03:50Z,2017-03-04T14:43:47Z,bug
+nvllsvm/Audinaut,2,"Cannot launch Audinaut due to ""Format specifier"" error message",closed,2017-03-01T14:11:14Z,2017-03-05T05:55:32Z,bug
+mgoodwin14/BreweryBuddy,12,Brewery List doesn't clear with search,open,2017-11-28T04:40:10Z,,bug
+mgoodwin14/BreweryBuddy,11,Beer List doesn't clear with search clear,open,2017-11-28T04:39:30Z,,bug
+mgoodwin14/BreweryBuddy,10,None found before searching,open,2017-11-28T04:37:15Z,,bug
+sproshev/tcity,16,Screen rotation,closed,2014-12-21T19:43:58Z,2015-01-06T22:36:52Z,"bug, wontfix"
+ISchwarz23/SortableTableView,73,Column names not visible if switching visibility from GONE to VISIBLE,open,2016-12-11T18:34:12Z,,bug
+ISchwarz23/SortableTableView,70,Header Text and Sort Indicators Not Shown on API 16 or 17,closed,2016-12-05T20:52:53Z,2017-01-29T10:26:49Z,bug
+ISchwarz23/SortableTableView,68,Unnecessary header reset causes direction indicator to revert,closed,2016-12-02T21:21:49Z,2017-01-21T13:01:48Z,bug
+ISchwarz23/SortableTableView,66,When setting visibility gone there are some issues with the header view,closed,2016-12-01T14:09:10Z,2017-01-21T13:02:18Z,bug
+ISchwarz23/SortableTableView,60,"Why I use it works on Android5.0.2 ,but doesn't works on Android6.0  ,some data will be hide and some fragment can't work on scroll?",closed,2016-10-27T00:28:35Z,2017-01-21T13:02:34Z,bug
+ISchwarz23/SortableTableView,49,I/de.codecrafters.tableview.SortableTableView: Unable to sort column with index -1. Reason: no comparator set for this column.,closed,2016-08-14T21:27:47Z,2016-08-31T18:34:04Z,bug
+ISchwarz23/SortableTableView,18,`columnCount` is already defined for GridLayout support library,closed,2016-03-14T19:33:34Z,2016-04-24T16:17:55Z,"bug, enhancement"
+ISchwarz23/SortableTableView,12,Crash on orientation change / restore instance state,closed,2016-01-27T17:18:48Z,2016-01-30T16:59:33Z,bug
+ISchwarz23/SortableTableView,7,Table grows when sorting within HorizontalScrollView,closed,2015-12-02T16:20:34Z,2016-01-30T16:48:25Z,bug
+ISchwarz23/SortableTableView,4,notifyDataSetChanged(); not working,closed,2015-08-13T22:03:32Z,2015-08-18T22:00:29Z,bug
+ISchwarz23/SortableTableView,2,Header doesn't appear,closed,2015-08-04T16:48:26Z,2017-02-01T16:54:05Z,bug
+anastr/SpeedView,256,Text is capped at maximum dial speed,open,2024-08-16T06:58:47Z,,Bug report
+anastr/SpeedView,254,speedviewlib:compileDebugKotlin,closed,2024-05-16T17:35:49Z,2024-05-16T17:43:13Z,Bug report
+anastr/SpeedView,252,Custom Indicator image is not coming properly,open,2024-01-11T08:40:18Z,,Bug report
+anastr/SpeedView,246,ImageSpeedometer can't call drawDefMinMaxSpeedPosition without overriding class,open,2023-10-16T15:43:29Z,,Bug report
+anastr/SpeedView,230,Negative values,closed,2022-02-21T15:59:59Z,2023-06-28T08:40:16Z,Bug
+anastr/SpeedView,217,Indicator Does Not Move If withTremble Is Set to False,closed,2021-08-15T13:50:47Z,2021-11-05T03:59:13Z,Bug
+anastr/SpeedView,214,PointerSpeedometer tick labels overlap the speedometer bar and its default tickPadding isn't correct,closed,2021-07-26T10:11:06Z,2021-11-11T10:02:20Z,Bug
+anastr/SpeedView,213,move duration not work when onSpeedChangeListener or onSpeedTextListener is setted,closed,2021-07-25T11:54:18Z,2021-11-05T03:58:02Z,Bug
+anastr/SpeedView,207,clock.setTicknumber(0) will leave ticklabels at the min and max clock values.,closed,2021-06-21T20:11:34Z,2021-06-22T13:44:38Z,Bug report
+anastr/SpeedView,203,jcenter() has been deprecated.  Can you please publish to MavenCentral?,closed,2021-04-01T15:12:19Z,2021-04-04T17:59:10Z,Bug report
+anastr/SpeedView,200,How to add label on sections,closed,2021-03-24T13:59:06Z,2021-03-24T13:59:48Z,Bug report
+anastr/SpeedView,185,Crash with custom ticks,closed,2020-07-11T11:38:49Z,2020-07-27T06:27:18Z,Bug report
+anastr/SpeedView,178,White space at end of progress when setWithPointer(false) and how to decrease no of ticks,closed,2020-05-08T19:21:41Z,2020-07-27T06:28:05Z,"Bug, Bug report"
+anastr/SpeedView,177,Ticks don't show properly when overriding OnPrintTickLabel,closed,2020-04-29T13:07:06Z,2020-07-27T06:28:44Z,"Bug, Bug report"
+anastr/SpeedView,174,IllegalArgumentException,closed,2020-02-19T16:48:41Z,2020-02-23T07:41:19Z,"Bug, Bug report"
+anastr/SpeedView,172,Bug - view doesn't seem to redraw correctly when restored from saved state,closed,2020-01-23T12:47:56Z,2020-02-23T07:40:13Z,Bug
+anastr/SpeedView,170,Size is wrong in constraintlayout,closed,2020-01-04T14:48:03Z,2020-05-17T12:47:38Z,"will Try, Bug report"
+anastr/SpeedView,169,Unit has private access !,closed,2020-01-03T22:24:49Z,2020-02-23T07:40:54Z,Bug
+anastr/SpeedView,142,Facing this error on Nokia 6.1 (Android Pie).,closed,2019-04-24T11:45:45Z,2019-07-18T19:28:16Z,"Bug, need details"
+anastr/SpeedView,140,Tick padding  for a custom label,closed,2019-04-16T21:54:23Z,2019-12-29T04:01:17Z,Bug
+anastr/SpeedView,113,SpeedView is not showing in the preview of Android Studio,closed,2018-10-17T11:00:21Z,2019-02-06T11:30:40Z,"Bug, need details"
+anastr/SpeedView,110,SpeedView is not showing up in android studio in the layout editor,closed,2018-09-22T06:24:56Z,2019-02-06T10:40:18Z,"Bug, question, need details, Need Time"
+anastr/SpeedView,106, How can I remove the central circle?,closed,2018-08-17T15:45:51Z,2018-09-21T05:28:51Z,Bug
+anastr/SpeedView,100,change Low/Medium/High color in Recycler view at runtime,closed,2018-07-09T15:52:33Z,2018-09-21T05:28:24Z,Bug
+anastr/SpeedView,70,Unable to change the size of the tick text (sv_textsize) ,closed,2018-02-02T15:57:15Z,2018-02-03T13:20:12Z,Bug
+anastr/SpeedView,61,Indicator rotation,closed,2017-11-23T17:04:43Z,2018-01-04T06:39:44Z,"Bug, question"
+anastr/SpeedView,56,cant add to scroll view,closed,2017-10-20T06:25:42Z,2018-01-04T06:40:01Z,"Bug, question"
+anastr/SpeedView,50,Font gets cut off,closed,2017-09-26T12:13:27Z,2018-01-04T06:40:18Z,Bug
+anastr/SpeedView,43,Crash on android 4.0.4 (android.view.InflateException),closed,2017-08-24T10:14:06Z,2017-09-12T11:27:32Z,"invalid, Bug report"
+anastr/SpeedView,34,Can't see the DeluxeSpeedView ,closed,2017-07-05T08:08:42Z,2017-07-19T07:09:35Z,"Bug, duplicate"
+anastr/SpeedView,32,Render error with DeluxeSpeedView,closed,2017-06-07T10:45:04Z,2017-07-19T07:09:03Z,Bug
+anastr/SpeedView,20,定义的属性与其他开源库冲突，好像是indicator属性,closed,2017-02-10T02:41:04Z,2017-03-03T06:36:34Z,Bug
+ldionmarcil/OSRSHelper,58,Double encoding breaks API,closed,2018-08-22T03:10:22Z,2018-08-23T03:18:27Z,bug
+ldionmarcil/OSRSHelper,49,Virtual level settings not effective in tracker ,closed,2018-01-23T06:46:39Z,2018-01-24T04:02:52Z,bug
+ldionmarcil/OSRSHelper,48,Exp to level not displayed if level is 99,closed,2018-01-23T06:42:23Z,2018-01-24T04:01:54Z,bug
+ldionmarcil/OSRSHelper,43,Unexisting username not parsed properly in CML,closed,2018-01-15T02:02:37Z,2018-01-15T02:30:53Z,bug
+ldionmarcil/OSRSHelper,35,Integer overflow exception with XP in CML/RT trackers,closed,2018-01-08T02:03:36Z,2018-01-13T21:02:24Z,"bug, enhancement"
+ldionmarcil/OSRSHelper,33,Don't save username to quicklist if not user found,closed,2017-07-09T03:14:01Z,2018-02-04T05:23:47Z,bug
+ldionmarcil/OSRSHelper,16,Tracker not working for daily/hourly,closed,2015-01-31T05:22:41Z,2016-01-25T00:40:21Z,bug
+Quexten/UlricianumPlanner,26,Feedback Issue 2/21/2017 17:08:39,closed,2017-02-21T16:17:10Z,2017-02-22T12:46:38Z,bug
+Quexten/UlricianumPlanner,23,Feedback Issue 2/5/2017 19:14:58,closed,2017-02-05T18:25:15Z,2017-02-06T18:18:05Z,bug
+Quexten/UlricianumPlanner,20,Feedback Issue 12/15/2016 21:06:00,closed,2016-12-15T20:12:45Z,2016-12-15T20:58:59Z,bug
+Quexten/UlricianumPlanner,19,Feedback Issue 12/15/2016 13:53:13,closed,2016-12-15T13:06:28Z,2016-12-15T21:00:37Z,bug
+Quexten/UlricianumPlanner,17,Feedback Issue 12/14/2016 12:58:19,closed,2016-12-14T12:02:53Z,2016-12-19T17:01:37Z,"bug, on hold"
+Quexten/UlricianumPlanner,12,Feedback Issue 12/13/2016 14:47:51,closed,2016-12-13T13:51:25Z,2016-12-13T19:43:14Z,"bug, enhancement"
+Quexten/UlricianumPlanner,9,Feedback Issue 12/12/2016 16:12:21,closed,2016-12-12T15:24:15Z,2016-12-12T16:36:43Z,"bug, invalid"
+Quexten/UlricianumPlanner,5,Feedback Issue 12/9/2016 13:55:57,closed,2016-12-09T13:12:09Z,2016-12-09T14:55:46Z,bug
+Quexten/UlricianumPlanner,4,Feedback Issue 12/7/2016 23:41:51,closed,2016-12-07T22:55:03Z,2016-12-14T21:06:49Z,bug
+Quexten/UlricianumPlanner,3,Feedback Issue 12/7/2016 13:14:13,closed,2016-12-07T12:14:44Z,2016-12-10T13:52:10Z,"bug, invalid"
+pacien/tincapp,118,Disconnect when changing screen orientation,open,2023-02-22T09:57:06Z,,"bug, help wanted, quality"
+pacien/tincapp,106,Configuration activity: double-clicking on tools rapidly crashes the app,closed,2020-12-07T15:31:26Z,2023-07-30T15:05:11Z,"bug, help wanted, quality"
+pacien/tincapp,100,Crash when starting the VPN,closed,2020-09-18T21:11:50Z,2023-07-30T15:09:16Z,"bug, help wanted"
+pacien/tincapp,99,can't create new configuration: FORTIFY: umask: called with invalid mask -601,closed,2020-09-09T23:15:56Z,2020-09-16T12:50:39Z,bug
+pacien/tincapp,98,[android 10 & 11] main activity crashing due to external storage unavailability,closed,2020-09-09T23:09:00Z,2020-09-16T12:50:40Z,bug
+pacien/tincapp,94,Crash on Android 10 due to missing apache commons logging,closed,2020-01-20T22:13:21Z,2020-01-20T22:39:08Z,bug
+pacien/tincapp,92,Unable to pass file descriptor to daemon subprocess with target SDK 29,closed,2019-10-12T23:29:11Z,2020-01-21T09:33:36Z,"bug, upstream change"
+pacien/tincapp,90,"""Could not start tinc"" on Android 10",closed,2019-09-14T03:46:45Z,2019-09-15T04:57:51Z,bug
+pacien/tincapp,89,Nothing happens if another app is set as always on VPN ,closed,2019-07-05T17:50:22Z,2019-09-15T04:57:28Z,"bug, quality"
+pacien/tincapp,85,Fatal application error,closed,2019-06-14T07:28:05Z,2019-06-14T11:56:49Z,bug
+pacien/tincapp,84,Loss of connection when changing the network,closed,2019-05-22T08:26:52Z,2019-06-13T23:17:22Z,"bug, question, doc"
+pacien/tincapp,80,Kill remnant daemon process when starting a new one,closed,2019-02-19T19:22:44Z,2019-03-25T03:21:33Z,"bug, help wanted"
+pacien/tincapp,79,"""Storage access: permission denied"" on Android-x86",closed,2019-02-17T08:11:40Z,2019-03-25T03:21:33Z,"bug, help wanted, third party"
+pacien/tincapp,73,IllegalArgumentException in ConnectivityChangeReceiver.unregisterWatcher,closed,2018-09-27T15:14:06Z,2018-09-27T15:29:19Z,bug
+pacien/tincapp,72,Fatal application error,closed,2018-09-23T20:18:44Z,2018-09-25T20:37:50Z,bug
+pacien/tincapp,71,Fatar error in NetworkListFragment on app start,closed,2018-09-22T13:35:49Z,2018-09-25T20:37:34Z,bug
+pacien/tincapp,69,KotlinNullPointerException in NodeListViewModel.kt,closed,2018-09-07T22:01:11Z,2018-09-09T12:39:44Z,bug
+pacien/tincapp,67,App crashes when trying to report a crash,closed,2018-08-26T00:51:57Z,2018-08-26T02:17:13Z,bug
+pacien/tincapp,59,KotlinNullPointerException in .activities.StatusActivity.onItemClick,closed,2018-07-27T19:09:02Z,2018-08-01T14:19:57Z,bug
+pacien/tincapp,56,SecurityException in ConfigureActivity.scanCode,closed,2018-06-09T19:22:57Z,2018-06-10T21:49:38Z,bug
+pacien/tincapp,55,SecurityException in TincVpnService.startVpn,closed,2018-05-20T19:34:14Z,2018-05-26T11:56:54Z,bug
+pacien/tincapp,53,IllegalStateException in StatusActivity,closed,2018-04-14T21:21:01Z,2018-05-05T23:01:58Z,"bug, help wanted"
+pacien/tincapp,52,ClassCastException in StatusActivity,closed,2018-04-14T21:16:44Z,2018-04-29T10:51:58Z,bug
+pacien/tincapp,51,NullPointerException in ViewLogActivity,closed,2018-04-08T11:01:21Z,2018-04-18T20:36:54Z,bug
+pacien/tincapp,48,bug found in tich app whento create new networks,closed,2018-03-22T01:57:34Z,2018-03-24T15:11:13Z,bug
+pacien/tincapp,47,seeting button doest not working in tinc app,closed,2018-03-21T08:38:54Z,2018-03-24T15:11:01Z,bug
+pacien/tincapp,44,App crashes on start when another VPN is running,closed,2018-03-13T16:51:16Z,2018-03-14T12:32:13Z,bug
+pacien/tincapp,43,Crash in StatusActivity,closed,2018-03-09T18:24:02Z,2018-03-12T13:32:07Z,bug
+pacien/tincapp,42,Crash in ConfigureActivity,closed,2018-03-09T18:23:28Z,2018-03-12T00:27:34Z,bug
+pacien/tincapp,40,VPN startup dialog persisting after daemon immediate exit,closed,2018-02-19T16:05:07Z,2018-02-24T01:04:12Z,bug
+pacien/tincapp,39,F-Droid build failing (v0.8),closed,2018-02-19T16:02:01Z,2018-02-21T16:17:07Z,bug
+pacien/tincapp,38,Encrypting the keys fails: SecretKeyFactory PBKDF-OpenSSL implementation not found,closed,2018-02-12T07:22:04Z,2018-03-04T19:22:10Z,bug
+pacien/tincapp,33,No known node after VPN restart ,closed,2017-10-24T12:30:55Z,2018-02-16T17:30:52Z,bug
+pacien/tincapp,25,NullPointerException in service,closed,2017-10-03T09:27:21Z,2017-11-07T23:25:20Z,bug
+pacien/tincapp,24,NullPointerException on start,closed,2017-10-03T09:26:37Z,2017-11-07T23:25:02Z,bug
+pacien/tincapp,20,"Check for ""external"" storage availability",closed,2017-09-14T15:36:36Z,2017-11-07T23:24:20Z,bug
+groundupworks/flying-photo-booth,6,Occasional freezes during count down,open,2016-04-04T05:44:01Z,,bug
+groundupworks/flying-photo-booth,4,Auto-focus is messed up on some devices,open,2016-04-03T23:43:25Z,,"bug, ready"
+adamsp/wsnz-android,21,Bad format string for notifications,closed,2016-06-14T20:57:59Z,2016-10-30T21:10:41Z,Bug
+adamsp/wsnz-android,15,Restore selected quake after rotation,closed,2013-08-18T02:13:19Z,2016-05-08T14:11:25Z,Bug
+adamsp/wsnz-android,14,Retain map position/zoom after rotation,closed,2013-08-17T00:07:37Z,2013-08-17T04:50:25Z,Bug
+adamsp/wsnz-android,12,Fix notifications to go to a sensible place,closed,2013-08-06T07:56:00Z,2016-05-08T14:11:25Z,Bug
+adamsp/wsnz-android,5,Background process keeps running when disabled,closed,2013-01-06T23:41:46Z,2013-08-18T02:27:34Z,Bug
+adamsp/wsnz-android,1,GeonetService crashes if no internet connection available,closed,2012-10-08T08:28:13Z,2012-10-08T08:30:56Z,Bug
+NordicSemiconductor/Android-nRF-Toolbox,138,Navigation issue,closed,2024-01-03T12:18:09Z,2024-09-01T05:55:14Z,bug
+NordicSemiconductor/Android-nRF-Toolbox,86,nRF Toolbox(Ver 2.8.0) fail DFU on running Android 9,closed,2020-02-05T05:48:25Z,2020-02-05T11:21:38Z,bug
+NordicSemiconductor/Android-nRF-Toolbox,69,DFU crash after 2.7.0 update,closed,2019-04-03T05:45:06Z,2019-04-03T07:47:41Z,bug
+NordicSemiconductor/Android-nRF-Toolbox,57,Battery optimization is killing nrf-toolbox while running in the background,open,2018-10-29T11:00:15Z,,bug
+RobinJ1995/DistroHopper,31,IllegalArgumentException: width and height must be > 0,open,2025-10-14T15:03:55Z,,"bug, crash"
+RobinJ1995/DistroHopper,12,New apps installed are not immediately recognized and updated ,closed,2014-11-30T15:57:06Z,2015-07-24T20:45:27Z,"bug, medium-priority"
+RobinJ1995/DistroHopper,11,Home button does not take you home if you are in launcher preferences,open,2014-11-30T15:54:19Z,,"bug, low-priority"
+RobinJ1995/DistroHopper,6,Running App indicator,closed,2014-09-30T16:17:00Z,2018-08-18T10:12:14Z,bug
+RobinJ1995/DistroHopper,5,Problem with keyboard and launcher,closed,2014-09-25T03:25:43Z,2018-08-18T10:13:45Z,"bug, low-priority"
+Z3r0byte/Magis,73,Boolean isOldFormat in GradesTask.java is null if no internet connection is present.,closed,2018-03-07T16:08:00Z,2018-03-14T17:38:36Z,"bug, high priority"
+Z3r0byte/Magis,69,Auto silent permission,closed,2017-10-30T15:20:02Z,2017-11-12T11:13:41Z,"bug, high priority"
+Z3r0byte/Magis,68,Dubbele cijfers,open,2017-10-17T18:15:54Z,,"bug, medium priority"
+Z3r0byte/Magis,66,"""Geen aanwezigheden"" doesn't go away when switching years",closed,2017-09-30T16:38:20Z,2017-10-17T17:05:55Z,"bug, medium priority"
+Z3r0byte/Magis,61,Crash when going to grades,closed,2017-09-07T07:52:58Z,2017-09-14T16:59:02Z,"bug, high priority"
+Z3r0byte/Magis,54,Presence not working when coming from grades,closed,2017-03-02T09:48:27Z,2017-09-28T13:28:10Z,"bug, medium priority"
+Z3r0byte/Magis,53,Assertion error causes app to crash.,closed,2017-03-02T09:25:12Z,2017-03-03T11:22:32Z,"bug, high priority, can't reproduce"
+Z3r0byte/Magis,51,Marks,closed,2016-12-16T18:21:31Z,2017-03-01T17:58:36Z,bug
+Z3r0byte/Magis,50,Wrong timezone,closed,2016-10-30T19:13:18Z,2016-10-30T19:52:59Z,"bug, high priority"
+Z3r0byte/Magis,47,Crash on boot,closed,2016-10-05T17:46:39Z,2016-10-09T09:31:58Z,"bug, medium priority"
+Z3r0byte/Magis,46,Crash in Presence,closed,2016-10-05T15:09:43Z,2016-10-09T09:31:58Z,"bug, can't reproduce, medium priority"
+Z3r0byte/Magis,43,Crash in homework,closed,2016-09-28T13:27:15Z,2016-09-29T17:01:59Z,"bug, medium priority"
+Z3r0byte/Magis,38,Calendar not showing all appointments in some cases.,open,2016-09-20T16:21:50Z,,"bug, can't reproduce, need more info, medium priority"
+Z3r0byte/Magis,37,Wrong day in Homework Activity,closed,2016-09-18T08:34:22Z,2016-09-21T17:28:43Z,"bug, medium priority"
+Z3r0byte/Magis,36,Crash in details of appointment,closed,2016-09-12T17:30:12Z,2016-09-21T17:28:43Z,"bug, can't reproduce, medium priority"
+Z3r0byte/Magis,35,App crashes while loading 'Cijfers' page,closed,2016-09-10T07:52:32Z,2016-10-04T17:24:05Z,"bug, can't reproduce, medium priority"
+Z3r0byte/Magis,31,Crash on null Magister,closed,2016-09-01T17:23:34Z,2016-09-03T18:16:07Z,"bug, medium priority"
+Z3r0byte/Magis,29,Homework not working,closed,2016-08-31T13:33:54Z,2016-09-06T17:53:22Z,"bug, need more info, medium priority"
+Z3r0byte/Magis,25,Login not working,closed,2016-08-25T18:17:50Z,2016-09-13T16:54:41Z,"bug, high priority, can't reproduce, need more info"
+Z3r0byte/Magis,22,Bug: unable to login from setup,closed,2016-08-22T17:10:09Z,2016-08-22T17:33:39Z,bug
+Z3r0byte/Magis,18,Unresponsive interface,closed,2016-07-04T08:10:37Z,2016-07-19T14:35:20Z,bug
+Z3r0byte/Magis,15,Delete appointment from database as well.,closed,2016-07-03T07:07:59Z,2016-07-03T07:10:19Z,"bug, enhancement"
+Z3r0byte/Magis,13,Timezone Bug,closed,2016-07-01T16:34:27Z,2016-07-01T16:35:39Z,bug
+Z3r0byte/Magis,12,Layout error in details of appointment,closed,2016-06-27T16:59:16Z,2016-07-12T10:21:22Z,bug
+Z3r0byte/Magis,8,No cache subtitle doesnt go away.,closed,2016-06-23T08:31:39Z,2016-06-23T14:25:48Z,bug
+Z3r0byte/Magis,7,Period showing '0' when no period is defined,closed,2016-06-22T15:14:16Z,2016-06-23T14:24:55Z,bug
+Z3r0byte/Magis,6,Seperator line appointment list is in wrong place,closed,2016-06-22T15:04:00Z,2016-06-22T15:08:46Z,bug
+Z3r0byte/Magis,5,Bug: app doesnt use cache when login is cancelled,closed,2016-06-22T14:44:10Z,2016-06-22T14:46:22Z,bug
+Z3r0byte/Magis,4,Bug on rotation while loading,closed,2016-06-22T14:38:09Z,2016-06-22T14:38:41Z,bug

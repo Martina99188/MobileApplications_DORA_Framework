@@ -1,0 +1,440 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+konradrenner/kolabnotes-android,216,pt-rBR Bug,closed,2020-10-17T14:28:26Z,2020-10-21T06:18:18Z,bug
+konradrenner/kolabnotes-android,198,Kolab Notizen v3.2.0 - Clicking on the widget to enter the application can make this application suddenly stop,closed,2019-07-01T16:26:48Z,2019-07-11T06:55:13Z,bug
+konradrenner/kolabnotes-android,197,"Kolab Notizen v3.2.0 - Disabling the ""Enable Rich Text Editor"" feature, making this application suddenly stop",closed,2019-06-28T16:50:40Z,2019-07-11T06:55:19Z,"bug, help wanted"
+konradrenner/kolabnotes-android,188,Notebook export canceled,closed,2018-06-02T00:32:27Z,2020-07-30T08:05:01Z,"bug, help wanted"
+konradrenner/kolabnotes-android,186,Kolab Notizen v 3.1.3 Crash when select and open the Print feature in android 7.0,closed,2018-05-29T13:04:20Z,2019-07-11T05:59:16Z,"bug, help wanted, junior job"
+konradrenner/kolabnotes-android,174,[Bug]: plus sign disappears after saving,closed,2018-03-19T02:45:51Z,2018-05-21T17:08:13Z,bug
+konradrenner/kolabnotes-android,167,Some NullPointers since 3.0.0,closed,2017-12-16T11:43:57Z,2017-12-16T11:47:10Z,bug
+konradrenner/kolabnotes-android,160,Permanent crash after adding image to KolabNotes,closed,2017-04-09T21:10:30Z,2017-04-11T07:37:11Z,bug
+konradrenner/kolabnotes-android,154,Notebook-selection not working as expected,closed,2017-01-28T18:39:05Z,2017-03-15T16:14:50Z,"bug, Analysis"
+konradrenner/kolabnotes-android,141,& in note description,closed,2016-10-20T18:50:30Z,2016-10-20T20:54:16Z,bug
+konradrenner/kolabnotes-android,140,NOT_LOADED notes,closed,2016-10-18T19:50:45Z,2016-10-20T20:54:01Z,bug
+konradrenner/kolabnotes-android,134,Rotating tablet loses edits,closed,2016-08-03T18:36:38Z,2016-08-11T17:03:42Z,"bug, help wanted"
+konradrenner/kolabnotes-android,129,Exported notebooks do not include the description,closed,2016-06-22T12:12:50Z,2016-07-12T09:29:35Z,bug
+konradrenner/kolabnotes-android,127,Crash on back if Rich Text is disabled,closed,2016-05-04T06:55:20Z,2016-05-06T06:53:10Z,bug
+konradrenner/kolabnotes-android,125,Adding images between note text,closed,2016-04-27T06:37:06Z,2016-05-01T07:41:21Z,"bug, help wanted"
+konradrenner/kolabnotes-android,122,Account removal not handled properly,closed,2016-04-04T14:56:02Z,2016-05-01T07:27:36Z,bug
+konradrenner/kolabnotes-android,119,Large memory leak,closed,2016-03-23T18:38:54Z,2017-12-12T19:39:31Z,"bug, help wanted"
+konradrenner/kolabnotes-android,111,Unsaved changes are lost when the screen rotates.,closed,2016-02-23T13:53:20Z,2016-02-24T16:36:40Z,bug
+konradrenner/kolabnotes-android,96,Exception in checkDifferences,closed,2016-01-07T17:20:54Z,2016-01-07T17:25:46Z,bug
+konradrenner/kolabnotes-android,94,Exception in checkModificationPermissions(Notebook),closed,2016-01-07T16:00:05Z,2016-01-07T17:27:28Z,bug
+konradrenner/kolabnotes-android,91,Missing i18n,closed,2015-12-29T23:03:57Z,2015-12-30T09:39:04Z,bug
+konradrenner/kolabnotes-android,90,False sorting parameter,closed,2015-12-27T22:59:44Z,2015-12-29T23:02:13Z,bug
+konradrenner/kolabnotes-android,85,Classification: Public,closed,2015-12-01T14:05:53Z,2015-12-01T18:18:53Z,bug
+konradrenner/kolabnotes-android,84,Sync Interval is not honored,closed,2015-11-29T20:02:37Z,2015-12-01T18:18:43Z,bug
+konradrenner/kolabnotes-android,82,Slow Sync due to EXAMINE commands on each folder,closed,2015-11-26T20:58:55Z,2015-11-30T14:49:54Z,"bug, enhancement"
+konradrenner/kolabnotes-android,76,Provide STARTTLS Support ,closed,2015-10-30T06:58:17Z,2015-11-17T12:01:28Z,bug
+konradrenner/kolabnotes-android,75,Note not found if not in selected account,closed,2015-09-19T10:11:46Z,2015-09-21T15:40:32Z,bug
+konradrenner/kolabnotes-android,66,Change text color of icon bar when a note has a light color,closed,2015-08-31T14:32:02Z,2015-09-18T19:46:46Z,"bug, junior job"
+konradrenner/kolabnotes-android,61,Account switching,closed,2015-08-23T17:09:52Z,2015-08-26T11:46:29Z,bug
+konradrenner/kolabnotes-android,56,Bugs in version 0.1.0,closed,2015-08-06T11:55:40Z,2015-08-06T16:58:45Z,bug
+konradrenner/kolabnotes-android,54,Wrong german translation,closed,2015-07-27T16:42:58Z,2015-07-30T21:36:25Z,bug
+konradrenner/kolabnotes-android,51,Stabilize overall sync,closed,2015-07-14T11:19:45Z,2015-08-01T15:15:17Z,bug
+konradrenner/kolabnotes-android,46,Account name / address redundancy navigation drawer,closed,2015-07-07T09:01:57Z,2015-07-13T14:02:40Z,bug
+konradrenner/kolabnotes-android,44,Upload of Images in a note,closed,2015-07-07T06:47:25Z,2015-07-14T11:59:04Z,bug
+konradrenner/kolabnotes-android,37,Unable to start DetailActivity,closed,2015-06-26T06:18:40Z,2015-06-26T11:26:55Z,bug
+konradrenner/kolabnotes-android,34,NullPointer at onCreate in DetailActivity,closed,2015-06-22T15:37:03Z,2015-06-22T20:54:21Z,bug
+konradrenner/kolabnotes-android,31,NullPointer at onResume in MainActivity,closed,2015-06-19T07:13:51Z,2015-06-22T20:54:42Z,bug
+konradrenner/kolabnotes-android,29,Sync apparently happens in the wrong direction,closed,2015-06-10T22:12:48Z,2015-07-14T11:22:41Z,bug
+konradrenner/kolabnotes-android,25,Layout of note list unclean,closed,2015-06-01T07:32:50Z,2015-06-15T18:29:55Z,bug
+konradrenner/kolabnotes-android,24,Note created in the app does not show up in Kolab's web UI,closed,2015-05-22T15:11:03Z,2015-07-14T11:58:37Z,bug
+konradrenner/kolabnotes-android,6,Searching for notes does not work,closed,2015-05-04T10:49:54Z,2015-05-09T08:35:46Z,"bug, help wanted"
+RayBa82/DVBViewerController,13,Crash on Samsung Roms ,closed,2015-02-12T18:35:27Z,2015-02-12T20:51:43Z,bug
+ultramega/elementary,40,'android.useAndroidX' property is not enabled,closed,2020-05-23T12:55:10Z,2020-05-23T17:45:26Z,bug
+ultramega/elementary,28,Electron Configuration Display,closed,2018-01-10T19:01:04Z,2018-01-10T22:38:23Z,bug
+ultramega/elementary,21,Zoom buttons sometimes overlap the Periodic Table controls,closed,2016-12-09T17:06:12Z,2016-12-18T20:52:37Z,bug
+YaleSTC/YalePublic-android,138,Fix the renaming,closed,2016-02-21T23:55:16Z,2016-02-22T00:11:13Z,bug
+YaleSTC/YalePublic-android,136,4.4 ActionBar,closed,2016-02-12T19:51:23Z,2016-02-22T00:36:42Z,bug
+YaleSTC/YalePublic-android,104,Photos: Webview conflicts with fragment,closed,2015-02-09T04:11:49Z,2015-08-20T17:44:10Z,bug
+YaleSTC/YalePublic-android,44,Events Feature - List View,closed,2015-01-17T15:02:53Z,2015-02-20T02:27:14Z,bug
+kd8bny/maintenanceMan,6,Month Graph doesnt differentiate between years,closed,2016-05-12T22:52:46Z,2016-09-10T20:39:47Z,bug
+kd8bny/maintenanceMan,5,No data during sync of dropbox,closed,2016-04-29T13:07:29Z,2016-06-04T21:31:28Z,bug
+kd8bny/maintenanceMan,1,Event duplicates,closed,2015-09-22T00:39:25Z,2015-10-02T01:52:36Z,bug
+vickychijwani/quill,161,Unable to login if Ghost admin is at /blog/ghost,closed,2017-02-07T01:37:54Z,2017-02-08T00:29:59Z,"bug, user feedback"
+vickychijwani/quill,160,Editor loses cursor position after resuming,closed,2017-02-04T18:09:54Z,2017-02-04T18:11:09Z,"post editor, bug, user feedback"
+vickychijwani/quill,156,Nginx HTTP/2 server: REFUSED_STREAM error,closed,2017-02-01T22:07:23Z,2017-02-02T22:38:53Z,"bug, user feedback"
+vickychijwani/quill,155,Overhaul image upload,closed,2017-02-01T21:32:44Z,2017-02-07T00:54:31Z,"performance, bug"
+vickychijwani/quill,152,Drafts are not deleted if they're edited right before deletion,open,2016-12-25T14:41:42Z,,bug
+vickychijwani/quill,147,Quill crash on creating a new post (2 drafts created),closed,2016-11-02T11:59:26Z,2017-02-12T01:15:34Z,"bug, user feedback"
+vickychijwani/quill,146,Cannot login after upgrade Ghost,closed,2016-10-05T17:53:48Z,2016-10-09T17:41:19Z,bug
+vickychijwani/quill,145,"User with only ""Author"" role are not handled correctly",closed,2016-10-05T04:38:00Z,2016-10-05T22:05:27Z,bug
+vickychijwani/quill,141,Tags and Featured Post,closed,2016-07-03T17:37:56Z,2016-07-05T20:59:11Z,"enhancement, bug"
+vickychijwani/quill,140,Improve error feedback for blogs with no accounts set up,open,2016-07-03T09:52:29Z,,bug
+vickychijwani/quill,136,Preview scheduled posts just like drafts,closed,2016-06-23T07:13:32Z,2016-06-26T00:59:49Z,bug
+vickychijwani/quill,135,Display scheduled posts correctly in the post list,closed,2016-06-23T07:11:47Z,2016-06-26T00:59:49Z,bug
+vickychijwani/quill,133,"Publish action not enabled after editing post settings (tags,  featured post, ...)",closed,2016-06-10T00:15:49Z,2016-07-05T22:09:40Z,bug
+vickychijwani/quill,132,Login - default to HTTPS if user enters URL without a scheme,closed,2016-06-03T22:13:44Z,2016-06-04T23:12:19Z,bug
+vickychijwani/quill,125,"""View post on blog"" gives a 404 after publishing",open,2016-05-19T22:36:57Z,,bug
+vickychijwani/quill,124,User image is null,closed,2016-05-19T00:46:20Z,2016-08-24T08:42:11Z,bug
+vickychijwani/quill,122,Don't generate post slugs for Ghost >= 0.8.0,open,2016-05-15T14:16:37Z,,"bug, code, legacy"
+vickychijwani/quill,121,"With Ghost 0.7.9, app crashes on login",closed,2016-05-08T19:23:50Z,2016-05-13T23:48:16Z,bug
+vickychijwani/quill,119,PermissionDenied in image upload on Android 6.0+,closed,2016-05-01T10:37:42Z,2017-02-18T20:31:06Z,bug
+vickychijwani/quill,116,There is no Ghost Blog at {blogUrl},closed,2016-03-31T18:20:15Z,2016-04-02T19:20:17Z,bug
+vickychijwani/quill,114,Trim Blogurl in LoginActivity.java,closed,2016-03-31T18:08:46Z,2016-04-02T16:52:12Z,bug
+vickychijwani/quill,110,Support latest Ghost versions,closed,2015-11-22T19:58:02Z,2016-09-18T19:37:29Z,bug
+vickychijwani/quill,109,Editor cannot be scrolled with a small amount of text,closed,2015-11-22T19:52:43Z,2016-05-01T09:38:00Z,"post editor, bug"
+vickychijwani/quill,108,Allow user-entered blog URL to end with /ghost,closed,2015-10-04T12:54:01Z,2016-04-27T18:45:40Z,bug
+vickychijwani/quill,106,Change message for auto-saved local edits to a published post,closed,2015-09-11T21:58:55Z,2015-09-27T21:03:41Z,bug
+vickychijwani/quill,105,Show loading spinner in post list during first fetch,open,2015-09-06T18:49:10Z,,bug
+vickychijwani/quill,103,Allow syncing in the background,open,2015-09-01T09:25:33Z,,bug
+vickychijwani/quill,99,Always launch external browser on tapping a link in the preview,closed,2015-08-29T22:48:13Z,2015-09-06T16:45:21Z,bug
+vickychijwani/quill,95,Post list intermittently blank for several seconds,open,2015-08-23T20:38:41Z,,bug
+vickychijwani/quill,93,Images in preview not displayed at all if Ghost contentPath is not /content/,closed,2015-08-08T21:31:49Z,2016-05-14T20:39:09Z,bug
+vickychijwani/quill,92,Handle unexpected token invalidation gracefully,closed,2015-08-03T17:30:23Z,2016-06-05T01:28:13Z,bug
+vickychijwani/quill,91,Preview FAB has 0 margin on API 17 (4.2.2),closed,2015-08-01T12:20:04Z,2015-08-12T19:49:00Z,bug
+vickychijwani/quill,90,Set sane default timeouts on OkHttpClient,closed,2015-07-28T11:57:15Z,2015-07-28T19:34:08Z,bug
+vickychijwani/quill,88,Scroll position in post editor not preserved on switching to preview and back,closed,2015-07-12T00:50:02Z,2015-09-05T17:08:36Z,bug
+vickychijwani/quill,87,Crash on logging in after offline logout,closed,2015-07-06T22:58:55Z,2016-06-18T11:22:41Z,bug
+vickychijwani/quill,84,"Get rid of ""Discard changes"" because it's confusing (""Undo"" should be good enough)",closed,2015-07-02T23:05:17Z,2015-07-11T19:46:28Z,bug
+vickychijwani/quill,82,Add runtime check for Ghost version,open,2015-06-30T23:41:47Z,,bug
+vickychijwani/quill,81,Allow viewing and editing beyond the latest 30 posts,open,2015-06-29T17:26:48Z,,"performance, bug"
+vickychijwani/quill,79,Data refresh in onResume intermittently gets stuck,closed,2015-06-25T20:30:04Z,2015-07-26T16:58:10Z,bug
+vickychijwani/quill,75,Memory leak in WebViewFragment,closed,2015-06-22T22:32:49Z,2016-05-22T21:42:16Z,"help wanted, bug"
+vickychijwani/quill,71,Draft not saved if partial changes are saved and reverted,closed,2015-05-24T23:22:12Z,2015-06-24T21:13:15Z,bug
+vickychijwani/quill,67,Drafts are sorted to the bottom as soon as any changes are made,closed,2015-05-19T18:23:11Z,2015-05-23T23:17:48Z,bug
+vickychijwani/quill,66,Strange behaviour when editing empty / nearly empty post body,closed,2015-05-19T18:13:40Z,2015-07-07T21:48:42Z,bug
+vickychijwani/quill,65,Refresh spinner never goes away if blog is down,closed,2015-05-17T22:07:20Z,2015-05-24T11:48:02Z,bug
+vickychijwani/quill,63,Timestamps are always in UTC,closed,2015-05-17T19:36:22Z,2015-05-17T21:34:23Z,bug
+vickychijwani/quill,62,Prompt for password if it changes,closed,2015-05-16T19:06:21Z,2015-06-28T18:26:51Z,bug
+vickychijwani/quill,61,App hogs too much disk space for no apparent reason,closed,2015-05-16T18:18:12Z,2015-05-16T18:24:52Z,bug
+vickychijwani/quill,60,Images don't seem to be cached offline,closed,2015-05-16T18:12:52Z,2015-05-24T11:48:02Z,bug
+vickychijwani/quill,58,Suppress unnecessary logs in release builds,closed,2015-05-15T21:43:27Z,2015-07-26T15:05:23Z,bug
+vickychijwani/quill,57,Revoke access token on log out,closed,2015-05-15T19:47:16Z,2015-06-29T19:20:12Z,bug
+vickychijwani/quill,56,Crash on logging out when background refresh is ongoing,closed,2015-05-14T22:54:06Z,2016-06-18T11:26:40Z,bug
+vickychijwani/quill,53,Memory leak in PostListActivity (detected by Leak Canary),closed,2015-05-14T22:18:18Z,2015-05-16T20:16:04Z,bug
+vickychijwani/quill,47,Creating and publishing a post offline doesn't work,closed,2015-05-10T21:07:56Z,2015-05-17T19:44:49Z,bug
+vickychijwani/quill,46,Tags get cut-off when there are too many,closed,2015-05-10T20:50:19Z,2015-10-03T22:00:09Z,bug
+vickychijwani/quill,44,"New posts are always published with default slug ""untitled-xyz""",closed,2015-05-10T19:59:16Z,2015-05-15T21:51:10Z,bug
+vickychijwani/quill,43,Focus moves from post content to tags when switching to preview mode and back,closed,2015-05-10T18:46:37Z,2015-05-15T23:40:48Z,"post editor, bug"
+vickychijwani/quill,36,"Misleading error ""There is no Ghost blog at xyz"" when trying to login offline",closed,2015-04-28T18:34:08Z,2015-06-29T19:41:31Z,bug
+vickychijwani/quill,35,Intelligent save policy when exiting post editor,closed,2015-04-28T14:33:06Z,2015-07-06T23:46:53Z,bug
+vickychijwani/quill,34,Posts deleted on the server aren't deleted on the client,closed,2015-04-28T05:57:23Z,2015-05-01T00:19:32Z,bug
+vickychijwani/quill,30,"Refresh token gets overwritten to """" when a request to refresh the access token is made",closed,2015-04-24T03:25:26Z,2015-04-25T01:17:05Z,bug
+vickychijwani/quill,25,Crash: NullPointerException in NetworkService.java line 99,closed,2015-04-07T17:37:31Z,2015-04-19T02:45:12Z,bug
+vickychijwani/quill,21,Crash: PostViewActivity.java line 64,closed,2015-02-26T16:48:16Z,2015-02-26T17:19:41Z,bug
+vickychijwani/quill,18,Encrypt saved user credentials,closed,2015-02-22T19:39:27Z,2015-06-28T20:28:47Z,bug
+vickychijwani/quill,17,Don't display login screen on Back / Up navigation,closed,2015-02-21T14:32:26Z,2015-03-30T21:16:36Z,bug
+uvweb/UVwebForAndroid,51,Detail header breaks on rotation,closed,2014-08-21T15:01:20Z,2014-08-22T09:41:20Z,bug
+uvweb/UVwebForAndroid,43,Froyo: the list dividers are too dark,closed,2013-03-02T18:22:12Z,2013-03-08T16:04:29Z,bug
+uvweb/UVwebForAndroid,42,Wrong color of the context menu on Gingerbread,closed,2013-03-02T17:56:29Z,2013-03-02T18:21:49Z,bug
+uvweb/UVwebForAndroid,38,Fix overdraw for phones,closed,2013-02-28T15:02:46Z,2013-03-01T17:37:52Z,bug
+uvweb/UVwebForAndroid,36,Fix crash n7 on rotate,closed,2013-02-27T11:07:52Z,2013-03-01T23:36:31Z,bug
+uvweb/UVwebForAndroid,35,Add a divider for empty uv list,closed,2013-02-27T11:06:01Z,2013-03-01T11:39:06Z,"bug, 2pane"
+uvweb/UVwebForAndroid,34,Fix scroll indicator,closed,2013-02-27T11:00:16Z,2013-02-28T14:59:35Z,bug
+uvweb/UVwebForAndroid,31,Fix ellipsize on comments,closed,2013-01-28T08:40:40Z,2013-02-27T09:36:35Z,bug
+uvweb/UVwebForAndroid,23,Fix comment date WTF bug,closed,2013-01-25T10:24:09Z,2013-02-27T10:51:30Z,bug
+uvweb/UVwebForAndroid,20,"Fix ""empty view"" header",closed,2013-01-24T11:40:39Z,2013-01-24T18:48:38Z,bug
+uvweb/UVwebForAndroid,19,Fix crash Desire HD,closed,2013-01-24T11:02:06Z,2013-01-24T11:06:17Z,bug
+uvweb/UVwebForAndroid,13,use same layout portrait/landscape in AboutActivity on phones,closed,2013-01-22T21:32:52Z,2013-01-23T21:12:49Z,bug
+uvweb/UVwebForAndroid,12,Invisible menu icons Android 2.1 (maybe others),closed,2013-01-22T20:09:24Z,2013-01-24T09:09:26Z,bug
+uvweb/UVwebForAndroid,11,Fix crash on small resolutions,closed,2013-01-19T15:07:27Z,2013-01-24T09:09:43Z,bug
+uvweb/UVwebForAndroid,2,Implement the About Activity's layout,closed,2013-01-19T15:02:50Z,2013-01-22T21:33:50Z,"bug, 2pane"
+uvweb/UVwebForAndroid,1,Wrong color on Context menu,closed,2013-01-19T15:01:45Z,2013-02-28T17:18:08Z,bug
+OpenSageTV/sagetv-miniclient,111,Fixed remuxing setting should only be available when fixed transcoding is selected,closed,2022-02-15T23:37:03Z,2022-04-27T20:51:34Z,bug
+OpenSageTV/sagetv-miniclient,99,Remove AVI as a supported container in the ExoPlayer properties,closed,2020-11-16T14:48:18Z,2022-02-09T13:56:56Z,bug
+OpenSageTV/sagetv-miniclient,97,Error connecting to server when using fixed Transcoding/Streaming,closed,2020-11-10T20:29:51Z,2020-11-10T22:04:20Z,bug
+OpenSageTV/sagetv-miniclient,96,Playing back active recording TV seeking issue with ExoPlayer,closed,2020-11-02T15:43:46Z,2020-11-12T21:01:30Z,bug
+OpenSageTV/sagetv-miniclient,92,Issue with keyboard and favorites on the FireTV,closed,2020-10-12T20:35:25Z,2020-11-12T20:59:35Z,bug
+OpenSageTV/sagetv-miniclient,56,Android N changes to StrictMode results in NetworkOnMainThreadException,closed,2016-07-18T02:55:32Z,2016-07-30T12:48:00Z,bug
+OpenSageTV/sagetv-miniclient,51,"""Non Standard"" External Port Support",closed,2016-03-24T13:47:10Z,2016-03-28T20:11:38Z,bug
+OpenSageTV/sagetv-miniclient,50,Background music playback interrupt slideshow,closed,2016-03-21T17:08:39Z,2016-04-02T12:41:23Z,bug
+OpenSageTV/sagetv-miniclient,49,Client hangs after user/pass screen - eventually exits.,closed,2016-03-16T09:27:54Z,2016-04-06T01:01:50Z,bug
+OpenSageTV/sagetv-miniclient,48,Unable to use dns name as server address - results in immediate 'Host is unresolved' error,closed,2016-03-16T09:23:28Z,2016-08-24T09:43:05Z,bug
+OpenSageTV/sagetv-miniclient,47,Resume in PULL mode (IJK at least) restarts at 0,closed,2016-03-11T13:54:28Z,2016-04-02T13:34:46Z,"bug, video"
+OpenSageTV/sagetv-miniclient,44,SageTV 1.0-RC4 client does not register as an installed android app (firetv),closed,2016-03-08T22:44:51Z,2020-10-12T17:02:00Z,bug
+OpenSageTV/sagetv-miniclient,37,Remote rapid repeat commands are not supported,closed,2016-01-26T16:23:30Z,2018-12-24T13:03:19Z,bug
+OpenSageTV/sagetv-miniclient,35,Bluetooth handoff issue (?),open,2016-01-20T18:13:35Z,,bug
+OpenSageTV/sagetv-miniclient,22,Backslash can not be entered from wireless keyboard,closed,2015-12-02T14:10:30Z,2015-12-03T00:13:41Z,bug
+OpenSageTV/sagetv-miniclient,16,Placeshifter UI is black,closed,2015-11-26T02:24:36Z,2015-11-26T02:24:57Z,bug
+OpenSageTV/sagetv-miniclient,2,Long Press on CENTER is not sending the OPTIONS command,closed,2015-11-02T14:12:18Z,2015-11-16T11:27:07Z,bug
+richsmith/sexytopo,262,Cross section hangs when placed,open,2026-01-25T13:35:56Z,,bug
+richsmith/sexytopo,258,In App Help > Guide freezes SexyTopo,closed,2026-01-24T02:09:46Z,2026-01-28T23:27:45Z,bug
+richsmith/sexytopo,255,SVG issue,closed,2025-11-26T17:38:08Z,2026-01-16T19:21:04Z,bug
+richsmith/sexytopo,241,Therion Export of Current Trip:  exploration team gets added as assistant,open,2025-07-30T02:06:39Z,,bug
+richsmith/sexytopo,239,Not all Linked Surveys shown,closed,2025-07-29T08:42:09Z,2026-02-08T14:55:31Z,bug
+richsmith/sexytopo,237,DistoXBLE calibration writing issue,open,2025-05-12T09:36:01Z,,bug
+richsmith/sexytopo,234,Scrap names - should be the same case as file names,open,2025-02-12T19:12:30Z,,bug
+richsmith/sexytopo,227,Adding a cross section should not make the station active.,closed,2024-10-27T18:27:05Z,2025-11-17T20:56:25Z,bug
+richsmith/sexytopo,226,Station order in the th2 file appears random,closed,2024-10-27T18:21:51Z,2025-11-19T08:47:20Z,bug
+richsmith/sexytopo,223,Unable to bluetooth pair in app,open,2024-10-25T07:57:12Z,,bug
+richsmith/sexytopo,215,"Therion thconfig ""symbol-hide group cave-centreline"" prevents vanilla compile",closed,2024-04-09T07:08:46Z,2024-04-09T22:09:36Z,bug
+richsmith/sexytopo,209,"*.th file sucessfully importet, but only first shot saved in sexytopo file",open,2024-01-19T22:48:24Z,,bug
+richsmith/sexytopo,208,Compass exported files with exported date instead of survey date,open,2024-01-02T23:52:22Z,,bug
+richsmith/sexytopo,207,Compass export has wrong decimal separator (comma) on different locales,closed,2024-01-02T23:37:17Z,2025-11-16T19:21:46Z,bug
+richsmith/sexytopo,205,Compass exports creates duplicated splay lines destination station names in Compass exports,open,2023-12-29T08:51:51Z,,bug
+richsmith/sexytopo,203,Therion (.th) file apparently imported correctly but Sexytopo saved empty file.,open,2023-11-25T20:52:54Z,,bug
+richsmith/sexytopo,185,Error panel overlapping edit station dialog,open,2022-10-03T23:04:04Z,,bug
+richsmith/sexytopo,179,"On devices where importing works, error shows when folder contains XVI",open,2021-11-21T22:39:36Z,,bug
+richsmith/sexytopo,178,Severe bug; cross section station and splays are not exported,open,2021-11-21T22:35:18Z,,bug
+richsmith/sexytopo,177,"When a station has two cross sections, only one cross section direction is shown",open,2021-11-21T22:27:27Z,,bug
+richsmith/sexytopo,176,Cross section direction miscalculated when legs are either side of 0 degrees,closed,2021-11-21T22:23:53Z,2026-02-08T15:41:12Z,bug
+richsmith/sexytopo,175,Position jump when placing cross section,open,2021-11-21T22:19:56Z,,bug
+richsmith/sexytopo,173,"When a station that has a linked survey is set to extend left in elevation view, the linked survey is in the wrong place",open,2021-11-21T22:15:00Z,,bug
+richsmith/sexytopo,171,Deleting parent of the active station sometimes leaves the deleted station active,open,2021-11-21T22:09:57Z,,bug
+richsmith/sexytopo,170,Degrees-Minutes-Seconds makes it impossible to edit data,open,2021-11-21T22:07:04Z,,bug
+richsmith/sexytopo,156,An adaptation problem of layout,open,2021-08-12T13:44:47Z,,bug
+richsmith/sexytopo,135,Using back button may cause data to be lost,open,2020-08-02T16:16:47Z,,bug
+richsmith/sexytopo,132,Can break centreline with move leg,closed,2020-01-13T21:25:46Z,2020-01-14T22:51:50Z,bug
+richsmith/sexytopo,115,PocketTopo txt export has several issues,open,2019-08-28T22:41:15Z,,bug
+richsmith/sexytopo,107,Import of PocketTopo Therion .txt export files can't handle backward legs,open,2019-07-31T22:06:37Z,,bug
+richsmith/sexytopo,74,Therion export xvi - No station or splays on x-section,open,2018-12-05T13:46:13Z,,bug
+richsmith/sexytopo,34,Put all strings in xml,closed,2017-12-04T13:12:36Z,2025-11-20T19:31:43Z,bug
+richsmith/sexytopo,32,Fix splays on Extended Elevations,closed,2017-12-04T12:51:04Z,2018-09-09T17:27:04Z,bug
+richsmith/sexytopo,31,Sort out font/icon sizes on different resolutions,open,2017-12-04T12:47:52Z,,bug
+richsmith/sexytopo,29,External Storage Access is not handled correctly,closed,2017-12-03T18:09:06Z,2024-02-03T09:46:41Z,bug
+richsmith/sexytopo,27,Correct cross-sections in Elevation mode,open,2017-12-03T18:03:29Z,,bug
+richsmith/sexytopo,4,Should prompt to save when opening a new survey,closed,2015-07-31T22:45:17Z,2019-04-02T23:44:11Z,bug
+richsmith/sexytopo,2,Don't dismiss manual entry dialog (from table view) if there are errors,closed,2015-07-29T22:27:23Z,2025-12-23T18:18:13Z,bug
+elyas-bhy/CampusUB1,51,Campus map occasionally crashes,closed,2014-07-27T17:04:24Z,2014-07-27T17:05:27Z,"bug, map"
+elyas-bhy/CampusUB1,49,Handle events update thread when connectivity is lost during process,closed,2013-04-01T11:16:18Z,2013-04-01T11:18:21Z,"bug, events"
+elyas-bhy/CampusUB1,48,Labri Directory search fail,closed,2013-03-29T17:50:39Z,2013-04-02T17:26:35Z,"bug, directory"
+elyas-bhy/CampusUB1,41,Disable landscape mode,closed,2013-03-20T13:55:58Z,2013-03-20T18:06:16Z,"bug, ui"
+elyas-bhy/CampusUB1,40,App crashes if entering MapActivity with GPS turned ON,closed,2013-03-18T20:06:54Z,2013-03-20T12:46:51Z,"bug, map"
+elyas-bhy/CampusUB1,39,Allow users to leave DirectoryActivity during search query if needed,closed,2013-03-18T19:45:31Z,2013-03-18T19:46:32Z,"bug, directory"
+elyas-bhy/CampusUB1,38,Add error handling when LaBRI website is down,closed,2013-03-18T14:18:37Z,2013-03-18T14:18:59Z,"bug, directory"
+elyas-bhy/CampusUB1,37,IndexOutOfBoundsException after search for contacts,closed,2013-03-18T14:06:56Z,2013-03-18T15:02:23Z,"bug, directory"
+elyas-bhy/CampusUB1,35,"Calling a contact should redirect users to dialer view, instead of starting the call immediately",closed,2013-03-16T17:38:50Z,2013-03-16T17:41:32Z,"bug, directory"
+elyas-bhy/CampusUB1,29,GPS location service not being used when activated while in maps activity,closed,2013-03-10T12:47:57Z,2013-03-13T12:50:18Z,"bug, map"
+elyas-bhy/CampusUB1,28,App should exit if user does not subscribe to any establishment on first launch,closed,2013-03-10T11:57:25Z,2013-03-10T12:03:39Z,bug
+elyas-bhy/CampusUB1,26,Switching between cached categories does not properly restore the correct events list,closed,2013-03-07T18:38:11Z,2013-03-07T18:42:26Z,"bug, events"
+elyas-bhy/CampusUB1,24,Modifying filter preferences should update content of contacts list,closed,2013-03-06T18:15:21Z,2013-03-06T19:04:09Z,bug
+elyas-bhy/CampusUB1,17,App crashes upon starting a call action from a directory search result,closed,2013-03-04T18:03:09Z,2013-03-12T17:29:21Z,"bug, invalid, directory"
+elyas-bhy/CampusUB1,15,Menu bug in directory,closed,2013-03-04T03:58:15Z,2013-03-06T18:08:57Z,"bug, directory"
+elyas-bhy/CampusUB1,6,Modifying filter preferences should update content of events list,closed,2013-02-28T10:33:36Z,2013-03-01T19:55:35Z,bug
+elyas-bhy/CampusUB1,1,Fix enabling/disabling positive button of FilterDialog,closed,2013-02-28T10:07:16Z,2013-02-28T10:35:10Z,bug
+franciscojunior/Vampidroid,62,Remove auxiliary file used to update cards database after updating,closed,2018-06-15T00:09:30Z,2018-06-15T19:07:07Z,bug
+franciscojunior/Vampidroid,55,"When scrolling the card list, sometimes the filter panel on the right appears stopping the scrolling",closed,2018-05-21T22:59:25Z,2018-06-04T21:56:26Z,bug
+franciscojunior/Vampidroid,53,Search with capital letters is not working,closed,2018-02-03T23:06:20Z,2018-02-04T21:00:04Z,bug
+franciscojunior/Vampidroid,52,Expanded state of some filters are not persisted between screen rotation,closed,2018-02-02T02:18:03Z,2018-02-02T02:31:32Z,bug
+franciscojunior/Vampidroid,28,"After specifying a card images folder, the card list still show previous images",closed,2016-10-27T14:17:13Z,2017-01-05T10:55:07Z,bug
+neurodroid/cryptonite,75,Mounting FAT without modified Android installation.,open,2014-08-28T15:31:18Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,74,Project still alive? - Truecrypt issue android 4.2.2,open,2014-08-28T15:31:15Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,73,Would you please create a virtual volume or virtual SdCard ?,open,2014-08-28T15:31:14Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,72,android 4.3 mount and bug fix/workaround,open,2014-08-28T15:31:12Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,71,Mounting EncFs via cryptonite fails in 4.4.2,open,2014-08-28T15:31:08Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,70,Cannot see files in subfolders,closed,2014-08-28T15:31:03Z,2014-08-28T15:31:07Z,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,69,Documentation somewhere?,open,2014-08-28T15:31:01Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,68,How to select MULTIPLE files,open,2014-08-28T15:31:00Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,67,deeper than second level directories show no files in cryptonite,open,2014-08-28T15:30:57Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,66,Uninstall = Freeze & Reboot,closed,2014-08-28T15:30:55Z,2014-08-28T15:42:18Z,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,65,Cant mount Encfs volume saying cant find root folder But can Open EncFFS same volume,open,2014-08-28T15:30:50Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,64,Very weird that non root apps' accessibily to mounted data is very random,open,2014-08-28T15:30:48Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,63,"Recommend to add a ""chmod -R 777"" command after mounting",open,2014-08-28T15:30:46Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,62,Unsupport enc folder/mount point/password with spaces or special chars,open,2014-08-28T15:30:44Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,61,Files can read after three mounts,open,2014-08-28T15:30:43Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,60,Unable to copy files to mounted volume with Alpha 0.7.9,open,2014-08-28T15:30:40Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,59,"Add ""Share"" support",open,2014-08-28T15:30:38Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,58, can't Mount after switching to CyanogenMod on n7100,open,2014-08-28T15:30:36Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,57,Terminal crashs App,open,2014-08-28T15:30:35Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,56,"Cannot link Cryptonite to Dropbox ""Decrypt Dropbox Folder"" not active",open,2014-08-28T15:30:34Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,55,Can't write files to Cryptonite mounted volume over MTP,open,2014-08-28T15:30:33Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,54,java.lang.illegalmonitorstateexception,open,2014-08-28T15:30:31Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,53,Error: No such file or directory: losetup,open,2014-08-28T15:30:29Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,52,Cannot add files to EncFS volume; files still usable ,open,2014-08-28T15:30:27Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,51,create container file that can be mounted.,open,2014-08-28T15:30:26Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,50,Linker error on Android 4.2.2,closed,2014-08-28T15:30:24Z,2014-08-28T15:30:26Z,"bug, duplicate, imported, Priority-Medium"
+neurodroid/cryptonite,49,Export to SD card alway creates subfolders,open,2014-08-28T15:30:23Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,48,Open interface to receive commands via Intents/Service,open,2014-08-28T15:30:07Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,47,EncFS and TrueCrypt mounted volumes not visible to other apps in Android 4.2,open,2014-08-28T15:29:32Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,46,truecrypt and truecrypt-3.0 binaries cause linker error: cannot locate symbol __exidx_end,closed,2014-08-28T15:29:23Z,2014-08-28T15:29:31Z,"bug, imported, Priority-High"
+neurodroid/cryptonite,45,"Decrypt linux hidden folders "".foldername""",closed,2014-08-28T15:29:13Z,2014-08-28T15:29:22Z,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,44,Save / Restore default not working,closed,2014-08-28T15:29:06Z,2014-08-28T15:29:12Z,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,43,"Truecrypt fails with ""Error: no child processes""",closed,2014-08-28T15:29:00Z,2014-08-28T15:29:05Z,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,38,Problems with NTFS-formatted Truecrypt volume. ,closed,2014-08-28T15:28:44Z,2014-08-28T15:28:50Z,"bug, duplicate, imported, Priority-Medium"
+neurodroid/cryptonite,36,"TrueCrypt can't find working ""mount"" on Google Nexus 7 with motley kernel",open,2014-08-28T15:28:31Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,35,Test results - some goods & some weirds,closed,2014-08-28T15:28:28Z,2014-08-28T15:28:30Z,"bug, duplicate, imported, Priority-Medium"
+neurodroid/cryptonite,34,Encrypted ntfs container = system reboot :(,open,2014-08-28T15:28:23Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,33,Add support for loading fuse.ko as a module at runtime,open,2014-08-28T15:28:20Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,32,TrueCrypt sets wrong permissions on FAT32-formatted SD card,closed,2014-08-28T15:28:14Z,2014-08-28T15:28:20Z,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,31,Mounting a Truecrypt volume fails with 'Failed to create a file or directory in a temporary directory.',open,2014-08-28T15:28:03Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,30,"""encfs --extpass"" doesn't launch external program",open,2014-08-28T15:27:58Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,26,App Doesn't Launch ,closed,2014-08-28T15:17:05Z,2014-08-28T15:17:09Z,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,25,Support previewing large files,closed,2014-08-28T15:16:56Z,2014-08-28T15:17:04Z,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,24,Build.sh in EncFs Fails,closed,2014-08-28T15:16:40Z,2014-08-28T15:16:55Z,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,23,on terminal df gives I/O error,closed,2014-08-28T15:16:29Z,2014-08-28T15:16:39Z,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,20,Dropbox account gets unlinked spontaneously,closed,2014-08-28T15:16:09Z,2014-08-28T15:16:14Z,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,19,Asks for root permissions on each mounting occasion,open,2014-08-28T15:16:06Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,18,Truecrypt can not mount volumes > 2 GB,open,2014-08-28T15:15:48Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,17,"Mounting not supported on Nexus S running CM7.1, stock kernel",closed,2014-08-28T15:15:39Z,2014-08-28T15:15:46Z,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,16,Can't mount Truecrypt volume,open,2014-08-28T15:15:35Z,,"bug, imported, Priority-Medium"
+neurodroid/cryptonite,15,Can't create Dropbox encrypted volume,closed,2014-08-28T15:15:28Z,2014-08-28T15:15:34Z,"bug, imported, Priority-Medium"
+ericberman/MyFlightbookAndroid,74,Duty time UTC vs. local time is confused?,closed,2018-04-13T19:28:20Z,2018-04-16T18:34:29Z,bug
+ericberman/MyFlightbookAndroid,51,Choose file to upload an endorsement doesn't work,closed,2017-09-04T16:56:12Z,2017-09-06T17:25:04Z,bug
+ericberman/MyFlightbookAndroid,42,App fails if expected XML property is missing,closed,2017-06-13T22:03:33Z,2017-12-04T03:10:41Z,bug
+nightscout/android-uploader,148,REST doesn't try to POST if API_SECRET contains special characters,closed,2015-02-21T22:46:50Z,2015-04-05T08:40:51Z,bug
+nightscout/android-uploader,138,Raw Data missing when using Gap Sync,closed,2015-02-05T18:45:08Z,2015-04-05T08:52:28Z,bug
+nightscout/android-uploader,126,Timezone changes result in duplicate offset data,closed,2015-01-12T06:20:16Z,2015-04-02T03:36:12Z,bug
+nightscout/android-uploader,47,Chinese Character instead of ???,closed,2014-10-20T00:08:33Z,2014-10-30T13:46:56Z,bug
+nightscout/android-uploader,46,XLarge xhdpi tablets crash,closed,2014-10-19T16:35:17Z,2014-11-01T16:50:48Z,bug
+AdamMc331/CashCaretaker,16,Fix long press to dismiss on Wear device,closed,2016-01-01T20:33:16Z,2016-01-03T21:04:02Z,bug
+ken-kentan/student-portal-plus,7,LectureCancelDetailActivity bug,closed,2018-10-15T12:05:07Z,2018-10-15T12:11:44Z,bug
+ken-kentan/student-portal-plus,5,通知からLectureInfoDetailActivityを開くとLectureAttend.PORTALでも消去できちゃう,closed,2018-10-15T10:36:03Z,2018-10-15T11:56:51Z,bug
+ken-kentan/student-portal-plus,4,詳細画面のデータがロードされない,closed,2018-10-10T05:37:28Z,2018-10-12T04:23:33Z,bug
+hbb20/CountryCodePickerProject,310,NullPointerException when no country of preference,closed,2019-05-10T08:59:20Z,2019-06-30T22:51:30Z,bug
+zdavatz/AmiKo-Android,58,1.4.6 crash log,closed,2019-02-24T09:51:38Z,2019-03-18T08:03:22Z,bug
+michaelkourlas/voipms-sms-client,288,Everything is SLOW,open,2025-08-13T23:11:02Z,,app bug
+michaelkourlas/voipms-sms-client,285,pull-to-refresh just spins forever with no new messages,open,2025-03-11T18:38:45Z,,"app bug, requires-reproduction"
+michaelkourlas/voipms-sms-client,275,Bug - bubbles are showing conversation from different user,closed,2024-07-16T13:28:26Z,2025-01-25T19:31:46Z,app bug
+michaelkourlas/voipms-sms-client,268,Database import functionality is broken,closed,2024-02-15T00:23:55Z,2024-06-28T16:27:10Z,app bug
+michaelkourlas/voipms-sms-client,260,"Sending long messages, parts are out of order",closed,2024-01-03T00:25:43Z,2024-01-27T04:03:28Z,app bug
+michaelkourlas/voipms-sms-client,258,Internationalized contact numbers (w/+1 or 001) not matching.,open,2023-11-08T07:10:09Z,,app bug
+michaelkourlas/voipms-sms-client,257,SendMessageWorker should enforce only one message being sent at a time,closed,2023-10-09T20:46:06Z,2024-01-27T02:01:19Z,app bug
+michaelkourlas/voipms-sms-client,254,"Messages not sent when changing screen while ""sending""",closed,2023-07-01T10:51:11Z,2025-01-25T21:08:37Z,app bug
+michaelkourlas/voipms-sms-client,252,Copying a message kills the app in 0.6.24,closed,2023-06-13T20:13:47Z,2023-06-14T01:59:16Z,app bug
+michaelkourlas/voipms-sms-client,248,Removed DID causes client to not retrieve messages,closed,2022-11-25T07:30:00Z,2024-01-27T01:41:13Z,app bug
+michaelkourlas/voipms-sms-client,243,Notification loses content,open,2022-07-12T22:23:43Z,,"app bug, requires-reproduction"
+michaelkourlas/voipms-sms-client,238,Investigate apparent loss of FCM messages while Internet unavailable,closed,2022-02-21T22:21:28Z,2023-06-03T17:08:07Z,app bug
+michaelkourlas/voipms-sms-client,237,Account (phone number) sorting in main page,closed,2021-10-21T15:55:25Z,2021-11-07T14:47:15Z,app bug
+michaelkourlas/voipms-sms-client,234,"Resend ""sending"" messages when the conversation view is opened, and periodically",closed,2021-05-14T23:33:48Z,2021-11-07T14:40:59Z,app bug
+michaelkourlas/voipms-sms-client,227,Slow Response When Sending Message,closed,2021-02-24T21:40:31Z,2021-03-01T05:12:27Z,app bug
+michaelkourlas/voipms-sms-client,224,Notification does not completely clear after being dismissed,closed,2021-01-28T04:05:00Z,2021-02-07T01:19:35Z,app bug
+michaelkourlas/voipms-sms-client,220,0.6.9-fdroid freezes during conversations,closed,2020-10-22T16:06:44Z,2020-11-07T16:01:11Z,app bug
+michaelkourlas/voipms-sms-client,217,Performance issue/hangs in 0.6.6,closed,2020-09-21T02:21:33Z,2020-09-29T13:58:51Z,app bug
+michaelkourlas/voipms-sms-client,212,Message order is backwards when receiving split messages,closed,2020-06-27T20:08:49Z,2020-07-01T04:57:12Z,app bug
+michaelkourlas/voipms-sms-client,211,Problems with Contacts with lots of messages ,closed,2020-06-24T01:33:52Z,2021-02-27T21:34:10Z,app bug
+michaelkourlas/voipms-sms-client,208,Delay in sending messages,closed,2020-06-13T17:08:31Z,2020-06-28T00:17:00Z,"app bug, requires-reproduction"
+michaelkourlas/voipms-sms-client,207,Rate limit of push notification makes the notification inconsistent,closed,2020-06-11T16:47:41Z,2020-06-11T17:33:04Z,app bug
+michaelkourlas/voipms-sms-client,206,Dark mode does not persist after app close,closed,2020-06-10T19:38:04Z,2020-06-30T22:40:01Z,app bug
+michaelkourlas/voipms-sms-client,204,Auto Scroll For Long SMS Messages,closed,2020-04-28T01:22:13Z,2020-06-28T04:10:25Z,app bug
+michaelkourlas/voipms-sms-client,203,Not able to send long french message,closed,2020-04-14T18:43:51Z,2020-06-28T01:36:00Z,app bug
+michaelkourlas/voipms-sms-client,200,Contact list cuts off phone numbers,closed,2020-02-19T21:45:26Z,2021-02-12T17:56:39Z,app bug
+michaelkourlas/voipms-sms-client,196,SMS notifications don't appear (F-Droid only),closed,2019-10-20T19:08:25Z,2020-01-06T02:52:57Z,app bug
+michaelkourlas/voipms-sms-client,185,Copy message content,closed,2019-04-28T00:20:09Z,2020-01-06T04:57:54Z,app bug
+michaelkourlas/voipms-sms-client,175,Conversation is brought back after deletion,closed,2018-10-16T21:14:21Z,2019-04-08T03:24:50Z,app bug
+michaelkourlas/voipms-sms-client,173,Application crash when changing notification sound,closed,2018-09-17T12:52:39Z,2019-04-09T04:57:36Z,app bug
+michaelkourlas/voipms-sms-client,171,Pull down to refresh crashes on android 8.1.0,closed,2018-08-04T16:15:28Z,2018-09-09T22:21:51Z,"app bug, requires-reproduction"
+michaelkourlas/voipms-sms-client,169,F-droid version synchronization frequency,closed,2018-07-26T04:09:46Z,2019-04-15T03:43:10Z,app bug
+michaelkourlas/voipms-sms-client,168,Mark read notification button doesn't work,closed,2018-07-21T15:01:44Z,2019-03-25T04:16:58Z,app bug
+michaelkourlas/voipms-sms-client,164,Transactions for successive database calls,closed,2018-05-30T14:35:47Z,2019-04-09T02:19:42Z,app bug
+michaelkourlas/voipms-sms-client,162,Double notification sound bug,closed,2018-05-30T14:27:12Z,2019-03-25T04:10:44Z,app bug
+michaelkourlas/voipms-sms-client,138,Notification click handler,closed,2017-08-18T22:39:43Z,2018-05-20T00:12:27Z,app bug
+michaelkourlas/voipms-sms-client,137,Make the SMS retrieval service a foreground service,closed,2017-08-03T20:06:52Z,2018-05-20T00:28:01Z,app bug
+michaelkourlas/voipms-sms-client,130,Notifications don't work all the time since last update,closed,2017-06-26T17:44:22Z,2017-06-28T00:20:57Z,app bug
+michaelkourlas/voipms-sms-client,128,Shortcode and international message threads don't work correctly,closed,2017-06-23T19:10:24Z,2018-05-20T20:44:00Z,app bug
+michaelkourlas/voipms-sms-client,126,Unable to retreive old messages,closed,2017-06-21T13:31:05Z,2017-07-22T00:38:40Z,app bug
+michaelkourlas/voipms-sms-client,121,Hitbox on the input seems smaller than its actual size,closed,2017-06-12T22:11:46Z,2017-06-13T10:50:48Z,app bug
+michaelkourlas/voipms-sms-client,118,Messages not displaying,closed,2017-04-18T19:47:16Z,2017-06-09T06:08:45Z,app bug
+michaelkourlas/voipms-sms-client,117,"bug: Unread message shown in message list when click on them it says "" there are no message in this conversation""",closed,2017-04-10T22:54:17Z,2017-06-09T06:08:19Z,app bug
+michaelkourlas/voipms-sms-client,107,Push notifications are disabled on DID switch,closed,2017-02-05T14:13:00Z,2017-06-09T06:08:05Z,app bug
+michaelkourlas/voipms-sms-client,104,"15 digit contact ""There are no messages in this conversation""",closed,2017-01-07T03:34:33Z,2017-02-11T18:10:11Z,app bug
+michaelkourlas/voipms-sms-client,96,No Notifications if Any Drafts Exist over extended period,closed,2016-12-06T08:07:10Z,2017-06-09T06:07:56Z,app bug
+michaelkourlas/voipms-sms-client,90,Investigate the need for the READ_EXTERNAL_STORAGE permission for ringtones,closed,2016-10-04T19:39:47Z,2017-02-11T04:01:19Z,app bug
+michaelkourlas/voipms-sms-client,89,Crash when push notifications activated,closed,2016-10-04T03:56:32Z,2016-10-04T04:47:55Z,app bug
+michaelkourlas/voipms-sms-client,87,Investigate intermittent SocketTimeoutExceptions,closed,2016-10-04T01:57:31Z,2016-10-04T03:16:35Z,app bug
+michaelkourlas/voipms-sms-client,85,Not receiving most push notifications from voip.ms sms since upgrading to Android 7,closed,2016-10-01T19:13:32Z,2016-10-03T00:39:11Z,app bug
+michaelkourlas/voipms-sms-client,81,Sync on/off settings act strange,closed,2016-09-18T19:01:20Z,2016-09-19T05:42:40Z,app bug
+michaelkourlas/voipms-sms-client,78,Not seeing any messages since the 0.4.2 update,closed,2016-09-16T22:11:22Z,2016-09-19T05:42:51Z,app bug
+michaelkourlas/voipms-sms-client,71,SMS notifications don't always get through,closed,2016-09-11T21:21:36Z,2016-09-11T22:28:54Z,app bug
+michaelkourlas/voipms-sms-client,65,Contact search,closed,2016-04-26T16:52:10Z,2016-09-13T16:50:07Z,app bug
+michaelkourlas/voipms-sms-client,51,Deleting a conversation not returning you back to main conversation list,closed,2016-02-23T08:09:01Z,2016-09-13T01:54:39Z,app bug
+michaelkourlas/voipms-sms-client,50,SMS won't stay marked as read,closed,2016-01-31T04:52:14Z,2016-04-13T10:26:05Z,app bug
+michaelkourlas/voipms-sms-client,47,SMS Email Address,closed,2016-01-15T20:10:39Z,2016-09-11T22:46:37Z,"app bug, wontfix"
+michaelkourlas/voipms-sms-client,35,Timezone issues,closed,2015-08-18T04:13:39Z,2015-08-23T18:04:41Z,app bug
+michaelkourlas/voipms-sms-client,28,Text messages containing non-ASCII characters are mangled,closed,2015-07-13T03:48:13Z,2016-04-12T22:53:27Z,"app bug, wontfix"
+michaelkourlas/voipms-sms-client,27,Hardware menu button overflow menu has incorrect text colour,closed,2015-07-13T03:30:53Z,2015-07-14T02:48:44Z,"app bug, wontfix"
+michaelkourlas/voipms-sms-client,24,Registration status display,closed,2015-07-02T21:00:21Z,2015-07-13T03:50:15Z,app bug
+michaelkourlas/voipms-sms-client,17,Debug data usage,closed,2015-05-30T02:43:21Z,2015-07-06T05:18:41Z,app bug
+michaelkourlas/voipms-sms-client,9,Update DID - JSON Exception,closed,2015-04-23T23:52:13Z,2015-05-01T05:28:12Z,app bug
+mobfox/MobFox-Android-SDK,84,Interstitial not showing sometimes with real id (MalformedURLException: Protocol not found: No Ad Available),closed,2018-11-20T17:41:35Z,2018-11-22T13:45:38Z,bug
+mobfox/MobFox-Android-SDK,83,Fatal Exception: android.database.CursorWindowAllocationException,open,2018-11-13T09:04:17Z,,bug
+mobfox/MobFox-Android-SDK,73,"""no fill"" error banner ad, even with test #",open,2018-03-18T04:54:17Z,,bug
+mobfox/MobFox-Android-SDK,71,"Error ""no fill""",open,2018-03-06T17:38:43Z,,bug
+mobfox/MobFox-Android-SDK,50,Not able load more than 4 ads at a time,closed,2016-12-20T06:57:36Z,2016-12-21T11:40:47Z,bug
+mobfox/MobFox-Android-SDK,49,AbstractMethodError - Using MoPub custom event network.,closed,2016-12-16T13:29:58Z,2017-02-02T19:41:56Z,bug
+mobfox/MobFox-Android-SDK,46,Location is on by default when integrating with gradle,closed,2016-12-10T07:45:40Z,2016-12-14T08:08:41Z,bug
+mobfox/MobFox-Android-SDK,15,Commit Adapter Code,closed,2016-02-14T14:50:37Z,2016-02-16T15:03:03Z,bug
+mobfox/MobFox-Android-SDK,12,Verify Native Ad Docs,closed,2016-02-14T06:31:18Z,2016-02-21T08:32:28Z,bug
+mobfox/MobFox-Android-SDK,11,MoPub Banner Adapter Error,closed,2016-02-09T08:23:40Z,2016-02-11T10:06:01Z,bug
+zond/android-diplicity,35,Game alias in game activity title,closed,2017-01-19T17:59:40Z,2017-01-20T08:30:37Z,bug
+zond/android-diplicity,31,Use native Android login instead of WebView,closed,2017-01-09T22:06:12Z,2017-01-11T08:23:35Z,bug
+zond/android-diplicity,30,Block XMLHTTPRequest in the approve-new-app view,closed,2017-01-09T22:05:38Z,2017-01-10T07:37:47Z,bug
+zond/android-diplicity,28,"Fix ""dropped games"" counter",closed,2017-01-07T08:12:37Z,2017-01-07T09:12:47Z,bug
+zond/android-diplicity,27,Fix Reliability and Quickness,closed,2017-01-06T23:18:26Z,2017-01-07T01:55:22Z,bug
+zond/android-diplicity,23,View games as spectator,closed,2017-01-06T01:03:27Z,2017-01-07T01:47:04Z,bug
+zond/android-diplicity,20,Broken preselected muted nations,closed,2016-12-31T20:35:00Z,2017-01-01T21:30:24Z,bug
+zond/android-diplicity,19,Broken swipe in phase results?,closed,2016-12-31T20:34:38Z,2017-01-01T21:30:24Z,bug
+Purdue-ACM-SIGAPP/PurdueLaundry-android,130,Snackbar overlaps the bottom items on the screen in the Machine Activity,closed,2017-07-30T05:16:46Z,2018-03-22T23:06:57Z,"bug, wontfix"
+Purdue-ACM-SIGAPP/PurdueLaundry-android,128,Add Cary Hall East,closed,2017-07-30T04:10:41Z,2018-03-20T23:43:34Z,"bug, enhancement"
+Purdue-ACM-SIGAPP/PurdueLaundry-android,92,Add error handling to catch issues with the API,closed,2017-02-06T19:42:10Z,2017-02-15T01:40:12Z,"bug, help wanted"
+Purdue-ACM-SIGAPP/PurdueLaundry-android,79,Sometimes Timers Re-appear After Being Cancelled,closed,2016-11-17T23:46:51Z,2017-06-05T20:15:51Z,bug
+Purdue-ACM-SIGAPP/PurdueLaundry-android,68,Shreve West Dryer #4 is missing but exists IRL,closed,2016-11-09T00:55:43Z,2018-03-22T23:08:26Z,bug
+Purdue-ACM-SIGAPP/PurdueLaundry-android,60,Add a debug location in the Location list on debug versions,closed,2016-10-22T20:59:54Z,2018-03-27T23:47:52Z,bug
+Purdue-ACM-SIGAPP/PurdueLaundry-android,16,Dryer icon is quite pixelated,closed,2015-10-21T02:55:55Z,2015-11-06T00:55:42Z,bug
+Purdue-ACM-SIGAPP/PurdueLaundry-android,13,Fragments do not auto-refresh,closed,2015-10-05T20:49:02Z,2015-10-06T15:15:36Z,bug
+sjwall/MaterialTapTargetPrompt,190,Crash on OnePlus IN2021: java.lang.NullPointerException: Attempt to read from field 'boolean android.graphics.Path.isSimplePath' on a null object reference,closed,2021-03-12T15:11:23Z,2021-03-16T22:03:07Z,type: bug
+sjwall/MaterialTapTargetPrompt,186,NullPointerException at onAnimationEnd(MaterialTapTargetPrompt.java:529) on some devices running Android 6.0,closed,2021-01-26T12:58:52Z,2021-03-16T22:10:39Z,type: bug
+sjwall/MaterialTapTargetPrompt,137,Error change Fragment,closed,2018-09-28T05:10:33Z,2018-10-26T18:44:18Z,type: bug
+sjwall/MaterialTapTargetPrompt,136,Problem with TabLayout in RTL.,closed,2018-09-20T05:52:10Z,2018-09-24T12:23:00Z,type: bug
+sjwall/MaterialTapTargetPrompt,101,UnsupportedOperationException,closed,2018-02-01T22:28:26Z,2018-02-04T19:17:59Z,"type: bug, action: released"
+sjwall/MaterialTapTargetPrompt,94,Background color not applied since 2.5.0,closed,2017-12-11T17:43:09Z,2017-12-12T19:55:53Z,type: bug
+sjwall/MaterialTapTargetPrompt,88,showOverflowPrompt in NavigationView activity,closed,2017-11-06T12:42:12Z,2020-12-17T12:27:58Z,type: bug
+sjwall/MaterialTapTargetPrompt,76,Prompts get incorrect positioned when removing View,closed,2017-07-27T17:28:30Z,2017-07-28T15:07:47Z,type: bug
+sjwall/MaterialTapTargetPrompt,71,Issue when building using Support Library 26,closed,2017-06-14T14:13:58Z,2017-08-07T14:29:38Z,type: bug
+sjwall/MaterialTapTargetPrompt,68,Wrong behavior with ActionBar,closed,2017-05-26T22:56:33Z,2017-08-05T17:21:44Z,type: bug
+sjwall/MaterialTapTargetPrompt,64,Crash in getTextAlignment with Arabic locale,closed,2017-04-03T18:26:17Z,2017-04-03T19:52:11Z,type: bug
+sjwall/MaterialTapTargetPrompt,63,Doesn't work with BottomSheetDialogFragment,closed,2017-04-01T07:23:01Z,2017-05-29T15:36:07Z,"type: bug, action: released"
+sjwall/MaterialTapTargetPrompt,61,Focus circle overlaps elements drawn on canvas,closed,2017-03-30T08:56:56Z,2017-04-02T16:12:24Z,type: bug
+sjwall/MaterialTapTargetPrompt,46,NPE ,closed,2017-02-19T06:48:53Z,2017-02-19T18:25:19Z,type: bug
+sjwall/MaterialTapTargetPrompt,43,different device size issue,closed,2017-02-13T07:18:33Z,2018-05-19T14:56:37Z,type: bug
+sjwall/MaterialTapTargetPrompt,35,Nonfunctional with disabled animations,closed,2017-01-24T10:51:11Z,2017-02-10T16:17:38Z,type: bug
+sjwall/MaterialTapTargetPrompt,32,"On the tablet, text is outside the circle",closed,2017-01-11T19:07:29Z,2017-01-22T11:46:52Z,type: bug
+sjwall/MaterialTapTargetPrompt,30,ClipToView assumes first child is a view group,closed,2017-01-02T00:41:33Z,2017-02-08T18:33:28Z,type: bug
+sjwall/MaterialTapTargetPrompt,29,issue with forced RTL support,closed,2016-12-17T10:47:40Z,2017-02-08T18:32:00Z,type: bug
+sjwall/MaterialTapTargetPrompt,26,v1.6.1 causes crashes in Gingerbread and below when user touches prompt ,closed,2016-11-21T21:07:11Z,2016-11-21T21:13:15Z,type: bug
+sjwall/MaterialTapTargetPrompt,22,Target focus shows below actionmode in 1.6 version,closed,2016-11-12T19:13:58Z,2017-01-07T22:36:39Z,type: bug
+sjwall/MaterialTapTargetPrompt,18,Prompt positioned incorrectly when target view has rotation,closed,2016-10-25T21:11:04Z,2020-12-17T12:26:06Z,"type: bug, action: wontfix"
+sjwall/MaterialTapTargetPrompt,17,Text in prompt on wrong position when activity smaller then screen and not centered,closed,2016-10-18T11:01:07Z,2016-10-25T21:02:05Z,type: bug
+sjwall/MaterialTapTargetPrompt,15,Prompt on FAB Menu position miss match,closed,2016-10-03T07:48:18Z,2016-10-25T21:13:43Z,type: bug
+sjwall/MaterialTapTargetPrompt,14,StatusBar Calculation Wrong,closed,2016-10-02T20:40:04Z,2016-10-07T16:23:12Z,type: bug
+sjwall/MaterialTapTargetPrompt,13,White space on top,closed,2016-09-28T15:18:30Z,2016-10-01T12:32:01Z,type: bug
+sjwall/MaterialTapTargetPrompt,12,Builder option for setting icon color,closed,2016-09-23T14:26:53Z,2016-09-23T20:15:07Z,"type: bug, type: enhancement"
+sjwall/MaterialTapTargetPrompt,10,Bottom of the PromptView wouldn't ba appeared if I use an actionbar theme,closed,2016-09-11T19:59:49Z,2016-10-01T12:03:01Z,type: bug
+sjwall/MaterialTapTargetPrompt,2,Prompt draws outside activity bounds,closed,2016-06-06T19:02:24Z,2016-06-12T14:20:35Z,type: bug
+nextgis/ngm_clink_monitoring,212,Окно редактирования аккаунта оформлено в стиле NGM,open,2016-03-30T16:45:36Z,,bug
+nextgis/ngm_clink_monitoring,211,При удалении аккаунта приложение повисает,open,2016-03-30T16:42:55Z,,bug
+nextgis/ngm_clink_monitoring,209,В диалоге свойств объекта при малом экране и большом списке свойств скрывается кнопка ОК.,closed,2016-03-26T11:54:32Z,2016-03-26T13:38:23Z,bug
+nextgis/ngm_clink_monitoring,202,Долго нажимается кнопка ,open,2015-11-19T10:48:04Z,,"bug, question"
+nextgis/ngm_clink_monitoring,201,Падение при отсутствии sd-карты,closed,2015-10-27T12:26:21Z,2015-10-27T15:34:14Z,bug
+nextgis/ngm_clink_monitoring,194,Иногда падение при попытке открыть диалог предупреждения,open,2015-08-18T11:27:05Z,,"bug, Low Priority"
+nextgis/ngm_clink_monitoring,193,Иногда падение при открытии главного меню,closed,2015-08-18T11:14:43Z,2015-08-18T11:15:29Z,bug
+nextgis/ngm_clink_monitoring,192,Иногда падает на отображении списка линий,open,2015-08-18T11:11:05Z,,"bug, Low Priority"
+nextgis/ngm_clink_monitoring,184,"Если при синхронизации произошла какая ошибка, показывать это пользователю и отправлять отчет с ошибкой на сервер",closed,2015-07-29T14:06:25Z,2015-07-31T16:39:15Z,bug
+nextgis/ngm_clink_monitoring,181,Залить данные из присланных архивов,closed,2015-07-23T12:18:58Z,2015-07-24T11:10:10Z,"bug, High Priority"
+nextgis/ngm_clink_monitoring,180,Проблема с расстоянием до ближайшей точки ,closed,2015-07-23T12:17:11Z,2015-07-23T16:08:27Z,"bug, High Priority"
+nextgis/ngm_clink_monitoring,174,Закрытие формы ввода очень длительное,closed,2015-07-15T18:44:58Z,2015-08-17T15:39:09Z,"bug, help wanted"
+nextgis/ngm_clink_monitoring,166,Ошибка при открытии карты,closed,2015-07-14T15:00:08Z,2015-07-15T18:47:48Z,"bug, help wanted, High Priority"
+nextgis/ngm_clink_monitoring,164,"Синхронизация не останавливается, когда приложение выгружено из памяти.",closed,2015-07-09T11:53:59Z,2015-07-24T10:49:11Z,"bug, question"
+nextgis/ngm_clink_monitoring,163,При установке статуса Построено и последующей синхронизации соответствующий слой не удаляется из списка,closed,2015-07-08T23:09:35Z,2015-07-10T23:01:20Z,bug
+nextgis/ngm_clink_monitoring,162,Произвольно меняется линия,closed,2015-07-08T19:37:50Z,2015-07-16T13:16:33Z,"bug, help wanted, question, High Priority"
+nextgis/ngm_clink_monitoring,155,Убрать лишний запрос,closed,2015-07-06T13:23:11Z,2015-07-14T19:29:04Z,"bug, Requirement"
+nextgis/ngm_clink_monitoring,136,У фотографии отображается только рамка,closed,2015-07-03T12:47:16Z,2015-08-20T09:33:30Z,"bug, High Priority"
+nextgis/ngm_clink_monitoring,132,Останавливается синхронизация,closed,2015-07-03T12:41:21Z,2015-07-24T11:07:22Z,bug
+nextgis/ngm_clink_monitoring,131,Ошибка при открытии карты,closed,2015-07-03T12:27:43Z,2015-07-15T18:49:22Z,bug
+nextgis/ngm_clink_monitoring,129,"Если при открытой клавиатуре появляется диалог ""Расстояние превышено"", то кнопка Назад не доступна",closed,2015-07-02T15:08:01Z,2015-07-04T19:53:33Z,bug
+nextgis/ngm_clink_monitoring,128,"Если была открытка экранная клавиатура и закрыта, то при нажатии кнопки Назад нет предупреждения",closed,2015-07-02T15:06:15Z,2015-07-04T19:38:32Z,bug
+nextgis/ngm_clink_monitoring,127,Кривая форма,closed,2015-07-01T16:09:39Z,2015-08-14T11:19:30Z,"bug, help wanted, question"
+nextgis/ngm_clink_monitoring,109,Пропадает кнопка Карта ,closed,2015-07-01T14:59:32Z,2015-07-04T12:56:00Z,bug
+nextgis/ngm_clink_monitoring,103,При удалении объектов на сервере программа вылетает при попытке создать новый объект,closed,2015-06-30T20:06:56Z,2015-07-24T10:44:27Z,bug
+nextgis/ngm_clink_monitoring,94,Слетело оформление Toolbar'а в настройках,closed,2015-06-26T10:24:53Z,2015-07-24T10:16:23Z,bug
+nextgis/ngm_clink_monitoring,91,Ошибка карты на тестовой сборке TestFairy ,closed,2015-05-25T09:30:08Z,2015-08-18T12:10:43Z,"bug, help wanted"
+nextgis/ngm_clink_monitoring,89,На последней релизной сборке падение приложения,closed,2015-05-25T09:27:36Z,2015-08-11T14:56:49Z,"bug, help wanted"
+nextgis/ngm_clink_monitoring,86,Обработка пробелов в логине и URL,closed,2015-05-18T14:56:01Z,2015-05-19T15:46:32Z,"bug, Standard Priority"
+nextgis/ngm_clink_monitoring,85,После очередного обновления mapblibui и библиотек от Google слетело оформление некоторых кнопок,closed,2015-05-15T11:24:36Z,2015-05-15T12:54:01Z,bug
+nextgis/ngm_clink_monitoring,82,Не создается директория для фото по умолчанию,closed,2015-05-13T15:18:26Z,2015-05-15T18:09:27Z,bug
+nextgis/ngm_clink_monitoring,80,Ошибка при синхронизации,closed,2015-04-10T13:02:47Z,2015-05-14T18:56:13Z,bug
+nextgis/ngm_clink_monitoring,64,Падение release-сборки при удалении подключения,closed,2015-04-04T10:38:55Z,2015-04-22T11:10:30Z,"bug, Low Priority"
+nextgis/ngm_clink_monitoring,63,При отключенной автосинхронизации приложение в каких-то случаях всё равно ее выполняет,closed,2015-04-03T18:59:42Z,2015-05-20T18:39:30Z,"bug, Low Priority"
+nextgis/ngm_clink_monitoring,58,Фотографии в галерее прокручиваются рывками,closed,2015-03-25T22:48:12Z,2015-03-26T07:02:41Z,bug
+nextgis/ngm_clink_monitoring,57,Формировать файл во временной папке или в памяти для записи EXIF-данных перед добавлением в базу слоев,closed,2015-03-25T16:43:34Z,2015-03-25T18:06:36Z,"bug, Standard Priority"
+nextgis/ngm_clink_monitoring,52,При попытке добавить подключение через настройки приложение падает,closed,2015-03-24T10:56:29Z,2015-03-25T17:30:09Z,"bug, Standard Priority"
+nextgis/ngm_clink_monitoring,47,Заблокированный пункт в меню (disabled) никак не выделяется,closed,2015-03-19T22:42:03Z,2015-03-26T08:07:07Z,"bug, Low Priority"
+nextgis/ngm_clink_monitoring,42,Ориентация фото в галереи,closed,2015-03-11T14:47:03Z,2015-03-25T15:05:32Z,"bug, question, Low Priority"
+nextgis/ngm_clink_monitoring,39,Сразу после старта при повороте экрана исчезают элементы на первой форме,closed,2015-03-10T15:27:32Z,2015-03-11T18:18:37Z,bug
+nextgis/ngm_clink_monitoring,23,"Если установлено NextGIS Mobile, то падает release-сборка при попытке залогиниться при создании подключения.",closed,2015-02-13T11:04:51Z,2015-04-07T12:34:28Z,"bug, Low Priority"
+nextgis/ngm_clink_monitoring,14,"Галерея работает ""странно""",closed,2015-01-25T07:16:32Z,2015-03-11T14:38:51Z,"bug, Standard Priority"
+ligi/FAST,72,Sometimes GridView icons disappear,open,2015-02-02T18:28:16Z,,bug
+ligi/FAST,35,"Vertical alignment of icons, when ""Lines of text"" is greater than ""1"", should be top",closed,2013-11-05T13:08:52Z,2017-09-05T18:46:03Z,visual-bug
+ligi/FAST,7,icon loading when searching,closed,2013-01-15T21:58:59Z,2013-01-16T19:09:22Z,bug
+btimofeev/UniPatcher,20,Patches do not open from the file manager on the latest android versions,open,2020-08-08T12:14:06Z,,bug
+btimofeev/UniPatcher,6,UniPatcher deletes directory,closed,2017-03-21T12:01:33Z,2017-03-22T15:48:48Z,bug

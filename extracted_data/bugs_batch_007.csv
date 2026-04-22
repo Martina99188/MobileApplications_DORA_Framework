@@ -1,0 +1,604 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+barterli/barterli_android,75,Chat interface improvements,open,2014-06-10T20:29:34Z,,bug
+barterli/barterli_android,2,Remember fetched data in AddOrEdit screen,closed,2014-02-16T13:55:25Z,2014-02-16T14:23:56Z,bug
+tasomaniac/OpenLinkWith,5,RecyclerView fling issues,closed,2015-09-16T13:57:08Z,2017-02-19T22:56:19Z,bug
+tasomaniac/OpenLinkWith,1,Dialog with header is clipped. ,closed,2015-09-16T13:52:05Z,2016-04-07T21:05:48Z,bug
+drymarev/rxbsuir,60,Unable to open widget config activity,closed,2015-11-02T04:57:59Z,2015-11-02T05:05:45Z,"bug, priority: high"
+drymarev/rxbsuir,56,Plurals string resources not working properly on select Huawei phones ,closed,2015-11-01T07:02:19Z,2015-11-01T09:07:34Z,bug
+DroidKaigi/conference-app-2017,415,Remove person icon in after party cell.,closed,2017-03-09T15:17:59Z,2017-03-09T18:30:14Z,"bug, welcome contribute"
+DroidKaigi/conference-app-2017,414,konifar's session cell position is wrong,open,2017-03-09T15:07:41Z,,"bug, welcome contribute, ready"
+DroidKaigi/conference-app-2017,413,Remove fps view in splash page,closed,2017-03-09T15:02:30Z,2017-03-09T16:56:22Z,"bug, welcome contribute"
+DroidKaigi/conference-app-2017,408,app crashes on attempt to reopen session details after swipe up and clean,closed,2017-03-07T14:51:05Z,2017-03-09T16:39:27Z,"bug, welcome contribute"
+DroidKaigi/conference-app-2017,377,User is able to return to Splash screen when tapping on back button immediately after Sessions screen is launched,closed,2017-02-22T14:23:08Z,2017-03-09T14:46:09Z,bug
+DroidKaigi/conference-app-2017,376,Bottom half of Sessions screen becomes white after rotating at Splash screen,open,2017-02-22T13:33:50Z,,"bug, welcome contribute"
+DroidKaigi/conference-app-2017,342,Never use new configuration to update the existing configuration,closed,2017-02-15T03:01:48Z,2017-02-16T03:59:20Z,"bug, welcome contribute"
+DroidKaigi/conference-app-2017,336,"""Welcome talk talk"" is shown in Toolbar",closed,2017-02-14T08:41:32Z,2017-02-17T15:07:14Z,bug
+DroidKaigi/conference-app-2017,327,White space appeared when scrolling and rotating in sessions page,open,2017-02-13T09:05:03Z,,"bug, welcome contribute, ready"
+DroidKaigi/conference-app-2017,282,All my sessions clears when the application restart.,closed,2017-02-10T17:45:41Z,2017-02-12T14:13:38Z,"bug, priorityhigh, welcome contribute"
+DroidKaigi/conference-app-2017,254,Crashed when saving debug menu,closed,2017-02-09T16:02:39Z,2017-03-09T14:39:20Z,bug
+DroidKaigi/conference-app-2017,246,Detect memory leaks of com.tomoima.debot.Debot in SessionDetailActivity,closed,2017-02-09T05:48:05Z,2017-02-09T08:27:50Z,"bug, welcome contribute"
+DroidKaigi/conference-app-2017,235,Prevent user's continuous hitting while the Fragment transaction is working.,closed,2017-02-08T16:38:59Z,2017-02-08T16:59:52Z,"bug, welcome contribute"
+DroidKaigi/conference-app-2017,220,FAB margin is missing on pre-lollipop,closed,2017-02-08T15:04:31Z,2017-02-08T15:33:01Z,"bug, welcome contribute"
+DroidKaigi/conference-app-2017,219,After party cell col span should be 6,closed,2017-02-08T15:01:35Z,2017-02-09T07:35:23Z,"bug, welcome contribute"
+DroidKaigi/conference-app-2017,211,Cached sessions should depend on language,closed,2017-02-08T11:07:02Z,2017-02-14T05:33:28Z,"bug, welcome contribute"
+DroidKaigi/conference-app-2017,205,Unnecessary page shown when little horizontal scrolled,closed,2017-02-08T06:36:28Z,2017-02-08T09:16:46Z,"bug, improve, welcome contribute"
+DroidKaigi/conference-app-2017,199,Crash when user show SessionDetail,closed,2017-02-08T03:42:47Z,2017-02-08T05:45:14Z,"bug, welcome contribute"
+DroidKaigi/conference-app-2017,128,Android 4.1 Sessions screen become white by scroll,closed,2017-02-06T16:34:55Z,2017-02-07T05:49:30Z,"bug, welcome contribute"
+DroidKaigi/conference-app-2017,110,App causes a crash when resuming MainActivity with `Don't keep activities`,open,2017-02-06T10:06:12Z,,"bug, priorityhigh, welcome contribute, ready"
+prasannata/StackX,9,site is optional in inbox_item. Causes NullPointer,closed,2013-03-23T15:18:05Z,2013-03-23T15:23:55Z,bug
+prasannata/StackX,8,User id used instead of account id for getting associated accounts,closed,2013-03-17T05:06:42Z,2013-03-17T05:09:37Z,bug
+prasannata/StackX,7,Crash during inbox unread item request,closed,2013-03-10T01:15:29Z,2013-03-10T01:20:36Z,bug
+prasannata/StackX,6,Crash in question fragment,closed,2013-03-10T00:02:11Z,2013-03-10T00:08:44Z,bug
+prasannata/StackX,5,Crash in question fragment,closed,2013-03-10T00:01:53Z,2013-03-10T00:09:21Z,bug
+prasannata/StackX,2,Refresh not working in all activities,closed,2012-12-20T05:20:50Z,2013-03-10T00:00:00Z,bug
+openwebnet/openwebnet-android,109,Profile sharing is not working anymore,open,2022-11-28T13:31:23Z,,bug
+openwebnet/openwebnet-android,108,Application crashes when trying to add/change gateway on Android 11+,open,2022-11-27T13:04:04Z,,bug
+openwebnet/openwebnet-android,103,Automation invalid WHERE value,open,2019-03-17T16:53:17Z,,bug
+openwebnet/openwebnet-android,82,Crash due to secure-preferences lib,closed,2018-04-07T11:16:22Z,2019-03-16T11:19:26Z,bug
+openwebnet/openwebnet-android,77,IabHelper error,closed,2017-12-02T21:21:59Z,2017-12-03T12:31:57Z,bug
+openwebnet/openwebnet-android,76,NPE applicationComponent is null,closed,2017-12-01T21:54:04Z,2017-12-03T12:31:42Z,bug
+openwebnet/openwebnet-android,75,Realm issue,closed,2017-11-26T12:36:52Z,2017-11-26T12:40:10Z,bug
+openwebnet/openwebnet-android,74,NPE on Android 7.1,closed,2017-11-26T12:33:32Z,2017-12-01T21:53:25Z,bug
+openwebnet/openwebnet-android,43,"Environment with no column: ""No items found"" not centered",open,2016-03-19T08:21:18Z,,bug
+openwebnet/openwebnet-android,38,Bug: renaming an Environment while it is shown does not update the screen title,closed,2016-03-08T23:32:15Z,2016-03-11T18:31:59Z,bug
+openwebnet/openwebnet-android,33,Huge margin between cards,closed,2016-03-06T16:25:59Z,2016-03-06T17:27:27Z,bug
+openwebnet/openwebnet-android,28,Bug: EditText appearance is not consistent accross API levels,closed,2016-03-06T14:19:14Z,2016-03-09T20:52:52Z,bug
+openwebnet/openwebnet-android,1,Bug: support Android prior to API 19,closed,2016-02-19T17:21:52Z,2016-03-07T07:11:21Z,bug
+curtbinder/AndroidStatus,93,Expansion 2 Not showing up,closed,2013-06-09T22:27:00Z,2013-06-09T23:03:31Z,Bug
+curtbinder/AndroidStatus,71,Vortech page not auto showing up,closed,2013-04-06T14:55:01Z,2013-04-06T16:31:04Z,"Bug, Improvement"
+curtbinder/AndroidStatus,70,Application crash downloading labels,closed,2013-04-06T14:53:38Z,2013-04-06T14:54:01Z,Bug
+curtbinder/AndroidStatus,49,I/O screen lists 7 inputs,closed,2012-07-27T01:11:54Z,2012-07-28T20:23:11Z,Bug
+curtbinder/AndroidStatus,32,Labels not downloading,closed,2012-06-21T02:02:28Z,2012-06-30T23:11:54Z,Bug
+curtbinder/AndroidStatus,24,Downloading labels does not refresh in preferences screen,closed,2012-05-30T22:08:44Z,2013-07-31T22:50:02Z,Bug
+curtbinder/AndroidStatus,14,Changing host type from controller to portal allows relay buttons to be pressed,closed,2012-05-30T00:42:23Z,2013-05-22T22:51:35Z,Bug
+vilnius/tvarkau-vilniu,156,License plate no shouldn't be included in 'Aplinkos tvarkymas' reports,closed,2017-01-21T13:18:09Z,2017-01-22T18:32:26Z,bug
+vilnius/tvarkau-vilniu,17,Problem detail photo hides toolbar,closed,2016-01-20T20:00:52Z,2016-05-12T17:31:22Z,bug
+42cc/p2psafety,51,t80 Better handling of Alarm state,open,2014-03-08T13:06:07Z,,"bug, android"
+42cc/p2psafety,48,t79 Проблемы с навигацией,open,2014-03-07T21:07:55Z,,"bug, android"
+42cc/p2psafety,43,t70 Проблемы с входом через FB,closed,2014-02-27T17:04:20Z,2014-02-28T14:46:57Z,"bug, 42cc, android"
+42cc/p2psafety,42,t69 Не приходят апдейты с координатами и аудио.,closed,2014-02-27T17:03:26Z,2014-03-07T21:06:56Z,"bug, 42cc, android"
+42cc/p2psafety,38,t67 При натисненні Wanna help - Crash,closed,2014-02-24T15:06:07Z,2014-02-26T17:46:20Z,"bug, 42cc, android"
+42cc/p2psafety,11,Bug: Unexpected vibration after power button had been pressed,closed,2014-02-10T09:42:12Z,2014-02-15T13:35:14Z,"bug, work in progress, 42cc"
+42cc/p2psafety,7,Can't login with facebook,closed,2014-02-07T15:14:20Z,2014-02-12T18:41:21Z,bug
+seemoo-lab/nexmon,19,Interferences with bluetooth stack,open,2017-01-09T08:52:26Z,,bug
+STOP2/stop2.0-traveller-client,86,React native router flux type reset problem,open,2016-11-26T10:58:57Z,,bug
+FraunhoferCESE/madcap,236,Could not get current activity (Physical activity),open,2017-08-07T15:19:55Z,,bug
+FraunhoferCESE/madcap,233,Bluetooth status code,closed,2017-08-03T14:58:38Z,2017-08-03T20:02:37Z,bug
+FraunhoferCESE/madcap,232,Welcome screen layout,open,2017-08-02T16:03:13Z,,bug
+FraunhoferCESE/madcap,231,App goes to background at startup in API 23,open,2017-08-02T14:37:00Z,,bug
+FraunhoferCESE/madcap,229,Internet connection,open,2017-07-06T17:46:04Z,,"bug, enhancement"
+FraunhoferCESE/madcap,228,Permission notification should be automatically dismissed once all permissions are granted,closed,2017-06-30T20:26:25Z,2017-06-30T20:36:03Z,bug
+FraunhoferCESE/madcap,227,Notification for Data Collection and Permission overwrite one another,closed,2017-06-30T20:14:59Z,2017-06-30T20:36:03Z,bug
+FraunhoferCESE/madcap,225,New WifiEntries are resulting in invalid JSON and parse errors in the backend,closed,2017-06-30T17:45:58Z,2017-06-30T17:54:16Z,bug
+FraunhoferCESE/madcap,223,SystemInfoPRobe needs to be created in background thread,open,2017-05-09T17:33:48Z,,bug
+FraunhoferCESE/madcap,219,Error casting int to Long in SharedPrefs update,closed,2017-05-08T13:07:44Z,2017-05-08T13:19:28Z,bug
+FraunhoferCESE/madcap,216,BluetoothDiscoveryEntry not registered in backend,closed,2017-05-04T12:23:40Z,2017-05-04T12:32:47Z,bug
+FraunhoferCESE/madcap,215,Uploads that occur in the background are still not correctly displayed when the main activity starts,open,2017-05-03T18:34:45Z,,bug
+FraunhoferCESE/madcap,214,Dismissing notification,closed,2017-05-02T21:32:13Z,2017-07-06T19:57:20Z,bug
+FraunhoferCESE/madcap,213,One notification for all missing permissions,closed,2017-05-02T21:30:58Z,2017-07-06T19:57:06Z,bug
+FraunhoferCESE/madcap,210,Remove VolumeProbe,closed,2017-04-29T20:04:38Z,2017-04-29T20:15:07Z,"bug, enhancement"
+FraunhoferCESE/madcap,207,"Upload progress bar in MainActivity can be ""frozen"" if the Activity was put in background during upload",closed,2017-04-20T21:24:05Z,2017-04-24T16:34:47Z,bug
+FraunhoferCESE/madcap,206,Better handling of Google API connection failed callbacks,closed,2017-04-20T21:23:30Z,2017-05-01T16:45:08Z,bug
+FraunhoferCESE/madcap,205,Alpha testers complaining of high battery drain,closed,2017-04-20T13:38:38Z,2017-04-28T15:48:43Z,bug
+FraunhoferCESE/madcap,203,Endpoint not automatically saving MADCAP user id on upload if userId does not exist,closed,2017-04-19T13:33:27Z,2017-04-25T01:40:02Z,bug
+FraunhoferCESE/madcap,198,Remove unnecessary spam from WiFI probes,closed,2017-04-12T18:04:46Z,2017-06-30T14:07:05Z,bug
+FraunhoferCESE/madcap,190,Location data continues to be logged after data collection is turned off,closed,2017-04-11T17:00:55Z,2017-04-11T22:44:42Z,bug
+FraunhoferCESE/madcap,189,User denies Account permission,closed,2017-04-10T21:06:43Z,2017-06-30T20:47:27Z,"bug, enhancement, infrastructure"
+FraunhoferCESE/madcap,187,Permission revocation,closed,2017-04-07T21:37:24Z,2017-06-30T20:25:43Z,"bug, enhancement"
+FraunhoferCESE/madcap,186,Run-time permissions,closed,2017-04-07T21:36:02Z,2017-06-30T20:25:29Z,"bug, enhancement"
+FraunhoferCESE/madcap,185,Better error handling of Authorization queries to the backend is needed,closed,2017-04-06T18:30:21Z,2017-04-22T14:55:51Z,bug
+FraunhoferCESE/madcap,182,Wrong completeness status saved,closed,2017-02-09T21:25:32Z,2017-02-10T15:27:55Z,bug
+FraunhoferCESE/madcap,181,Handle the case where the user signs in under a different account,open,2017-02-09T20:55:23Z,,"bug, enhancement, question"
+FraunhoferCESE/madcap,179,"Upload Crash, No Data Collection Probe",closed,2017-02-09T15:32:46Z,2017-02-09T19:19:05Z,bug
+FraunhoferCESE/madcap,178,Timeline bar incorrectly shows madcap application in the foreground,closed,2017-02-09T15:10:50Z,2017-02-21T14:54:38Z,bug
+FraunhoferCESE/madcap,172,Firebase crash reporting seems to have stopped,closed,2017-01-31T14:44:37Z,2017-01-31T17:17:32Z,bug
+FraunhoferCESE/madcap,171,Sign Out logic back button allows user to navigate to fragments,closed,2017-01-31T14:43:36Z,2017-01-31T15:47:16Z,bug
+FraunhoferCESE/madcap,135,Login Bug (API level 19-21),closed,2017-01-11T21:35:40Z,2017-01-11T22:22:22Z,"bug, help wanted"
+FraunhoferCESE/madcap,133,"UI does not update the ""Last Upload result"" section if the upload occurred while MADCAP was in the background or the screen was locked",closed,2017-01-04T20:50:12Z,2017-01-30T18:20:10Z,bug
+FraunhoferCESE/madcap,111,"MADCAP should always show ""Data collected since last upload"" even when DAtaCollection is off",closed,2016-12-21T18:22:59Z,2016-12-27T21:47:26Z,bug
+FraunhoferCESE/madcap,109,Madcap has extra wifi when wifi is off,closed,2016-12-21T15:14:20Z,2017-01-13T15:02:12Z,bug
+FraunhoferCESE/madcap,108,Error when building with new madcap logo,closed,2016-12-14T14:03:42Z,2016-12-15T20:44:17Z,bug
+FraunhoferCESE/madcap,97,onBoot bug,closed,2016-12-02T14:35:14Z,2016-12-02T15:55:02Z,bug
+FraunhoferCESE/madcap,96,TimedLocationTask does not get data after app is shut down,closed,2016-12-01T19:32:50Z,2016-12-09T19:10:45Z,bug
+FraunhoferCESE/madcap,95,Multiple upload listeners and TomedLocationTasks starting,closed,2016-12-01T19:29:32Z,2016-12-02T15:51:31Z,"bug, question"
+FraunhoferCESE/madcap,94,Exception thrown when activity is destroyed,closed,2016-12-01T18:58:24Z,2016-12-01T19:20:51Z,bug
+FraunhoferCESE/madcap,86,Cache is empty after closing the app,closed,2016-11-22T19:39:36Z,2016-12-13T17:09:11Z,bug
+FraunhoferCESE/madcap,85,UsageStats permission requested after app crashes,closed,2016-11-21T13:48:12Z,2016-11-23T21:41:48Z,bug
+FraunhoferCESE/madcap,84,Automatic login fails after app crashes,closed,2016-11-21T13:46:23Z,2016-12-13T21:24:45Z,"bug, question"
+FraunhoferCESE/madcap,83,MADCAP crashes after running for some time,closed,2016-11-20T16:32:58Z,2016-12-12T17:28:53Z,bug
+FraunhoferCESE/madcap,82,Upload progress not properly updating after app has been in background,closed,2016-11-20T15:34:42Z,2016-12-08T17:03:36Z,bug
+FraunhoferCESE/madcap,80,App crashing when swiping away,closed,2016-11-18T22:28:11Z,2016-11-23T21:41:11Z,bug
+FraunhoferCESE/madcap,78,Data collection should not be interrupted when app is closed,closed,2016-11-17T20:15:05Z,2016-12-06T19:07:40Z,bug
+FraunhoferCESE/madcap,76,Multiple UploadStatusListeners created,closed,2016-11-17T20:08:46Z,2016-11-23T21:41:23Z,bug
+FraunhoferCESE/madcap,75,"""Collected data count"" does not update after app resumes -- sometimes",closed,2016-11-17T20:04:30Z,2016-11-23T21:42:16Z,bug
+FraunhoferCESE/madcap,63,"When Android tries to built ""hot"" stackbuilder error.",closed,2016-11-01T20:31:58Z,2016-12-13T20:43:36Z,bug
+FraunhoferCESE/madcap,62,Acra broke.,closed,2016-11-01T18:19:27Z,2016-12-20T21:10:30Z,bug
+FraunhoferCESE/madcap,52,Check auto upload,closed,2016-10-24T19:14:58Z,2016-12-01T18:33:55Z,bug
+FraunhoferCESE/madcap,49,Investigate data compression ,open,2016-10-24T17:32:57Z,,"bug, question"
+FraunhoferCESE/madcap,20,onConnectedFailed when ActivityRecognition Api Connection failed,closed,2016-09-19T18:21:21Z,2016-12-12T18:18:46Z,bug
+xbmc/Kore,78,Resuming a video doesn't update the progress time,closed,2015-05-19T18:53:25Z,2015-05-25T21:38:30Z,bug
+xbmc/Kore,48,Browsing Files: Back doesn't work properly and rotating the device causes the list to go to the begining.,closed,2015-03-23T23:30:00Z,2015-03-29T10:51:57Z,bug
+xbmc/Kore,47,Browsing Files show all files instead of only the correct type,closed,2015-03-23T23:29:15Z,2015-03-29T10:51:05Z,bug
+xbmc/Kore,34,[Feature Request] playlist : add currently playing item indicator + jump to currently playing item,closed,2015-03-06T21:35:11Z,2015-09-18T17:47:22Z,bug
+salema/PodCatcher-Deluxe-Android,200,Media controller overlays system ui on Nexus 7,open,2015-07-07T18:12:30Z,,bug
+salema/PodCatcher-Deluxe-Android,195,IllegalStateException EpisodeListActivity.onPodcastLoadFailed(EpisodeListActivity.java:293),closed,2015-04-27T12:50:47Z,2015-12-06T14:04:40Z,bug
+salema/PodCatcher-Deluxe-Android,194,IllegalStateException ShowEpisodeActivity.onBackPressed(ShowEpisodeActivity.java:92),closed,2015-04-27T12:48:40Z,2015-12-06T14:04:40Z,bug
+salema/PodCatcher-Deluxe-Android,147,Find reason for NullPointer in ListContextListener,closed,2014-04-05T18:07:17Z,2014-04-14T18:39:24Z,bug
+salema/PodCatcher-Deluxe-Android,143,Fix wrong use of dialog fragments,closed,2014-04-03T13:16:09Z,2014-04-14T20:14:25Z,bug
+salema/PodCatcher-Deluxe-Android,116,Hide top progress bar in episode list view when reset() is called,closed,2013-11-26T08:09:10Z,2013-11-26T18:24:23Z,bug
+salema/PodCatcher-Deluxe-Android,113,No logo Kevin Pollak's chat show?,closed,2013-11-19T12:58:17Z,2013-11-19T16:32:27Z,bug
+salema/PodCatcher-Deluxe-Android,102,Actionbar Spinner UI jumps around onSelectAllPodcast(),closed,2013-11-09T20:16:47Z,2013-11-16T21:48:52Z,bug
+salema/PodCatcher-Deluxe-Android,100,Selection in episode list context mode is weird,closed,2013-11-08T18:37:40Z,2014-10-09T14:51:41Z,bug
+salema/PodCatcher-Deluxe-Android,88,Add/remove podcast fails sometimes,closed,2013-10-25T09:35:21Z,2013-10-25T09:53:08Z,bug
+salema/PodCatcher-Deluxe-Android,87,"""Select all"" from the dropdown box does not respond",closed,2013-10-22T11:16:13Z,2015-03-03T15:54:54Z,bug
+salema/PodCatcher-Deluxe-Android,84,Download tracking is not correct sometimes,closed,2013-10-17T12:30:41Z,2014-10-09T14:29:36Z,bug
+salema/PodCatcher-Deluxe-Android,75,Check completion feedback for episode downloads where the file already exists,closed,2013-09-20T12:30:58Z,2013-09-26T09:41:33Z,bug
+salema/PodCatcher-Deluxe-Android,73,java.lang.IllegalStateException: Fragment already added: o{42538860 #0 select_file},closed,2013-09-19T14:40:33Z,2013-11-26T20:37:10Z,bug
+salema/PodCatcher-Deluxe-Android,68,Make podcast without episode pub dates work,closed,2013-08-17T19:34:56Z,2013-08-26T09:06:11Z,bug
+salema/PodCatcher-Deluxe-Android,67,"""Next"" does not work when the player is released async",closed,2013-08-17T19:32:04Z,2014-10-09T14:29:12Z,bug
+salema/PodCatcher-Deluxe-Android,65,Progress of podcast list not shown on start-up in small portrait mode,closed,2013-08-06T12:02:43Z,2013-08-06T12:51:17Z,bug
+salema/PodCatcher-Deluxe-Android,59,Play/Pause button in fullscreen playback does not function sometimes,closed,2013-07-22T10:46:03Z,2013-08-25T20:35:02Z,bug
+salema/PodCatcher-Deluxe-Android,51,"On initial start, the play icons shows even though there is no episode",closed,2013-07-13T06:44:47Z,2013-08-09T05:53:23Z,bug
+salema/PodCatcher-Deluxe-Android,49,SecurityException is thrown on some devices when downloading the external storage,closed,2013-07-12T08:28:06Z,2013-09-26T09:10:58Z,bug
+salema/PodCatcher-Deluxe-Android,48,Content spinner needs too long to open sometimes,closed,2013-07-11T14:51:00Z,2013-07-12T07:46:32Z,bug
+salema/PodCatcher-Deluxe-Android,46,"Podcast ""Radio Ambulante"" fails to parse (not really?)",closed,2013-07-06T07:13:24Z,2013-07-24T17:59:15Z,bug
+salema/PodCatcher-Deluxe-Android,41,Episodes sometimes show html entities in titles,closed,2013-06-24T11:09:09Z,2013-06-24T20:23:27Z,bug
+salema/PodCatcher-Deluxe-Android,38,Episode list jumps around because of re-selection of current episode,closed,2013-06-12T20:42:51Z,2013-08-02T21:14:29Z,bug
+salema/PodCatcher-Deluxe-Android,29,Make sure the correct language is selected for suggestions in French and Spanish language mode,closed,2013-06-04T12:56:45Z,2013-06-09T11:19:33Z,bug
+salema/PodCatcher-Deluxe-Android,27,After seeking and buffering the play button sometimes does not come back,closed,2013-06-04T08:11:46Z,2013-09-26T09:10:58Z,bug
+salema/PodCatcher-Deluxe-Android,26,Filtered state in episode list does not survive config change,closed,2013-06-02T20:19:05Z,2013-06-03T07:44:26Z,bug
+salema/PodCatcher-Deluxe-Android,24,Make sure episode list in context mode handles configuration change correctly,closed,2013-06-01T18:43:13Z,2013-11-08T14:04:18Z,bug
+salema/PodCatcher-Deluxe-Android,22,Second divider is not disabled when showing downloads,closed,2013-06-01T06:18:33Z,2013-06-01T18:58:27Z,bug
+salema/PodCatcher-Deluxe-Android,19,Make remote display on Bluetooth devices actually work,closed,2013-05-31T13:37:42Z,2014-01-27T19:32:14Z,bug
+salema/PodCatcher-Deluxe-Android,18,Checked items in episode/podcast list are not kept when the list items change,closed,2013-05-31T11:01:45Z,2013-05-31T13:33:23Z,bug
+salema/PodCatcher-Deluxe-Android,16,Clipboard overwrites feed import in add podcast dialog,closed,2013-05-31T07:24:45Z,2013-05-31T08:18:10Z,bug
+salema/PodCatcher-Deluxe-Android,3,Downloaded episodes disappear on reboot,closed,2013-05-30T08:01:23Z,2013-05-31T09:21:50Z,bug
+felixb/smsdroid,35,add notification channels for android 8+,closed,2018-05-23T20:08:49Z,2018-07-01T18:04:10Z,bug
+rectangle-dbmi/Realtime-Port-Authority,374,"Fix ""Is Wifi Connected"" Logic: Newer Android Versions No Longer Behave Correctly",open,2023-04-14T18:57:46Z,,bug - Production
+rectangle-dbmi/Realtime-Port-Authority,347,Missing data for bus route 51L,open,2022-08-03T11:21:39Z,,bug - Production
+rectangle-dbmi/Realtime-Port-Authority,345,Test,closed,2022-01-30T19:08:10Z,2023-04-08T00:43:07Z,bug - Production
+rectangle-dbmi/Realtime-Port-Authority,332,Rapidly selecting and deselecting routes with no data floods user with error messages,open,2020-05-18T05:06:18Z,,bug - Beta
+rectangle-dbmi/Realtime-Port-Authority,321,Select Samsung GS6+ Devices With the Places.GEO_DATA_API Enabled Fail to Load Google APIs... Fixed When Removed,closed,2017-09-19T22:54:43Z,2017-09-19T23:20:47Z,bug - Production
+rectangle-dbmi/Realtime-Port-Authority,318,Android Data Saver prevents foreground use from working,open,2017-08-08T14:29:28Z,,bug - Production
+rectangle-dbmi/Realtime-Port-Authority,307,Stop State in haywire when Clicking on List and internet is out (bug in default branch),closed,2016-11-20T21:30:33Z,2017-05-24T05:39:02Z,bug - Beta
+rectangle-dbmi/Realtime-Port-Authority,306,Predictions stop responding when no internet.,closed,2016-11-20T21:29:43Z,2016-11-20T22:43:58Z,bug - Beta
+rectangle-dbmi/Realtime-Port-Authority,298,Selected routes not highlighted on route list on app start,closed,2016-10-29T22:52:12Z,2016-11-10T06:02:59Z,bug - Beta
+rectangle-dbmi/Realtime-Port-Authority,294,New Routes and Stops Freshly Called from Internet Mid-App Session Will Not Appear Until App Restart,closed,2016-10-21T04:05:30Z,2017-05-24T05:38:51Z,bug - Beta
+rectangle-dbmi/Realtime-Port-Authority,292,"""Clear Transit"" Takes too Long to Clear Stops on Map",closed,2016-10-12T04:01:06Z,2016-10-21T01:43:01Z,bug - Beta
+rectangle-dbmi/Realtime-Port-Authority,290,Only 1 Route pattern Appears When Multiple routes Are Selected at Startup,closed,2016-10-09T21:37:13Z,2016-10-12T03:49:19Z,bug - Beta
+rectangle-dbmi/Realtime-Port-Authority,289,"Polylines and Stops should not be unresponsive when ""alt tabbing through apps""",closed,2016-10-09T21:33:40Z,2016-10-14T03:10:16Z,bug - Beta
+rectangle-dbmi/Realtime-Port-Authority,288,stop's refcounts < 0 when they should never be,closed,2016-10-09T21:29:19Z,2016-10-12T04:03:36Z,"wontfix, bug - Beta"
+rectangle-dbmi/Realtime-Port-Authority,283,Random unselected buses stay selected when unselected when data is down,open,2016-07-01T17:18:55Z,,"bug - Production, bug - Beta"
+rectangle-dbmi/Realtime-Port-Authority,275,3 Line Button Does not Do Anything ,closed,2016-05-07T02:34:13Z,2016-05-08T18:14:56Z,bug - Production
+rectangle-dbmi/Realtime-Port-Authority,267,Polylines don't seem to load sometimes after a polyline refresh,closed,2015-12-08T04:47:03Z,2016-10-25T04:03:55Z,"bug - Production, duplicate"
+rectangle-dbmi/Realtime-Port-Authority,241,API Calls shouldn't ghost...,closed,2015-11-14T05:14:49Z,2015-11-15T02:19:35Z,bug - Production
+rectangle-dbmi/Realtime-Port-Authority,223,new zoom level problem,closed,2015-10-04T05:21:32Z,2016-06-04T18:12:45Z,bug - Production
+rectangle-dbmi/Realtime-Port-Authority,222,Make Android Marshmallow Explicit Permissions,closed,2015-10-03T19:43:56Z,2015-11-09T04:56:31Z,"bug - Production, enhancement"
+rectangle-dbmi/Realtime-Port-Authority,198,No data found for parameter error,closed,2015-07-13T18:03:39Z,2015-07-14T01:55:41Z,bug - Production
+rectangle-dbmi/Realtime-Port-Authority,190,Nullpointer exception in onLocationChanged in SelectTransit,closed,2015-07-07T23:03:31Z,2015-07-13T01:22:16Z,bug - Production
+rectangle-dbmi/Realtime-Port-Authority,179,Map/Route Display issues,closed,2015-05-21T13:46:51Z,2015-07-06T02:02:23Z,bug - Production
+rectangle-dbmi/Realtime-Port-Authority,161,The Routes Sometimes don't appear,closed,2015-03-28T06:25:45Z,2015-04-13T17:45:56Z,bug - Production
+rectangle-dbmi/Realtime-Port-Authority,158,Buses not showing up,closed,2015-02-24T01:09:53Z,2015-02-24T05:30:24Z,bug - Production
+rectangle-dbmi/Realtime-Port-Authority,154,App left in RAM for 10+~ unsyncs the buses and polylines,closed,2015-02-03T20:55:09Z,2015-02-24T06:34:06Z,bug - Production
+rectangle-dbmi/Realtime-Port-Authority,150,Rotating device forgets zoom level,closed,2015-01-13T19:04:11Z,2015-02-23T04:59:13Z,bug - Production
+rectangle-dbmi/Realtime-Port-Authority,141,Stops for list of stops,closed,2014-12-22T12:36:53Z,2014-12-23T05:55:30Z,bug - Production
+rectangle-dbmi/Realtime-Port-Authority,138,No route lines when connectivity returns,closed,2014-12-22T05:36:11Z,2017-05-24T05:38:28Z,bug - Production
+rectangle-dbmi/Realtime-Port-Authority,126,Position info box above and centered on bus icon,closed,2014-12-18T04:58:31Z,2015-07-27T18:35:50Z,bug - Production
+rectangle-dbmi/Realtime-Port-Authority,121,Bus stops go away when reentering app.,closed,2014-12-18T03:46:43Z,2014-12-18T04:15:48Z,bug - Production
+rectangle-dbmi/Realtime-Port-Authority,115,Only display bus stops when zoomed in,closed,2014-12-10T17:18:13Z,2014-12-18T02:09:43Z,bug - Production
+rectangle-dbmi/Realtime-Port-Authority,107,Asynctask freezes if there's no internet,closed,2014-12-07T22:29:14Z,2015-02-22T21:27:53Z,bug - Production
+rectangle-dbmi/Realtime-Port-Authority,96,offset arrow so its point is in the right place,closed,2014-11-22T22:10:28Z,2014-11-25T02:07:48Z,bug - Production
+rectangle-dbmi/Realtime-Port-Authority,91,Buses appearing randomly off the map,closed,2014-11-11T03:28:35Z,2014-11-13T23:25:26Z,bug - Production
+rectangle-dbmi/Realtime-Port-Authority,76,Can't set the limit of clicks on the listview,closed,2014-10-09T06:13:20Z,2014-11-13T23:23:43Z,"bug - Production, enhancement"
+rectangle-dbmi/Realtime-Port-Authority,45,UI thread update runs when minimized,closed,2014-08-24T00:43:35Z,2014-08-25T02:37:32Z,bug - Production
+rectangle-dbmi/Realtime-Port-Authority,43,Selecting non-active route clears all markers,closed,2014-08-23T04:48:14Z,2014-08-24T00:57:17Z,bug - Production
+rectangle-dbmi/Realtime-Port-Authority,30,Propose a Method to see which buses to see on the map,closed,2014-08-12T14:53:59Z,2014-08-23T04:46:32Z,"bug - Production, enhancement"
+rectangle-dbmi/Realtime-Port-Authority,21,Markers are added instead of updated,closed,2014-08-05T16:20:56Z,2014-10-19T21:38:44Z,bug - Production
+czlee/debatekeeper,22,App crashes on screen rotation in any non-prep timer,closed,2015-10-22T02:07:15Z,2015-10-22T02:07:59Z,bug
+czlee/debatekeeper,9,Don't remove debate style from list if a user-defined override of a built-in style was deleted,closed,2013-07-27T02:06:03Z,2021-10-02T04:11:51Z,bug
+czlee/debatekeeper,1,Auto-rotation in FormatChooserActivity invokes weird scrolling,closed,2013-07-27T02:05:51Z,2016-10-15T21:24:23Z,bug
+openforis/collect-mobile,1,FileAttributeComponent : Image out of memory,closed,2015-07-08T10:22:58Z,2015-07-20T12:06:22Z,bug
+Geobert/radis,76,plantage avec stats,closed,2015-09-17T13:19:51Z,2015-12-17T16:24:01Z,bug
+Geobert/radis,75,Saisie de somme et formattage UK,closed,2015-09-17T11:09:21Z,2015-12-17T23:02:41Z,bug
+Geobert/radis,74,Remonte tout en haut ,closed,2015-08-18T15:13:18Z,2015-10-11T21:56:41Z,bug
+Geobert/radis,72,initial selection is not at the correct row,closed,2015-04-21T15:40:14Z,2015-04-21T19:50:13Z,bug
+Geobert/radis,71,"after quick add, only get current month and next month, not previous one",closed,2015-04-21T15:39:22Z,2015-04-21T19:50:13Z,bug
+Geobert/radis,70,op form: type date is not saved,closed,2015-04-21T15:38:41Z,2015-04-21T19:50:13Z,bug
+Geobert/radis,68,cocher une opération ne fonctionne pas,closed,2015-03-23T16:49:21Z,2015-03-24T10:19:22Z,bug
+Geobert/radis,64,quick add not refreshing,closed,2015-03-22T19:22:53Z,2015-03-23T13:43:46Z,bug
+Geobert/radis,63,Change timestamp to be compliant with change of timezone,open,2015-02-12T11:52:21Z,,bug
+Geobert/radis,62,manage empty lists (recyclerview regression),closed,2014-11-16T13:46:58Z,2014-11-19T20:23:45Z,bug
+Geobert/radis,60,crash ,closed,2014-11-16T09:57:31Z,2014-11-17T22:11:54Z,bug
+Geobert/radis,58,selected sum is wrong since recyclerview refactor,closed,2014-11-16T09:56:28Z,2014-11-16T13:27:13Z,bug
+Geobert/radis,57,"at lauch, scroll to selected op does not work well on N4",closed,2014-11-16T09:56:01Z,2014-11-17T22:06:26Z,bug
+Geobert/radis,56,échéances et décalage dans la date ?,closed,2014-09-17T13:56:16Z,2014-09-30T06:46:23Z,bug
+Geobert/radis,55,vérifier si des index peuvent être ajouté sur les différentes tables,open,2014-08-27T20:21:05Z,,bug
+Geobert/radis,54,échéancier bug : peut plus changer de compte,closed,2014-08-26T11:54:02Z,2014-08-26T17:54:25Z,bug
+Geobert/radis,53,bug transfert : somme verte mais soustraite,closed,2014-08-06T08:32:16Z,2014-12-16T07:36:49Z,bug
+Geobert/radis,48,pbl avec transfert,closed,2014-05-23T08:08:38Z,2014-05-26T11:35:15Z,bug
+Geobert/radis,46,compte créditeur correspond actuellement au compte débiteur,closed,2014-04-28T15:11:45Z,2014-04-29T20:22:24Z,bug
+Geobert/radis,45,bug mise à jour d'échéance,closed,2014-03-05T08:56:57Z,2014-12-22T21:25:49Z,bug
+Geobert/radis,43,opération non affichées,closed,2014-01-09T14:18:46Z,2014-01-11T14:27:32Z,bug
+Geobert/radis,40,Pbl dans les comptes sur édition d'un transfert,closed,2014-01-02T07:33:49Z,2014-01-02T21:49:10Z,bug
+Geobert/radis,39,First launch of the application,closed,2013-11-26T08:30:04Z,2014-01-02T21:53:17Z,bug
+Geobert/radis,36,Après édit pas de maj somme compte,closed,2013-10-19T09:00:47Z,2014-01-05T17:03:04Z,bug
+Geobert/radis,35,Somme à la selection pas bonne après édition d'opération ?,closed,2013-09-30T06:24:39Z,2014-01-16T22:04:00Z,bug
+Geobert/radis,34,Champs text bloqué,closed,2013-09-30T06:23:50Z,2013-09-30T20:39:58Z,bug
+Geobert/radis,33,Edition de somme passe la somme en négatif,closed,2013-09-30T06:22:24Z,2013-09-30T20:39:55Z,bug
+Geobert/radis,32,crash dans ScheduledOperationEditor,closed,2013-09-30T06:21:41Z,2013-09-30T20:38:22Z,bug
+Geobert/radis,31,Bug catégories et moyen de paiement vides,closed,2013-09-21T16:03:23Z,2013-09-22T14:58:09Z,bug
+Geobert/radis,30,Solde a la selection erroné,closed,2013-09-19T07:21:20Z,2013-09-30T06:30:40Z,bug
+Geobert/radis,29,Crash dans AccountEditor,closed,2013-08-30T06:35:33Z,2013-08-31T20:17:59Z,bug
+Geobert/radis,28,Crash lors d'un unregister,closed,2013-08-27T12:59:26Z,2013-08-31T14:56:40Z,bug
+Geobert/radis,27,Crash de RadisService,closed,2013-08-27T08:46:01Z,2013-08-31T20:17:59Z,bug
+Geobert/radis,25,Recalculer le compte ne fonctionne pas,closed,2013-08-06T21:12:12Z,2013-08-07T20:33:26Z,bug
+Geobert/radis,24,Bug calcul solde à la sélection après changement de date de projection,closed,2013-08-06T21:11:51Z,2013-08-07T20:33:26Z,bug
+Geobert/radis,23,Compte par défaut pas pris en  compte,closed,2013-08-06T21:11:19Z,2013-08-07T20:56:25Z,bug
+Geobert/radis,21,Pref sur quick add non prise en compte,closed,2013-08-05T21:11:32Z,2013-08-07T20:56:24Z,bug
+Geobert/radis,20,Menu Debug présent dans l'apk de prod,closed,2013-07-26T20:22:14Z,2013-08-04T10:21:31Z,bug
+Geobert/radis,19,éditer échéance depuis liste op ne charge pas l'échéance dans le formulaire,closed,2013-07-25T21:47:51Z,2013-07-26T06:25:06Z,bug
+Geobert/radis,18,recalculer les bases lors de la restoration de backup,closed,2013-07-25T19:40:06Z,2013-08-04T10:14:57Z,bug
+Geobert/radis,17,Supprimer une échéance doit décoreller ses instances,closed,2013-07-25T13:57:53Z,2013-07-25T21:48:20Z,bug
+Geobert/radis,16,"Au démarrage, scroller et select la bonne date",closed,2013-07-25T11:20:34Z,2013-08-03T09:38:18Z,bug
+Geobert/radis,15,Somme à la selection incorrecte,closed,2013-07-25T11:18:33Z,2013-07-25T20:10:53Z,bug
+Geobert/radis,14,Retour au compte par défaut après ajout op,closed,2013-07-25T10:34:15Z,2013-08-03T20:41:27Z,bug
+Geobert/radis,13,Crash de RadisService,closed,2013-07-25T10:26:48Z,2013-07-25T20:10:53Z,bug
+Geobert/radis,12,"Schedule List : liste de compte, label trop collé à gauche",closed,2013-07-25T09:48:16Z,2013-08-04T09:18:28Z,bug
+Geobert/radis,11,Schedule List : pas de refresh qd on change de compte,closed,2013-07-25T09:47:40Z,2013-08-03T21:05:16Z,bug
+PanicInitiative/PanicButton,201,Stop Alert message not sent,closed,2016-02-02T02:39:38Z,2016-02-02T05:50:13Z,"bug, duplicate"
+PanicInitiative/PanicButton,196,Sometimes alert keeps sending despite ribbon color,open,2016-02-01T13:34:28Z,,"bug, in progress"
+PanicInitiative/PanicButton,194,Phone incompatibility,open,2016-02-01T11:40:51Z,,"bug, next"
+PanicInitiative/PanicButton,136,Randomly getting org.iilab.pb/.CalculatorActivity  android.os.DeadObjectException,open,2015-12-02T05:35:26Z,,"bug, current"
+PanicInitiative/PanicButton,126,"Different beahvior for PIN verification via ""Enter key"" in number pad",closed,2015-10-12T23:24:45Z,2016-01-27T09:31:39Z,bug
+PanicInitiative/PanicButton,107,Update animated gif for different trigger options,open,2015-09-18T08:10:43Z,,"bug, review"
+PanicInitiative/PanicButton,81,Crash report for contact nested fragment,closed,2015-04-20T10:02:30Z,2015-09-18T07:52:21Z,bug
+PanicInitiative/PanicButton,74,Content changes in alpha release are not picked up,closed,2015-04-06T13:33:33Z,2015-04-06T14:11:33Z,bug
+PanicInitiative/PanicButton,72,"When no location is found the first message sent says ""Trying to identify location""",closed,2015-04-01T11:11:45Z,2015-04-20T15:28:06Z,bug
+PanicInitiative/PanicButton,69,"""Alert has been stopped"" message",open,2015-03-26T18:09:25Z,,"bug, question, current"
+PanicInitiative/PanicButton,68,JSON parsing error on startup,closed,2015-03-26T14:48:56Z,2015-03-31T17:16:46Z,bug
+PanicInitiative/PanicButton,66,Animated Gif thread is not destroyed properly.,closed,2015-03-26T10:19:53Z,2015-03-31T17:20:00Z,bug
+PanicInitiative/PanicButton,65,Some phone require double press to confirm.,closed,2015-03-26T08:26:12Z,2015-04-01T10:00:06Z,bug
+PanicInitiative/PanicButton,63,Problem going through disguise with Cherry Gem on Android v4.2.2 ,open,2015-03-25T11:49:45Z,,bug
+PanicInitiative/PanicButton,57,crash when adding a contact,closed,2015-01-09T19:41:55Z,2015-09-18T07:52:13Z,bug
+PanicInitiative/PanicButton,47,Unwanted trigger of the alert on galaxy S5,closed,2014-06-28T16:15:05Z,2014-08-06T11:47:00Z,bug
+PanicInitiative/PanicButton,46,Bypassing the app (Android 4.4.2),open,2014-06-27T10:18:21Z,,bug
+PanicInitiative/PanicButton,42,On Android 4.4 the messages are stored in Sent Items,open,2014-06-23T16:04:59Z,,"bug, security, next"
+PanicInitiative/PanicButton,39,Old contacts still alerted,closed,2014-06-21T19:25:35Z,2015-04-20T09:47:20Z,bug
+PanicInitiative/PanicButton,38,Alert sometimes activates itself during a phone call,open,2014-06-21T19:24:47Z,,bug
+PanicInitiative/PanicButton,37,On some handsets triggering with the power button require 10 presses instead of 5.,closed,2014-06-21T19:23:28Z,2015-04-20T15:34:15Z,bug
+PanicInitiative/PanicButton,35,Google Play store installs home screen shortcut,closed,2014-06-21T16:23:08Z,2014-08-06T11:29:28Z,"bug, security"
+PanicInitiative/PanicButton,31,"Power button trigger fails after crash (though app setup displays ""Ready"")",open,2014-06-11T17:02:02Z,,"bug, current"
+PanicInitiative/PanicButton,30,"App crashes on ""more security tips"" during setup",closed,2014-06-11T15:49:33Z,2014-06-21T19:22:05Z,bug
+PanicInitiative/PanicButton,23,Black Screen when scrolling on the Checklist,closed,2014-05-16T07:43:44Z,2014-06-12T17:31:55Z,bug
+PanicInitiative/PanicButton,21,Issue Report,closed,2014-04-23T20:56:06Z,2014-04-23T21:11:35Z,bug
+PanicInitiative/PanicButton,20,Issue Report,closed,2014-04-23T20:45:59Z,2014-04-23T20:46:39Z,bug
+PanicInitiative/PanicButton,19,Issue Report,closed,2014-04-23T19:07:08Z,2014-04-23T20:34:58Z,bug
+PanicInitiative/PanicButton,18,Issue Report,closed,2014-04-23T19:04:50Z,2014-04-23T19:05:44Z,bug
+veniosg/Dir,126,Link to Desktop not working ,open,2018-09-13T12:14:33Z,,"bug, feature, good first issue"
+veniosg/Dir,125,Keep modification timestamp on copy,open,2018-08-05T08:22:25Z,,"bug, question"
+veniosg/Dir,122,NullPointerException,open,2018-07-05T06:27:12Z,,bug
+veniosg/Dir,116,browsing a folder normally supposed to contain pictures shows folder empty when trying to upload pictures with dir file manager,open,2018-03-12T02:33:04Z,,"bug, help wanted"
+veniosg/Dir,113,"""Open With -> Always"" setting is lost on every folder navigation",open,2018-02-16T20:08:26Z,,"bug, good first issue, help wanted"
+veniosg/Dir,110,Fix crash in deleteOperation,closed,2018-01-30T12:41:13Z,2018-02-09T08:55:06Z,"bug, good first issue"
+veniosg/Dir,108,Can't install APK,closed,2018-01-30T00:27:17Z,2018-03-26T10:50:53Z,bug
+veniosg/Dir,106,Renaming to an Existing File  Fails but Shows Success Message,closed,2018-01-26T22:30:26Z,2018-02-09T08:55:06Z,"bug, good first issue"
+veniosg/Dir,104,Crash when Compressing to File Named as Existing File,closed,2018-01-26T15:12:37Z,2018-01-27T11:33:02Z,"bug, good first issue"
+veniosg/Dir,100,App forces stop after selecting all files. ,open,2018-01-23T12:53:34Z,,"bug, good first issue"
+veniosg/Dir,99,Doesn't open correct file,open,2018-01-22T15:10:31Z,,"bug, question"
+veniosg/Dir,96,Re enable proguard,closed,2018-01-17T22:38:38Z,2018-01-18T08:58:49Z,"bug, good first issue"
+veniosg/Dir,91,Make DeleteAsyncTask an IntentService,open,2018-01-03T17:33:39Z,,"bug, good first issue"
+veniosg/Dir,80,Fix setupToolbar crash,closed,2017-12-06T13:23:00Z,2018-01-01T13:17:57Z,"bug, good first issue"
+veniosg/Dir,71,Delete SaveAsActivity,closed,2017-11-15T08:24:20Z,2017-12-09T18:11:46Z,bug
+veniosg/Dir,68,Fix GMail attachments,open,2017-11-03T07:52:55Z,,"bug, good first issue"
+veniosg/Dir,67,Opening files without extensions,open,2017-10-31T20:42:29Z,,bug
+veniosg/Dir,66,Write access on External SD card,closed,2017-10-29T23:11:34Z,2018-01-17T22:04:44Z,"bug, higheffort"
+veniosg/Dir,65,Fix top crashes,closed,2017-10-27T07:11:25Z,2017-12-06T13:27:27Z,bug
+veniosg/Dir,58,OTG issues,open,2017-08-21T13:21:59Z,,bug
+veniosg/Dir,57,Fix NPE when informing MediaScanner,closed,2017-08-18T12:49:25Z,2017-10-16T19:49:07Z,bug
+veniosg/Dir,56,Fix NPE around extraction notification,closed,2017-08-18T12:46:50Z,2017-10-16T19:49:07Z,bug
+veniosg/Dir,36,Crash on DetailsDialog.onCreateDialog(),closed,2017-07-03T10:10:48Z,2017-07-09T09:53:31Z,bug
+veniosg/Dir,35,Crash on SimpleFileListFragment.onDataApplied(),closed,2017-07-03T10:09:49Z,2017-07-09T10:01:27Z,bug
+veniosg/Dir,34,Crash on FileUtils.isOk(),closed,2017-07-03T10:08:29Z,2017-07-09T10:44:57Z,bug
+veniosg/Dir,33,CAB overflow hangs app on Moto Z Play,closed,2017-07-03T10:06:54Z,2017-07-09T11:57:37Z,bug
+veniosg/Dir,30,Fix new installations not getting permission on Marshmallow,closed,2015-10-25T15:39:52Z,2015-10-25T16:22:40Z,bug
+veniosg/Dir,25,Fix hero element being transparent on 6.0,closed,2015-10-06T11:58:34Z,2015-10-20T02:15:59Z,bug
+veniosg/Dir,22,Thumbnails being overwritten by previous list contents,closed,2014-10-01T16:07:16Z,2014-10-11T13:29:23Z,"bug, feature"
+veniosg/Dir,20,Title disappears after theme change,closed,2014-08-11T13:07:21Z,2014-10-30T16:34:04Z,bug
+veniosg/Dir,18,Crash on multi delete,closed,2014-08-05T22:35:27Z,2014-08-17T10:59:47Z,bug
+veniosg/Dir,14,Make testIntentRememberPickFilePath pass,closed,2014-06-01T11:06:16Z,2017-07-09T09:40:20Z,bug
+veniosg/Dir,13,Fix SaveAsActivityTest,closed,2014-06-01T11:04:11Z,2017-07-09T09:40:16Z,bug
+veniosg/Dir,6,Compression false negative for empty folders,closed,2014-05-12T01:17:44Z,2014-05-21T11:15:16Z,bug
+MGaetan89/ShowsRage,155,ShowsRage crashes when viewing existing show,closed,2018-06-25T08:09:06Z,2018-06-27T21:40:35Z,Bug
+MGaetan89/ShowsRage,154,When adding a show you cannot select the 'root folder' from dropdown,closed,2018-06-25T08:01:05Z,2018-06-27T21:40:35Z,Bug
+MGaetan89/ShowsRage,151,Episode detail is empty,closed,2018-05-28T18:48:33Z,2018-05-28T18:48:49Z,Bug
+MGaetan89/ShowsRage,149,Cannot add new show (search returns no results),closed,2018-05-23T10:12:15Z,2018-06-19T09:48:32Z,Bug
+MGaetan89/ShowsRage,147,Fix access to logs filter,closed,2018-05-18T09:45:49Z,2018-05-18T09:46:29Z,Bug
+MGaetan89/ShowsRage,146,Problem with Schedule display,closed,2018-05-18T09:08:53Z,2018-05-18T09:40:31Z,Bug
+MGaetan89/ShowsRage,138,Lag when loading a large list of tv shows,closed,2017-06-20T17:36:11Z,2018-05-17T19:34:53Z,Bug
+MGaetan89/ShowsRage,124,Error on Sickrage API,closed,2016-11-23T20:28:26Z,2016-11-26T10:49:12Z,"Bug, Duplicate"
+MGaetan89/ShowsRage,109,Schedule Swipe Sensitivity,open,2016-09-20T21:02:26Z,,Bug
+MGaetan89/ShowsRage,104,Stopped shows don't display any episode information,closed,2016-08-28T14:18:13Z,2018-05-28T18:37:46Z,"Bug, Play Store"
+MGaetan89/ShowsRage,101,Log filter not working proper,closed,2016-08-23T23:24:47Z,2016-08-28T13:40:06Z,Bug
+MGaetan89/ShowsRage,95,Unable to add show,closed,2016-08-18T00:09:49Z,2016-08-20T14:35:24Z,Bug
+MGaetan89/ShowsRage,71,Shows Window Flickering and menu navigation issue,closed,2016-06-06T22:01:57Z,2016-08-21T14:36:40Z,Bug
+MGaetan89/ShowsRage,58,Various colours for status labels,closed,2016-02-03T06:24:20Z,2016-02-29T19:42:18Z,Bug
+MGaetan89/ShowsRage,55,"Able to get API key, but connection test fails, no errors logged",open,2016-01-01T17:12:21Z,,Bug
+MGaetan89/ShowsRage,52,Can't play shows in external player,closed,2015-12-05T11:07:29Z,2016-08-22T15:11:18Z,Bug
+MGaetan89/ShowsRage,49,Incorrect selection state in navigation drawer,closed,2015-12-04T14:59:42Z,2016-01-17T16:21:40Z,Bug
+MGaetan89/ShowsRage,26,Error When Adding a Show and Specifying quality ,closed,2015-10-10T21:46:09Z,2015-10-18T10:39:20Z,Bug
+MGaetan89/ShowsRage,25,Fix images loading when using Basic Auth,closed,2015-10-05T21:08:20Z,2015-10-12T17:16:22Z,Bug
+MGaetan89/ShowsRage,22,Fix episodes sorting,closed,2015-10-01T18:38:58Z,2016-01-12T18:59:41Z,Bug
+MGaetan89/ShowsRage,19,Episode information does not update,closed,2015-09-29T12:35:14Z,2015-09-29T17:44:48Z,Bug
+MGaetan89/ShowsRage,11,My sickrage freeze when i use the app,closed,2015-09-24T10:43:48Z,2015-10-12T18:56:47Z,Bug
+MGaetan89/ShowsRage,9,Connection fails with basic auth and https,closed,2015-09-23T01:46:06Z,2015-09-30T05:05:09Z,"Bug, Enhancement"
+MGaetan89/ShowsRage,8,Setup,closed,2015-09-21T18:56:32Z,2015-09-22T07:54:24Z,"Bug, Duplicate"
+MGaetan89/ShowsRage,7,Using self signed ssl  certificate does not work ,closed,2015-09-21T06:37:08Z,2015-09-22T21:39:13Z,Bug
+MGaetan89/ShowsRage,6,Fix API path generation,closed,2015-09-20T10:15:16Z,2015-09-21T10:50:17Z,"Bug, Play Store"
+lecho/hellocharts-android,334,Linechart horizontal scrolling,open,2016-08-31T20:49:57Z,,bug
+lecho/hellocharts-android,230,ArithmeticException: divide by zero,open,2016-01-04T10:07:23Z,,bug
+lecho/hellocharts-android,188,"Pie chart draws labels for all slices, not just selected",closed,2015-09-23T07:59:28Z,2015-09-27T15:27:06Z,bug
+lecho/hellocharts-android,130,"hi,how to change the zoom level to show all the xValue lables",open,2015-05-05T04:16:43Z,,bug
+lecho/hellocharts-android,125,Axis and label are missing when setInside,closed,2015-04-29T13:28:31Z,2016-07-30T18:56:34Z,bug
+lecho/hellocharts-android,107,SimplePieChartValueFormatter exception,closed,2015-03-24T10:55:44Z,2015-03-24T16:58:46Z,"bug, duplicate"
+lecho/hellocharts-android,105,Crash in PieChartView,closed,2015-03-23T14:02:46Z,2015-03-23T20:45:15Z,bug
+lecho/hellocharts-android,95,divide by zero in lecho.lib.hellocharts.renderer.AxesRenderer.prepareCustomAxis,closed,2015-03-12T11:07:29Z,2015-03-15T20:18:24Z,bug
+lecho/hellocharts-android,94,Issue with PieChart on lollipop,open,2015-03-12T07:24:18Z,,bug
+lecho/hellocharts-android,91,Pie chart gap is displayed even if the circle is filled,closed,2015-03-09T08:33:56Z,2015-03-09T19:22:25Z,bug
+lecho/hellocharts-android,90,Pie chart slices arent equally large,closed,2015-03-06T07:40:43Z,2015-03-07T16:34:40Z,bug
+lecho/hellocharts-android,88,public void setValueLabelsTextColor(int labelsTextColor) not working properly,closed,2015-03-04T08:24:14Z,2015-03-04T20:49:34Z,bug
+lecho/hellocharts-android,84,Value Selection Enabled option at an individual line level.,closed,2015-02-22T03:31:47Z,2015-02-22T15:28:57Z,"bug, enhancement"
+lecho/hellocharts-android,82,Pie chart not centred with center circle,closed,2015-02-18T20:37:33Z,2015-03-07T16:34:40Z,bug
+lecho/hellocharts-android,80,Visualization for a single point value,closed,2015-02-16T14:18:34Z,2015-02-17T19:03:55Z,bug
+lecho/hellocharts-android,74,X-Axis label is cut off,closed,2015-02-05T14:15:26Z,2015-02-05T18:00:30Z,bug
+lecho/hellocharts-android,49,Show all steps in axis y,open,2015-01-16T14:56:11Z,,"bug, enhancement"
+lecho/hellocharts-android,48,help with multiple lines,closed,2015-01-09T11:01:00Z,2015-02-01T16:22:24Z,bug
+lecho/hellocharts-android,41,[LineChartView] A problem about filled area,closed,2014-12-31T06:58:55Z,2015-01-04T21:26:02Z,bug
+lecho/hellocharts-android,35,"If ""axis.setAutoGenerated(true)"" then does not respect the amount of decimal digits",closed,2014-12-23T16:46:05Z,2014-12-23T18:35:09Z,bug
+lecho/hellocharts-android,26,Incomaptibility with gradle plugin 1.0,closed,2014-12-09T16:36:58Z,2014-12-09T19:48:17Z,bug
+lecho/hellocharts-android,22,Disable touch events for centerCirle?,closed,2014-12-06T08:39:06Z,2014-12-06T19:22:55Z,bug
+lecho/hellocharts-android,21,Touching Points,closed,2014-12-02T01:36:14Z,2014-12-04T12:46:54Z,"bug, question"
+lecho/hellocharts-android,18,onNothingTouched not firing,closed,2014-11-27T12:04:17Z,2014-12-14T19:01:23Z,bug
+lecho/hellocharts-android,16,View Axis data,closed,2014-11-25T17:03:07Z,2014-12-18T19:46:05Z,bug
+lecho/hellocharts-android,5,Crash when zooming,closed,2014-10-22T08:47:32Z,2014-10-25T16:43:06Z,bug
+lecho/hellocharts-android,3,java.lang.ArithmeticException: divide by zero,closed,2014-10-19T16:12:20Z,2014-10-19T17:09:33Z,bug
+lecho/hellocharts-android,1,how to set zoom level manually ?,closed,2014-10-16T12:17:56Z,2014-10-16T17:59:14Z,"bug, question"
+kimsin3003/X10,109,[피드백] Release #8,closed,2015-12-22T02:03:02Z,2015-12-28T08:21:25Z,"bug, enhancement, Feedback"
+kimsin3003/X10,58,Explosion과 Target들 충돌체크가 안 됨,closed,2015-11-23T08:49:20Z,2015-11-29T16:33:04Z,bug
+tgwizard/sls,557,Correction rules are not reflected in scrobbles,open,2019-10-26T11:06:26Z,,"bugs, feature request"
+tgwizard/sls,554,Rocket Player is not recognized as a supported app,closed,2019-10-08T05:03:18Z,2019-11-29T11:48:50Z,bugs
+tgwizard/sls,553,Metered WiFi,open,2019-10-06T18:44:42Z,,"bugs, feature request"
+tgwizard/sls,551,music player detection problems android 8 LG G6,open,2019-10-04T07:23:19Z,,bugs
+tgwizard/sls,550,Not-logged-in warning,open,2019-10-02T05:27:36Z,,"bugs, critical"
+tgwizard/sls,549,Network Error when tried login in last.fm,open,2019-09-30T00:38:11Z,,bugs
+tgwizard/sls,546,Music Apps are not being detecting after phone reboot and app closing/reopening (PlayerPro issue possibly),open,2019-09-26T21:12:17Z,,"bugs, critical"
+tgwizard/sls,544,"Poweramp ""Repeat One"" does not scrobble more than once",open,2019-09-23T16:28:13Z,,bugs
+tgwizard/sls,537,Multiple random scrobbles of last played song hours later,closed,2019-09-18T15:54:59Z,2019-12-06T02:29:39Z,bugs
+tgwizard/sls,534,"Can't return back from ""Permissions"" window",closed,2019-09-16T17:14:04Z,2019-09-17T22:08:07Z,bugs
+tgwizard/sls,525,Poor Documentation on Android 8.0+ for severity of Notification Listener,closed,2019-09-14T11:45:39Z,2019-09-14T20:51:32Z,bugs
+tgwizard/sls,517,about repeated plays,closed,2019-09-10T11:15:15Z,2019-09-10T13:20:06Z,bugs
+tgwizard/sls,515,ListenBrainz login no longer working,closed,2019-09-10T02:26:25Z,2019-09-10T13:26:57Z,"bugs, critical"
+tgwizard/sls,513,Upgrade Loses Login Credentials,open,2019-09-09T14:30:18Z,,"bugs, critical"
+tgwizard/sls,510," After updating to 1.6.2, App crashes on ""Scrobble Now""",closed,2019-09-09T06:06:38Z,2019-09-09T12:56:46Z,bugs
+tgwizard/sls,506,"1,6,1 notification stays up even when force close",closed,2019-09-08T12:56:50Z,2019-09-08T18:20:52Z,bugs
+tgwizard/sls,504,Language Translations,open,2019-09-08T12:26:44Z,,"bugs, language"
+tgwizard/sls,503,Version 50+ having trouble picking up initial notifications.,closed,2019-09-08T10:24:40Z,2019-09-14T00:05:39Z,bugs
+tgwizard/sls,495,1.4.8 pre 11 not picking up any notifications,closed,2019-09-02T16:36:22Z,2019-09-04T17:59:07Z,"bugs, serious"
+tgwizard/sls,465,scrobbles last listened to item on soundcloud perpetually,closed,2019-07-17T05:24:30Z,2019-08-29T17:37:43Z,bugs
+tgwizard/sls,459,No longer scrobbling in 1.5.7 (Android 9),closed,2019-02-13T07:11:45Z,2019-08-27T16:18:10Z,bugs
+tgwizard/sls,457,Can't detect SoundCloud app,closed,2019-01-17T17:18:00Z,2019-08-11T12:03:06Z,bugs
+tgwizard/sls,453,Amazon Music on FireTV not recognized anymore,closed,2018-10-13T16:27:44Z,2019-06-24T11:34:17Z,bugs
+tgwizard/sls,451,"Accidentally pressed ""Clear List"" on ""Enabled Apps"", now it doesn't detect any music apps.",closed,2018-10-01T09:23:42Z,2019-08-11T11:46:15Z,bugs
+tgwizard/sls,450,Songs cache but won't scrobble suddenly,closed,2018-09-23T04:13:19Z,2019-08-29T17:48:25Z,bugs
+tgwizard/sls,449,sls scrobbles from Spotify when the Spotify option is disabled,closed,2018-09-17T07:58:35Z,2019-08-29T17:47:31Z,bugs
+tgwizard/sls,447,Amazon Music - Scrobbling erratically,closed,2018-09-07T09:41:04Z,2019-08-27T19:28:37Z,bugs
+tgwizard/sls,443,"Not scrobbling, after resume playback",closed,2018-07-23T10:09:51Z,2019-08-11T12:23:05Z,bugs
+tgwizard/sls,442,Simple Last.fm scrobbler stops scrobbling randomly.,closed,2018-07-09T18:51:47Z,2019-08-29T17:38:13Z,bugs
+tgwizard/sls,441,DSub not detected,closed,2018-07-06T16:47:50Z,2019-08-27T18:59:39Z,bugs
+tgwizard/sls,440,n7player huge error,closed,2018-07-04T20:15:04Z,2019-06-30T09:48:15Z,bugs
+tgwizard/sls,439,Doesn't detect ANY apps ,closed,2018-06-28T15:28:13Z,2019-07-01T10:21:55Z,bugs
+tgwizard/sls,425,Login Issues,closed,2018-02-18T16:56:56Z,2019-09-08T23:56:22Z,bugs
+tgwizard/sls,424,Scrobbling nly happens randomly from my phone,closed,2018-02-10T15:13:29Z,2019-06-25T09:28:19Z,bugs
+tgwizard/sls,423,GoneMad Player,closed,2018-02-08T16:10:34Z,2019-08-27T18:58:30Z,bugs
+tgwizard/sls,419,"Current displayed scrobble is"" minutes"" behind",closed,2018-01-27T18:20:37Z,2019-11-10T23:12:13Z,bugs
+tgwizard/sls,418,Google Play Music not working?,closed,2018-01-22T12:54:55Z,2019-08-29T17:39:01Z,bugs
+tgwizard/sls,403,Doesn't scrobble songs on repeat with Google Play Music,closed,2017-10-12T17:39:45Z,2019-08-11T12:32:35Z,bugs
+tgwizard/sls,401,Won't scrobble when not charging,closed,2017-10-11T18:05:54Z,2019-06-24T11:12:24Z,bugs
+tgwizard/sls,391,Incorrect credentials/no scrobbling for ListenBrainz,closed,2017-08-31T11:09:15Z,2017-09-18T09:41:55Z,bugs
+tgwizard/sls,389,poweramp alpha not being scrobbled?,closed,2017-08-05T11:24:49Z,2019-08-29T17:41:17Z,bugs
+tgwizard/sls,388,Scrobbles not recognized from Vanilla Music when file is not in MediaStore.,closed,2017-08-05T02:05:52Z,2019-08-29T17:45:49Z,bugs
+tgwizard/sls,385,Listens successfully scrobbled to ListenBrainz remain in cache,closed,2017-07-31T08:51:59Z,2017-09-16T12:42:59Z,bugs
+tgwizard/sls,384,"Persistent ""Simple Last.fm Scrobbler is running in the background"" notification in Android O",closed,2017-07-18T05:40:06Z,2019-08-29T17:46:48Z,bugs
+tgwizard/sls,382,"SLS claims to scrobble, but tracks do not show up on Last.fm",closed,2017-07-09T11:18:01Z,2019-08-11T12:08:23Z,bugs
+tgwizard/sls,381,SLS doesn't include Recording MBID,closed,2017-06-22T23:41:01Z,2019-08-29T17:40:37Z,bugs
+tgwizard/sls,379,"What URLs to use for custom ListenBrainz/""L-Brnz"" server credentials?",closed,2017-05-31T15:06:14Z,2019-08-10T14:45:56Z,bugs
+tgwizard/sls,378,SLS scrobbles skipped tracks that have played for 30secs regardless of the percentage point set in options.,closed,2017-05-30T18:07:49Z,2019-08-11T12:06:36Z,bugs
+tgwizard/sls,377,Spotify not recognised as music app.  ,closed,2017-05-29T13:12:50Z,2017-06-01T13:46:04Z,bugs
+tgwizard/sls,373,Tracks are not automatically submitted after play,closed,2017-04-07T01:14:32Z,2019-08-28T01:34:14Z,bugs
+tgwizard/sls,369,SLS sends Now Playing notifications but doesn't scrobble tracks,closed,2017-03-20T19:28:24Z,2019-08-29T17:35:58Z,bugs
+tgwizard/sls,367,"""Android Music Player"" Apps not installed",closed,2017-03-12T20:02:15Z,2019-08-29T17:18:33Z,bugs
+tgwizard/sls,365,Issues with scrobbling tracks (album not sent urlencoded?),closed,2017-03-08T01:41:53Z,2019-08-10T14:53:41Z,bugs
+tgwizard/sls,357,Scrobbles Do Not Upload In Background,closed,2017-02-14T21:46:11Z,2019-08-29T17:16:44Z,bugs
+tgwizard/sls,346,Set Notification Priority,closed,2017-01-28T19:01:29Z,2019-08-29T14:19:18Z,"bugs, feature request"
+tgwizard/sls,341,SLS not working on Vanilla Nightly,closed,2017-01-13T11:50:14Z,2017-02-04T21:05:47Z,bugs
+tgwizard/sls,333,Rocket Player 4.2.52 from October 2016 stops working since SLS update to 1.5.2 last week,closed,2016-12-03T15:23:38Z,2019-08-27T03:28:20Z,bugs
+tgwizard/sls,330,Love track notification,closed,2016-11-23T12:45:13Z,2019-08-29T14:18:38Z,"bugs, feature request"
+tgwizard/sls,324,repeat song scrobble issue (track queue system),open,2016-11-12T09:17:59Z,,bugs
+tgwizard/sls,320,custom SLS apks for custom GNU-fm server,closed,2016-10-27T22:39:38Z,2019-06-24T12:12:29Z,"bugs, feature request"
+tgwizard/sls,319,google music doesnt show up in apps list on marshmellow,closed,2016-10-24T00:13:25Z,2016-11-15T12:16:38Z,bugs
+tgwizard/sls,318,"Add"" love track"" to libre.fm",closed,2016-10-22T14:43:43Z,2016-11-15T12:20:33Z,bugs
+tgwizard/sls,317,Erratic notification issue,closed,2016-10-20T09:42:41Z,2016-11-15T12:18:24Z,bugs
+tgwizard/sls,313,Scrobbles only about 2/3 of songs casting to Chromecast via GPM,closed,2016-10-09T11:51:54Z,2016-11-15T12:21:00Z,bugs
+tgwizard/sls,310,Doesn`t work scrobbling,closed,2016-09-27T16:09:48Z,2016-09-27T16:42:42Z,bugs
+tgwizard/sls,305,Wrong tracks are scrobbled.,closed,2016-09-24T10:37:00Z,2016-11-15T12:23:24Z,bugs
+tgwizard/sls,303,Love current track requires scrobbling the track,closed,2016-09-23T08:12:01Z,2019-11-10T23:13:01Z,"bugs, feature request"
+tgwizard/sls,292,Polish Translation is really bad. ,closed,2016-09-06T07:34:22Z,2016-11-15T12:24:21Z,bugs
+tgwizard/sls,290,Listening to music while in Airplane Mode DELETES MY LOGIN DATA,closed,2016-09-01T17:22:42Z,2016-09-27T14:21:00Z,bugs
+tgwizard/sls,286,Huge data usage,closed,2016-08-19T06:23:42Z,2016-09-24T12:38:13Z,bugs
+tgwizard/sls,281,Stops to scrobble on MIUI,closed,2016-07-29T12:30:51Z,2016-08-02T12:03:00Z,bugs
+tgwizard/sls,275,View Scrobble Cache button doesn't work,closed,2016-07-21T12:19:13Z,2016-07-29T09:03:15Z,bugs
+tgwizard/sls,273,Suggestion: Notify if not scrobbling or account disconnected,closed,2016-07-15T15:59:58Z,2016-07-19T16:35:28Z,bugs
+tgwizard/sls,272,Missing scrobbles with Unknown Album,closed,2016-07-13T19:51:09Z,2016-07-15T23:39:58Z,bugs
+tgwizard/sls,270,Issues with Poweramp?,closed,2016-07-02T10:26:39Z,2016-07-08T18:01:12Z,bugs
+tgwizard/sls,266,No music players available,closed,2016-06-20T13:42:42Z,2016-06-24T13:25:30Z,bugs
+tgwizard/sls,259,Avoid scrobbling advertisements,closed,2016-05-06T07:42:32Z,2016-06-16T13:39:54Z,"app support, bugs"
+tgwizard/sls,258,Tracks scrobbled twice while listening via SONOS,closed,2016-04-27T08:06:02Z,2016-07-08T18:28:50Z,bugs
+tgwizard/sls,255,not detect any music player,closed,2016-03-08T20:53:28Z,2016-05-08T20:15:47Z,bugs
+tgwizard/sls,248,Scrobble Now doesn't work since August 2015,closed,2016-02-10T11:56:54Z,2016-09-25T13:19:26Z,bugs
+tgwizard/sls,244,Scrobbling stops when network changes,closed,2016-01-13T08:17:41Z,2016-09-25T13:19:38Z,bugs
+tgwizard/sls,243,"Nexus 7, Android M - stuck with cache after some time",closed,2016-01-08T19:33:39Z,2016-09-24T12:37:45Z,bugs
+tgwizard/sls,239,No longer working on M,closed,2015-12-29T23:18:51Z,2016-09-24T12:07:26Z,bugs
+tgwizard/sls,237,Doesn`t scrobble on huawei p8 lite,closed,2015-12-24T08:47:56Z,2015-12-26T20:30:46Z,bugs
+tgwizard/sls,225,Doesn't work on Huawei P8 Lite,closed,2015-09-20T11:10:33Z,2016-06-07T21:13:08Z,bugs
+tgwizard/sls,224,"app scrobbles on its own, always the same song",closed,2015-09-15T07:16:34Z,2016-06-24T21:30:57Z,bugs
+tgwizard/sls,223,problem with scrobble from Spotify,closed,2015-09-05T15:43:10Z,2016-06-24T21:27:44Z,bugs
+tgwizard/sls,222,About problem scrobbling after 1%,closed,2015-09-03T11:07:13Z,2016-06-25T20:02:21Z,bugs
+tgwizard/sls,221,Spotify Connect doubling scrobbles,closed,2015-09-01T08:19:12Z,2016-01-01T04:53:07Z,bugs
+tgwizard/sls,219,First song incorrectly scrobbled,closed,2015-08-31T16:31:30Z,2016-07-08T18:18:57Z,bugs
+tgwizard/sls,218,Cache isn't being submitted,closed,2015-08-30T04:06:08Z,2016-06-26T19:49:00Z,bugs
+tgwizard/sls,217,Big Android 5.0 trouble,closed,2015-08-27T19:21:57Z,2016-07-08T18:21:23Z,bugs
+tgwizard/sls,209,"Now playing notification detected, but no scrobble",closed,2015-07-15T04:33:54Z,2016-06-26T16:27:31Z,bugs
+tgwizard/sls,208,Disable Podkicker and Podkicker pro,closed,2015-07-01T18:11:51Z,2019-08-29T14:15:04Z,"bugs, feature request"
+tgwizard/sls,202,doesn't scroble some songs from Walkman,closed,2015-06-04T15:11:54Z,2016-06-26T16:29:04Z,bugs
+tgwizard/sls,200,Combined issue. List All Enabled Apps and Control All Apps Scrobbling.,closed,2015-05-31T21:18:55Z,2019-08-29T14:11:27Z,"bugs, feature request"
+tgwizard/sls,179,SLS Now Playing Seems to 'Stick' from PowerAmp,closed,2015-04-27T14:44:28Z,2015-08-19T14:04:15Z,bugs
+tgwizard/sls,177,Duplicate scrobbles if Goole Play Music is paused and resumed,closed,2015-04-21T10:34:27Z,2015-08-19T14:48:04Z,bugs
+tgwizard/sls,173,"""When you press the Scrobble now button"" option doesn't work",closed,2015-03-16T11:18:55Z,2016-06-30T12:22:51Z,bugs
+tgwizard/sls,170,files on OTG drive not scrobbled,closed,2015-01-27T23:41:28Z,2015-06-07T22:05:43Z,bugs
+tgwizard/sls,169,Multiple scrobbling in Lollipop,closed,2015-01-21T11:43:46Z,2016-09-24T12:37:59Z,bugs
+tgwizard/sls,165,Not scrobbling all tracks in cache,closed,2014-12-30T20:29:13Z,2016-06-30T12:21:23Z,bugs
+tgwizard/sls,164,Doesn't always scrobble using PlayerPro,closed,2014-12-29T20:19:40Z,2016-06-26T16:32:14Z,bugs
+tgwizard/sls,158,Only scrobbles as active process? ,closed,2014-11-29T14:37:00Z,2015-08-21T15:19:08Z,bugs
+tgwizard/sls,155,Songs won't scrobble on repeat ,closed,2014-11-21T08:42:28Z,2016-11-12T12:09:05Z,bugs
+tgwizard/sls,145,Certain track frequently scrobbling incorrectly,closed,2014-08-27T16:39:31Z,2015-08-17T19:52:17Z,bugs
+tgwizard/sls,129,Ignores some songs,closed,2014-04-19T13:15:59Z,2016-07-08T18:18:03Z,bugs
+tgwizard/sls,127,Enhanced Submission Rules - don't scrobble podcasts / ebooks,closed,2014-03-30T02:21:43Z,2019-08-29T14:10:47Z,"bugs, feature request"
+tgwizard/sls,123,SLS does not recognize Google Play Music app,closed,2014-03-05T10:42:54Z,2015-05-31T21:22:46Z,"bugs, feature request"
+tgwizard/sls,121,Scrobbler doen't recognize apps,closed,2014-03-01T19:16:43Z,2015-05-31T22:19:53Z,"bugs, feature request"
+tgwizard/sls,120,"Scrobble ""Album artist"" instead of ""Artist""",closed,2014-02-26T11:55:30Z,2019-08-10T17:58:58Z,"bugs, feature request"
+tgwizard/sls,119,"PowerAMP is recognized as both ""Poweramp"" and generic ""Android Music Player""",closed,2014-02-25T12:47:05Z,2016-07-21T14:16:44Z,"bugs, feature request"
+tgwizard/sls,117,"READ_EXTERNAL_STORAGE permission causes crash, not declared on installation",closed,2014-02-11T11:29:45Z,2014-02-13T08:10:30Z,bugs
+tgwizard/sls,106,Cache and wifi,closed,2013-11-25T16:39:52Z,2015-05-01T21:36:31Z,bugs
+tgwizard/sls,105,Android 4.4 Support,closed,2013-11-20T21:24:47Z,2015-06-04T22:22:19Z,bugs
+tgwizard/sls,99,"Track played multiple times, but scrobble only one time",closed,2013-10-09T12:53:56Z,2015-05-31T21:03:28Z,bugs
+tgwizard/sls,95,Scrobbling Songs I Have Not Listened To,closed,2013-07-25T16:31:45Z,2015-06-04T23:05:46Z,bugs
+tgwizard/sls,93,Adding songs in loop in cache when Music Player is paused,closed,2013-07-24T09:29:18Z,2016-07-08T18:22:05Z,bugs
+tgwizard/sls,91,Crash in reciever when sending enums by mistake,closed,2013-06-26T17:06:26Z,2016-06-30T13:19:31Z,bugs
+tgwizard/sls,80,Scrobbles last played track twice.,closed,2013-04-03T18:29:37Z,2016-07-08T18:23:23Z,bugs
+tgwizard/sls,79,Randomly scrobbles a particular track,closed,2013-03-17T13:44:53Z,2016-07-08T18:22:54Z,bugs
+tgwizard/sls,78,"Poweramp: Only updating ""now playing"" but no scrobbling",closed,2013-03-15T22:58:30Z,2019-06-24T11:46:03Z,bugs
+tgwizard/sls,73,Scrobbles not appearing on last.fm,closed,2013-02-10T13:59:57Z,2015-05-04T19:22:07Z,bugs
+tgwizard/sls,72,Not scrobbling on LG Swift L7 (P700),closed,2013-02-10T11:53:29Z,2016-06-30T12:13:47Z,bugs
+tgwizard/sls,69,"Should scrobble once listened to a track, not at the begining of the next track",closed,2013-01-31T14:41:41Z,2016-07-12T02:04:23Z,bugs
+tgwizard/sls,62,Doesn't detect or scrobble default musicapp. LG Optimus X2,closed,2012-11-24T17:53:44Z,2015-05-01T17:27:11Z,bugs
+tgwizard/sls,61,Reworked High-Density Icon,closed,2012-11-16T15:02:30Z,2014-08-16T14:43:44Z,"bugs, feature request"
+tgwizard/sls,60,Doesn't detect Google Music app on Epic Touch 4g (Galaxy s2),closed,2012-11-04T21:17:22Z,2014-02-05T21:35:45Z,"app support, bugs"
+tgwizard/sls,58,Winamp support,closed,2012-11-04T09:47:39Z,2015-05-03T13:59:59Z,"app support, bugs"
+tgwizard/sls,52,Songs scrobbling twice,closed,2012-08-26T12:25:22Z,2015-05-01T17:04:03Z,bugs
+tgwizard/sls,45,HTC Evo default music app not working,closed,2012-08-16T08:01:35Z,2015-06-04T23:15:08Z,"app support, bugs"
+tgwizard/sls,44,SLS can't scrobble the same track played consecutively in the default player,closed,2012-08-16T07:43:46Z,2015-05-31T21:02:52Z,bugs
+tgwizard/sls,43,LG Optimus L3 not working,closed,2012-08-15T20:29:30Z,2015-05-01T17:02:33Z,bugs
+tgwizard/sls,42,Null Pointer Exception when nothing is being scrobbled,closed,2012-08-15T15:29:17Z,2012-08-20T14:12:29Z,bugs
+tgwizard/sls,40,BadParcelableException,closed,2012-08-03T21:52:14Z,2015-05-03T14:00:38Z,bugs
+tgwizard/sls,39,READ_EXTERNAL_PERMISSION sometimes required to access MediaStore,closed,2012-08-03T21:47:09Z,2015-06-04T22:21:30Z,bugs
+tgwizard/sls,38,Util.currentTimeMillisUTC() sometimes returns negative values,closed,2012-08-03T12:18:41Z,2012-08-27T11:01:02Z,bugs
+tgwizard/sls,35,Player Pro not working with android 4.0 update,closed,2012-08-02T20:43:58Z,2012-08-03T23:18:56Z,bugs
+tgwizard/sls,30,Look over the database connection usage,closed,2012-08-01T16:37:56Z,2015-06-04T22:10:37Z,bugs
+tgwizard/sls,27,Crashes when a Shoutcast stream is played in Winamp,closed,2012-07-30T09:37:49Z,2015-05-03T14:00:21Z,bugs
+tgwizard/sls,16,"Last.fm profile doesn't receive sent data, ""Scrobble Now Button""",closed,2012-07-28T10:40:00Z,2015-06-04T17:40:26Z,bugs
+tgwizard/sls,9,Poweramp 2.0.6 build 508,closed,2012-07-27T03:44:54Z,2012-08-15T09:42:21Z,bugs
+tgwizard/sls,7,Adding support for Play Music,closed,2012-07-12T10:03:40Z,2012-08-04T09:52:04Z,"app support, bugs"
+tgwizard/sls,4,SLS losing scrobbles on HTC One V,closed,2012-06-20T18:33:27Z,2015-05-31T21:33:06Z,bugs
+translation-cards/translation-cards,305,Unable to import file from downloads,open,2017-01-17T22:36:13Z,,bug
+translation-cards/translation-cards,301,Not able to import deck with file name with.zip (Austin.s.Test.Deck.zip),open,2016-09-30T20:11:32Z,,bug
+translation-cards/translation-cards,297,Translations should be created if they do not exist when editing a translation,open,2016-09-26T16:49:27Z,,bug
+translation-cards/translation-cards,291,Crash when duplicate audio files,closed,2016-09-07T02:44:52Z,2016-09-26T15:07:47Z,bug
+translation-cards/translation-cards,285,App crashes on deck import,closed,2016-08-24T16:52:12Z,2016-08-31T21:27:27Z,bug
+translation-cards/translation-cards,284,Editing a translation card,closed,2016-08-24T16:49:36Z,2016-08-29T21:49:01Z,bug
+translation-cards/translation-cards,279,App crashes during DB migration,open,2016-08-07T15:49:40Z,,bug
+translation-cards/translation-cards,278,App Crashes When User Clicks on 'Add New Card' Button,closed,2016-08-06T01:12:07Z,2016-08-14T03:14:19Z,bug
+translation-cards/translation-cards,275,Lines of Translation Text Sporadically Disappear in Deck View,open,2016-07-31T00:11:51Z,,bug
+translation-cards/translation-cards,247,On upgrade attempt to open an old deck results in app crash,closed,2016-07-18T21:13:04Z,2016-07-18T22:30:02Z,bug
+translation-cards/translation-cards,245,Language Interlingua displaying and loading incorrectly on Deck Cards,closed,2016-07-14T19:21:55Z,2016-08-23T15:40:32Z,bug
+translation-cards/translation-cards,242,Old Translations Activities remaining on back stack after creating a new translation,closed,2016-07-11T23:15:57Z,2016-08-14T03:13:06Z,bug
+translation-cards/translation-cards,240,Wrong deck source language displayed,closed,2016-07-08T23:18:10Z,2016-08-22T18:15:09Z,bug
+translation-cards/translation-cards,239,Destination Languages stored incorrectly,closed,2016-07-08T03:20:32Z,2016-07-08T18:04:32Z,bug
+translation-cards/translation-cards,238,Card Text padding after expanding,closed,2016-07-08T02:29:43Z,2016-07-12T21:12:10Z,bug
+translation-cards/translation-cards,237,Multiple Dictionaries w/ same language,closed,2016-07-07T22:00:40Z,2016-08-23T20:15:06Z,bug
+translation-cards/translation-cards,235,Decks not loading correctly when many decks are present,closed,2016-07-06T18:09:51Z,2016-07-12T13:10:53Z,bug
+translation-cards/translation-cards,233,English showing up on Samsung S4 Active as 'Zz',closed,2016-07-05T16:46:34Z,2016-07-11T23:20:47Z,bug
+translation-cards/translation-cards,231,Incorrect descriptions on Review and Save screen,closed,2016-06-30T15:30:28Z,2016-07-11T23:04:30Z,bug
+translation-cards/translation-cards,217,Support importing JSON file with ISO code as language name,closed,2016-06-14T19:07:45Z,2016-07-14T19:06:18Z,bug
+translation-cards/translation-cards,216,Export Bugs,closed,2016-06-08T22:19:59Z,2016-07-18T15:56:55Z,bug
+translation-cards/translation-cards,215,Exported JSON is incorrect,closed,2016-06-08T22:16:41Z,2016-07-18T22:30:04Z,bug
+translation-cards/translation-cards,213,Recording delay ,open,2016-06-02T22:37:40Z,,bug
+translation-cards/translation-cards,209,Allow export to WhatsApp,closed,2016-06-01T22:37:20Z,2016-06-02T20:26:54Z,bug
+translation-cards/translation-cards,208,Deck Card incorrectly updates when scrolling up ,closed,2016-06-01T22:26:04Z,2016-06-04T02:46:38Z,bug
+translation-cards/translation-cards,196,App crashes if user denies microphone permission,closed,2016-05-22T21:02:58Z,2016-07-09T15:17:34Z,bug
+translation-cards/translation-cards,195,Quickly press record button several times,closed,2016-05-22T20:57:54Z,2016-06-04T02:33:14Z,bug
+translation-cards/translation-cards,192,Microphone permissions app crash on edit,closed,2016-05-22T20:36:02Z,2016-07-09T15:17:13Z,bug
+translation-cards/translation-cards,182,Keep greyed out next and back button text on recordAudioActivity screen,closed,2016-05-17T22:10:45Z,2016-05-22T05:35:50Z,bug
+translation-cards/translation-cards,179,Persist the correct cards open when switching between language tabs & toggle on,closed,2016-05-17T19:41:55Z,2016-06-01T22:41:34Z,bug
+translation-cards/translation-cards,152,Tapping a translation card with no audio file results in the app stopping,closed,2016-05-05T21:23:36Z,2016-05-06T17:31:59Z,bug
+translation-cards/translation-cards,150,Stop audio when switching between language tabs in card creation,closed,2016-05-05T20:43:35Z,2016-05-09T22:41:03Z,bug
+translation-cards/translation-cards,145,Locked deck icon & copy button,closed,2016-05-02T16:24:23Z,2016-05-02T20:52:55Z,bug
+translation-cards/translation-cards,136,Reorder cards for Pashto language in Default Deck,closed,2016-04-20T15:09:24Z,2016-04-20T16:33:38Z,bug
+translation-cards/translation-cards,133,Container views in My Decks and list footers are clickable,closed,2016-04-14T16:39:04Z,2016-05-02T20:52:57Z,bug
+translation-cards/translation-cards,126,Languages in Deck cards are not always in english alphabetical order,closed,2016-04-12T21:05:32Z,2016-04-19T21:00:28Z,"bug, epic: deck creation"
+translation-cards/translation-cards,119,IllegalStateException When Trying To Play Audio During Card Creation,closed,2016-04-06T16:24:45Z,2016-04-08T21:22:23Z,"bug, epic: card creation"
+translation-cards/translation-cards,85,Unable to open file browser on Samsung devices,closed,2016-03-17T15:02:10Z,2016-04-19T20:55:29Z,bug
+translation-cards/translation-cards,84,"When opening a TXC file from a browser, we are unable to import",closed,2016-03-11T18:27:39Z,2016-04-19T22:18:58Z,bug
+translation-cards/translation-cards,77,Clicking on a deck in My Decks does not always open the correct deck,closed,2016-03-07T16:45:51Z,2016-03-10T18:00:00Z,bug
+translation-cards/translation-cards,72,Translations Activity resets on orientation change,closed,2016-03-06T18:44:07Z,2016-03-10T17:57:57Z,bug
+translation-cards/translation-cards,66,.txc files are recognized by not-Translation Cards app,closed,2016-03-04T17:31:13Z,2016-03-10T18:32:18Z,bug
+translation-cards/translation-cards,65,Translation Cards offers to open .zip files,open,2016-03-04T16:43:14Z,,bug
+translation-cards/translation-cards,58,"""Export"" --> ""Share""",closed,2016-03-02T22:03:35Z,2016-03-02T23:21:50Z,bug
+translation-cards/translation-cards,57,Put languages in (en) Alphabetical order,closed,2016-03-02T21:59:37Z,2016-03-04T18:14:02Z,bug
+translation-cards/translation-cards,51,IllegalStateException on RecordingActivity save when origin text is very long,closed,2016-03-01T17:27:17Z,2016-03-01T17:27:25Z,bug
+translation-cards/translation-cards,41,"When no translated text is provided from an older release, translated text is set to null, giving us a null pointer",closed,2016-02-29T15:39:46Z,2016-02-29T18:33:46Z,bug
+translation-cards/translation-cards,40,Pause translation card audio,closed,2016-02-29T15:28:19Z,2016-02-29T18:33:51Z,bug
+translation-cards/translation-cards,36,Media Player not functioning well on API level 10,closed,2016-02-24T22:39:13Z,2016-03-02T17:50:24Z,bug
+translation-cards/translation-cards,35,UI resolution on Nexus S API level 10. ,open,2016-02-24T21:36:53Z,,bug
+translation-cards/translation-cards,34,Allows you to save a recording once you start recording without stopping first,closed,2016-02-24T18:30:43Z,2016-02-24T18:30:56Z,bug
+translation-cards/translation-cards,33,"Tries to redraw large image, freezes, and crashes (memory management)",open,2016-02-24T18:25:07Z,,bug
+translation-cards/translation-cards,32,App crashes if we do not finish recording before going to next step in RecordingActivity,closed,2016-02-24T18:22:37Z,2016-02-24T18:22:40Z,bug
+translation-cards/translation-cards,31,Audio continues to play when changing steps in recording activity,closed,2016-02-24T18:21:02Z,2016-02-24T18:21:06Z,bug
+translation-cards/translation-cards,30,Rotating the app while in recording activity will bring the user back to the beginning of recording activity,closed,2016-02-24T18:19:13Z,2016-02-24T18:19:15Z,bug
+translation-cards/translation-cards,29,Exporting a deck does not include the translated text,closed,2016-02-24T18:17:15Z,2016-02-24T18:17:17Z,bug
+translation-cards/translation-cards,27,Card audio does not stop playing when language tab is changed,closed,2016-02-24T17:59:15Z,2016-02-24T18:00:16Z,bug
+translation-cards/translation-cards,14,"When you change to landscape during card creation, resets to beginning",closed,2016-01-22T16:22:30Z,2016-02-24T16:57:30Z,bug
+Frozen-Developers/android-periodic-table,4,Fix shared element transition after orientation change,closed,2015-11-14T12:38:54Z,2015-11-14T12:59:50Z,bug
+HochschuleHofStundenplanapp/AndroidStundenplanHof,22,Kalendereinträge bei nicht lokalem Kalender doppelt,closed,2017-10-15T16:54:40Z,2017-12-13T17:00:48Z,bug
+HochschuleHofStundenplanapp/AndroidStundenplanHof,21,Push-Notifications kommen nicht an,closed,2017-10-15T16:26:23Z,2018-10-06T15:36:18Z,"bug, help wanted"
+HochschuleHofStundenplanapp/AndroidStundenplanHof,19,Überlappendes Overlay,open,2017-10-11T15:26:42Z,,bug
+HochschuleHofStundenplanapp/AndroidStundenplanHof,16,SSLHandshakeException unter älteren Android Versionen mit neuem Server,closed,2017-02-21T16:13:30Z,2017-02-22T13:34:30Z,bug
+HochschuleHofStundenplanapp/AndroidStundenplanHof,13,Im Titel von Stundenplan steht Hochschule Hof,closed,2016-12-22T19:25:13Z,2017-01-12T22:30:41Z,bug
+HochschuleHofStundenplanapp/AndroidStundenplanHof,12,Reihenfolge der Semester passt nicht,closed,2016-12-10T18:51:51Z,2017-10-12T07:54:43Z,"bug, enhancement"
+HochschuleHofStundenplanapp/AndroidStundenplanHof,9,Fragmente passen nicht wenn man Gerät dreht,closed,2016-12-10T10:20:41Z,2016-12-10T10:41:34Z,bug
+HochschuleHofStundenplanapp/AndroidStundenplanHof,8,Stürzt bei frischer Installation ab,closed,2016-12-09T13:28:45Z,2016-12-09T14:30:14Z,bug
+HochschuleHofStundenplanapp/AndroidStundenplanHof,7,Mein Stundenplan wird immer noch gelöscht,closed,2016-12-05T10:50:15Z,2017-12-27T12:09:44Z,bug
+HochschuleHofStundenplanapp/AndroidStundenplanHof,6,Überlagernde Fragmente,closed,2016-12-04T11:09:08Z,2017-12-13T17:41:56Z,bug
+HochschuleHofStundenplanapp/AndroidStundenplanHof,5,Fehler mit dem Primuss Passwort,open,2016-12-04T10:47:58Z,,bug
+HochschuleHofStundenplanapp/AndroidStundenplanHof,2,Absturz beim Login Dialog ,closed,2016-12-03T12:02:15Z,2018-10-06T15:37:24Z,bug
+HochschuleHofStundenplanapp/AndroidStundenplanHof,1,App Absturz nach Update ,closed,2016-12-02T21:42:03Z,2016-12-03T12:00:33Z,bug
+SimpleMobileTools/Simple-Draw,278,App creates file it cannot open,open,2023-04-27T10:00:35Z,,bug
+SimpleMobileTools/Simple-Draw,268,Sudden canvas movement when moving with multitouch,closed,2023-02-24T21:22:37Z,2023-03-12T11:27:52Z,bug
+SimpleMobileTools/Simple-Draw,263,Bug: Rename Conflict Avoidance Logic Breaks File Extensions,open,2023-01-17T02:56:05Z,,bug
+SimpleMobileTools/Simple-Draw,252,"Fix the ""Show brush size tool""",closed,2022-11-12T18:16:43Z,2022-11-14T14:46:35Z,bug
+SimpleMobileTools/Simple-Draw,207,"Saving as .png is in reality producing a .jpg, with .png extension only",closed,2021-10-25T19:12:52Z,2022-02-11T21:57:40Z,bug
+SimpleMobileTools/Simple-Draw,203,Drag and scale are registered as events for undoing,closed,2021-09-05T08:11:32Z,2021-12-24T11:14:01Z,bug
+SimpleMobileTools/Simple-Draw,180,If includes JPEG file it always saves as JPEG,closed,2020-03-26T13:51:50Z,2022-02-11T22:05:56Z,bug
+SimpleMobileTools/Simple-Draw,159,Fix Brush size changer being invisible in B&W theme,closed,2019-11-07T14:18:42Z,2019-11-27T21:53:30Z,bug
+SimpleMobileTools/Simple-Draw,129,Eraser takes no effect on SVG data,open,2019-01-04T21:00:16Z,,bug
+SimpleMobileTools/Simple-Draw,128,Vertical strokes or dots have edges when saved as SVG,open,2019-01-04T20:58:28Z,,bug
+SimpleMobileTools/Simple-Draw,124,Make sure image saving works on SD cards,closed,2018-11-30T12:43:01Z,2018-11-30T19:00:50Z,bug
+SimpleMobileTools/Simple-Draw,100,Unable to use pictures file manager,closed,2018-04-30T20:15:03Z,2018-08-10T21:08:41Z,bug
+SimpleMobileTools/Simple-Draw,99,Unable to recover saved drawn object,closed,2018-04-06T01:32:56Z,2020-03-13T10:53:58Z,bug
+SimpleMobileTools/Simple-Draw,96,Opened image disappears on device screen rotation.,closed,2018-03-23T22:26:26Z,2018-03-31T18:37:52Z,bug
+SimpleMobileTools/Simple-Draw,89,Unexpected error occurred while saving,closed,2018-03-14T22:09:13Z,2018-03-16T09:28:38Z,bug
+SimpleMobileTools/Simple-Draw,88,"Fix ""Failed to find configured root that contains /"" at sharing",closed,2018-03-13T08:01:25Z,2018-03-16T09:37:36Z,bug
+SimpleMobileTools/Simple-Draw,87,"""No valid app found"" at sharing",closed,2018-03-13T08:00:59Z,2018-03-16T09:35:29Z,bug
+SimpleMobileTools/Simple-Draw,74,Properly handle image_capture intent with output defined,closed,2017-12-22T14:57:36Z,2018-01-08T18:54:38Z,bug
+SimpleMobileTools/Simple-Draw,57,Croping images.,open,2017-07-06T18:14:52Z,,bug
+SimpleMobileTools/Simple-Draw,53,Background image is lost when saving as .svg,open,2017-04-09T13:53:27Z,,bug
+SimpleMobileTools/Simple-Draw,49,Line too thin after clearing app data and launching it multiple times,closed,2017-03-13T12:42:53Z,2017-03-14T18:04:17Z,bug
+SimpleMobileTools/Simple-Draw,18,Correct f-droid category to graphics,closed,2016-11-02T18:48:30Z,2016-11-25T22:33:03Z,bug

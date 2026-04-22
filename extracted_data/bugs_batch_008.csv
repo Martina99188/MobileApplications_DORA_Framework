@@ -1,0 +1,1225 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+PhenoApps/Field-Book,1398,[BUG]: Study import crashes during import,closed,2026-02-09T14:58:27Z,2026-02-10T16:20:20Z,bug
+PhenoApps/Field-Book,1397,"[BUG]: Root domain ""localhost"" on BrAPI authorization",closed,2026-02-09T14:55:59Z,2026-02-09T21:46:58Z,bug
+PhenoApps/Field-Book,1393,[BUG]: Date Trait Visual Bug,open,2026-02-03T22:31:42Z,,bug
+PhenoApps/Field-Book,1385,[BUG]: Manual Field Creator UI,closed,2026-01-05T17:28:05Z,2026-01-05T20:13:50Z,bug
+PhenoApps/Field-Book,1371,"[BUG]: When synonyms are present in traits, the other trait attributes are not searched",open,2025-11-21T07:14:46Z,,bug
+PhenoApps/Field-Book,1368,[BUG]: GoPro traits (image or filename) disconnect,closed,2025-11-12T14:27:34Z,2025-11-17T20:00:50Z,bug
+PhenoApps/Field-Book,1362,[BUG]: New Import UI fetches all fields including inactive ones,closed,2025-11-07T04:38:58Z,2025-11-14T13:44:08Z,bug
+PhenoApps/Field-Book,1361,[BUG]: New BrAPI Import UI selection is not showing the right number of programs,open,2025-11-06T20:35:41Z,,bug
+PhenoApps/Field-Book,1343,[BUG]: Brapi export treats synced observations as new,closed,2025-10-03T16:02:13Z,2025-10-07T23:14:47Z,bug
+PhenoApps/Field-Book,1323,[BUG]: Setting 'Skip Entries' to 'Disabled' does not persist during repeated measures trait collection,closed,2025-09-02T12:05:03Z,2025-09-12T18:04:26Z,bug
+PhenoApps/Field-Book,1322,[BUG]: Error about non-unique IDS when loading fields via BrAPI to a device that already has fields loaded by CSV,closed,2025-08-29T18:22:13Z,2025-12-31T13:04:56Z,bug
+PhenoApps/Field-Book,1321,[BUG]: GoPro live preview never loads,closed,2025-08-28T15:09:15Z,2025-10-28T04:45:05Z,bug
+PhenoApps/Field-Book,1318,[BUG]: Issue when export collected data with the imported Unique Identifier,closed,2025-08-26T15:25:19Z,2025-08-27T01:31:03Z,bug
+PhenoApps/Field-Book,1314,[BUG]: Encode GeoJSON coordinates as numeric,closed,2025-08-21T18:52:20Z,2026-02-10T16:25:46Z,bug
+PhenoApps/Field-Book,1307,[BUG]: Crash while importing brapi trait,closed,2025-08-20T18:41:41Z,2025-08-27T15:49:02Z,bug
+PhenoApps/Field-Book,1301,[BUG]: EXIF image data contains different plot associations than image name,closed,2025-08-04T19:08:06Z,2025-08-15T21:28:21Z,bug
+PhenoApps/Field-Book,1291,[BUG]: categorical traits not showing correctly,closed,2025-07-21T16:09:53Z,2025-07-21T16:43:29Z,bug
+PhenoApps/Field-Book,1290,[BUG]: Invalid EXIF text encoding for UserComment,closed,2025-07-18T18:15:48Z,2025-08-29T05:21:04Z,bug
+PhenoApps/Field-Book,1289,[BUG]: Frequent reset problem,closed,2025-07-16T12:41:42Z,2025-08-13T11:15:17Z,bug
+PhenoApps/Field-Book,1288,"[BUG]: Unable to upload csv file, ""column name contain illegal characters""",closed,2025-07-14T18:06:27Z,2025-08-13T11:16:14Z,bug
+PhenoApps/Field-Book,1281,[BUG]: Error when Exporting collected data to BMS using BrAPI,closed,2025-06-26T18:06:00Z,2025-07-21T16:18:17Z,bug
+PhenoApps/Field-Book,1280,[BUG]: Add ability to search observation variable name in new BrAPI UI,closed,2025-06-26T14:45:14Z,2025-07-22T16:39:28Z,bug
+PhenoApps/Field-Book,1268,[BUG]: min/max values not always followed with repeated measures,closed,2025-06-19T18:43:10Z,2025-08-27T05:36:07Z,bug
+PhenoApps/Field-Book,1265,[BUG]: Skip Entries option goes back to the default after closing app,closed,2025-06-12T13:56:23Z,2025-06-16T19:43:19Z,bug
+PhenoApps/Field-Book,1264,[BUG]: The char(0) aka 0x00 aka NUL character,closed,2025-06-11T12:36:36Z,2025-06-17T08:32:37Z,bug
+PhenoApps/Field-Book,1263,[BUG]: GoPro HERO 13 crashes out during image capture,closed,2025-06-09T14:05:36Z,2025-10-16T08:32:52Z,bug
+PhenoApps/Field-Book,1259,[BUG]: Syncing observations variableDbId error and observation count mismatch,closed,2025-06-04T08:27:19Z,2025-06-19T14:22:21Z,bug
+PhenoApps/Field-Book,1253,"[BUG]: Cannot add data to a plot for ""count"" trait on a BrAPI imported field",closed,2025-05-29T17:15:05Z,2025-05-29T17:28:41Z,bug
+PhenoApps/Field-Book,1252,[BUG]: BrAPI imported trait gets assigned position 0 in new UI,closed,2025-05-27T15:25:47Z,2025-09-10T06:35:00Z,bug
+PhenoApps/Field-Book,1250,Keyboard backspace moves cursor to end of value in text traits,closed,2025-05-25T00:13:52Z,2025-08-27T02:36:39Z,bug
+PhenoApps/Field-Book,1247,[BUG]: Experiment pull issues when Experimental UI is selected,closed,2025-05-20T17:34:42Z,2026-02-10T17:28:12Z,bug
+PhenoApps/Field-Book,1246,[BUG]: Repeated Measures exports 1 measurement into Table,closed,2025-05-19T14:27:52Z,2025-05-27T09:07:15Z,bug
+PhenoApps/Field-Book,1244,[BUG]: Remove field_name from search dialog,closed,2025-05-16T19:35:23Z,2025-08-27T01:26:16Z,bug
+PhenoApps/Field-Book,1241,[BUG]: File type not supported when adding new field,closed,2025-05-07T16:55:47Z,2025-06-17T10:28:22Z,bug
+PhenoApps/Field-Book,1240,"[BUG]: ""No matching Value"" with Barcode scan",closed,2025-05-06T19:14:03Z,2025-05-07T10:04:34Z,bug
+PhenoApps/Field-Book,1238,[BUG]: MLKit barcode scanning crashes on Boox,closed,2025-05-05T19:42:12Z,2025-05-27T16:30:14Z,bug
+PhenoApps/Field-Book,1233,Search field name and aliases when using the search bar,open,2025-04-29T05:23:29Z,,bug
+PhenoApps/Field-Book,1230,"[BUG]: Numeric check fails when sorting by plant #, falls back to alphanumeric",closed,2025-04-25T18:15:57Z,2025-05-01T05:52:53Z,bug
+PhenoApps/Field-Book,1228,[BUG]: Not importing trait minimum/maximum,closed,2025-04-21T19:49:57Z,2025-06-02T14:05:44Z,bug
+PhenoApps/Field-Book,1227,[BUG]: Calendar in date traits does not respect day of year setting,closed,2025-04-15T21:30:57Z,2025-12-16T20:24:39Z,bug
+PhenoApps/Field-Book,1220,[BUG]: Validation for date traits fails when 'use day of year' setting enabled,closed,2025-04-09T17:31:26Z,2025-04-09T18:55:41Z,bug
+PhenoApps/Field-Book,1212,[BUG]: error during export,closed,2025-04-02T07:29:41Z,2025-04-16T17:50:52Z,bug
+PhenoApps/Field-Book,1211,[BUG]: DataGrid not displaying dates,closed,2025-04-01T21:01:49Z,2025-04-03T10:06:44Z,bug
+PhenoApps/Field-Book,1200,Navigating back and forth between traits activity and Collect activity messes up sizing for the traits indicator,closed,2025-03-27T19:35:04Z,2025-04-16T17:57:49Z,bug
+PhenoApps/Field-Book,1199,New per field cards and chips are unreadable when system dark theme is enabled,closed,2025-03-27T19:04:24Z,2025-04-16T17:55:57Z,bug
+PhenoApps/Field-Book,1185,[BUG]: GoPro spontaneously stops transferring images,closed,2025-03-21T16:29:50Z,2025-04-01T14:33:07Z,bug
+PhenoApps/Field-Book,1183,[BUG]: Photo collection in FieldBook following update to 6.1,closed,2025-03-19T15:25:01Z,2025-03-26T17:57:17Z,bug
+PhenoApps/Field-Book,1177,"[BUG]: Missing headers (or superfluous data) in export when selecting ""Only unique identifiier""",closed,2025-03-11T15:36:44Z,2025-03-26T17:56:41Z,bug
+PhenoApps/Field-Book,1161,[BUG]: Importing backup.zip does not apply preferences,closed,2025-02-17T18:36:59Z,2025-02-20T20:17:22Z,bug
+PhenoApps/Field-Book,1157,[BUG]: barcode trait is not recording the scanned barcode,closed,2025-02-09T08:36:03Z,2025-03-05T20:19:00Z,bug
+PhenoApps/Field-Book,1155,[BUG]: Column of identifier in datagrid only shows the header for all samples,closed,2025-02-07T15:59:27Z,2025-02-17T08:19:18Z,bug
+PhenoApps/Field-Book,1154,[BUG]: Can't change position of traits,closed,2025-01-31T18:26:21Z,2025-03-14T16:02:04Z,bug
+PhenoApps/Field-Book,1151,[BUG]: Changes to BrAPI settings being overwritten with prior settings upon closing the app,closed,2025-01-28T15:24:28Z,2025-01-28T15:52:08Z,bug
+PhenoApps/Field-Book,1139,[BUG]: Accessing Collect through field details doesn't resume collection on the last selected entry,closed,2025-01-19T06:16:44Z,2025-01-24T07:25:59Z,bug
+PhenoApps/Field-Book,1128,"[BUG]: Error ""Field Book isn't responding"" upon scanning qr code with the scanner in the Collect Toolbar",closed,2024-12-20T21:30:39Z,2025-02-20T20:57:19Z,bug
+PhenoApps/Field-Book,1126,[BUG]: Fatal Exception in collect activity if using percent trait that was imported without min or max,closed,2024-12-18T17:43:44Z,2025-01-03T21:40:02Z,bug
+PhenoApps/Field-Book,1120,[BUG]: Camera preview crash 6.0.1,closed,2024-12-12T17:11:04Z,2024-12-13T16:36:12Z,bug
+PhenoApps/Field-Book,1111,[BUG]: User can't change storage location after deleting database,closed,2024-12-10T21:05:36Z,2025-03-27T22:25:42Z,bug
+PhenoApps/Field-Book,1106,[BUG]: Label print trait value is sometimes stored to wrong plot or trait,closed,2024-12-09T22:48:08Z,2024-12-11T19:06:04Z,bug
+PhenoApps/Field-Book,1096,[BUG]: Field List Bottom right button overlaps geonav snackbar,closed,2024-12-04T21:40:33Z,2025-03-28T19:10:42Z,bug
+PhenoApps/Field-Book,1092,[BUG]: App Intro Opens on app start,closed,2024-12-04T18:11:15Z,2025-03-28T17:55:53Z,bug
+PhenoApps/Field-Book,1088,[BUG]: Ordinal scale displaying numbers but not categories ,closed,2024-12-03T19:17:07Z,2024-12-03T19:59:05Z,bug
+PhenoApps/Field-Book,1078,[BUG]: Resource assets not being copied,closed,2024-11-21T06:13:52Z,2024-11-22T11:50:13Z,bug
+PhenoApps/Field-Book,1066,[BUG]: App crashes when navigating to collect screen when field is not changed on initial startup. ,closed,2024-10-30T19:28:44Z,2024-12-04T18:14:52Z,bug
+PhenoApps/Field-Book,1064,[BUG]: No BrAPI Trait Import button in FieldBook 5.6.25,closed,2024-10-21T14:18:58Z,2024-10-21T14:27:36Z,bug
+PhenoApps/Field-Book,1063,[BUG]: Enabling high contrast mode on new e-ink Palma install does not work,closed,2024-10-19T11:59:55Z,2024-12-10T16:43:56Z,bug
+PhenoApps/Field-Book,1062,"[BUG]: Barcode should be configurable for observationunit_name, not only DbId, when BrAPI is used",closed,2024-10-17T15:25:07Z,2024-10-17T15:26:03Z,bug
+PhenoApps/Field-Book,1061,[BUG]: Config/Export after deleting the storage directory crashes the app,closed,2024-10-11T21:57:30Z,2025-01-04T01:58:15Z,bug
+PhenoApps/Field-Book,1060,[BUG]: Database export task after deleting storage directory,closed,2024-10-11T21:52:23Z,2024-12-11T09:17:33Z,bug
+PhenoApps/Field-Book,1055,[BUG]: BrAPI field import germplasm attributes not imported in some cases,closed,2024-10-02T14:16:12Z,2025-04-09T19:04:28Z,"bug, brapi"
+PhenoApps/Field-Book,1054,[BUG]: Issues with GoPro Trait,closed,2024-09-30T18:38:06Z,2024-12-04T18:51:15Z,bug
+PhenoApps/Field-Book,1046,[BUG]: Field trial name imported as UUID instead of human readable name,closed,2024-09-12T13:50:08Z,2024-09-13T17:09:30Z,bug
+PhenoApps/Field-Book,1044,[BUG]: User guide is not available,closed,2024-09-11T16:54:49Z,2024-11-06T19:19:27Z,bug
+PhenoApps/Field-Book,1038,"[BUG]: XLSX import skips empty cells, causing column shifts in imported data",closed,2024-09-04T19:21:50Z,2024-10-02T17:42:20Z,bug
+PhenoApps/Field-Book,1037,[BUG]: Keypad is not responding,closed,2024-09-04T15:26:08Z,2024-09-05T21:03:22Z,bug
+PhenoApps/Field-Book,1034,[BUG]: Skip blank device name options in bluetooth device dialog,closed,2024-08-26T19:11:17Z,2024-09-08T00:37:06Z,bug
+PhenoApps/Field-Book,1030,Repeated measures count doesn't reset with image traits,closed,2024-08-16T21:43:14Z,2024-12-04T20:10:34Z,bug
+PhenoApps/Field-Book,1028,Date trait save button will overwrite data with current date even if data is already present,closed,2024-08-16T21:30:53Z,2025-03-14T16:02:02Z,bug
+PhenoApps/Field-Book,1027,Categorical data is not validated when input via barcode scan,closed,2024-08-16T21:29:34Z,2025-01-04T01:46:46Z,bug
+PhenoApps/Field-Book,1004,[BUG]: Deleted Observations still present in Datagrid and Export,closed,2024-07-16T17:14:10Z,2024-07-18T17:54:02Z,bug
+PhenoApps/Field-Book,1003,[BUG]: Improve GeoNav Snackbar on tablet screens,closed,2024-07-16T17:13:19Z,2025-01-04T02:27:14Z,bug
+PhenoApps/Field-Book,1002,[BUG]:  Can't export data via brapi ,closed,2024-07-15T15:52:15Z,2024-12-11T09:53:34Z,bug
+PhenoApps/Field-Book,1001,[BUG]: Move to Unique identifier doesn't work for certain strings,closed,2024-07-12T21:00:35Z,2024-07-12T21:06:27Z,bug
+PhenoApps/Field-Book,1000,[BUG]: Trait min and max settings don't import from breedbase via brapi,closed,2024-07-12T20:16:57Z,2024-12-11T19:54:16Z,"bug, priority"
+PhenoApps/Field-Book,999,[BUG]: Photo trait export via Brapi to breedbase fails,closed,2024-07-12T20:11:30Z,2024-12-03T02:07:05Z,bug
+PhenoApps/Field-Book,998,"[BUG]: Photo trait doesn't work if trait name contains ""|"" or "":""",closed,2024-07-12T20:09:33Z,2024-12-01T23:27:27Z,bug
+PhenoApps/Field-Book,996,[BUG]: Log outputs for limited vs full log are switched,closed,2024-07-12T14:10:23Z,2024-12-11T21:14:06Z,bug
+PhenoApps/Field-Book,995,"[BUG]: Bundling media does not respect the ""active traits only"" option in the export dialog",closed,2024-07-10T15:35:39Z,2025-03-27T18:52:58Z,bug
+PhenoApps/Field-Book,987,Skipping plots with missing data if the note was not the one most previously taken[REQUEST]: ,closed,2024-06-19T23:20:25Z,2024-07-18T17:53:14Z,"bug, feature request"
+PhenoApps/Field-Book,981,[BUG]: Renaming trait breaks linkage to existing phenotypes,closed,2024-06-07T21:34:24Z,2025-07-21T16:18:18Z,bug
+PhenoApps/Field-Book,980,[BUG]: crash during storage definer,closed,2024-06-06T11:12:21Z,2024-06-28T14:59:03Z,bug
+PhenoApps/Field-Book,977,[BUG]: Crash when selecting export from main menu if field not selected,closed,2024-05-30T19:05:47Z,2024-07-17T10:52:43Z,bug
+PhenoApps/Field-Book,976,"[BUG]: ""OIDC Client ID"" setting is overriding ""OIDC Discovery URL"" setting",closed,2024-05-23T20:22:41Z,2024-07-18T17:55:06Z,bug
+PhenoApps/Field-Book,973,[BUG]: ,closed,2024-05-16T22:06:40Z,2024-05-20T01:56:08Z,bug
+PhenoApps/Field-Book,964,[BUG]: Date Observations not in BrAPI format,closed,2024-05-02T15:25:54Z,2024-12-11T09:50:26Z,bug
+PhenoApps/Field-Book,956,[BUG]: Export and Gridview in Fieldbook 5.16.15,closed,2024-04-15T18:12:23Z,2024-04-15T21:03:00Z,bug
+PhenoApps/Field-Book,954,Fields not uploading Via BrAPI[BUG]: ,closed,2024-04-12T18:24:14Z,2024-05-06T15:45:36Z,bug
+PhenoApps/Field-Book,943,[BUG]: A single print event saves multiple observations linked to plots that are not active ,closed,2024-03-28T20:26:09Z,2024-04-03T05:41:56Z,bug
+PhenoApps/Field-Book,937,[BUG]: Update backup preferences to shared preferences file,closed,2024-03-25T15:02:13Z,2024-04-03T18:30:37Z,bug
+PhenoApps/Field-Book,932,[BUG]: Modify date data storage to keep both date and day of year,closed,2024-03-22T13:46:12Z,2025-12-16T20:24:36Z,bug
+PhenoApps/Field-Book,917,"[BUG]: Non-initial exports to Breedbase may display error message, and after error message data may or may not be uploaded",open,2024-03-13T17:48:52Z,,"bug, brapi"
+PhenoApps/Field-Book,914,"BUG: Breedbase my export fails with the error ""Response number of observations different from request""",closed,2024-03-12T20:02:18Z,2025-07-21T16:18:18Z,"bug, brapi"
+PhenoApps/Field-Book,906,[BUG]: Datagrid sorting does not match plot sorting,closed,2024-03-03T20:49:28Z,2024-04-12T17:01:25Z,bug
+PhenoApps/Field-Book,889,[BUG]: USB cameras record photos in low resolution.,closed,2024-02-15T17:18:44Z,2024-12-01T23:27:26Z,bug
+PhenoApps/Field-Book,887,Trait icons missing in other languages,closed,2024-02-14T06:56:09Z,2024-04-04T20:15:37Z,bug
+PhenoApps/Field-Book,886,[BUG]: Domain as localhost in access request URL for BrAPI authorization,closed,2024-02-08T19:10:50Z,2024-02-16T01:39:59Z,bug
+PhenoApps/Field-Book,880,[BUG]: BrAPI Field Sync Frozen,closed,2024-01-30T17:41:01Z,2025-01-04T02:20:41Z,"bug, brapi"
+PhenoApps/Field-Book,860,Resources directory is broken on first install but eventually works,closed,2023-12-17T09:50:34Z,2023-12-21T10:34:16Z,bug
+PhenoApps/Field-Book,855,gnss trait enabled stops geonav from operating,closed,2023-12-16T09:12:44Z,2024-08-03T05:07:22Z,bug
+PhenoApps/Field-Book,846,[BUG]: FieldEditorActivity's Sync list item crashes app,closed,2023-12-13T20:49:48Z,2024-12-01T23:27:25Z,bug
+PhenoApps/Field-Book,826,[BUG]: Percent Trait Decimal Parameters,closed,2023-11-30T15:48:11Z,2023-12-07T22:03:56Z,bug
+PhenoApps/Field-Book,817,[BUG]: Trait audio doesn't get saved,closed,2023-11-21T02:22:45Z,2023-12-05T19:42:27Z,bug
+PhenoApps/Field-Book,813,[BUG]: Barcode reader bug,closed,2023-11-15T22:29:52Z,2023-11-30T18:02:16Z,bug
+PhenoApps/Field-Book,812,[BUG]: Go pro bug,closed,2023-11-15T15:03:52Z,2023-12-26T17:57:10Z,bug
+PhenoApps/Field-Book,803,"[BUG]: Picture trait cannot be named ""Photos""",closed,2023-11-09T18:40:01Z,2023-11-30T18:27:36Z,bug
+PhenoApps/Field-Book,801,[BUG]: Some search features not working while searching for plots ,closed,2023-11-08T16:11:03Z,2024-03-20T19:30:40Z,bug
+PhenoApps/Field-Book,800,[BUG]: USB Camera trait disconnects from camera when advancing plot,closed,2023-11-08T15:11:45Z,2023-12-26T17:56:28Z,bug
+PhenoApps/Field-Book,795,[BUG]: GNSS trait flickering,closed,2023-11-01T15:18:27Z,2023-11-01T15:41:43Z,bug
+PhenoApps/Field-Book,777,[BUG]:  BrAPI Connection to Breedbase Not Working,closed,2023-10-18T16:27:15Z,2023-12-21T10:37:21Z,bug
+PhenoApps/Field-Book,771,[BUG]:  Camera trait fails depending on trait name ,closed,2023-10-16T17:49:41Z,2023-11-30T18:23:21Z,bug
+PhenoApps/Field-Book,770,[BUG]: Fail to Import Field Layout,closed,2023-10-16T17:33:19Z,2023-10-24T09:03:59Z,bug
+PhenoApps/Field-Book,763,[BUG]: Fix cancel button text in trait import dialog,closed,2023-10-11T15:14:48Z,2023-10-16T06:18:22Z,bug
+PhenoApps/Field-Book,758,[BUG]: Simplify GeoNav Log Files,closed,2023-10-04T14:28:22Z,2023-10-27T10:58:23Z,bug
+PhenoApps/Field-Book,756,[BUG]: check if brapi authentication exists and enable brapi ,closed,2023-10-03T20:55:37Z,2023-10-10T15:56:24Z,bug
+PhenoApps/Field-Book,754,[BUG]: GoPro Bugs,closed,2023-09-29T19:18:24Z,2025-03-31T14:09:30Z,bug
+PhenoApps/Field-Book,753,[BUG]: Flip geo_coordinates ,closed,2023-09-29T19:16:14Z,2023-10-10T15:55:24Z,bug
+PhenoApps/Field-Book,751,[BUG]:  V.5.5.16.71 - multicat delete selection while changing sample if more than one selected - Samsung Galaxy Tab S8,closed,2023-09-27T18:14:35Z,2023-10-01T00:14:38Z,bug
+PhenoApps/Field-Book,744,[BUG]: GeoNav nav button does not appear when comment trait open,closed,2023-09-25T15:43:39Z,2023-10-27T10:17:37Z,bug
+PhenoApps/Field-Book,743,[BUG]: Data grid selected cell jumps several traits when returning to data grid from collect,closed,2023-09-22T16:52:28Z,2025-04-03T10:06:43Z,"bug, datagrid"
+PhenoApps/Field-Book,740,[BUG]: Problem using the data collect page,closed,2023-09-22T06:02:50Z,2023-09-22T10:56:30Z,bug
+PhenoApps/Field-Book,735,[BUG]: ,closed,2023-09-19T15:15:44Z,2023-09-25T17:02:31Z,bug
+PhenoApps/Field-Book,734,[BUG]: Barcode Value Not Recording,closed,2023-09-14T08:12:11Z,2023-09-14T08:15:06Z,bug
+PhenoApps/Field-Book,716,[BUG]: ,closed,2023-08-22T18:12:34Z,2023-08-23T18:36:00Z,bug
+PhenoApps/Field-Book,706,[BUG]: v5.5 crashing,closed,2023-08-07T20:27:20Z,2023-08-15T20:55:50Z,bug
+PhenoApps/Field-Book,679,[BUG]:  Importing more traits deletes existing traits?,closed,2023-07-19T11:23:04Z,2023-07-20T23:06:36Z,bug
+PhenoApps/Field-Book,678,[BUG]: Date trait deleting,closed,2023-07-18T23:36:40Z,2023-08-15T20:55:30Z,bug
+PhenoApps/Field-Book,677,[BUG]:  $1 in date trait entry causing crashes,closed,2023-07-18T22:39:21Z,2023-08-15T21:06:00Z,bug
+PhenoApps/Field-Book,658,[BUG]: Check that all excel file formats are evaluating formulas correctly,closed,2023-07-05T22:46:47Z,2023-07-10T19:55:23Z,bug
+PhenoApps/Field-Book,648,[BUG]: BrAPI Sync is hanging,closed,2023-06-29T14:52:52Z,2023-07-25T14:44:10Z,bug
+PhenoApps/Field-Book,641,[BUG]: Pipe character in ontology traits causes image to fail,closed,2023-06-21T19:23:05Z,2023-11-30T18:23:22Z,bug
+PhenoApps/Field-Book,640,[BUG]: Adding field in Fieldbook from BMS using BrAPI: No Categories for categorical traits.,closed,2023-06-21T17:06:20Z,2023-07-10T20:08:39Z,"bug, priority"
+PhenoApps/Field-Book,634,Search not moving to correct entry,closed,2023-06-12T10:51:06Z,2023-06-19T18:25:19Z,bug
+PhenoApps/Field-Book,631,Tutorial crashes app,closed,2023-06-08T10:12:01Z,2023-08-03T17:49:16Z,bug
+PhenoApps/Field-Book,630,[BUG]: exporting observations fail for the new version,closed,2023-06-02T16:00:47Z,2023-06-20T20:12:55Z,bug
+PhenoApps/Field-Book,622,[BUG]: Brapi Import field UI is cut off for long descriptions,closed,2023-05-31T15:55:36Z,2023-12-08T17:47:06Z,bug
+PhenoApps/Field-Book,621,[BUG]: Capturing NA on categorical traits results in a crash,closed,2023-05-31T07:34:51Z,2023-05-31T18:52:10Z,"bug, priority"
+PhenoApps/Field-Book,619,[BUG]: BrAPI Field Sorting,closed,2023-05-30T17:12:48Z,2023-05-31T19:52:28Z,"bug, priority"
+PhenoApps/Field-Book,617,[BUG]: Issue with brapi export,closed,2023-05-23T19:55:54Z,2023-06-01T06:30:20Z,"bug, priority"
+PhenoApps/Field-Book,616,[BUG]: Scanning into the cvET changes focus to InfoBar prefix,closed,2023-05-22T14:19:10Z,2023-06-01T17:27:03Z,"bug, priority"
+PhenoApps/Field-Book,607,[BUG]: too many infobars breaks collect screen ui,closed,2023-05-19T17:57:56Z,2023-07-25T14:42:43Z,bug
+PhenoApps/Field-Book,606,[BUG]: gnss causing app crash,closed,2023-05-19T17:57:27Z,2023-05-19T18:48:13Z,bug
+PhenoApps/Field-Book,604,[BUG]: trait visibility,closed,2023-05-18T20:02:43Z,2023-05-21T17:25:34Z,bug
+PhenoApps/Field-Book,603,[BUG]: Collect doesn't load if approximate location is selected,closed,2023-05-18T08:02:51Z,2023-12-07T22:14:48Z,bug
+PhenoApps/Field-Book,568,[BUG] Hardware barcode scanner truncating barcodes,closed,2023-04-28T16:37:25Z,2023-06-01T17:19:42Z,"bug, priority"
+PhenoApps/Field-Book,565,[BUG] Import traits from cloud is broken,closed,2023-04-27T18:47:28Z,2023-05-15T21:38:22Z,bug
+PhenoApps/Field-Book,554,Intermittent problems with photo traits,closed,2023-03-28T22:03:09Z,2023-05-10T07:19:57Z,bug
+PhenoApps/Field-Book,550,[BUG] Failure during BrAPI Export results in invalid state,open,2023-03-24T14:14:12Z,,"bug, brapi"
+PhenoApps/Field-Book,549,"[BUG] Misleading ""trial_name"" in printer trait layout is actually the FieldBook field file name",closed,2023-03-24T14:11:57Z,2024-05-06T16:43:07Z,bug
+PhenoApps/Field-Book,548,[BUG] Test if multi measures work with BrAPI Sync,closed,2023-03-23T16:59:39Z,2024-11-27T15:36:05Z,bug
+PhenoApps/Field-Book,547,[BUG] Decrease brapi default page size,closed,2023-03-23T16:53:49Z,2023-05-23T20:19:41Z,bug
+PhenoApps/Field-Book,542,[BUG] Using obs. var names instead of synonym names,closed,2023-03-22T17:12:11Z,2025-12-16T20:24:36Z,"bug, brapi"
+PhenoApps/Field-Book,540,Not able to import fields to the app [BUG],closed,2023-03-14T17:01:17Z,2023-03-14T21:02:23Z,bug
+PhenoApps/Field-Book,538,[BUG] Image data export,closed,2023-02-22T16:16:50Z,2023-03-14T21:02:46Z,bug
+PhenoApps/Field-Book,532,[BUG] Data collection interface indicates null navigation values,closed,2023-01-11T13:31:35Z,2023-03-14T22:13:34Z,bug
+PhenoApps/Field-Book,531,[BUG] GeoNav stops updating after scanning barcode,closed,2022-12-15T19:54:49Z,2023-08-28T10:15:49Z,bug
+PhenoApps/Field-Book,523,[BUG] Photo navigation slow when >500 images,closed,2022-11-07T20:12:08Z,2023-09-01T19:16:11Z,bug
+PhenoApps/Field-Book,520,[BUG] Window Leak handling dialog in BrapiExportActivity,closed,2022-11-02T18:22:57Z,2025-01-19T05:46:24Z,"bug, brapi"
+PhenoApps/Field-Book,516,BrAPI authentication not working with Breedbase [BUG],closed,2022-10-31T20:18:18Z,2022-10-31T22:59:17Z,bug
+PhenoApps/Field-Book,512,[BUG] - Downloading Traits via BrAPI does not allow for all data types ,closed,2022-10-26T15:03:02Z,2022-11-04T20:55:17Z,bug
+PhenoApps/Field-Book,510,[BUG] Bluetooth Scanner Only saving first character,closed,2022-10-12T20:07:53Z,2023-06-01T17:26:53Z,"bug, priority"
+PhenoApps/Field-Book,509,[BUG] Field Book v5.3 unable to load studies from BMS (v19.4.2),closed,2022-09-30T09:22:15Z,2022-11-12T11:51:07Z,bug
+PhenoApps/Field-Book,503,[BUG] Update Search Activity to a dialog,closed,2022-09-14T19:20:56Z,2024-03-12T11:14:48Z,bug
+PhenoApps/Field-Book,502,[BUG] USB  Camera Not Working on Samsung Tablet,closed,2022-09-14T13:52:41Z,2023-03-14T20:20:10Z,bug
+PhenoApps/Field-Book,500,[BUG] Cloud imports using OneDrive not importing,closed,2022-09-09T17:57:06Z,2023-03-14T21:03:13Z,bug
+PhenoApps/Field-Book,497,[ENHANCEMENT] (non-breaking) Export db code,closed,2022-08-30T21:21:22Z,2025-09-30T21:28:35Z,"bug, enhancement"
+PhenoApps/Field-Book,494,[BUG] Field Book prints 9 blank labels for each successful label,closed,2022-08-30T15:03:51Z,2023-09-20T17:05:00Z,bug
+PhenoApps/Field-Book,487,[BUG] Problems with barcode scanning and data collection,closed,2022-08-10T15:12:27Z,2022-09-01T18:19:26Z,bug
+PhenoApps/Field-Book,485,[BUG] Different page was displayed after authorizing while OAuth2 Implicit Grant was selected,closed,2022-08-04T18:49:13Z,2022-09-01T17:56:21Z,bug
+PhenoApps/Field-Book,483,[BUG] No photo available was displayed in BMS when a new image is exported via BrAPI,closed,2022-08-04T15:07:04Z,2022-08-22T22:09:18Z,bug
+PhenoApps/Field-Book,480,[BUG] Cloud import (e.g. Dropbox) is currently broken,closed,2022-08-01T22:07:44Z,2022-08-03T20:33:59Z,bug
+PhenoApps/Field-Book,478,"[BUG] sample.db asset has duplicate ""Yellow"" category in type variable",closed,2022-07-27T18:40:42Z,2023-08-03T22:15:45Z,bug
+PhenoApps/Field-Book,462,[BUG]: Special characters in text trait caused whole upload back to BreedBase to fail,open,2022-06-27T17:21:58Z,,"bug, brapi"
+PhenoApps/Field-Book,452,BrAPI Value/Label Fix,open,2022-05-20T16:04:30Z,,"bug, brapi"
+PhenoApps/Field-Book,445,BrAPI deeplink / Android 12 link issues,open,2022-05-18T07:47:05Z,,"bug, brapi"
+PhenoApps/Field-Book,436,[BUG] Search broken in 5.2,closed,2022-05-14T08:42:01Z,2022-05-17T06:32:49Z,bug
+PhenoApps/Field-Book,434,[BUG] Add Bluetooth permission check to GNSS trait,closed,2022-05-13T22:55:16Z,2022-05-20T11:02:52Z,bug
+PhenoApps/Field-Book,433,`java.lang.IllegalStateException` attemp to re-open closed object,closed,2022-05-13T15:24:28Z,2022-05-17T06:30:40Z,bug
+PhenoApps/Field-Book,428,[BUG] `Exception: java.lang.IllegalStateException: attempt to re-open an already-closed object: SQLiteDatabase`,closed,2022-05-11T03:28:28Z,2022-05-11T18:45:53Z,bug
+PhenoApps/Field-Book,427,[BUG] `android.permission.BLUETOOTH_CONNECT permission` crash,closed,2022-05-11T03:23:13Z,2022-05-11T18:46:38Z,bug
+PhenoApps/Field-Book,426,[BUG] Datagrid crashes with alfalfabase field loaded,closed,2022-05-11T03:21:36Z,2022-05-11T18:45:47Z,bug
+PhenoApps/Field-Book,425,[BUG] Supply default value for the 'Value vs. Label Display' preference,closed,2022-05-11T03:13:07Z,2022-05-11T22:31:28Z,bug
+PhenoApps/Field-Book,416,[BUG] range table not getting built correctly,closed,2022-04-25T18:18:02Z,2022-05-06T18:36:06Z,bug
+PhenoApps/Field-Book,405,Data from a deleted field is still visible in export file and data grid if the field is reimported,closed,2022-04-12T20:59:21Z,2022-04-14T20:26:45Z,bug
+PhenoApps/Field-Book,402,[BUG] Modify export behavior,closed,2022-04-04T17:15:31Z,2022-04-14T20:07:45Z,bug
+PhenoApps/Field-Book,401,[BUG] Date trait broken in v5.2 (v5.1.9),closed,2022-03-31T14:42:58Z,2022-04-14T20:00:19Z,bug
+PhenoApps/Field-Book,397,BrAPI authentication failure,closed,2022-03-07T16:17:40Z,2022-03-08T01:18:52Z,bug
+PhenoApps/Field-Book,394,[BUG] v5 issue with Samsung A7 tablets (Android 11),closed,2022-01-13T21:45:08Z,2022-05-20T11:51:37Z,bug
+PhenoApps/Field-Book,392,[BUG] Wrap geonav location updates into a service,closed,2021-12-21T20:57:08Z,2024-07-23T14:40:21Z,bug
+PhenoApps/Field-Book,374,[BUG] BrapiExportActivity authentication,closed,2021-11-03T16:48:27Z,2022-05-20T11:11:04Z,bug
+PhenoApps/Field-Book,355,[BUG] GNSS trait: can't connect to internal GPS if no Bluetooth devices have been connected,closed,2021-10-28T20:14:48Z,2021-11-02T15:58:18Z,bug
+PhenoApps/Field-Book,352,[BUG] Last page not retrieved for recursive methods getPlotDetails() and getTraits(),closed,2021-10-25T15:03:43Z,2021-10-28T15:16:30Z,bug
+PhenoApps/Field-Book,335,[BUG] Not all observationUnits are downloaded when loading field via BrAPI,closed,2021-09-25T02:36:19Z,2021-09-28T15:53:15Z,bug
+PhenoApps/Field-Book,332,[BUG] Printer Status retrieval and Delayed printing,closed,2021-09-22T16:01:44Z,2021-09-28T15:52:51Z,bug
+PhenoApps/Field-Book,325,[BUG] Scan barcode move to plot doesn't work from the text input dialog,closed,2021-08-28T19:20:10Z,2021-10-18T16:45:24Z,bug
+PhenoApps/Field-Book,315,"[BUG] Database format export column ""number"" does not correspond to internal db column ""rep""",closed,2021-08-06T08:55:44Z,2021-08-09T17:56:26Z,bug
+PhenoApps/Field-Book,308,[BUG] CSV files cannot be attached to emails on some devices,closed,2021-08-05T00:53:49Z,2022-05-20T11:47:16Z,bug
+PhenoApps/Field-Book,305,[BUG] Manually unchecking traits then clicking double-check in toolbar does not check all traits,closed,2021-08-04T17:11:07Z,2021-11-01T20:32:50Z,bug
+PhenoApps/Field-Book,304,[BUG] Photo observations reappear after deleting/reimporting a study.,closed,2021-08-04T16:42:29Z,2021-08-06T08:55:57Z,bug
+PhenoApps/Field-Book,303,"[BUG] Selecting ""only visible traits"" incorrectly exports all traits for database format",closed,2021-08-03T21:56:00Z,2021-08-06T08:56:07Z,bug
+PhenoApps/Field-Book,299,[BUG] ArrayIndexOutOfBoundsException Study with no plots,closed,2021-07-29T22:15:46Z,2021-11-01T20:34:11Z,bug
+PhenoApps/Field-Book,298,[BUG] Reuse of brapi_server_list key in preferences,closed,2021-07-29T18:28:56Z,2021-10-18T17:10:34Z,bug
+PhenoApps/Field-Book,295,[BUG] App crashes when brapi object with non-string additional info fields are present,closed,2021-07-27T15:42:38Z,2021-08-05T10:12:43Z,bug
+PhenoApps/Field-Book,294,"[BUG] Category trait pushes ""label"" to brapi observations, not ""value""",closed,2021-07-27T15:39:16Z,2021-10-19T14:08:58Z,bug
+PhenoApps/Field-Book,291,[BUG] Exported trait file cannot be imported back into Traits activity,closed,2021-07-26T01:16:07Z,2021-07-28T19:41:05Z,bug
+PhenoApps/Field-Book,290,[BUG] Delete observation no longer shows N/A value,closed,2021-07-22T18:02:57Z,2021-11-16T10:58:12Z,bug
+PhenoApps/Field-Book,288,"[BUG] Saving images fails on null imageFileSize, imageHeight, imageHeight field return",closed,2021-07-22T14:57:01Z,2021-07-23T15:29:57Z,bug
+PhenoApps/Field-Book,286,[BUG] Improper setting of descriptiveOntologyTerm for FieldBookImage,closed,2021-07-21T20:00:33Z,2021-07-23T15:29:52Z,bug
+PhenoApps/Field-Book,285,[BUG] Loading wheel hangs after failed authentication,closed,2021-07-20T20:08:26Z,2021-11-01T20:37:28Z,bug
+PhenoApps/Field-Book,284,[BUG] GET studies is being called twice when importing through BrAPI,closed,2021-07-19T14:12:08Z,2021-07-23T15:29:49Z,bug
+PhenoApps/Field-Book,282,[BUG] Error when BrAPI service returns null categories for variables,closed,2021-07-19T13:54:04Z,2021-07-23T15:29:41Z,bug
+PhenoApps/Field-Book,281,"[BUG] BrAPI v2 not setting authorization token when pulling traits, studies, study details",closed,2021-07-19T13:47:27Z,2021-07-23T15:29:46Z,bug
+PhenoApps/Field-Book,280,[BUG] BrAPI study details import: ArrayIndexOutOfBoundsException when no X/Y information for *any* plot,closed,2021-07-16T18:21:24Z,2021-08-06T08:56:33Z,bug
+PhenoApps/Field-Book,264,[BUG] export queries conflict with schema,closed,2021-07-08T20:49:40Z,2021-07-14T12:55:15Z,bug
+PhenoApps/Field-Book,257,[BUG] Multiple observations per variable,closed,2021-05-19T19:50:38Z,2021-07-23T15:28:26Z,bug
+PhenoApps/Field-Book,250,[BUG] BrAPI V2 Service Trait Import not working,closed,2021-05-10T19:08:54Z,2021-07-23T15:20:26Z,bug
+PhenoApps/Field-Book,230,[BUG] Updating an observation after brapi export not picked up as edited,closed,2021-03-19T15:47:48Z,2021-05-04T00:12:54Z,bug
+PhenoApps/Field-Book,229,Import sanitization to prevent SQL injection,closed,2021-03-19T15:31:49Z,2021-05-04T00:12:54Z,bug
+PhenoApps/Field-Book,228,[BUG] V2 study import doesn't add traits for observations,closed,2021-03-19T14:06:19Z,2021-04-05T13:24:50Z,bug
+PhenoApps/Field-Book,227,[BUG] V2 Client ApiException codes not handled correctly,closed,2021-03-19T13:54:26Z,2021-10-19T19:54:13Z,bug
+PhenoApps/Field-Book,224,[BUG] Trait import error,closed,2021-03-11T18:13:56Z,2021-03-29T14:38:27Z,bug
+PhenoApps/Field-Book,223,"[BUG] Can't use http:// brapi URL, only https://",closed,2021-03-11T16:21:42Z,2021-03-29T14:38:18Z,bug
+PhenoApps/Field-Book,222,[BUG] Java time API 26 or later,closed,2021-03-11T15:38:33Z,2021-03-29T14:37:54Z,bug
+PhenoApps/Field-Book,221,[BUG] Trait db migration error,closed,2021-03-11T15:35:13Z,2021-07-16T15:35:57Z,bug
+PhenoApps/Field-Book,214,[BUG] Singleton database,closed,2021-02-11T17:05:24Z,2025-08-21T18:49:14Z,bug
+PhenoApps/Field-Book,212,[BUG] Categorical layout doesn't display correctly,closed,2021-02-10T18:47:08Z,2021-02-22T18:59:11Z,bug
+PhenoApps/Field-Book,211,[BUG] IllegalStateException in database on first install,closed,2021-02-10T18:44:55Z,2021-02-22T18:59:34Z,bug
+PhenoApps/Field-Book,210,[BUG] Toggle all trait visibility no longer functions correctly,closed,2021-02-09T18:03:31Z,2021-02-22T18:59:42Z,bug
+PhenoApps/Field-Book,209,[BUG] Switching fields displays BrAPI dialog regardless of field source,closed,2021-02-09T18:00:43Z,2021-02-22T18:59:52Z,bug
+PhenoApps/Field-Book,196,[BUG] Categorical layout defaults to a single row,closed,2020-12-07T19:57:52Z,2021-01-21T00:27:34Z,bug
+PhenoApps/Field-Book,195,[BUG] standardize DateTimeFormatter,closed,2020-12-04T23:42:35Z,2021-02-09T17:56:45Z,bug
+PhenoApps/Field-Book,193,"[BUG] trt files not imported correctly from cloud providers (Dropbox, Onedrive)",closed,2020-11-21T18:08:17Z,2021-05-04T00:12:53Z,bug
+PhenoApps/Field-Book,190,[BUG] Categorical layout is squashed to two rows,closed,2020-11-13T07:44:17Z,2021-01-21T00:27:55Z,bug
+PhenoApps/Field-Book,189,[BUG] Prefixes for primary/secondary mess up layout when titles are long,closed,2020-11-13T07:42:42Z,2021-11-16T19:56:10Z,bug
+PhenoApps/Field-Book,188,[BUG] InfoBar prefix on tablet is cut off,closed,2020-11-13T07:42:18Z,2021-11-16T12:44:49Z,bug
+PhenoApps/Field-Book,182,[BUG] BrAPI export not working,closed,2020-10-30T16:23:22Z,2021-05-04T00:15:12Z,bug
+PhenoApps/Field-Book,180,[BUG] Brapi authentication issue,closed,2020-10-28T18:47:20Z,2021-01-14T18:57:08Z,bug
+PhenoApps/Field-Book,174,[BUG] Improve/Fix Print trait layout,closed,2020-10-08T10:30:42Z,2023-09-25T17:09:13Z,bug
+PhenoApps/Field-Book,157,[BUG] Quick GoTo bug(s),closed,2020-10-08T09:30:53Z,2021-11-16T10:56:55Z,bug
+PhenoApps/Field-Book,156,[BUG] Trait files imported from Google Drive aren't parsed correctly,closed,2020-10-08T09:21:20Z,2021-01-14T18:58:29Z,bug
+PhenoApps/Field-Book,154,[BUG] data lost after collecting data,closed,2020-09-10T11:48:10Z,2020-09-21T13:03:54Z,bug
+PhenoApps/Field-Book,153,[BUG] Crash when trying to save photos,closed,2020-09-09T19:42:13Z,2020-09-15T02:59:27Z,bug
+PhenoApps/Field-Book,150,[BUG] BrAPI import Study 1 throws index out of bounds exception.,closed,2020-08-27T21:41:23Z,2021-01-14T18:38:37Z,bug
+PhenoApps/Field-Book,149,[BUG] Crash on first file import after deleting database.,closed,2020-08-27T01:22:55Z,2020-09-21T13:05:10Z,bug
+PhenoApps/Field-Book,148,[BUG] Collect Activity crashes after importing sample csv. Android Kitkat.,closed,2020-08-26T19:28:04Z,2020-09-28T18:00:23Z,bug
+PhenoApps/Field-Book,147,[BUG] TraitActivity UI Lock Bug,closed,2020-08-26T18:43:51Z,2021-11-01T20:30:13Z,bug
+PhenoApps/Field-Book,146,[BUG] Crashes in Collect after importing field_sample.csv,closed,2020-08-24T14:25:23Z,2020-09-28T18:00:23Z,bug
+PhenoApps/Field-Book,145,[BUG] Crashes after loading backup.db or deleting db and navigating to trait activity.,closed,2020-08-20T14:16:10Z,2020-09-21T13:07:00Z,bug
+PhenoApps/Field-Book,143,[BUG] Data not saved after moving to new plot via search,closed,2020-08-17T18:00:48Z,2020-09-02T04:25:29Z,bug
+PhenoApps/Field-Book,137,[BUG] Unable to change label size when printing to Zebra printer,closed,2020-07-22T10:06:30Z,2020-09-02T04:29:21Z,bug
+PhenoApps/Field-Book,132,Convert incorrectly collected datetimes into proper datetimes,closed,2020-05-21T20:09:33Z,2021-05-04T00:16:26Z,bug
+PhenoApps/Field-Book,131,[BUG] Categories are displayed off the screen,closed,2020-05-12T11:53:41Z,2020-09-28T18:00:22Z,bug
+PhenoApps/Field-Book,129,[BUG] Only 1000 fields (studies) are returned from BrAPI,closed,2020-04-30T14:36:53Z,2021-01-14T18:37:59Z,"bug, feature request"
+PhenoApps/Field-Book,128,[BUG] Zero new observations bug with brapi,closed,2020-04-29T20:24:50Z,2020-05-06T19:32:49Z,bug
+PhenoApps/Field-Book,126,[BUG] Cannot import a new field from BrAPI if there’s already previously imported field,closed,2020-04-06T06:10:11Z,2020-04-13T19:42:54Z,bug
+PhenoApps/Field-Book,125,[BUG] Export failed when a new trait is added to the field,closed,2020-04-06T05:43:56Z,2021-11-18T17:18:46Z,bug
+PhenoApps/Field-Book,122,[BUG] BrAPI export not working,closed,2020-04-01T17:39:20Z,2020-04-13T15:27:41Z,bug
+PhenoApps/Field-Book,121,[BUG] CassavaBase BrAPI date formatting issue,closed,2020-03-22T23:12:06Z,2020-04-13T15:28:01Z,bug
+PhenoApps/Field-Book,110,Field columns can't have the same name as traits,closed,2020-03-16T10:45:46Z,2020-09-19T19:01:02Z,bug
+PhenoApps/Field-Book,109,Data sanitation issues with bad import files,closed,2020-03-16T10:40:59Z,2021-11-04T16:32:51Z,bug
+PhenoApps/Field-Book,95,Deleting values does not remove database row,closed,2020-02-28T03:00:18Z,2020-09-21T13:29:39Z,bug
+PhenoApps/Field-Book,94,Import database broken,closed,2020-02-24T19:43:38Z,2020-04-01T14:01:35Z,bug
+PhenoApps/Field-Book,81,Field columns cannot have same name as traits,closed,2020-02-21T17:51:04Z,2021-10-18T17:19:08Z,bug
+PhenoApps/Field-Book,79,Disable changing trait type when editing,closed,2020-02-21T17:50:03Z,2023-12-07T22:04:21Z,"bug, enhancement, trait"
+PhenoApps/Field-Book,58,Import field from local storage is failing,closed,2020-02-20T14:28:59Z,2020-02-21T14:56:13Z,bug
+PhenoApps/Field-Book,44,Select or import a field message displayed on Fields page,closed,2019-10-15T19:57:29Z,2020-03-22T23:31:51Z,bug
+PhenoApps/Field-Book,42,Observations aren't deleted when trait is deleted,closed,2019-10-15T16:06:05Z,2021-01-14T18:52:35Z,bug
+PhenoApps/Field-Book,41,"Collect Data navigates to first plot, first trait after collect photo",closed,2019-10-15T14:45:27Z,2019-10-15T21:22:44Z,"bug, enhancement"
+PhenoApps/Field-Book,17,primary/secondary order display fails if Import field is named 'ID',closed,2018-05-22T22:02:54Z,2018-06-26T11:24:46Z,bug
+PhenoApps/Field-Book,15,Photo trait fails silently if there are forward slashes in unique identifier field,closed,2018-05-16T19:05:52Z,2018-06-26T12:14:08Z,bug
+PhenoApps/Field-Book,2,InfoBar text doesn't always display correctly,closed,2015-04-22T20:04:29Z,2017-06-18T10:01:17Z,bug
+PhenoApps/Field-Book,1,Duplicate primary/secondary orders not recognized when collecting data,closed,2014-10-10T21:18:00Z,2017-06-18T10:01:12Z,bug
+jmalenko/alarm-morning,17,"After dismiss (and probably after snooze), the ring activity is in the recent apps",closed,2017-08-03T08:35:26Z,2017-08-14T13:00:17Z,bug
+jmalenko/alarm-morning,16,Calendar wrongly shows disabled alarm,closed,2017-06-23T10:47:10Z,2017-08-14T12:39:11Z,bug
+jmalenko/alarm-morning,15,Reset on time zonechange,closed,2017-06-23T10:45:39Z,2017-08-14T11:48:27Z,bug
+jmalenko/alarm-morning,14,Remove check-alarm-time notification when time is changed from the activity,closed,2017-06-23T10:45:03Z,2017-08-15T11:26:08Z,bug
+jmalenko/alarm-morning,13,Do not play nighttime bell after disabling,open,2017-06-23T10:44:20Z,,bug
+jmalenko/alarm-morning,12,Wrong notification,closed,2017-06-23T10:42:50Z,2019-01-11T23:48:06Z,bug
+enotio/Tempest,6,difference in clear beavior on directx9 to opengl,closed,2013-11-08T14:08:45Z,2013-11-12T17:17:51Z,bug
+macGRID-SRN/hitchBOT,26,remove passwords from database generation files...........................................................,closed,2014-06-09T03:34:20Z,2014-06-28T04:17:40Z,bug
+macGRID-SRN/hitchBOT,14,Projects not returning Locations correctly,closed,2014-05-12T16:59:09Z,2014-05-12T18:31:38Z,"bug, Server"
+warmshowers/wsandroid,342,Crash when rotating with dialog open,closed,2019-10-26T07:59:14Z,2019-11-08T12:25:15Z,bug
+warmshowers/wsandroid,335,User credentials not recognised,closed,2019-09-30T21:24:02Z,2019-11-16T13:39:11Z,bug
+warmshowers/wsandroid,323,Can't Exit the app.,closed,2019-05-19T15:43:19Z,2019-11-08T12:27:40Z,bug
+warmshowers/wsandroid,284,Save message drafts when leaving a thread,closed,2018-08-22T16:37:08Z,2018-08-23T19:16:31Z,bug
+warmshowers/wsandroid,267,Crash in MessageThreadListAdapter on emulator with Android 4.1,closed,2018-02-12T21:19:34Z,2018-06-21T18:21:22Z,bug
+warmshowers/wsandroid,177,Lost Android account forces users to log in over and over,closed,2015-03-10T21:02:56Z,2018-07-17T19:35:31Z,"bug, Favorite of Randy"
+warmshowers/wsandroid,160,1.4.1 InitialAccountCreation() failure,closed,2015-01-03T21:03:18Z,2015-01-06T07:43:06Z,bug
+warmshowers/wsandroid,139,"Search for ""test user"" on test search tag gets ""no internet connection""",closed,2014-11-28T03:26:00Z,2014-11-30T12:42:56Z,bug
+warmshowers/wsandroid,128,Unwanted behavior when user is not logged in,closed,2014-11-18T15:47:06Z,2014-12-11T19:59:13Z,bug
+warmshowers/wsandroid,120,"""Location"" link on host info screen does not work",closed,2014-11-09T18:27:13Z,2014-11-16T17:11:39Z,bug
+warmshowers/wsandroid,119,No host availability information,closed,2014-11-09T18:18:08Z,2014-11-16T17:09:46Z,bug
+warmshowers/wsandroid,79,No locality info in map bubble,closed,2014-09-29T00:14:35Z,2014-10-22T03:51:21Z,bug
+warmshowers/wsandroid,78,Login or access fails; problem with search,closed,2014-05-16T05:59:12Z,2014-10-23T03:41:41Z,bug
+warmshowers/wsandroid,76,Application hangs when switching to messages tab,closed,2013-11-27T08:32:37Z,2018-07-05T19:36:38Z,"bug, Fixed in new version"
+warmshowers/wsandroid,68,Unicode characters in messages terminate message,closed,2013-05-23T14:51:22Z,2013-05-23T15:23:52Z,bug
+warmshowers/wsandroid,66,"""Search are too large"" typo",closed,2013-03-23T14:53:45Z,2013-03-26T16:56:38Z,bug
+warmshowers/wsandroid,56,Critical: Private messages not working at all,closed,2013-03-05T15:54:43Z,2013-03-09T13:07:56Z,bug
+warmshowers/wsandroid,32,Switch off GPS on pause,closed,2012-03-27T09:38:06Z,2012-04-05T20:11:29Z,bug
+warmshowers/wsandroid,31,"After going from host info to map, back button should point back to host info",closed,2012-03-23T09:10:17Z,2012-04-05T20:11:29Z,bug
+warmshowers/wsandroid,30,Progress dialogs should not be cancelable,closed,2012-03-22T13:06:22Z,2012-04-05T20:11:27Z,bug
+clementine-player/Android-Remote,69,Crash when connecting to Clementine (on debug build),closed,2014-05-08T19:07:17Z,2014-05-08T19:20:02Z,bug
+clementine-player/Android-Remote,67,Incorrect song selection when choosing from search results,closed,2014-05-07T18:56:29Z,2014-05-07T20:16:18Z,bug
+clementine-player/Android-Remote,39,Downloading playlist makes plasma-desktop/kdeinit4 go bonkers and gets canceled,closed,2013-12-19T16:07:51Z,2015-05-02T04:37:13Z,bug
+clementine-player/Android-Remote,33,No menu entries in polish language,closed,2013-12-06T11:07:31Z,2013-12-06T11:07:39Z,"bug, imported, Priority-Medium"
+clementine-player/Android-Remote,31,Library listing old entries,closed,2013-12-06T11:07:25Z,2013-12-06T11:07:27Z,"bug, imported, Priority-Medium"
+clementine-player/Android-Remote,30,F-Droid version does not recognize Clementine 1.2,closed,2013-12-06T11:07:22Z,2014-02-10T11:44:32Z,"bug, imported, Priority-Medium"
+clementine-player/Android-Remote,29,F-Droid version crashes right after start: Multicaster binderDied,closed,2013-12-06T11:07:16Z,2013-12-13T13:49:45Z,"bug, imported, Priority-Medium"
+clementine-player/Android-Remote,22,Please reduce the app size and/or support sdcards,closed,2013-12-06T11:06:43Z,2013-12-06T11:06:45Z,"bug, wontfix, imported, Priority-Medium"
+clementine-player/Android-Remote,21,Refusing connect on using hotspot,closed,2013-12-06T11:06:40Z,2013-12-06T11:06:42Z,"bug, wontfix, imported, Priority-Medium"
+clementine-player/Android-Remote,19,Album art & track name don't refresh on track change on online streams,closed,2013-12-06T11:06:31Z,2013-12-06T11:06:35Z,"bug, imported, Priority-Medium"
+clementine-player/Android-Remote,18,Can't change SD card when downloading songs,closed,2013-12-06T11:06:26Z,2013-12-06T11:06:28Z,"bug, imported, Priority-Medium"
+clementine-player/Android-Remote,17,app crashes,closed,2013-12-06T11:06:22Z,2013-12-06T11:06:26Z,"bug, imported, Priority-Medium"
+clementine-player/Android-Remote,15,Problems on Linux Mint 15 and Galaxy S4,closed,2013-12-06T11:06:12Z,2013-12-06T11:06:17Z,"bug, imported, Priority-Medium"
+clementine-player/Android-Remote,13,Large playlist crashes clementine remote during data download.,closed,2013-12-06T11:06:01Z,2013-12-06T11:06:07Z,"bug, imported, Priority-Medium"
+clementine-player/Android-Remote,12,Does not work,closed,2013-12-06T11:05:55Z,2013-12-06T11:05:59Z,"bug, imported, Priority-Medium"
+clementine-player/Android-Remote,9,Specific oldest build usable,closed,2013-12-06T11:05:44Z,2013-12-06T11:05:46Z,"bug, imported, Priority-Medium"
+clementine-player/Android-Remote,8,Volume control is not working,closed,2013-12-06T11:05:40Z,2013-12-06T11:05:42Z,"bug, wontfix, imported, Priority-Medium"
+clementine-player/Android-Remote,6,Cannot enter dots in IP entry field,closed,2013-12-06T11:05:34Z,2013-12-06T11:05:35Z,"bug, duplicate, imported, Priority-Medium"
+clementine-player/Android-Remote,3,IP address cannot be entered,closed,2013-12-06T11:05:16Z,2013-12-06T11:05:19Z,"bug, imported, Priority-Medium"
+clementine-player/Android-Remote,1,Non latin playlists title not shown.,closed,2013-12-06T11:04:46Z,2013-12-06T11:04:48Z,"bug, imported, Priority-Medium"
+rjhdby/motocitizen,436,Миграция на 996 не нужна для свежеустановленного приложения.,open,2019-04-18T14:18:44Z,,bug
+rjhdby/motocitizen,435,Дубликаты пунктов в меню инцидента,open,2019-04-18T13:31:54Z,,bug
+rjhdby/motocitizen,430,"java.lang.NullPointerException: Attempt to invoke virtual method 'java.util.List android.location.Geocoder.getFromLocationName(java.lang.String, int)' on a null object reference место: at motocitizen.activity.CreateAccActivity.onClick(CreateAccActivity.java).onClick",open,2017-05-13T20:53:38Z,,bug
+rjhdby/motocitizen,428,motocitizen.c.b.a(motocitizen.g.a)' on a null object reference 	at motocitizen.notifications.NotificationListener.a(Unknown Source),closed,2017-05-03T11:38:13Z,2017-05-06T20:27:32Z,bug
+rjhdby/motocitizen,427,"При создании события отслеживать, что адрес не определился и предлагать ввести руками",closed,2017-05-02T14:39:14Z,2017-05-23T21:05:19Z,bug
+rjhdby/motocitizen,417,Не собирается проект: class VolunteerRow,closed,2016-02-10T10:34:26Z,2016-02-17T11:27:10Z,bug
+rjhdby/motocitizen,416,Не собирается проект: MyLocationManager,closed,2016-02-08T13:15:46Z,2016-02-10T10:33:08Z,bug
+rjhdby/motocitizen,408,Вынести всю отрисовку из классов контента в активити и фрагменты,closed,2015-10-08T08:45:26Z,2017-03-06T09:10:33Z,bug
+rjhdby/motocitizen,395,"Пришел инцидент дальше, чем фильтр.",closed,2015-09-17T18:22:23Z,2015-09-18T10:28:09Z,bug
+rjhdby/motocitizen,392,Не отображается адрес в верхней панели.,closed,2015-09-15T15:35:08Z,2017-03-06T09:05:09Z,bug
+rjhdby/motocitizen,389,Падение приложения при создании инцидент,closed,2015-09-10T12:40:54Z,2015-09-14T08:52:41Z,bug
+rjhdby/motocitizen,388,Нет инцидентов на карте,closed,2015-09-04T06:47:33Z,2015-09-15T16:56:26Z,bug
+rjhdby/motocitizen,386,Постоянно вращается индикатор обновления.,closed,2015-09-03T23:30:38Z,2015-09-15T16:56:12Z,bug
+rjhdby/motocitizen,384,AndroidManifest.xml,closed,2015-09-01T21:01:46Z,2017-03-06T08:07:39Z,bug
+rjhdby/motocitizen,378,java.lang.IndexOutOfBoundsException - java.util.ArrayList.throwIndexOutOfBoundsException,closed,2015-08-21T16:13:09Z,2015-09-14T07:41:00Z,bug
+rjhdby/motocitizen,375,Отказаться от GeocodeRequest,closed,2015-07-29T22:56:08Z,2015-07-29T23:08:09Z,"bug, enhancement"
+rjhdby/motocitizen,372,java.lang.RuntimeException: Unable to resume activity {motocitizen.main/motocitizen.Activity.AccidentDetailsActivity}: java.lang.NullPointerException,closed,2015-07-03T12:30:09Z,2015-09-15T16:55:13Z,bug
+rjhdby/motocitizen,371,java.lang.RuntimeException: An error occured while executing doInBackground(),closed,2015-07-03T12:29:14Z,2015-07-03T12:40:31Z,bug
+rjhdby/motocitizen,364,Нет тестового сообщения.,closed,2015-06-28T20:24:42Z,2017-03-06T08:08:20Z,bug
+rjhdby/motocitizen,363,Caused by: java.lang.NullPointerException at motocitizen.maps.google.MyGoogleMapManager.init(MyGoogleMapManager.java:134),closed,2015-06-28T13:45:41Z,2015-09-15T16:54:46Z,bug
+rjhdby/motocitizen,362,NullPointer при приеме нотификейшена,closed,2015-06-28T13:35:04Z,2015-07-01T10:56:04Z,bug
+rjhdby/motocitizen,361,Косяки с парсингом ответа от сервера,closed,2015-06-28T13:13:44Z,2015-07-01T10:55:48Z,bug
+rjhdby/motocitizen,356,"""Не могу открыть инцидент""",closed,2015-06-24T10:31:39Z,2017-03-06T08:08:35Z,bug
+rjhdby/motocitizen,355,Какой-то косяк с контекстным меню в основном списке.,closed,2015-06-24T09:11:41Z,2015-06-25T11:26:52Z,bug
+rjhdby/motocitizen,354,Выводить расстояние до инцидента в пуше.,closed,2015-06-23T15:04:42Z,2015-07-14T15:37:02Z,bug
+rjhdby/motocitizen,353,При отправке инцидента не чистится форма его создания и при создании второго все поля уже будут заполнены,closed,2015-06-23T10:50:35Z,2017-03-06T09:06:54Z,bug
+rjhdby/motocitizen,351,Скрытые события показываются на карте,closed,2015-06-23T10:42:48Z,2015-06-23T14:44:47Z,bug
+rjhdby/motocitizen,350,Иногда при нажатии на пуш/инцидент в списке открывается другой(старый?) инцедент,closed,2015-06-23T10:41:48Z,2017-03-06T08:58:51Z,bug
+rjhdby/motocitizen,346,java.lang.NullPointerException at motocitizen.app.general.popups.PopupWindowGeneral$1.onClick(PopupWindowGeneral.java:46),closed,2015-06-23T06:55:02Z,2015-06-23T10:24:00Z,bug
+rjhdby/motocitizen,345,Caused by: java.lang.NullPointerException at motocitizen.app.general.gcm.NewAccidentReceived.clearAll(NewAccidentReceived.java:144),closed,2015-06-23T06:51:06Z,2015-06-23T10:24:45Z,bug
+rjhdby/motocitizen,344,Список на месте/выехали всегда пуст,closed,2015-06-22T14:36:50Z,2015-06-22T15:38:15Z,bug
+rjhdby/motocitizen,342,После подтверждения выезда событие пропадает из списка.,closed,2015-06-22T07:59:38Z,2015-06-22T15:38:42Z,bug
+rjhdby/motocitizen,341,При создании события пропадают все пробелы в описании,closed,2015-06-22T07:58:36Z,2015-06-22T15:38:07Z,bug
+rjhdby/motocitizen,340,"В скрытых событиях автоматом выставляется статус ""Выехал"", при отмене вылетает",closed,2015-06-22T07:57:39Z,2015-06-22T15:39:10Z,bug
+rjhdby/motocitizen,339,Attempt to invoke virtual method 'motocitizen.app.general.Accident motocitizen.app.general.Accidents.getPoint(int)' on a null object reference,closed,2015-06-22T07:56:17Z,2015-09-15T16:54:11Z,bug
+rjhdby/motocitizen,338,java.lang.NullPointerException at motocitizen.app.general.Accident.setCancelOnWay(Accident.java:508),closed,2015-06-22T07:51:29Z,2015-06-22T15:37:38Z,bug
+rjhdby/motocitizen,337,android.util.AndroidRuntimeException: Calling startActivity() from outside of an Activity context requires the FLAG_ACTIVITY_NEW_TASK flag. Is this really what you want?,closed,2015-06-22T07:40:34Z,2015-06-22T15:37:28Z,bug
+rjhdby/motocitizen,336,"В контекстном меню в главном списке ""СМС"" идет с лишней лидирующей семеркой",closed,2015-06-19T11:18:32Z,2015-06-19T11:21:56Z,bug
+rjhdby/motocitizen,333,org.json.JSONException: No value for list,closed,2015-06-19T09:55:09Z,2015-06-19T11:22:27Z,bug
+rjhdby/motocitizen,325,Падение при создации инцидента.,closed,2015-06-02T08:36:49Z,2015-06-02T14:04:23Z,bug
+rjhdby/motocitizen,321,"Исключение при отправке ""отбой"".",closed,2015-05-29T12:52:38Z,2015-06-02T14:05:59Z,bug
+rjhdby/motocitizen,320,Сообщения становятся прочитанными при входе в подробности.,closed,2015-05-29T10:48:50Z,2015-07-03T13:17:24Z,bug
+rjhdby/motocitizen,319,Собственное сообщение пападает в непрочитанные.,closed,2015-05-29T10:46:50Z,2015-07-03T13:17:18Z,bug
+rjhdby/motocitizen,315,"Нет ругани когда нажимаем ""обновить"" при остутствии сети.",closed,2015-05-28T11:59:43Z,2015-06-01T12:53:07Z,bug
+rjhdby/motocitizen,312,Падение при работе без доступа к сети.,closed,2015-05-27T15:25:23Z,2015-05-28T11:58:28Z,bug
+rjhdby/motocitizen,308,Контекстное меню вылезает за нижний край экрана,closed,2015-05-26T14:01:04Z,2015-06-18T09:40:11Z,bug
+rjhdby/motocitizen,301,Разобраться с хардовой кнопкой back.,closed,2015-05-25T13:48:47Z,2017-03-06T08:09:16Z,"bug, enhancement"
+rjhdby/motocitizen,297,Непонятный эксепш при приходе пуша,closed,2015-05-25T11:42:02Z,2015-05-25T12:15:32Z,bug
+rjhdby/motocitizen,296,Некоторые волонтеры видят скрытые сообщения не имея на то прав,closed,2015-05-25T08:59:10Z,2015-05-25T09:01:38Z,bug
+rjhdby/motocitizen,294,При написании сообщения не обновляется список с ними.,closed,2015-05-24T22:56:15Z,2015-05-26T10:04:49Z,bug
+rjhdby/motocitizen,288,AccidentDetailsFragments.update - NullPointerException,closed,2015-05-22T09:37:12Z,2015-09-15T16:52:50Z,bug
+rjhdby/motocitizen,283,setLeave для инцидента которого уже нет в списке.,open,2015-05-19T14:13:01Z,,bug
+rjhdby/motocitizen,278,Не верный адрес при создании инцидента,closed,2015-05-18T15:01:12Z,2017-03-06T08:11:41Z,bug
+rjhdby/motocitizen,274,isInPlace - AccidentsGeneral.points.getPoint(accId) : null pointer exception,closed,2015-05-15T23:59:35Z,2015-07-02T13:37:35Z,bug
+rjhdby/motocitizen,271,"Запрет на создание инцидентов ""поломка"", ""прочее"" с пустым описанием.",closed,2015-05-15T10:22:31Z,2015-05-25T15:09:22Z,bug
+rjhdby/motocitizen,265,Скрытые сообщения видны всем пользователям,closed,2015-05-14T07:25:30Z,2015-05-14T12:20:02Z,bug
+rjhdby/motocitizen,262,"реализовать отписку от пушей при использовании ""выход"" в меню",closed,2015-05-12T22:06:29Z,2017-03-06T08:10:37Z,"bug, enhancement"
+rjhdby/motocitizen,253,Caused by: java.lang.NullPointerException at motocitizen.maps.google.MCGoogleMap.init(MCGoogleMap.java:130),closed,2015-05-07T21:18:42Z,2015-06-25T14:08:05Z,bug
+rjhdby/motocitizen,251,Проблемы с пушами у части пользователей,closed,2015-05-07T16:49:59Z,2015-05-08T09:54:08Z,bug
+rjhdby/motocitizen,249,"Сломан индикатор ""не беспокоить""",closed,2015-05-07T08:12:34Z,2017-03-06T09:08:07Z,bug
+rjhdby/motocitizen,248,"Куча ""приехал"" (серверная часть)",closed,2015-05-07T07:57:47Z,2015-05-26T12:12:59Z,bug
+rjhdby/motocitizen,240,При каждом заходе в детали обновляется геопозиция,closed,2015-05-04T08:10:23Z,2015-05-07T20:44:53Z,bug
+rjhdby/motocitizen,237,не отображается поле для ввода сообщения,closed,2015-05-02T19:44:49Z,2015-05-02T19:47:08Z,bug
+rjhdby/motocitizen,233,"Запуск AuthActivity при старте приложения, если юзер не был авторизован",closed,2015-05-02T09:36:55Z,2015-05-02T15:43:34Z,bug
+rjhdby/motocitizen,225,Контекстное меню по самому нижнему событию открывается за пределами экрана,closed,2015-04-30T19:50:21Z,2015-04-30T21:51:18Z,bug
+rjhdby/motocitizen,222,Падение при смене статуса инцидента из деталей.,closed,2015-04-29T16:27:19Z,2015-04-29T22:56:24Z,bug
+rjhdby/motocitizen,218,Извлечение контактных телефонов из переписки.,closed,2015-04-29T00:09:45Z,2015-05-14T12:29:38Z,bug
+rjhdby/motocitizen,214,Результат createAcc,closed,2015-04-28T15:29:51Z,2015-04-30T12:59:12Z,bug
+rjhdby/motocitizen,209,"Перенос ""отбой"" из контекстного меню деталей в обычное меню.",closed,2015-04-26T00:45:05Z,2015-04-30T22:08:58Z,"bug, enhancement"
+rjhdby/motocitizen,197,"Сервер: ошибка при создании инцидента ""поломка"", ""угон"", ""ДТП"".",closed,2015-04-24T11:07:34Z,2015-04-28T15:55:14Z,bug
+rjhdby/motocitizen,193,NullPointerException - AccidentDetailsFragments.update,closed,2015-04-23T11:25:25Z,2015-09-15T16:46:43Z,bug
+rjhdby/motocitizen,191,NullPointerException - DetailVolunteersFragment.setupAccess,closed,2015-04-22T14:55:49Z,2015-07-02T13:33:51Z,bug
+rjhdby/motocitizen,190,NullPointerException - CreateAccActivity.onCreate,closed,2015-04-22T14:54:57Z,2015-04-24T10:07:18Z,bug
+rjhdby/motocitizen,188,NullPointerException - MCGoogleMap.init,closed,2015-04-22T14:06:32Z,2015-04-24T10:07:48Z,bug
+rjhdby/motocitizen,185,"Доступна кнопка ""Выехал"" для неактивных инцидентов.",closed,2015-04-20T15:59:54Z,2015-04-20T22:18:05Z,bug
+rjhdby/motocitizen,183,NullPointerException - motocitizen.utils.Const.<clinit>,closed,2015-04-20T15:36:43Z,2015-06-25T14:05:24Z,bug
+rjhdby/motocitizen,178,Вынос SettingsFragment в отдельное  Activity(Fragment),closed,2015-04-20T12:39:09Z,2015-04-20T22:18:27Z,"bug, enhancement"
+rjhdby/motocitizen,173,Блокировать кнопку отправки инцидента до получения ответа от сервера,closed,2015-04-19T18:38:02Z,2015-05-14T12:26:04Z,bug
+rjhdby/motocitizen,171,"Binary XML file line #2: Duplicate id 0x7f0b0074, tag null, or parent id 0x7f0b007c with another fragment for com.google.android.gms.maps.MapFragment",closed,2015-04-19T18:34:22Z,2015-06-23T10:33:28Z,bug
+rjhdby/motocitizen,170,Caused by: java.lang.NullPointerException at motocitizen.utils.Const.<clinit>(Const.java:20),closed,2015-04-19T18:21:26Z,2015-04-19T18:22:07Z,bug
+rjhdby/motocitizen,165,"Кнопка ""еду"" для неавторизованного и анонима",closed,2015-04-16T22:40:08Z,2015-04-20T23:29:35Z,bug
+rjhdby/motocitizen,164,Не обновляется история,closed,2015-04-16T20:53:02Z,2015-04-30T21:49:26Z,bug
+rjhdby/motocitizen,159,"Отключить кнопку ""Завершить сеанс"" для неавторизованного статуса.",closed,2015-04-16T10:57:05Z,2015-04-16T21:04:17Z,bug
+rjhdby/motocitizen,158,Вернуть в детали контекстное меню при долгом тапе,closed,2015-04-16T10:51:32Z,2015-04-16T21:03:27Z,bug
+rjhdby/motocitizen,155,Раскорячивает дистанцию в метрах,closed,2015-04-16T08:05:30Z,2015-04-16T10:28:42Z,bug
+rjhdby/motocitizen,154,at motocitizen.network.HttpClient.makePOST(HttpClient.java:170),closed,2015-04-16T07:56:32Z,2015-04-16T10:29:20Z,bug
+rjhdby/motocitizen,153,"Разобраться, почему кидает в неправильные детали ",closed,2015-04-16T07:47:50Z,2015-04-16T10:29:03Z,bug
+rjhdby/motocitizen,151,IllegalArgumentException - WindowManagerImpl.findViewLocked,closed,2015-04-15T13:45:52Z,2015-06-25T14:06:24Z,bug
+rjhdby/motocitizen,149,NullPointerException - MCPoint.getDistanceFromUser,closed,2015-04-15T09:54:02Z,2015-04-16T09:52:48Z,bug
+rjhdby/motocitizen,148,Настройки работают поверх startup,closed,2015-04-15T08:38:10Z,2015-04-20T22:25:34Z,bug
+rjhdby/motocitizen,140,Падение при нахождении в фоне.,closed,2015-04-14T06:53:36Z,2015-04-16T09:55:14Z,bug
+rjhdby/motocitizen,139,Не сохраняется травмы.,closed,2015-04-13T23:34:13Z,2015-04-14T15:58:48Z,bug
+rjhdby/motocitizen,137,NullPointerException - MCLocation.getBestFusionLocation,closed,2015-04-13T23:17:59Z,2015-04-14T11:20:45Z,bug
+rjhdby/motocitizen,136,NullPointerException - AccidentDetailsActivity.update,closed,2015-04-13T22:35:44Z,2015-04-20T22:24:38Z,bug
+rjhdby/motocitizen,134,NullPointerException - getDefaultSharedPreferencesName,closed,2015-04-13T22:11:24Z,2015-04-14T15:59:18Z,bug
+rjhdby/motocitizen,126,Не верное распознование телефона когда присутствуют другие цифры.,closed,2015-04-12T23:39:15Z,2015-04-30T12:36:42Z,bug
+rjhdby/motocitizen,125,Контекстное меню проваливается за край экрана.,closed,2015-04-12T23:28:39Z,2015-06-23T10:34:52Z,bug
+rjhdby/motocitizen,123,Зачем в настройках меню?,closed,2015-04-12T21:54:55Z,2015-04-20T22:27:14Z,bug
+rjhdby/motocitizen,121,После перезапуска приложения сбрасывался статус onway и можно было повторно выехать на одно и то же событие,closed,2015-04-12T07:54:57Z,2015-04-19T23:48:38Z,bug
+rjhdby/motocitizen,120,"При старте, если нет инета - приложение вылетает.",closed,2015-04-11T23:49:20Z,2015-05-02T19:13:33Z,bug
+rjhdby/motocitizen,108,Не всплывает баллон на google map,closed,2015-04-10T07:50:57Z,2015-09-15T16:44:21Z,bug
+rjhdby/motocitizen,107,Открывается прошлый инцидент.,closed,2015-04-10T07:46:37Z,2015-04-29T15:26:32Z,bug
+rjhdby/motocitizen,105,Странный баг с переходами в детали-карту,closed,2015-04-10T06:58:37Z,2015-04-10T07:05:41Z,bug
+rjhdby/motocitizen,100,Переход к деталям события при клике по notification,closed,2015-04-09T13:48:36Z,2015-04-09T14:09:18Z,"bug, enhancement"
+rjhdby/motocitizen,98,Роль standart,closed,2015-04-09T13:45:12Z,2015-04-19T22:38:07Z,bug
+rjhdby/motocitizen,97,Пропал текущий адрес из статусбара в деталях,closed,2015-04-09T13:43:35Z,2015-04-13T12:09:11Z,bug
+rjhdby/motocitizen,95,Произошла ошибка при создании инцидента,closed,2015-04-09T13:12:56Z,2015-04-09T13:26:51Z,bug
+rjhdby/motocitizen,92,An error occured while executing doInBackground() ,closed,2015-04-09T12:48:20Z,2015-04-19T23:48:10Z,bug
+rjhdby/motocitizen,90,Когда даешь отбой из деталей - не обновляется текст статуса,closed,2015-04-09T11:48:08Z,2015-05-14T12:28:40Z,bug
+rjhdby/motocitizen,89,Длинное сообщение - кривая таблица.,closed,2015-04-09T11:37:31Z,2015-04-09T12:20:06Z,bug
+rjhdby/motocitizen,83,android.app.Activity.onCreateView - Error inflating class fragment,closed,2015-04-08T23:33:53Z,2015-04-19T23:49:12Z,bug
+rjhdby/motocitizen,79,Фрагмент настроек иногда вызывает сбой при Startup super.onCreate(savedInstanceState);,closed,2015-04-08T16:34:05Z,2015-04-19T22:39:47Z,"bug, question"
+rjhdby/motocitizen,72,Startup.onResume вызывается после возврата в настройки.,closed,2015-04-08T13:45:04Z,2015-04-21T00:22:49Z,bug
+rjhdby/motocitizen,66,При смене провайдера карты точки исчезают.,closed,2015-04-08T00:29:19Z,2015-06-23T10:38:14Z,bug
+rjhdby/motocitizen,63,Если в настройках несколько подряд изменить картографического провайдера - вылетает,closed,2015-04-07T14:36:59Z,2015-05-02T19:14:17Z,bug
+rjhdby/motocitizen,60,"Если сначала авторизоваться, а потом сменить на ""анонимно"", фактически интерфейс остается как для авторизованного со всеми правами",closed,2015-04-07T08:46:02Z,2015-04-19T22:41:52Z,bug
+rjhdby/motocitizen,57,Вылет при старте,closed,2015-04-07T07:22:32Z,2015-04-11T19:28:24Z,bug
+rjhdby/motocitizen,51,Проблемы с корректировкой адреса при создании инцидента,closed,2015-04-06T12:56:22Z,2015-04-06T13:33:07Z,bug
+rjhdby/motocitizen,50,Не ходят пуши,closed,2015-04-06T11:50:34Z,2015-04-06T12:24:43Z,bug
+rjhdby/motocitizen,48,Вылетело при первом запуске,closed,2015-04-06T11:46:20Z,2015-04-09T11:13:40Z,"bug, duplicate"
+rjhdby/motocitizen,46,"Не работает ""отменить отбой"".",closed,2015-04-05T08:45:44Z,2015-04-07T20:27:14Z,bug
+rjhdby/motocitizen,44,Контроль вводимых значений в радиусе оповещения,closed,2015-04-05T06:10:08Z,2015-04-11T19:26:30Z,bug
+rjhdby/motocitizen,43,"При нажатии кнопки ""Еду"", если были проблемы с сетью, то статус не передается, но кнопка исчезает",closed,2015-04-05T06:07:10Z,2015-04-07T20:58:01Z,bug
+rjhdby/motocitizen,39,"При смене ""детали"" остается старый текст сообщения.",closed,2015-04-03T13:45:41Z,2015-04-08T11:24:37Z,bug
+rjhdby/motocitizen,29,Исчезает не дописанный инцидент.,closed,2015-04-01T15:11:46Z,2017-03-06T08:47:16Z,bug
+rjhdby/motocitizen,26,"""Уточнить адрес"" - другая карта",open,2015-03-30T10:27:55Z,,bug
+rjhdby/motocitizen,24,При старте идет лишний запрос списка событий к серверу ,closed,2015-03-29T11:06:24Z,2015-03-31T05:44:53Z,bug
+rjhdby/motocitizen,23,При старте не загружает события. Загружает только после ручного обновления.,closed,2015-03-29T11:03:34Z,2015-04-19T22:45:33Z,bug
+rjhdby/motocitizen,22,Если не выбрано ни одно событие - фокусировать карту на пользователе. zoom 16,closed,2015-03-29T10:54:44Z,2015-04-08T12:07:18Z,bug
+rjhdby/motocitizen,15,Индиктор / оповещение наличия связи.,closed,2015-03-26T13:55:55Z,2017-03-06T08:47:36Z,bug
+rjhdby/motocitizen,12,Не работает карта,closed,2015-03-26T08:02:15Z,2015-04-13T12:05:07Z,bug
+rjhdby/motocitizen,7,Software keyboard,closed,2015-03-26T07:41:25Z,2015-04-11T19:29:44Z,bug
+SimpleMobileTools/Simple-Calculator,343,Wrong unit conversions with centiliters,open,2023-10-21T20:40:41Z,,bug
+SimpleMobileTools/Simple-Calculator,341,Rotation causes operation to be lost,open,2023-10-21T07:53:04Z,,bug
+SimpleMobileTools/Simple-Calculator,338,[bug] Unit converter,open,2023-10-18T07:09:07Z,,bug
+SimpleMobileTools/Simple-Calculator,297,Button form,closed,2022-12-26T12:20:18Z,2023-01-04T09:47:08Z,bug
+SimpleMobileTools/Simple-Calculator,275,Make sure keys arent flipped in RTL layout,closed,2022-07-24T18:57:44Z,2022-09-19T12:28:18Z,bug
+SimpleMobileTools/Simple-Calculator,261,"""0"" before ""sqrt"" when deleting digits by pressing ""C"" and the result is ""0"" for any ""sqrt"" operation",closed,2022-06-14T08:37:25Z,2022-07-04T08:35:42Z,bug
+SimpleMobileTools/Simple-Calculator,249,Long decimal input 0.9999... results in increasing value,open,2022-03-22T14:04:32Z,,bug
+SimpleMobileTools/Simple-Calculator,237,incorrect floating point result,closed,2022-01-09T14:30:39Z,2022-02-11T19:53:23Z,bug
+SimpleMobileTools/Simple-Calculator,228,Percentage with decimals or thousands doesnt work,closed,2021-11-19T08:07:10Z,2021-12-29T20:52:03Z,bug
+SimpleMobileTools/Simple-Calculator,218,[BUG] Crash after putting second sign after mod 0,closed,2021-09-28T00:00:22Z,2022-02-11T19:55:30Z,bug
+SimpleMobileTools/Simple-Calculator,204,[BUG] Mod wrong result,closed,2021-01-30T00:01:37Z,2021-11-03T21:54:34Z,bug
+SimpleMobileTools/Simple-Calculator,203,[BUG] App crash after operation with infinity,closed,2021-01-29T23:31:31Z,2021-02-05T17:12:08Z,bug
+SimpleMobileTools/Simple-Calculator,202,[BUG] Sign wrong changing to plus after division by zero,closed,2021-01-29T23:22:43Z,2021-12-29T20:52:47Z,bug
+SimpleMobileTools/Simple-Calculator,201,[BUG] Sign on display doesn't change after division by zero or mod 0,open,2021-01-29T23:12:35Z,,bug
+SimpleMobileTools/Simple-Calculator,196,The result of 0%0% is -NaN,closed,2020-12-19T09:01:34Z,2020-12-28T19:22:06Z,bug
+SimpleMobileTools/Simple-Calculator,195,Accuracy loss on long input,open,2020-12-19T08:55:14Z,,bug
+SimpleMobileTools/Simple-Calculator,185,Make sure √9= doesnt convert into 9√9,closed,2020-11-15T19:43:13Z,2020-12-28T19:24:49Z,bug
+SimpleMobileTools/Simple-Calculator,181,"""Purchase Simple Thank You"" bug?",closed,2020-10-10T11:02:18Z,2020-12-28T19:25:59Z,bug
+SimpleMobileTools/Simple-Calculator,152,Calculator Widget Issues starting with 5.1.2 release,open,2020-04-23T18:40:11Z,,bug
+SimpleMobileTools/Simple-Calculator,139,"The operation ""%"" gives a wrong result",closed,2019-12-03T14:15:43Z,2020-02-15T22:34:22Z,bug
+SimpleMobileTools/Simple-Calculator,125,0^0 returns 0,closed,2019-01-22T15:27:31Z,2020-07-16T16:32:34Z,bug
+SimpleMobileTools/Simple-Calculator,104,Multiplication/division with negative numbers,closed,2018-09-23T00:06:49Z,2020-12-15T15:34:57Z,bug
+SimpleMobileTools/Simple-Calculator,97,Fix percentage calculations,closed,2018-08-12T15:40:26Z,2020-02-15T22:34:24Z,bug
+SimpleMobileTools/Simple-Calculator,94,Fix a glitch at the calculations when C is used,closed,2018-07-01T20:57:46Z,2020-02-15T22:34:20Z,bug
+SimpleMobileTools/Simple-Calculator,87,Incorrect answer when using high exponent function,open,2018-05-30T13:31:53Z,,bug
+SimpleMobileTools/Simple-Calculator,86,App doesn't start after changing the theme,closed,2018-05-28T13:59:55Z,2018-10-05T20:10:06Z,bug
+SimpleMobileTools/Simple-Calculator,68,Dividing by Zero Returns Zero as a Value,closed,2018-02-07T01:26:47Z,2022-02-11T19:56:38Z,bug
+SimpleMobileTools/Simple-Calculator,28,Confusing behaviour after calculating a square root,closed,2017-06-05T21:04:52Z,2018-01-16T18:07:16Z,bug
+SimpleMobileTools/Simple-Calculator,20,order of operations,open,2017-02-02T18:46:43Z,,bug
+SimpleMobileTools/Simple-Calculator,7,[Bug] Using operator before input sets first input to zero,closed,2016-07-31T11:37:35Z,2020-12-28T19:32:27Z,bug
+yshrsmz/monotweety,78,Cannot authorize,closed,2017-02-08T10:17:44Z,2017-02-17T09:28:27Z,bug
+yshrsmz/monotweety,72,NPE on BaseController#toast,closed,2017-02-06T10:20:13Z,2017-02-06T11:15:02Z,bug
+yshrsmz/monotweety,69,NPE on EditorTileService#onStartListening,closed,2017-01-12T09:09:13Z,2017-01-12T09:39:42Z,bug
+yshrsmz/monotweety,39,lateinit property router has not been initialized,closed,2016-11-02T10:00:27Z,2016-11-02T14:38:20Z,bug
+yshrsmz/monotweety,27,handle error on update status,closed,2016-10-24T02:18:24Z,2016-10-24T15:32:15Z,bug
+yshrsmz/monotweety,26,escape some char,closed,2016-10-24T00:23:26Z,2016-10-24T04:25:14Z,bug
+yshrsmz/monotweety,22,launching ComposeActivity clear current activity & return to launcher,closed,2016-10-22T15:02:18Z,2016-10-22T15:25:21Z,bug
+Adventech/sabbath-school-android,1103,Bible Verses Reading Fragment Doesn't Preserve Scroll State on Screen Rotation or Process Death,closed,2024-07-28T04:49:21Z,2024-08-02T00:39:15Z,bug
+Adventech/sabbath-school-android,691,Problem with updating previously downloaded lessons,closed,2023-06-05T18:29:24Z,2023-10-03T11:04:59Z,bug
+Adventech/sabbath-school-android,270,Dark mode not working for new quarterly pages.,closed,2021-10-08T13:46:22Z,2021-10-18T01:29:47Z,bug
+Adventech/sabbath-school-android,245,Tablet landscape mode login screen,closed,2021-08-02T21:44:44Z,2021-11-14T04:13:37Z,bug
+Adventech/sabbath-school-android,199,Notification is still showing even if disabled in settings,closed,2021-05-21T15:48:56Z,2021-05-21T22:56:16Z,bug
+Adventech/sabbath-school-android,198,GC Popup OK button is unresponsive on some devices,closed,2021-05-21T15:48:21Z,2021-05-21T23:38:20Z,bug
+Adventech/sabbath-school-android,183,Resources$NotFoundException: File res/drawable/com_facebook_button_icon.xml,closed,2021-04-04T05:30:17Z,2021-04-09T05:22:50Z,bug
+Adventech/sabbath-school-android,182,Mis respuestas se han borrado ,closed,2021-03-11T15:51:00Z,2021-03-12T05:56:36Z,bug
+Adventech/sabbath-school-android,177,Bible Screen in Landscape,closed,2021-03-03T01:17:47Z,2021-03-04T03:23:50Z,bug
+Adventech/sabbath-school-android,162,Add right margin to quarterly cards,closed,2021-02-11T23:36:22Z,2021-02-15T16:30:32Z,bug
+Adventech/sabbath-school-android,160,Fix bottom sheet navigation bar color,closed,2021-02-11T23:31:49Z,2021-02-15T19:21:18Z,bug
+Adventech/sabbath-school-android,96,Changes in Firebase Realtime db content sometimes cause crash of the app when ReadingActivity is open,closed,2020-02-07T02:19:49Z,2020-03-24T02:25:36Z,bug
+Adventech/sabbath-school-android,95,Bug. App crashes if the lesson content has unescaped $ sign,closed,2020-02-07T02:16:48Z,2020-05-16T22:33:28Z,bug
+Adventech/sabbath-school-android,94,Cannot Open today's lesson nor lessons for this week ,closed,2019-12-20T04:46:24Z,2020-03-24T02:25:35Z,bug
+Adventech/sabbath-school-android,83,Some lessons crash on start when opened for the first time,closed,2018-04-01T11:56:10Z,2019-04-29T10:12:13Z,bug
+Adventech/sabbath-school-android,50,No some symbols in ukrainian texts with Sony devices,closed,2016-11-10T12:19:30Z,2016-11-10T20:59:06Z,bug
+Adventech/sabbath-school-android,10,Social login on Login Activity,closed,2016-10-16T03:13:42Z,2016-10-16T05:21:07Z,bug
+cymcsg/UltimateRecyclerView,466,java.lang.IndexOutOfBoundsException,open,2017-06-14T03:01:47Z,,bug
+cymcsg/UltimateRecyclerView,434,"Bug ""Expandable Recyclerview with load more""",open,2016-10-26T05:26:32Z,,bug
+cymcsg/UltimateRecyclerView,408,Demo展示中存在崩溃,open,2016-08-03T03:47:58Z,,bug
+cymcsg/UltimateRecyclerView,396,show and hiding toolbar not work correctly !,open,2016-07-06T18:53:19Z,,bug
+cymcsg/UltimateRecyclerView,390,can't cancel LoadMore,open,2016-06-09T01:43:00Z,,"bug, question"
+cymcsg/UltimateRecyclerView,374,Crash when loadMore,closed,2016-05-12T06:38:36Z,2016-05-23T12:35:44Z,"bug, help wanted"
+cymcsg/UltimateRecyclerView,363,inconsistency position in the getView position,closed,2016-04-10T03:45:03Z,2016-05-23T12:33:09Z,bug
+cymcsg/UltimateRecyclerView,362,know bugs on swipe adapter,open,2016-04-05T10:00:47Z,,bug
+cymcsg/UltimateRecyclerView,359,click the MultiViewType menu happen crash,open,2016-04-05T09:28:50Z,,bug
+cymcsg/UltimateRecyclerView,352,bug when use CoordinatorLayout and UltimateRecyclerView with PtrFrameLayout?,closed,2016-03-29T10:41:50Z,2016-07-11T06:58:32Z,bug
+cymcsg/UltimateRecyclerView,338,Realm integration,closed,2016-03-09T06:38:31Z,2016-04-05T02:00:25Z,bug
+cymcsg/UltimateRecyclerView,324,a bug when fast scroll,open,2016-02-24T10:15:55Z,,bug
+cymcsg/UltimateRecyclerView,301,"if no header and not data(list is null) and enableLoadmore, it will crash",closed,2016-02-15T10:07:04Z,2016-05-25T07:15:52Z,bug
+cymcsg/UltimateRecyclerView,296,recode project for swipe issues,closed,2016-02-12T18:22:56Z,2016-04-05T09:44:46Z,"bug, help wanted, in progress"
+cymcsg/UltimateRecyclerView,281,Scrollbar does not work with CustomUltimateRecyclerview,closed,2016-02-02T19:15:01Z,2016-02-03T09:15:19Z,bug
+cymcsg/UltimateRecyclerView,277,scrollVerticallyToPosition(0) and parallax header,closed,2016-01-26T09:37:19Z,2016-05-25T07:15:23Z,"bug, help wanted"
+cymcsg/UltimateRecyclerView,273,when i swipe headview crashed,closed,2016-01-21T09:39:06Z,2016-04-05T09:44:27Z,"bug, help wanted"
+cymcsg/UltimateRecyclerView,264,Adding new item animations,closed,2016-01-04T04:16:25Z,2016-02-03T06:32:54Z,bug
+cymcsg/UltimateRecyclerView,262,ParallaxHeader 消失,open,2015-12-30T09:25:34Z,,bug
+cymcsg/UltimateRecyclerView,256,the problem of UltimateDifferentViewTypeAdapter that can't loremore,open,2015-12-10T10:54:04Z,,"bug, ready"
+cymcsg/UltimateRecyclerView,251,Wrong link to the project website,open,2015-12-01T17:34:07Z,,bug
+cymcsg/UltimateRecyclerView,247,GridLayout Load More not working ,closed,2015-11-26T09:30:09Z,2016-02-03T07:01:04Z,bug
+cymcsg/UltimateRecyclerView,238,setOverScrollMode() doesn't work,closed,2015-11-16T08:34:02Z,2016-05-25T07:51:13Z,bug
+cymcsg/UltimateRecyclerView,231,after setHeader（view） the header did not appear,closed,2015-11-11T07:24:20Z,2016-02-17T01:47:09Z,bug
+cymcsg/UltimateRecyclerView,225,Scrollbar is hidden by header,open,2015-11-06T02:34:23Z,,bug
+cymcsg/UltimateRecyclerView,215,下拉刷新bug,open,2015-10-21T17:40:44Z,,"bug, enhancement"
+cymcsg/UltimateRecyclerView,209,ParallaxHeader issue,open,2015-10-08T12:01:00Z,,bug
+cymcsg/UltimateRecyclerView,208,Crash when swap,closed,2015-10-08T07:11:59Z,2016-04-05T09:43:54Z,"bug, help wanted"
+cymcsg/UltimateRecyclerView,207,head刷新问题,open,2015-10-08T06:25:50Z,,bug
+cymcsg/UltimateRecyclerView,198,DiableLoadMore() effect to Parallax Header!,closed,2015-09-25T04:00:24Z,2016-02-03T07:15:37Z,bug
+cymcsg/UltimateRecyclerView,196,NPE on touch any point in the layout if there is no item in the adapter,open,2015-09-20T09:13:05Z,,bug
+cymcsg/UltimateRecyclerView,183,IllegalStateException: ViewStub must have a non-null ViewGroup viewParent,open,2015-09-08T10:06:50Z,,bug
+cymcsg/UltimateRecyclerView,170,SetEmptyView crash,closed,2015-08-24T08:56:29Z,2016-02-03T06:57:37Z,bug
+cymcsg/UltimateRecyclerView,165,在GridLayoutManager情况下滑动就会加载loadmore,closed,2015-08-23T15:14:41Z,2016-02-03T07:07:59Z,bug
+cymcsg/UltimateRecyclerView,147,java.lang.IllegalStateException: Added View has RecyclerView as parent but view is not a real child. Unfiltered index:0,open,2015-08-06T10:35:10Z,,bug
+cymcsg/UltimateRecyclerView,144,Memory Growing Issue,open,2015-08-05T08:51:13Z,,bug
+cymcsg/UltimateRecyclerView,136,Parallax Scroll Reset,open,2015-07-29T06:46:52Z,,bug
+cymcsg/UltimateRecyclerView,129,Use Sticky Header with notifyItemChanged. Flash issue,open,2015-07-22T09:00:31Z,,bug
+cymcsg/UltimateRecyclerView,125,当把linearLayoutManager换成GridLayoutManager就会出现问题,closed,2015-07-20T07:03:38Z,2016-02-03T07:05:47Z,bug
+cymcsg/UltimateRecyclerView,100,loading more scroll back [bug],closed,2015-07-01T02:46:02Z,2016-02-03T06:58:06Z,bug
+cymcsg/UltimateRecyclerView,88,Empty view won't show when adapter item count is zero.,closed,2015-06-21T12:07:54Z,2016-02-03T07:06:41Z,bug
+cymcsg/UltimateRecyclerView,87,NPE on touch loadMore layout...,closed,2015-06-21T09:30:25Z,2016-02-03T06:55:51Z,bug
+cymcsg/UltimateRecyclerView,84,Swipe layout not working inside viewpager.,open,2015-06-20T06:43:42Z,,bug
+cymcsg/UltimateRecyclerView,79,demo app hide toolbar when the first item is deleted by swipe.,open,2015-06-15T11:11:32Z,,bug
+cymcsg/UltimateRecyclerView,28,"Although call disableLoadmore method, load more view will still show if item count is more than 3 ",closed,2015-05-04T07:48:16Z,2016-02-03T06:51:14Z,bug
+cymcsg/UltimateRecyclerView,26,Empty view won't show when adapter item count is zero because using loading more view,closed,2015-05-04T06:42:27Z,2016-02-03T06:49:04Z,bug
+spookypeanut/Wake-Me-At,34,Not working on 2.3.4,open,2013-05-02T16:16:34Z,,bug
+spookypeanut/Wake-Me-At,21,Deleting the location that's running is a big-time fail,closed,2011-07-12T22:28:33Z,2011-07-15T18:32:40Z,"beforemarket, bug"
+spookypeanut/Wake-Me-At,19,Fix the alarm when other audio is playing,open,2011-07-10T15:27:32Z,,"beforemarket, bug"
+spookypeanut/Wake-Me-At,16,Location doesn't get unhighlighted when stopping service,closed,2011-04-26T17:04:06Z,2011-04-26T21:21:49Z,"beforemarket, bug"
+spookypeanut/Wake-Me-At,15,Changing screen orientation when creating a new location creates another,closed,2011-04-03T06:47:32Z,2011-04-25T19:31:33Z,"beforemarket, bug, enhancement"
+spookypeanut/Wake-Me-At,14,Can't get location when gps is turned off,closed,2011-02-23T15:51:54Z,2011-02-27T08:20:30Z,"beforemarket, bug"
+spookypeanut/Wake-Me-At,9,Cancelling an alarm is slow,closed,2011-02-19T07:57:50Z,2011-04-23T08:26:01Z,"beforemarket, bug"
+spookypeanut/Wake-Me-At,7,"After a crash, location stays highlighted",closed,2011-02-19T07:54:49Z,2011-04-25T20:12:56Z,"beforemarket, bug"
+spookypeanut/Wake-Me-At,6,Warning if location is old,closed,2011-02-19T07:53:09Z,2011-04-23T14:39:09Z,"beforemarket, bug, enhancement"
+doerfli/hacked,164,App crashes when numPwnd in PwnedPassword is `1'450`,closed,2022-08-27T18:20:54Z,2022-08-27T20:12:02Z,bug
+doerfli/hacked,163,IndexOutOfBoundsException  in PwnedPassword.processResult,closed,2022-07-16T21:18:13Z,2022-07-16T21:31:03Z,bug
+doerfli/hacked,162,Size of remaining unacknowledged account tiles not correct after clicking acknowledge,open,2022-03-02T21:33:00Z,,bug
+doerfli/hacked,161,Add aaa@gmail.com account,open,2021-12-28T08:18:06Z,,bug
+doerfli/hacked,152,Existing breaches are not updated when modified date has changed,closed,2021-04-08T21:55:08Z,2021-10-06T21:03:09Z,"bug, Hacktoberfest"
+doerfli/hacked,136, Fatal Exception: android.content.res.Resources$NotFoundException ,closed,2020-05-05T12:03:07Z,2020-05-05T21:41:51Z,"bug, crashlytics"
+doerfli/hacked,134,Firstuse page form does not respond to confirmation from keyboard,closed,2020-04-20T20:18:24Z,2020-04-26T11:42:14Z,bug
+doerfli/hacked,133,Exception in RatingHelper,closed,2020-03-31T19:35:19Z,2020-03-31T19:40:51Z,"bug, crashlytics"
+doerfli/hacked,130,avg false positive,closed,2020-03-27T12:29:17Z,2020-04-26T11:43:57Z,bug
+doerfli/hacked,128,SocketException in PwnedPassword,closed,2020-03-13T22:17:22Z,2020-03-18T21:33:32Z,"bug, crashlytics"
+doerfli/hacked,127,KotlinNullPointerException in AccountDetailsFragment,closed,2020-03-13T22:15:23Z,2020-03-14T21:46:44Z,"bug, crashlytics"
+doerfli/hacked,125,First load of app is slow,closed,2020-03-10T20:29:15Z,2020-03-14T21:46:45Z,bug
+doerfli/hacked,124,Remove google-services.json from repository,open,2020-03-09T22:39:15Z,,bug
+doerfli/hacked,122,Background jobs not always executing,closed,2020-03-08T13:10:59Z,2020-03-11T21:46:36Z,bug
+doerfli/hacked,119,Exception in OverviewFragment,closed,2020-03-07T21:21:34Z,2020-03-08T22:14:18Z,"bug, crashlytics"
+doerfli/hacked,118,Exception in NavActivity,closed,2020-03-07T21:19:05Z,2020-03-08T22:10:51Z,"bug, crashlytics"
+doerfli/hacked,117,Exception in HttpClient ,closed,2020-03-07T21:17:24Z,2020-03-08T21:58:39Z,"bug, crashlytics"
+doerfli/hacked,116,Exception in HttpClient,closed,2020-03-07T21:16:25Z,2020-03-08T21:59:32Z,"bug, crashlytics"
+doerfli/hacked,114,Exception in ActivityThread,closed,2020-02-27T22:46:39Z,2020-03-08T22:01:19Z,"bug, crashlytics"
+doerfli/hacked,113,Exception in SettingsActivity,closed,2020-02-27T22:45:08Z,2020-03-08T22:00:43Z,"bug, crashlytics"
+doerfli/hacked,112,First account added tracking,closed,2020-02-26T19:10:51Z,2020-02-26T21:19:53Z,bug
+doerfli/hacked,110,"UnknownHostException: Unable to resolve host ""api.pwnedpasswords.com""",closed,2020-02-21T14:49:29Z,2020-02-21T20:50:43Z,bug
+doerfli/hacked,108,Make last updated date a live view,closed,2020-02-13T06:07:54Z,2020-02-13T16:51:01Z,bug
+doerfli/hacked,107,Run monkey test,closed,2020-02-10T07:24:21Z,2020-02-13T16:51:07Z,bug
+doerfli/hacked,106,Design for small devices,closed,2020-02-09T13:34:22Z,2020-02-09T21:22:06Z,bug
+doerfli/hacked,104,Settings toolbar,closed,2020-02-09T13:27:24Z,2020-02-09T14:36:08Z,bug
+doerfli/hacked,100,Account list: number of breaches not shown after add,closed,2020-02-06T22:41:54Z,2020-02-06T22:51:10Z,bug
+doerfli/hacked,92,Duplicate breach,closed,2019-07-30T20:22:55Z,2019-08-01T18:03:57Z,bug
+doerfli/hacked,80,Account list flickers on reload,closed,2018-10-25T21:14:20Z,2018-10-28T09:46:27Z,bug
+doerfli/hacked,79,Fix NPE,closed,2018-10-07T18:03:46Z,2018-11-08T21:15:16Z,bug
+doerfli/hacked,75,Optimise job scheduling,closed,2018-03-08T06:51:30Z,2018-03-13T20:13:02Z,bug
+doerfli/hacked,65,Background service does not run properly,closed,2017-03-09T07:44:30Z,2017-03-26T14:27:43Z,bug
+doerfli/hacked,61,Fix crashes reported,closed,2016-11-29T12:27:53Z,2016-12-03T14:31:33Z,bug
+doerfli/hacked,60,Fix NullpointerException,closed,2016-11-18T12:54:50Z,2016-11-22T22:08:08Z,bug
+doerfli/hacked,59,Manual check for breaches does not update last run time,closed,2016-11-18T12:54:00Z,2016-11-22T22:04:39Z,bug
+doerfli/hacked,57,Use date_added instead of breach_date for most recent breaches list,closed,2016-11-07T15:11:49Z,2016-11-11T23:18:46Z,bug
+doerfli/hacked,56,Analyse and fix NPE,closed,2016-11-03T13:47:14Z,2016-11-06T21:05:56Z,bug
+doerfli/hacked,55,Opening details of non-breached account shows empty grey bar at bottom,closed,2016-11-03T13:45:45Z,2016-11-11T23:18:42Z,bug
+doerfli/hacked,49,Analyse crashdump,closed,2016-10-16T15:23:13Z,2016-10-19T19:05:12Z,bug
+doerfli/hacked,44,Notifications broken for API < 24,closed,2016-10-10T22:04:56Z,2016-10-11T19:51:49Z,bug
+doerfli/hacked,43,Remove TODOs before publishing,closed,2016-10-10T22:04:37Z,2016-10-11T19:52:56Z,bug
+doerfli/hacked,32,Do not allow to add account with empty name,closed,2016-09-16T13:04:17Z,2016-09-16T21:00:53Z,bug
+doerfli/hacked,27,Fix issue with ever rotating sync icon on api 19,closed,2016-09-13T07:53:44Z,2016-09-13T19:29:14Z,bug
+doerfli/hacked,24,Don't queue new sync when old sync is still active,closed,2016-09-12T18:07:03Z,2016-09-12T18:54:48Z,bug
+doerfli/hacked,18,Don't allow duplicte accounts,closed,2016-09-11T11:33:53Z,2016-09-11T20:30:42Z,bug
+thebigg73/OpenSongTablet,174,MaterialApp: Presenter Mode not working with PDF/Images yet,closed,2022-08-12T09:32:31Z,2022-11-21T21:23:49Z,"MaterialApp bug, incomplete/partial"
+thebigg73/OpenSongTablet,173,MaterialApp: Presenter Mode temp section edit,closed,2022-08-12T09:31:02Z,2022-11-21T21:24:48Z,MaterialApp bug
+thebigg73/OpenSongTablet,172,MaterialApp: Autoscroll not working,closed,2022-07-29T09:41:13Z,2022-08-01T13:23:42Z,"MaterialApp bug, fixed ready for release"
+thebigg73/OpenSongTablet,166,MaterialApp: Export PDF stops,closed,2022-07-25T15:06:31Z,2022-11-21T21:24:22Z,MaterialApp bug
+thebigg73/OpenSongTablet,165,MaterialApp: Crash when fast scrolling song menu,closed,2022-07-25T15:04:50Z,2023-01-15T11:46:03Z,MaterialApp bug
+thebigg73/OpenSongTablet,161,MaterialApp: Autoscale with songsheetheader not correctly scaled,closed,2022-07-25T14:52:53Z,2022-07-29T09:39:32Z,"MaterialApp bug, fixed ready for release"
+cauchymop/goblob,187,Ending a remote game replaces the local game,closed,2015-05-24T21:47:45Z,2015-05-27T19:38:34Z,bug
+cauchymop/goblob,186,Option missing to continue playing from marking stage,open,2015-05-24T11:55:46Z,,bug
+cauchymop/goblob,181,Opponent name not visible when player name is too long,open,2015-05-16T05:52:12Z,,bug
+cauchymop/goblob,179,Local game is lost when rotating screen,closed,2015-05-12T21:40:51Z,2015-06-05T10:19:16Z,bug
+cauchymop/goblob,169,Landscape should be supported,closed,2015-04-02T19:16:44Z,2015-04-14T21:28:43Z,bug
+cauchymop/goblob,167,There should be a way to resign,closed,2015-04-02T19:12:19Z,2015-04-02T20:13:52Z,bug
+cauchymop/goblob,150,Handicap and komi can't be changed,open,2014-12-18T20:06:31Z,,bug
+cauchymop/goblob,146,Done has to be pressed twice at the end of a local game,closed,2014-12-18T20:03:03Z,2015-02-11T20:38:17Z,bug
+cauchymop/goblob,145,Achievement are unlocked too early,closed,2014-12-18T20:01:54Z,2015-01-21T22:47:49Z,bug
+ismail-s/JTime,271,Fix incorrect highlighting of closest time,closed,2017-04-02T18:03:55Z,2017-04-09T18:08:36Z,"bug, Website"
+ismail-s/JTime,260,Fix timezone handling issues (again),closed,2017-03-29T12:09:09Z,2017-03-30T14:31:18Z,"bug, Website"
+ismail-s/JTime,253,Check date handling everywhere dates are displayed before BST kicks in,closed,2017-03-15T20:07:08Z,2017-03-23T13:30:04Z,"bug, REST API, Android, Website"
+ismail-s/JTime,250,Incorrect dates being highlighted as being today,closed,2017-03-14T16:39:55Z,2017-03-14T18:56:27Z,"bug, Website"
+ismail-s/JTime,243,Check row has correct date label before saving values in it,closed,2017-03-06T14:53:13Z,2017-03-23T13:42:58Z,"bug, Website"
+ismail-s/JTime,242,Not able to add lots of times in one go on website,closed,2017-03-06T14:50:40Z,2017-03-14T16:54:49Z,"bug, Website"
+ismail-s/JTime,241,Add meta tag for Google sign in,closed,2017-03-03T17:38:55Z,2017-03-11T18:57:32Z,"bug, Website"
+ismail-s/JTime,236,Make navigation drawer handle route changes better,closed,2017-02-27T17:53:41Z,2017-03-13T16:00:40Z,"bug, Website"
+ismail-s/JTime,228,Fix login issues,closed,2017-02-09T19:26:07Z,2017-02-26T16:23:56Z,"bug, Website"
+ismail-s/JTime,225,Make tables horizontally scrollable on overflow,closed,2017-01-27T22:32:56Z,2017-02-16T10:16:32Z,"bug, Website"
+ismail-s/JTime,209,Add 5 minutes to magrib time,closed,2017-01-09T12:12:21Z,2017-01-10T17:51:17Z,"bug, Website"
+ismail-s/JTime,208,Fix bug with parsing geonames sunset time,closed,2017-01-01T16:48:24Z,2017-01-10T16:45:30Z,"bug, REST API"
+ismail-s/JTime,194,Bug: Refresh icon persists when switching fragments,closed,2016-12-05T19:33:53Z,2017-03-13T14:10:02Z,"bug, Android"
+ismail-s/JTime,186,Bug: 'm' not being dealt with correctly in nearby times rest endpoint,closed,2016-12-03T18:03:49Z,2016-12-03T19:51:27Z,"bug, REST API"
+ismail-s/JTime,182,Cancel http requests when screen is rotated,closed,2016-11-27T18:39:58Z,2016-12-03T20:21:53Z,"bug, Android"
+ismail-s/JTime,151,hide keyboard when switching to recent apps list,open,2016-06-22T19:23:02Z,,"bug, ready, Android"
+k-kojak/yako,75,Sometimes: YakoApp.getMessageById returns NULL and we want to open message (i.e. EmailDisplayer) nullpointerExc occures.,closed,2014-06-05T10:50:54Z,2014-11-19T12:04:17Z,bug
+k-kojak/yako,66,Message open failure if original message was removed at server side.,open,2014-05-12T19:31:49Z,,bug
+k-kojak/yako,60,Accounts must be serializable!,closed,2014-05-10T11:24:36Z,2014-05-12T10:07:01Z,bug
+k-kojak/yako,56,String matching not working when syncing with Facebook contact list,closed,2014-04-17T09:19:26Z,2014-05-28T16:29:30Z,bug
+k-kojak/yako,38,ThreadMsgService displays wrong thread,closed,2014-02-19T09:20:48Z,2014-02-19T09:23:08Z,"bug, fix"
+k-kojak/yako,35,outgoing SMS in notification,closed,2014-02-19T09:20:10Z,2014-02-19T09:23:08Z,bug
+k-kojak/yako,34,"SMS ""chat"" window doesn't update if an SMS from the same partner arrives",closed,2014-02-19T09:20:01Z,2014-02-19T09:23:08Z,"bug, fix"
+k-kojak/yako,32,Message list doesn't appear if there is no internet connection,closed,2014-02-19T09:19:27Z,2014-02-19T09:23:08Z,bug
+k-kojak/yako,31,Account remove bug,closed,2014-02-19T09:19:12Z,2014-02-19T09:23:07Z,"bug, fix"
+k-kojak/yako,29,new message from scratch: does not work,closed,2014-02-19T09:18:46Z,2014-02-19T09:23:07Z,"bug, fix"
+k-kojak/yako,25,NullPointerException:FacebookMessageProvider:144,closed,2014-02-19T09:18:02Z,2014-02-19T09:23:07Z,"bug, fix"
+k-kojak/yako,23,"""Load more"" button does not work for SMS",closed,2014-02-19T09:17:40Z,2014-02-19T09:23:07Z,"bug, fix"
+k-kojak/yako,17,Load more button does not work on Ricsi's phone for SMS,closed,2014-02-19T09:16:06Z,2014-02-19T09:23:07Z,bug
+k-kojak/yako,8,Wrong picture in the TO field if there isn't any picture for the contact,closed,2014-02-19T09:13:37Z,2014-03-13T13:27:24Z,bug
+christoffer/readtracker,22,Book Search is broken,open,2016-09-03T09:14:02Z,,bug
+zamojski/TowerCollector,259,"""Stop collecting"" button in Notification does not work",closed,2025-07-11T18:30:26Z,2025-08-31T19:22:17Z,bug
+zamojski/TowerCollector,247,NR cells not sent on custom service,closed,2024-12-12T18:14:26Z,2024-12-18T19:48:50Z,bug
+zamojski/TowerCollector,244,Permission denied on Android 13 despite granting,closed,2024-12-04T21:25:12Z,2024-12-07T19:23:00Z,bug
+zamojski/TowerCollector,242,2.15.x permission denied errors when starting collector,closed,2024-12-02T03:45:46Z,2024-12-02T21:10:15Z,bug
+zamojski/TowerCollector,241,Crash the app when uploading,closed,2024-11-28T07:05:56Z,2024-11-30T12:45:26Z,bug
+zamojski/TowerCollector,239,jcenter shutdown,closed,2024-11-19T15:22:17Z,2024-11-23T21:32:23Z,bug
+zamojski/TowerCollector,226,OCID upload failure,closed,2024-06-24T21:58:42Z,2024-06-26T06:58:25Z,bug
+zamojski/TowerCollector,209,No notification at all,closed,2023-07-28T15:01:41Z,2023-10-07T11:38:02Z,bug
+zamojski/TowerCollector,208,add Package setting to be able to broadcast data to other (inactive) applications,closed,2023-07-26T05:25:44Z,2024-08-29T19:10:04Z,bug
+zamojski/TowerCollector,206,Balloon left on map after upload,closed,2023-06-18T10:36:00Z,2024-08-29T20:28:00Z,bug
+zamojski/TowerCollector,205,More and more U.S. good cells rejected as invalid ,closed,2023-06-11T14:29:43Z,2023-06-28T22:03:44Z,bug
+zamojski/TowerCollector,188,no collection with NR SA mode,closed,2022-12-09T19:03:13Z,2023-07-13T11:15:21Z,bug
+zamojski/TowerCollector,187,Network Type button should always say something ,closed,2022-11-03T16:51:13Z,2024-09-03T02:17:03Z,bug
+zamojski/TowerCollector,168,Performance of sending collected data,open,2022-07-30T11:28:01Z,,bug
+zamojski/TowerCollector,129,Fail to collect measurements from both SIMs in dual-SIM configuration,closed,2021-07-23T08:13:35Z,2021-08-08T10:34:53Z,bug
+zamojski/TowerCollector,109,"signal strength ""not available"", network type ""unknown""",closed,2021-02-28T18:24:41Z,2021-12-01T20:02:17Z,bug
+zamojski/TowerCollector,101,Black upside down teardrop icon on map,closed,2021-01-04T09:01:05Z,2021-05-10T05:59:47Z,bug
+zamojski/TowerCollector,100,Cell ID / RNC missing on map,closed,2021-01-04T08:59:19Z,2021-01-26T06:34:28Z,"bug, enhancement"
+zamojski/TowerCollector,98,OpenStreetMap Attribution,closed,2020-12-31T12:54:15Z,2021-01-01T22:04:23Z,bug
+zamojski/TowerCollector,96,OCID API Key format out of date,closed,2020-12-05T08:29:07Z,2020-12-30T12:55:04Z,bug
+zamojski/TowerCollector,85,No app can accept the share action,closed,2020-10-07T10:59:42Z,2020-11-29T12:12:29Z,bug
+zamojski/TowerCollector,79,MCC & MNC of CDMA networks aren't correctly reported,closed,2020-08-01T06:04:53Z,2021-05-12T03:49:26Z,bug
+zamojski/TowerCollector,60,Export to GPX displays 'No data to export',closed,2019-07-03T17:31:56Z,2019-07-05T16:59:11Z,bug
+zamojski/TowerCollector,59,wrong number of measurements to upload,closed,2019-07-03T11:35:58Z,2019-07-05T16:59:10Z,bug
+zamojski/TowerCollector,57,"When uploading to both sites, the notification says only one is successful",closed,2019-05-05T14:37:56Z,2019-05-11T17:33:41Z,"bug, wontfix"
+zamojski/TowerCollector,56,[BUG] The application suddenly crashes when I click on the upload button.,closed,2019-04-26T15:27:13Z,2019-07-27T08:54:18Z,bug
+zamojski/TowerCollector,39,Pressing the export choices result in a Unsafe Operation warning,closed,2018-06-25T00:59:57Z,2018-06-25T20:06:21Z,bug
+zamojski/TowerCollector,38,Export Database settings jumbled,closed,2018-06-25T00:57:32Z,2018-06-25T20:06:21Z,bug
+zamojski/TowerCollector,37,Add newline after each JSON record,closed,2018-06-25T00:26:47Z,2018-07-17T18:43:21Z,"bug, enhancement"
+zamojski/TowerCollector,35,"PCI is correctly named in CSV, but lumped with PSC in JSON",closed,2018-06-24T23:06:26Z,2018-06-26T16:24:59Z,bug
+BandUp/band-up-android,8,PersistentCookieStore not working as expected,closed,2016-12-04T15:09:40Z,2016-12-05T18:00:21Z,bug
+BandUp/band-up-android,7,SoundCloud login does not work on Login screen,closed,2016-12-02T19:27:01Z,2016-12-06T13:39:45Z,bug
+BandUp/band-up-android,6,Crashes when searching by name with no results,closed,2016-12-02T17:59:55Z,2016-12-06T13:41:41Z,"bug, crash"
+BandUp/band-up-android,5,SoundCloud login fragment doesn't show Select Song,closed,2016-12-02T17:56:06Z,2016-12-06T14:37:20Z,bug
+BandUp/band-up-android,4,Select Instruments and Genres open multiple times in Search,closed,2016-12-02T16:45:08Z,2016-12-07T21:21:46Z,bug
+BandUp/band-up-android,2,SoundCloud Player appears multiple times in User Details,closed,2016-12-02T13:50:22Z,2016-12-04T02:57:45Z,bug
+BandUp/band-up-android,1,SoundCloud Player crash in User Details,closed,2016-12-02T13:47:12Z,2016-12-07T09:51:16Z,"bug, crash"
+FrancisG-Massey/Capstone2016,291,"""formatCSV"" flag in request handler GET branch",closed,2016-10-30T01:04:26Z,2016-10-30T06:09:58Z,"bug, API"
+FrancisG-Massey/Capstone2016,270,Traps remain in queue after being created successfully,closed,2016-10-26T08:56:40Z,2016-10-26T09:08:19Z,"bug, App"
+FrancisG-Massey/Capstone2016,263,Date bug on trap/catch-history,closed,2016-10-26T02:02:13Z,2016-10-26T03:59:34Z,"bug, Web"
+FrancisG-Massey/Capstone2016,262,"Duplicate headings in ""View traplines"" on user page",closed,2016-10-25T19:52:19Z,2016-10-26T01:18:27Z,"bug, Web, usability"
+FrancisG-Massey/Capstone2016,261,"Adding a user to a trapline via ""Add"" doesn't close dialog properly",closed,2016-10-25T19:49:23Z,2016-10-26T01:18:12Z,"bug, Web"
+FrancisG-Massey/Capstone2016,255,Infinite loading,closed,2016-10-25T07:40:38Z,2016-10-26T23:05:42Z,"bug, App"
+FrancisG-Massey/Capstone2016,254,"""Waiting for coordinates..."" message not going away",closed,2016-10-25T07:37:37Z,2016-10-26T08:05:12Z,"bug, App"
+FrancisG-Massey/Capstone2016,253,GET requests across several tables return duplicates,closed,2016-10-25T07:17:37Z,2016-10-25T13:43:08Z,"bug, API"
+FrancisG-Massey/Capstone2016,252,Multiple POST /trapline-user requests fail,closed,2016-10-25T07:03:28Z,2016-10-25T11:53:27Z,"bug, API"
+FrancisG-Massey/Capstone2016,244,Trapline enrollments should not be transferable.,closed,2016-10-24T02:17:39Z,2016-10-24T03:32:44Z,"bug, API"
+FrancisG-Massey/Capstone2016,242,Editing users should not require their password,closed,2016-10-24T01:23:33Z,2016-10-24T07:31:58Z,"bug, API"
+FrancisG-Massey/Capstone2016,241,Investigate GET /user non-admin permissions,closed,2016-10-23T22:31:07Z,2016-10-24T06:56:51Z,"bug, API"
+FrancisG-Massey/Capstone2016,221,"""View Map"" uses IDs rather than trap numbers",closed,2016-10-20T08:04:43Z,2016-10-20T08:51:30Z,"bug, Web"
+FrancisG-Massey/Capstone2016,219,Error displaying date in Edge,closed,2016-10-20T03:46:48Z,2016-10-22T07:29:14Z,"bug, Web, core"
+FrancisG-Massey/Capstone2016,218,Dataset GET /User returns inactive,closed,2016-10-19T11:59:04Z,2016-10-19T19:38:53Z,"bug, API"
+FrancisG-Massey/Capstone2016,215,The pagination in the volunteer page is broken,closed,2016-10-19T07:29:45Z,2016-10-20T09:24:40Z,"bug, Web"
+FrancisG-Massey/Capstone2016,212,Catch dataset returns incorrect trap numbers,closed,2016-10-19T03:37:57Z,2016-10-19T06:05:27Z,"bug, API"
+FrancisG-Massey/Capstone2016,211,Catch-report-simple contains incorrect trap numbers,closed,2016-10-19T00:56:00Z,2016-10-19T06:03:08Z,"bug, API"
+FrancisG-Massey/Capstone2016,198,"""View Map"" throws error",closed,2016-10-17T20:30:34Z,2016-10-18T00:18:15Z,"bug, Web"
+FrancisG-Massey/Capstone2016,196,Web is broken when refreshing the admin page,closed,2016-10-17T10:04:07Z,2016-10-18T00:18:26Z,"bug, Web"
+FrancisG-Massey/Capstone2016,190,Session timeouts on web,closed,2016-10-16T08:12:00Z,2016-10-18T00:18:35Z,"bug, question, Web"
+FrancisG-Massey/Capstone2016,185,Map load status - negative tile count,open,2016-10-15T09:55:32Z,,"bug, future development, App"
+FrancisG-Massey/Capstone2016,182,Caching templates on website,closed,2016-10-15T06:00:15Z,2016-10-15T06:52:44Z,"bug, Web"
+FrancisG-Massey/Capstone2016,181,Unknown errors on Web,closed,2016-10-15T05:51:58Z,2016-10-16T02:55:19Z,"bug, Web"
+FrancisG-Massey/Capstone2016,180,Timestamps missing milliseconds fail with ParseException.,closed,2016-10-15T05:36:04Z,2016-10-15T05:47:03Z,"bug, API"
+FrancisG-Massey/Capstone2016,175,Crash on refreshing trapline,closed,2016-10-14T09:40:22Z,2016-10-14T10:44:42Z,"bug, App"
+FrancisG-Massey/Capstone2016,174,Update map loaded status when refrshing trapline,closed,2016-10-14T04:07:41Z,2016-10-14T08:59:10Z,"bug, App"
+FrancisG-Massey/Capstone2016,172,Update trapline view with modified data,closed,2016-10-14T00:39:32Z,2016-10-14T04:12:07Z,"bug, Web"
+FrancisG-Massey/Capstone2016,168,Add Trap view displays empty map,closed,2016-10-13T08:04:49Z,2016-10-14T04:33:47Z,"bug, App"
+FrancisG-Massey/Capstone2016,165,PUT https://www.nestnz.org/api/trap/4 500  (Internal Server Error),closed,2016-10-13T04:01:35Z,2016-10-14T14:49:56Z,"bug, API"
+FrancisG-Massey/Capstone2016,159,SQL error when sending catches to the API,closed,2016-10-12T09:21:16Z,2016-10-12T10:43:52Z,"bug, API"
+FrancisG-Massey/Capstone2016,158,Side menu not closing,closed,2016-10-12T08:54:53Z,2016-10-12T19:19:59Z,"bug, App"
+FrancisG-Massey/Capstone2016,155,Exception on loading 'null' start & end tags,closed,2016-10-12T04:07:00Z,2016-10-12T04:09:10Z,"bug, App"
+FrancisG-Massey/Capstone2016,154,Infinite loading on exception,closed,2016-10-12T03:44:17Z,2016-10-12T19:58:15Z,"bug, App"
+FrancisG-Massey/Capstone2016,153,Can't update the new trap data,closed,2016-10-11T13:53:36Z,2016-10-11T14:13:02Z,"bug, Web"
+FrancisG-Massey/Capstone2016,151,Exception on creating new trap,closed,2016-10-11T05:29:38Z,2016-10-11T06:34:42Z,"bug, API"
+FrancisG-Massey/Capstone2016,150,Clear traplines in mobile cache if deleted from server,closed,2016-10-11T02:09:48Z,2016-10-12T08:37:35Z,"bug, App"
+FrancisG-Massey/Capstone2016,147,'Pre-loading' after map is loaded causes infinite loading,closed,2016-10-11T01:49:41Z,2016-10-11T07:52:16Z,"bug, App"
+FrancisG-Massey/Capstone2016,146,App cannot be launched on IOS device,closed,2016-10-11T01:46:45Z,2016-10-27T03:09:58Z,"bug, App"
+FrancisG-Massey/Capstone2016,136,Does the cached data get cleared when the battery is flat?,closed,2016-10-09T09:56:20Z,2016-10-11T01:43:02Z,"bug, App, core"
+FrancisG-Massey/Capstone2016,135,Map response on Mobile app.,closed,2016-10-09T07:33:07Z,2016-10-20T04:32:04Z,"bug, App"
+FrancisG-Massey/Capstone2016,126,Adding a new Trap via Web is broken,closed,2016-10-08T10:23:10Z,2016-10-10T09:21:05Z,"bug, Web"
+FrancisG-Massey/Capstone2016,125,Adding a new Trapline is Broken via Web,closed,2016-10-08T10:22:13Z,2016-10-10T09:20:54Z,"bug, Web"
+FrancisG-Massey/Capstone2016,124,Trap map icons use internal ID rather than number,closed,2016-10-08T09:51:38Z,2016-10-08T10:40:10Z,"bug, Web"
+FrancisG-Massey/Capstone2016,116,Logging catches without bait & trap types,closed,2016-10-07T20:48:48Z,2016-10-09T09:28:29Z,"bug, API, core"
+FrancisG-Massey/Capstone2016,114,Pass a valid trapline ID with no traps,closed,2016-10-07T03:24:07Z,2016-10-07T22:57:52Z,"bug, API"
+FrancisG-Massey/Capstone2016,94,Exception on loading catches from cache,closed,2016-10-06T03:59:04Z,2016-10-10T09:23:03Z,"bug, App"
+FrancisG-Massey/Capstone2016,93,Error message in 400 responses,closed,2016-10-06T02:33:31Z,2016-10-07T01:42:20Z,"bug, API, core"
+FrancisG-Massey/Capstone2016,85,IE does not display web app properly.,closed,2016-10-04T01:28:42Z,2016-10-18T00:32:56Z,"bug, Web"
+FrancisG-Massey/Capstone2016,82,Parameter-binder parsing has multiple issues.,closed,2016-09-29T17:47:23Z,2016-10-02T03:50:51Z,"bug, API, core"
+FrancisG-Massey/Capstone2016,79,PSQLException circumventing error-handling ,closed,2016-09-28T17:30:51Z,2016-10-06T15:13:08Z,"bug, API"
+FrancisG-Massey/Capstone2016,77,Crash on NavigationView when switching traplines,closed,2016-09-28T09:30:38Z,2016-10-06T07:09:14Z,"bug, App"
+FrancisG-Massey/Capstone2016,72,500 Internal Server Error,closed,2016-09-27T23:34:13Z,2016-09-28T00:59:34Z,"bug, API"
+FrancisG-Massey/Capstone2016,70,DB calls to now() return timestamp with timezone,closed,2016-09-27T12:07:17Z,2016-09-27T14:50:51Z,"bug, API"
+FrancisG-Massey/Capstone2016,64,404 on expired session token,closed,2016-09-27T09:28:06Z,2016-10-10T15:18:04Z,"bug, API, core"
+FrancisG-Massey/Capstone2016,56,Number format exception in http url query string parsing,closed,2016-09-25T11:19:28Z,2016-09-25T11:57:22Z,"bug, API"
+FrancisG-Massey/Capstone2016,52,Null length URL query string filter parameters return HTTP 500,closed,2016-09-25T07:43:44Z,2016-09-25T08:51:00Z,"bug, API"
+FrancisG-Massey/Capstone2016,49,Second trapline entry appears on refresh,closed,2016-09-24T11:00:46Z,2016-10-05T03:04:33Z,"bug, App"
+FrancisG-Massey/Capstone2016,43,Rare bug where API may return 500 to bad POST requests to /session,closed,2016-09-22T17:38:31Z,2016-09-24T16:42:58Z,"bug, API"
+FrancisG-Massey/Capstone2016,41,Double/Float formatted as string in response JSON,closed,2016-09-22T09:07:42Z,2016-09-23T14:31:50Z,"bug, API"
+FrancisG-Massey/Capstone2016,39,Trapline requests throw 500 error,closed,2016-09-21T02:19:38Z,2016-09-21T09:46:04Z,"bug, API"
+FrancisG-Massey/Capstone2016,37,Trap X and Y coordinates should be aliased as latitude/longitude in the JSON trap dataset,closed,2016-09-20T14:24:07Z,2016-09-24T15:38:41Z,"bug, API"
+FrancisG-Massey/Capstone2016,29,Column constraint check on trap-type table is wrong,closed,2016-09-18T14:37:09Z,2016-09-19T04:42:53Z,"bug, API"
+FrancisG-Massey/Capstone2016,28,Doc-id strings are redundant across several db tables,closed,2016-09-18T14:22:01Z,2016-09-19T14:08:53Z,"bug, API"
+FrancisG-Massey/Capstone2016,26,Trapline start and end tags have incorrect datatype in db,closed,2016-09-18T14:04:48Z,2016-09-19T04:45:04Z,"bug, API"
+FrancisG-Massey/Capstone2016,25,Bools returned from API GETs are formatted incorrectly,closed,2016-09-18T07:38:41Z,2016-09-18T07:47:03Z,"bug, API"
+FrancisG-Massey/Capstone2016,18,API login/logout,closed,2016-09-02T07:45:13Z,2016-09-02T09:56:39Z,"bug, Web"
+FrancisG-Massey/Capstone2016,17,API JSON - numbers formatted as strings,closed,2016-09-01T10:14:21Z,2016-09-18T02:55:08Z,"bug, API"
+FrancisG-Massey/Capstone2016,14,Requests to unmapped REST URLs returns 500,closed,2016-08-29T12:09:28Z,2016-08-31T13:05:37Z,"bug, API"
+FrancisG-Massey/Capstone2016,12,Authentication failed,open,2016-08-28T06:05:23Z,,"bug, future development, Web, API"
+FrancisG-Massey/Capstone2016,9,On-screen keyboard blocks login screen controls,closed,2016-08-27T09:29:58Z,2016-09-04T08:27:51Z,"bug, App"
+bkromhout/Minerva,102,Covers may not be present after DB restore,closed,2016-06-26T18:47:16Z,2016-06-26T20:05:21Z,"bug, crash"
+bkromhout/Minerva,101,Retry after allowing perms broken from WelcomeActivity,closed,2016-06-26T18:03:36Z,2016-06-26T18:43:21Z,bug
+bkromhout/Minerva,100,Have recents screen update in a more timely manner,closed,2016-06-26T13:24:55Z,2016-06-26T17:50:23Z,bug
+bkromhout/Minerva,97,You can click the action button on list cards while in action mode,closed,2016-06-25T13:37:28Z,2016-06-25T13:41:48Z,bug
+bkromhout/Minerva,96,You can click the info button while in action mode,closed,2016-06-21T22:54:26Z,2016-06-25T15:06:42Z,bug
+bkromhout/Minerva,92,ALF not updating when we change a list in BLA,closed,2016-06-18T18:31:28Z,2016-06-18T21:33:21Z,bug
+bkromhout/Minerva,86,Crash when removing book from normal list,closed,2016-06-13T00:33:48Z,2016-06-18T17:21:25Z,"bug, crash"
+bkromhout/Minerva,85,Tags don't update on cards when returning from TaggingActivity,closed,2016-06-11T12:58:45Z,2016-06-11T13:03:33Z,bug
+bkromhout/Minerva,82,[CRASH] List items aren't being given positions,closed,2016-06-03T15:25:52Z,2016-06-03T18:24:57Z,bug
+bkromhout/Minerva,77,Last import date should always be updated,closed,2016-05-27T14:15:16Z,2016-05-27T15:03:52Z,bug
+bkromhout/Minerva,75,Action modes should change status bar color,closed,2016-05-26T15:53:18Z,2016-05-27T15:16:17Z,"dev work, pseudo-bug"
+bkromhout/Minerva,73,Trying to open files from ext sd gives error,closed,2016-05-24T20:09:31Z,2016-05-27T21:26:27Z,bug
+bkromhout/Minerva,71,Shared element return transitions fail after rotate due to bound change?,closed,2016-05-24T17:40:38Z,2016-08-09T14:12:06Z,"bug, invalid, wontfix, needs research, dev work"
+bkromhout/Minerva,70,Incorrect toolbar items in BLA after creating SL from ALF,closed,2016-05-22T22:11:45Z,2016-05-27T15:01:40Z,bug
+bkromhout/Minerva,58,Fix button BG not tinting on API 21,closed,2016-05-02T20:30:50Z,2016-05-13T19:09:30Z,bug
+bkromhout/Minerva,56,Don't use position in tag card click events,closed,2016-05-01T19:48:31Z,2016-05-01T20:03:20Z,bug
+bkromhout/Minerva,52,Library's emptyListener doesn't do what it should,closed,2016-04-30T22:36:14Z,2016-05-01T18:19:41Z,bug
+bkromhout/Minerva,51,"Fix UI issues for API 21, 22",closed,2016-04-30T22:27:13Z,2016-05-02T20:30:15Z,"bug, dev work"
+bkromhout/Minerva,47,Make cards update when returning from TaggingActivity,closed,2016-04-28T02:27:00Z,2016-04-30T19:15:52Z,bug
+bkromhout/Minerva,46,Cancel buttons on input dialogs in TaggingActivity don't work,closed,2016-04-28T00:57:05Z,2016-04-29T16:56:47Z,bug
+bkromhout/Minerva,41,Remove swap method for lists,closed,2016-04-22T21:24:56Z,2016-04-23T16:14:19Z,"bug, dev work"
+bkromhout/Minerva,39,Changes for Realm 0.89.x,closed,2016-04-22T04:18:49Z,2016-04-22T22:01:21Z,"bug, dev work"
+bkromhout/Minerva,35,Change how RBookListItem keys work,closed,2016-04-16T17:28:37Z,2016-04-16T18:28:11Z,bug
+bkromhout/Minerva,34,Make sure FABs can never cover up cards if scrolled to the bottom,closed,2016-04-16T01:33:15Z,2016-04-16T03:35:33Z,bug
+bkromhout/Minerva,24,Screens with Mini-Card Type dialog not changing card types,closed,2016-04-09T06:27:16Z,2016-04-09T18:24:32Z,bug
+bkromhout/Minerva,19,Change view file intents to use content:// instead of file://,closed,2016-03-18T15:48:10Z,2016-04-11T00:53:00Z,"bug, needs research"
+bkromhout/Minerva,12,Implement custom .equals() methods for Realm classes,closed,2016-03-04T14:32:47Z,2016-03-10T17:09:41Z,"bug, enhancement"
+bkromhout/Minerva,9,Redesign horizontal layout for full import activity,closed,2016-02-16T04:56:23Z,2016-02-17T04:01:46Z,"bug, enhancement"
+bkromhout/Minerva,1,Find some way to color icons in overflow menu,closed,2016-01-05T20:28:51Z,2016-01-05T20:54:02Z,bug
+BlunchDev/blunch_android,133,Wrong DietTags appear in menu list element,closed,2016-05-31T10:37:20Z,2016-05-31T11:43:56Z,bug
+BlunchDev/blunch_android,124,List all old menus mistake,closed,2016-05-20T08:34:32Z,2016-05-20T09:26:47Z,bug
+BlunchDev/blunch_android,119,MultiDex bug in some devices,closed,2016-05-17T11:38:22Z,2016-05-19T17:15:15Z,bug
+BlunchDev/blunch_android,109,Bad color on navigational drawer selection,closed,2016-05-17T10:28:55Z,2016-05-17T15:44:33Z,bug
+BlunchDev/blunch_android,108,PaymentMenu Detail doesn't show completly if button,closed,2016-05-17T10:28:01Z,2016-05-17T15:44:16Z,bug
+BlunchDev/blunch_android,107,Right navigational drawer,closed,2016-05-17T07:46:34Z,2016-05-19T17:15:33Z,bug
+BlunchDev/blunch_android,101,wrong color on editText,closed,2016-05-15T12:46:32Z,2016-05-17T15:43:56Z,bug
+BlunchDev/blunch_android,95,"""Se sugiere"" in Collaborative Menus by Host",closed,2016-05-13T17:30:37Z,2016-05-13T17:37:00Z,bug
+BlunchDev/blunch_android,92,Menus/Chat/Valorations with blank spaces,closed,2016-05-13T11:41:23Z,2016-05-17T15:43:14Z,bug
+BlunchDev/blunch_android,88,uncomplet join collaborativeMenu,closed,2016-05-12T18:23:59Z,2016-05-13T17:13:38Z,bug
+BlunchDev/blunch_android,84,Incorrect Log out,closed,2016-05-11T09:05:21Z,2016-05-13T09:43:09Z,bug
+BlunchDev/blunch_android,82,Chat message without text,closed,2016-05-10T17:58:15Z,2016-05-15T10:52:17Z,bug
+BlunchDev/blunch_android,76,Value only when menu is caducated,closed,2016-05-10T09:56:21Z,2016-05-10T11:22:23Z,bug
+BlunchDev/blunch_android,73,User with email with points,closed,2016-05-08T09:46:02Z,2016-05-08T16:54:34Z,bug
+BlunchDev/blunch_android,72,"Collaborative proposals and payment menu petitions can be seen by all users, they should be visible only to the owner",closed,2016-05-07T07:45:06Z,2016-05-10T16:08:33Z,bug
+BlunchDev/blunch_android,71,Payment menus can be created without any dishes,closed,2016-05-07T07:43:21Z,2016-05-10T11:52:22Z,bug
+BlunchDev/blunch_android,69,Bad top bar colouring,closed,2016-05-05T22:22:49Z,2016-05-15T19:25:40Z,bug
+BlunchDev/blunch_android,68,Toast when valoracion de menús is opening,closed,2016-05-05T22:20:39Z,2016-05-08T18:24:54Z,bug
+BlunchDev/blunch_android,62,First time users logs in profile info is not correctly displayed,closed,2016-05-04T17:41:22Z,2016-05-08T16:57:14Z,bug
+BlunchDev/blunch_android,53,"When finishing activities, the info of the parent activity is not refreshed",closed,2016-04-28T14:24:11Z,2016-04-28T14:59:00Z,bug
+BlunchDev/blunch_android,46,Checkbox problem,closed,2016-04-28T06:45:01Z,2016-05-10T21:27:24Z,bug
+BlunchDev/blunch_android,42,Activity for creating new collaborative menus does not show options to add suggested dishes,closed,2016-04-27T16:30:44Z,2016-04-27T18:18:49Z,bug
+BlunchDev/blunch_android,38,Menu data not retrieved ,closed,2016-04-27T09:25:38Z,2016-04-27T09:46:59Z,bug
+BlunchDev/blunch_android,36,Bug out of memory,closed,2016-04-27T08:51:57Z,2016-04-27T09:16:01Z,bug
+BlunchDev/blunch_android,27,It is possible to create a menu with an end time previous to the start time,closed,2016-04-25T16:17:49Z,2016-04-26T18:27:46Z,bug
+BlunchDev/blunch_android,26,New Payment Menu Activity does not show price per plate,closed,2016-04-25T16:16:13Z,2016-04-26T10:25:32Z,bug
+BlunchDev/blunch_android,25,"Menus don't have a ""caducity date""",closed,2016-04-25T16:14:50Z,2016-04-27T09:20:23Z,bug
+BlunchDev/blunch_android,24,Only time but not date can be set to menus,closed,2016-04-25T16:05:50Z,2016-04-26T21:24:59Z,bug
+BlunchDev/blunch_android,23,Bug retrieving repositories not extended by the service,closed,2016-04-25T16:04:50Z,2016-04-26T10:59:13Z,bug
+BlunchDev/blunch_android,17,Bug in consulting methods,closed,2016-04-18T17:50:32Z,2016-04-25T16:01:05Z,bug
+marxsk/zobro,22,XCode is required to compile code,closed,2016-10-05T11:16:35Z,2016-10-05T21:33:59Z,bug
+marxsk/zobro,15,Cancel on QR screen is not working [in simulator only],open,2016-09-20T16:01:14Z,,bug
+marxsk/zobro,10,Microphone access is not required,open,2016-09-17T21:08:34Z,,bug
+pvarry/intra42,13,App crashes when editing map,closed,2018-10-03T17:28:01Z,2018-10-04T12:59:32Z,bug
+pvarry/intra42,2,Refresh token invalid,closed,2016-11-22T13:38:22Z,2016-12-11T19:34:58Z,api/bug
+pvarry/intra42,1,Create and edit topics,closed,2016-11-22T13:37:22Z,2019-11-10T18:01:27Z,api/bug
+sismics/reader,165,Download favicons using ReaderHttpClient,closed,2018-09-12T16:33:44Z,2018-09-13T12:42:00Z,bug
+sismics/reader,164,Negative article count,open,2018-08-01T12:49:22Z,,bug
+sismics/reader,161,Confirm on subscription delete not working with Chrome > 46,open,2018-04-03T09:24:25Z,,bug
+sismics/reader,153,Errors on database upgrade,closed,2017-07-05T17:33:14Z,2017-07-30T10:47:26Z,bug
+sismics/reader,150,Categories missing on demo app,open,2017-02-27T12:19:36Z,,bug
+sismics/reader,149,Root category not working with Pgsql,open,2017-02-27T12:19:19Z,,bug
+sismics/reader,143,Make sure that unit/integration tests don't depend on external HTTP resources,open,2017-01-04T15:10:13Z,,bug
+sismics/reader,135,Check article create date,closed,2016-06-07T08:40:42Z,2017-01-09T10:19:01Z,bug
+sismics/reader,124,Relative HTML links in articles content are relative to Reader installation,closed,2015-11-25T16:58:42Z,2015-11-26T13:43:22Z,bug
+sismics/reader,119,Unsubbing + subbing to a feed can lead to negative unread articles count,closed,2015-11-19T21:55:56Z,2015-11-19T22:26:12Z,bug
+sismics/reader,112,Themes absent from the release WAR,closed,2015-05-12T16:17:55Z,2015-05-13T01:07:05Z,bug
+sismics/reader,110,Error adding feed,open,2015-04-06T10:31:21Z,,bug
+sismics/reader,109,Error synchronizing http://moosh.im/feed/,closed,2015-03-01T17:31:02Z,2015-06-22T19:01:35Z,bug
+sismics/reader,104,http://ploum.net/feed/ do not parse,closed,2014-09-18T14:15:55Z,2014-10-03T17:31:03Z,bug
+sismics/reader,103,Installation error with Ubuntu Software,closed,2014-06-11T08:28:25Z,2014-06-27T15:11:24Z,bug
+sismics/reader,92,Android: Crash report,closed,2014-01-08T10:50:50Z,2014-01-09T18:34:49Z,bug
+sismics/reader,91,Android: Crash report,closed,2014-01-07T23:14:48Z,2014-01-09T18:34:49Z,bug
+sismics/reader,90,Android: Crash report,closed,2014-01-07T23:12:56Z,2014-01-09T18:34:49Z,bug
+sismics/reader,89,cant scroll on articles,closed,2014-01-04T06:54:47Z,2014-01-04T12:57:03Z,bug
+sismics/reader,87,OPML Import Fails,closed,2013-12-22T10:21:14Z,2013-12-27T19:37:03Z,bug
+sismics/reader,86,SAX parse error on gitorious ATOM feed,closed,2013-12-20T16:18:24Z,2013-12-20T17:58:12Z,bug
+sismics/reader,82,Imported starred articles are not indexed,closed,2013-12-18T21:11:21Z,2015-09-13T20:19:17Z,bug
+sismics/reader,81,Memory issue with OPML import,closed,2013-12-17T16:28:59Z,2013-12-18T20:08:10Z,bug
+sismics/reader,79,"Performance issue on ""mark as read""",closed,2013-12-04T21:35:16Z,2014-01-08T19:22:19Z,bug
+sismics/reader,76,Margin around toolbar buttons,closed,2013-11-26T22:16:12Z,2013-11-26T23:40:49Z,bug
+sismics/reader,74,ISO-88591 feed is read as UTF-8,closed,2013-11-07T13:41:41Z,2013-12-20T21:41:39Z,bug
+sismics/reader,72,http://www.space.com/home/feed/site.xml,closed,2013-11-07T00:32:11Z,2013-11-07T12:57:06Z,bug
+sismics/reader,71,http://what-if.xkcd.com/feed.atom,closed,2013-11-07T00:31:45Z,2013-11-27T22:49:49Z,bug
+sismics/reader,65,missing translation vars,closed,2013-09-26T17:05:02Z,2013-10-23T21:11:54Z,bug
+sismics/reader,59,Feed Import breaks up,closed,2013-09-23T10:59:19Z,2013-09-26T17:09:43Z,bug
+sismics/reader,58,"Selecting the the ""favorite"" menu has no effect while loading",closed,2013-09-13T07:34:32Z,2013-10-21T21:20:01Z,bug
+sismics/reader,57,Article URL is relative to Reader installation,open,2013-09-12T13:04:26Z,,bug
+sismics/reader,52,Android: crash if invalid URL is given,closed,2013-07-29T10:54:31Z,2013-09-05T09:04:13Z,bug
+sismics/reader,45,Android app - crash after setup,closed,2013-07-12T13:49:45Z,2013-07-12T18:40:12Z,bug
+sismics/reader,43,Wrong article URL,closed,2013-07-10T11:19:38Z,2013-07-10T19:39:10Z,bug
+sismics/reader,42,Add socket timeout on feed downloading,closed,2013-07-10T10:21:33Z,2013-07-10T17:29:36Z,bug
+sismics/reader,36,Gizmodo feed doesn't parse,closed,2013-07-05T15:33:13Z,2013-07-05T16:29:49Z,bug
+sismics/reader,27,Check transaction management,closed,2013-07-04T15:54:42Z,2014-08-30T12:53:38Z,bug
+sismics/reader,26,Takeout import: JSON article/origin/title can be empty,closed,2013-07-03T20:37:33Z,2013-07-11T19:27:38Z,bug
+sismics/reader,25,Takeout import : Check memory usage with a large JSON file,closed,2013-07-03T20:37:17Z,2013-07-15T16:23:43Z,bug
+sismics/reader,13,Article content ignored if not wrapped in CDATA,open,2013-06-26T18:14:23Z,,bug
+sismics/reader,12,Feed import stops after a few feeds; deleting already imported feeds.,closed,2013-06-26T17:42:18Z,2013-06-26T19:08:24Z,bug
+sismics/reader,11,Webapp root null,closed,2013-06-25T14:39:27Z,2013-09-08T10:10:50Z,bug
+sismics/reader,8,Google Takeout starred articles import,closed,2013-06-22T17:27:18Z,2013-07-03T20:36:40Z,bug
+sismics/reader,5,/app/log is not sorted by date descending,closed,2013-06-18T22:20:17Z,2013-06-22T20:14:57Z,bug
+oakesville/mythling,86,Friendlier Message When Music Selected Yet No Storage Group,closed,2016-07-12T00:53:35Z,2016-07-13T03:20:16Z,"type:bug, priority:high"
+oakesville/mythling,85,Frontend Video Playback Fails after Canceling Previous Selection,open,2016-07-10T21:21:18Z,,"type:bug, priority:high"
+oakesville/mythling,84,Player Nav Controls Won't Reappear During Playback on Marshmallow,closed,2016-06-18T16:27:31Z,2016-06-18T16:28:04Z,"type:bug, priority:high"
+oakesville/mythling,83,ConcurrentModificationException When Paused While Doing Multiple Downloads,closed,2016-06-12T22:39:00Z,2016-06-18T16:24:52Z,"type:bug, priority:high"
+oakesville/mythling,71,Download Receiver Can Be Leaked,closed,2016-02-21T16:38:43Z,2016-02-27T19:16:34Z,"type:bug, priority:high"
+oakesville/mythling,69,IllegalStateException Due to Transaction Commit after State Saved,closed,2016-01-30T20:06:27Z,2018-08-20T14:42:32Z,"type:bug, priority:high"
+oakesville/mythling,68,Null mediaList Can Result in Crash on Resume,closed,2016-01-30T19:45:54Z,2018-08-20T14:42:57Z,"type:bug, priority:high"
+oakesville/mythling,64,Internal Playback Stops Prematurely for In-Progress Recordings,closed,2016-01-03T17:21:47Z,2016-07-10T18:46:32Z,"type:bug, priority:high"
+oakesville/mythling,55,Music Playback Error when Proxying with Authentication,closed,2015-08-03T02:47:46Z,2016-01-17T17:41:18Z,"type:bug, priority:high"
+oakesville/mythling,51,Breadcrumbs Do Not Show Up In Android 5+,closed,2015-07-19T20:22:33Z,2015-07-30T01:08:08Z,"type:bug, priority:high"
+oakesville/mythling,48,Allow Use of Multiple Tuners for LiveTV,closed,2015-07-16T21:04:23Z,2015-07-17T00:35:32Z,"type:bug, priority:high"
+oakesville/mythling,42,parsing bug in media.php ,closed,2015-04-02T10:01:11Z,2015-04-04T01:39:39Z,type:bug
+oakesville/mythling,40,Default Values for SwitchPreferences Should be Booleans,closed,2015-03-02T03:21:45Z,2015-04-06T01:09:55Z,"type:bug, priority:high"
+oakesville/mythling,36,Alphabetization in Mythling Services Places Space Before Slash,open,2015-03-01T00:07:34Z,,"type:bug, priority:medium"
+oakesville/mythling,29,Mythling Services Don't Display Metadata for Videos Media Type,closed,2014-12-10T20:15:48Z,2016-07-13T04:01:10Z,"type:bug, priority:low"
+oakesville/mythling,28,Orientation Change Hides Progress Bar,open,2014-12-10T20:13:38Z,,"type:bug, priority:medium"
+oakesville/mythling,26,Stop Button Stays Visible When Music Playback Finishes,closed,2014-12-10T17:53:15Z,2015-01-25T21:07:29Z,type:bug
+oakesville/mythling,24,Mythling Category Sort for Videos/Movies/TV Series Should Exclude Prefixes A/An/The,closed,2014-11-29T17:59:36Z,2015-02-22T20:59:19Z,type:bug
+oakesville/mythling,19,Sometimes Item Count Does Not Appear by MediaType in Action Menu,closed,2014-10-20T00:15:26Z,2014-12-07T19:34:51Z,type:bug
+oakesville/mythling,8,Mythling Svcs: Handle Multiple Video Storage Group Directories,closed,2014-08-24T17:14:10Z,2014-10-20T00:14:21Z,type:bug
+oakesville/mythling,7,Categorization=None Should Suppress Movies and TV Series,closed,2014-08-24T16:09:02Z,2014-08-24T19:18:32Z,type:bug
+oakesville/mythling,5,Frontend Playback Sometimes Fails with No Message,closed,2014-07-07T23:52:22Z,2014-07-12T22:52:53Z,type:bug
+oakesville/mythling,4,Application Up Navigation Can Cause Crash,closed,2014-06-22T18:40:53Z,2014-07-12T22:58:32Z,type:bug
+oakesville/mythling,1,Progress Bar in Portrait Mode,closed,2014-06-22T18:26:26Z,2014-08-23T23:34:46Z,type:bug
+Polidea/react-native-ble-plx,1323,🐛 NullPointerException in BlePlxModule when BLE device disconnects with GATT timeout,open,2026-01-11T21:45:42Z,,bug
+Polidea/react-native-ble-plx,1317,"🐛 If the BLE device disconnects actively, an error will be reported in android",open,2025-12-04T08:02:43Z,,bug
+Polidea/react-native-ble-plx,1316,🐛 Multi ReadCharacteristic Value Race Condition on iOS,open,2025-11-27T11:30:45Z,,bug
+Polidea/react-native-ble-plx,1310,Crash in BLETransport APIs when React Native version is 0.81.4 (Recommended by Expo 54),open,2025-10-24T02:21:58Z,,bug
+Polidea/react-native-ble-plx,1303,🐛 Android: App crashes on device disconnect when using monitorCharacteristicForDevice(),open,2025-09-04T14:33:02Z,,bug
+Polidea/react-native-ble-plx,1298,"🐛 When showing devices from scan, it doesn't populate my paired devices? #1297",open,2025-07-02T05:29:17Z,,bug
+Polidea/react-native-ble-plx,1297,"🐛 When showing devices from scan, it doesn't populate my paired devices?",closed,2025-07-02T05:26:32Z,2025-07-02T05:27:30Z,bug
+Polidea/react-native-ble-plx,1295,🐛 ibeacon not detected,closed,2025-06-10T09:42:24Z,2025-06-18T10:23:29Z,bug
+Polidea/react-native-ble-plx,1293,🐛  iOS scan result missing localName despite correct advertisement,open,2025-05-27T16:00:17Z,,bug
+Polidea/react-native-ble-plx,1292,"🐛  Android `monitorCharacteristicForDevice` Callback Not Firing in v3.5.0 (Works in v3.2.0, Native `onNotify` Received)",open,2025-05-03T07:37:19Z,,bug
+Polidea/react-native-ble-plx,1291,"🐛 On the iOS platform, the negotiated MTU value cannot be obtained",closed,2025-04-28T08:07:02Z,2025-05-28T15:41:28Z,bug
+Polidea/react-native-ble-plx,1288,"🐛 Device shown as ""Connected"" in Android Bluetooth Settings but API returns ""not connected""",open,2025-04-10T00:25:33Z,,bug
+Polidea/react-native-ble-plx,1287,🐛 GATT exception from MAC address,closed,2025-04-09T13:23:59Z,2025-05-28T15:20:57Z,bug
+Polidea/react-native-ble-plx,1284,"🐛 After iOS is disconnected, the device is still connected",closed,2025-04-07T01:38:08Z,2025-05-27T20:59:45Z,bug
+Polidea/react-native-ble-plx,1279,🐛 Device not showing up in scan after disconnecting,open,2025-03-12T20:15:40Z,,bug
+Polidea/react-native-ble-plx,1276,🐛 writecharacteristicwithoutresponsefordevice in iOS have issue,open,2025-02-09T09:05:22Z,,bug
+Polidea/react-native-ble-plx,1272,🐛 BLE writeCharacteristicWithResponseForService not working on Android while functioning on iOS,open,2025-01-29T06:52:00Z,,bug
+Polidea/react-native-ble-plx,1271,🐛 iOS connection stops communicating but still connected,closed,2025-01-26T12:45:11Z,2025-01-27T12:25:43Z,bug
+Polidea/react-native-ble-plx,1270,🐛 Blank Print is comming,closed,2025-01-24T11:44:03Z,2025-01-24T15:09:40Z,bug
+Polidea/react-native-ble-plx,1249,🐛 Not supporting Expo SDK 52,closed,2024-11-15T07:05:45Z,2025-01-08T19:16:42Z,bug
+Polidea/react-native-ble-plx,1248,🐛 IOS 17.7 and IOS 18.0.1 not able to read ble device characteristics.,open,2024-11-12T04:55:35Z,,bug
+Polidea/react-native-ble-plx,1238,"🐛 startDeviceScan errors with ""BleManager was destroyed"" on android API level 33 (android 13) when published (works fine when running with metro)",closed,2024-08-31T13:33:33Z,2025-01-18T21:35:37Z,bug
+Polidea/react-native-ble-plx,1231,"🐛 Module does not work with Android Auto, when there is no Activity",closed,2024-08-05T06:36:49Z,2025-01-09T15:55:55Z,bug
+Polidea/react-native-ble-plx,1229,"🐛ManufacturerData on iOS returning null, in Android is correctly setted ",closed,2024-08-01T07:12:38Z,2025-01-08T21:42:20Z,bug
+Polidea/react-native-ble-plx,1228,isDeviceConnected return BleErrorCode.DeviceDisconnected instead of false🐛 ,closed,2024-07-30T16:44:30Z,2024-07-31T14:37:16Z,bug
+Polidea/react-native-ble-plx,1223,"🐛 Scanning devices, it only finds my ble beacon on Android 11 (it doesn't on iOS 17.5.1 and Android 14)",closed,2024-07-04T11:36:21Z,2024-07-08T09:38:50Z,bug
+Polidea/react-native-ble-plx,1222,Auto-disconnection in some Android devices,closed,2024-07-04T10:06:42Z,2025-01-08T19:39:20Z,bug
+Polidea/react-native-ble-plx,1220,"🐛 BluetoothLE is in unknown state, but the state is PoweredOn",closed,2024-06-26T11:31:27Z,2024-07-04T10:48:29Z,bug
+Polidea/react-native-ble-plx,1219,🐛 IOS\Android disconnecting from bluetooth device after connecting if we don't write characteristics after 30 seconds.,closed,2024-06-26T09:06:12Z,2025-01-09T16:35:35Z,bug
+Polidea/react-native-ble-plx,1218,🐛  The onstatechange was not fired if the app's blue permission was disabled,closed,2024-06-25T09:24:51Z,2024-07-17T08:23:59Z,bug
+Polidea/react-native-ble-plx,1212,🐛 empty known devices list on Android,closed,2024-06-11T02:04:00Z,2024-06-14T17:27:42Z,bug
+Polidea/react-native-ble-plx,1211,🐛 iOS example app does not want to start,closed,2024-06-10T14:25:41Z,2024-07-09T15:39:59Z,bug
+Polidea/react-native-ble-plx,1208,🐛 Making methods async and/or arrow functions in v3.2.0 is a breaking change ,closed,2024-06-01T01:33:06Z,2024-07-09T15:39:58Z,bug
+Polidea/react-native-ble-plx,1194,🐛 [Android] Can't monitor a characteristic,closed,2024-04-30T11:36:31Z,2024-06-25T10:12:02Z,bug
+Polidea/react-native-ble-plx,1193,import {BLEmanger} from 'react-native-ble-plx'  is undefine,closed,2024-04-30T08:20:57Z,2024-05-06T07:13:06Z,bug
+Polidea/react-native-ble-plx,1191,All devices is not discoverable in Android 14🐛 ,closed,2024-04-24T13:41:43Z,2024-06-14T06:24:43Z,bug
+Polidea/react-native-ble-plx,1188,🐛 Error when create BleManager instance,closed,2024-04-18T13:08:04Z,2024-07-01T09:14:25Z,bug
+Polidea/react-native-ble-plx,1181,🐛 com.bleplx.BlePlxModule.state java.lang.NullPointerException,closed,2024-03-15T02:32:46Z,2024-03-18T06:01:05Z,bug
+Polidea/react-native-ble-plx,1180,@expo/config-plugins version range,closed,2024-03-14T10:33:29Z,2024-07-11T15:01:17Z,bug
+Polidea/react-native-ble-plx,1174,Disconnection problems with some Android devices like Samsung s22 Ultra,closed,2024-02-22T14:47:41Z,2024-02-22T16:32:52Z,bug
+Polidea/react-native-ble-plx,1171,"🐛 cancelDeviceConnection exception, kill the app",closed,2024-02-08T09:26:13Z,2024-06-24T08:51:48Z,bug
+Polidea/react-native-ble-plx,1170,🐛 cannot build for android,closed,2024-02-01T22:30:55Z,2024-02-04T02:26:43Z,bug
+Polidea/react-native-ble-plx,1168,🐛 android still connected to bt device after force kill of app,closed,2024-01-27T20:48:11Z,2024-07-24T08:54:39Z,bug
+Polidea/react-native-ble-plx,1167,🐛 writeCharacteristicWithoutResponseForDevice fails in iOS,closed,2024-01-22T11:45:10Z,2024-07-01T09:21:20Z,bug
+Polidea/react-native-ble-plx,1163,🐛 Unable to get response value when using writeWithResponse ,closed,2024-01-12T17:05:36Z,2024-01-15T19:19:03Z,bug
+Polidea/react-native-ble-plx,1162,"🐛 Connection Error 2 ""Operation was cancelled"" on android ",closed,2024-01-12T06:31:06Z,2024-07-01T09:21:52Z,bug
+Polidea/react-native-ble-plx,1161,TypeError: null is not an object (evaluating '_BleModule.BleModule.createClient')🐛 ,closed,2024-01-11T17:16:42Z,2024-02-16T06:12:19Z,bug
+Polidea/react-native-ble-plx,1160,🐛  OnDisconnected() never reporting error,open,2024-01-05T16:57:24Z,,bug
+Polidea/react-native-ble-plx,1159,"App crash on start NullPointerException ""com.bleplx.adapter.BleAdapter.stopDeviceScan()""🐛 ",closed,2023-12-31T00:27:04Z,2024-06-24T08:52:23Z,bug
+Polidea/react-native-ble-plx,1156,🐛 BLE Scanner Device not found on Android 13,closed,2023-12-16T11:37:47Z,2023-12-16T13:33:10Z,bug
+Polidea/react-native-ble-plx,1155,Cannot scan Eddystone service UUID  on Android with versions > 2.0.3,open,2023-12-14T23:15:26Z,,bug
+Polidea/react-native-ble-plx,1154,🐛 Subscription returned from monitorCharacteristicForService can't be removed for Android,closed,2023-12-14T05:13:29Z,2024-01-10T03:23:10Z,bug
+Polidea/react-native-ble-plx,1153,"🐛 JSON value '(     65,     84,     90,     13 )' of type NSMutableArray cannot be converted to NSString",closed,2023-12-09T14:43:16Z,2024-07-01T09:14:50Z,bug
+Polidea/react-native-ble-plx,1151,🐛 startDeviceScan UUIDs array not fully working on Android,closed,2023-12-07T22:03:52Z,2023-12-14T23:18:37Z,bug
+Polidea/react-native-ble-plx,1150,🐛 Getting null in serviceUUID and servicedata in device.discoverAllServicesAndCharacteristics(),closed,2023-12-07T13:01:02Z,2025-01-21T08:06:33Z,bug
+Polidea/react-native-ble-plx,1149,🐛 device.manufacturerData is undefined in iOS,closed,2023-12-01T15:37:55Z,2024-07-23T09:46:10Z,bug
+Polidea/react-native-ble-plx,1147,The invocation of setState within the startDeviceScan callback results in undesirable behavior on iOS devices🐛 ,closed,2023-11-24T16:31:40Z,2024-02-16T06:58:02Z,bug
+Polidea/react-native-ble-plx,1144,🐛 com.bleplx.adapter.BleModule.cleanServicesAndCharacteristicsForDevice outOfBounds,closed,2023-11-21T10:17:24Z,2024-07-17T08:36:29Z,bug
+Polidea/react-native-ble-plx,1142,🐛 Attempt to invoke virtual method 'java.lang.String com.bleplx.adapter.Service.getDeviceID()' on a null object reference,closed,2023-11-21T10:09:39Z,2024-06-24T08:52:10Z,bug
+Polidea/react-native-ble-plx,1141,🐛 Attempt to invoke interface method 'void com.bleplx.adapter.BleAdapter.stopDeviceScan()' on a null object reference,closed,2023-11-20T10:31:59Z,2024-06-24T08:52:02Z,bug
+Polidea/react-native-ble-plx,1138,"🐛 device.manufacturerData is undefined, however device.rawScanRecord has valid manufacturerData data.",closed,2023-11-16T14:13:34Z,2023-11-24T15:15:38Z,bug
+Polidea/react-native-ble-plx,1127,🐛 Config plugin installation problem,closed,2023-10-23T05:23:32Z,2023-10-27T11:11:31Z,bug
+Polidea/react-native-ble-plx,1126,🐛 onDisconnected callback is never triggering ,closed,2023-10-19T10:59:37Z,2023-11-29T14:44:49Z,bug
+Polidea/react-native-ble-plx,1119,"🐛 `CocoaPods could not find compatible versions for pod ""MultiplatformBleAdapter""` [3.0.0] ",closed,2023-10-16T03:55:56Z,2023-10-16T03:58:00Z,bug
+Polidea/react-native-ble-plx,1117,Unable to resolve module @babel/runtime/helpers/interopRequireDefault from🐛 ,closed,2023-10-13T13:00:42Z,2023-10-17T07:36:16Z,bug
+Polidea/react-native-ble-plx,1113,#Issue While connecting Bluetooth device with react native android application paring pop-up appearing twice issue ,open,2023-10-11T15:04:59Z,,bug
+Polidea/react-native-ble-plx,1107,🐛 Include of non-modular header inside framework module 'React.RCTRuntimeExecutorFromBridge' (iOS),closed,2023-10-07T01:33:31Z,2023-10-07T01:34:04Z,bug
+Polidea/react-native-ble-plx,1103,🐛 Android crashes on bluetooth device disconnect ,closed,2023-10-03T18:27:54Z,2023-10-16T09:53:53Z,bug
+Polidea/react-native-ble-plx,1081,Bug Report,closed,2023-08-25T11:49:52Z,2023-09-29T07:55:38Z,bug
+Polidea/react-native-ble-plx,1078,? device not found,closed,2023-08-16T18:21:04Z,2023-08-17T19:52:51Z,bug
+Polidea/react-native-ble-plx,1076,[Android] BleError: Device ? is not connected,closed,2023-07-12T15:47:48Z,2023-11-02T08:21:40Z,bug
+Polidea/react-native-ble-plx,1073,"Getting ""Scan failed because feature unsupported (code 8)"" when calling startDeviceScan() for Android devices",closed,2023-06-05T18:53:52Z,2023-11-02T15:39:10Z,bug
+Polidea/react-native-ble-plx,1072,Android 13 Support,closed,2023-05-19T16:17:12Z,2023-05-21T02:24:25Z,bug
+Polidea/react-native-ble-plx,1071,writeWithoutResponse does not resolve,closed,2023-05-05T09:36:51Z,2023-11-02T15:38:39Z,bug
+Polidea/react-native-ble-plx,1070,Bug Report,closed,2023-05-02T18:46:49Z,2023-09-29T08:03:23Z,bug
+Polidea/react-native-ble-plx,1064,Bug Report,closed,2023-03-23T07:31:54Z,2023-11-02T15:36:55Z,bug
+Polidea/react-native-ble-plx,1062,Bug Report - Differing number of services between iOS and Android,closed,2023-03-15T06:14:40Z,2023-09-29T08:26:29Z,bug
+Polidea/react-native-ble-plx,1061,Metro Error,closed,2023-03-10T23:37:48Z,2023-09-29T08:27:01Z,bug
+Polidea/react-native-ble-plx,1059,notify change failed for device ,closed,2023-03-07T08:41:44Z,2023-03-13T10:10:26Z,bug
+Polidea/react-native-ble-plx,1058,Bug Report,closed,2023-03-02T17:09:13Z,2023-09-29T08:28:39Z,bug
+Polidea/react-native-ble-plx,1054,Bug Report,closed,2023-02-21T06:50:35Z,2023-09-29T08:29:15Z,bug
+Polidea/react-native-ble-plx,1053,Error,closed,2023-02-20T22:12:22Z,2023-09-26T12:40:18Z,bug
+Polidea/react-native-ble-plx,1052,Not a valid Bluetooth Address,closed,2023-02-08T06:25:47Z,2023-10-16T14:23:10Z,"bug, question"
+Polidea/react-native-ble-plx,1049,Error BLUETOOTH_CONNECT (android permission),closed,2023-01-23T08:34:29Z,2023-09-29T08:31:35Z,bug
+Polidea/react-native-ble-plx,1048,Bundle Release Mode causes device discovery and connection to stop,closed,2023-01-22T16:52:17Z,2023-09-29T10:59:16Z,bug
+Polidea/react-native-ble-plx,1047,"duplicates sneak there way into the response, even when allowDuplicates flag is set to false. ",closed,2023-01-12T17:49:29Z,2023-09-29T10:59:49Z,bug
+Polidea/react-native-ble-plx,1045,After Receiving characteristcs and services the device show BLE Error (Device  xxxxxxxxxxx is not connected)  in IOS,closed,2023-01-10T07:55:04Z,2023-11-02T15:34:08Z,bug
+Polidea/react-native-ble-plx,1041,monitorCharacteristicForDevice divides the response into 2,closed,2022-12-25T07:44:31Z,2023-11-02T15:34:11Z,bug
+Polidea/react-native-ble-plx,1035,Package is not working on Android 12,closed,2022-11-10T11:35:22Z,2023-09-29T11:46:31Z,bug
+Polidea/react-native-ble-plx,1034,Fatal Exception: java.lang.NullPointerException,closed,2022-11-10T07:46:49Z,2023-09-29T11:49:09Z,bug
+Polidea/react-native-ble-plx,1033,Can i send data type byteArray format for this library ?,closed,2022-11-09T15:33:07Z,2023-01-02T12:48:57Z,bug
+Polidea/react-native-ble-plx,1025,Bug Report ,closed,2022-10-25T03:24:56Z,2023-09-29T11:52:45Z,bug
+Polidea/react-native-ble-plx,1022,I'm not getting my characteristic to be able to read the device data and show it on the screen,closed,2022-10-14T15:11:49Z,2022-10-25T22:17:38Z,bug
+Polidea/react-native-ble-plx,1020,Not able to find the bluetooth connected device list.,closed,2022-09-26T10:09:51Z,2023-11-02T14:53:51Z,bug
+Polidea/react-native-ble-plx,1017,Bug Report,closed,2022-09-22T10:16:45Z,2023-09-29T12:13:45Z,bug
+Polidea/react-native-ble-plx,1016,[iOS] Connection lost with ble device. iOS 16,closed,2022-09-21T21:35:06Z,2022-09-23T20:13:10Z,bug
+Polidea/react-native-ble-plx,1015,[IOS] app freezes when writing characteristic data,closed,2022-09-15T20:31:12Z,2023-09-29T12:16:16Z,bug
+Polidea/react-native-ble-plx,1011,iOS. Device is connected but then is disconnected in 3 - 5 seconds,closed,2022-09-07T13:20:56Z,2023-11-02T08:19:18Z,bug
+Polidea/react-native-ble-plx,1009,Not working in android 13 SDK 33,closed,2022-09-05T10:29:23Z,2023-09-29T12:17:17Z,bug
+Polidea/react-native-ble-plx,1008,Expo app crashes immediately if BleManager is used,closed,2022-09-05T02:00:34Z,2023-09-27T09:17:32Z,bug
+Polidea/react-native-ble-plx,1005,duplicate interface definition for class 'MultiPlatformBLEAdapter',closed,2022-08-31T23:13:52Z,2023-09-29T12:20:26Z,bug
+Polidea/react-native-ble-plx,1004,Bug Report,closed,2022-08-28T14:58:43Z,2023-09-29T12:21:24Z,bug
+Polidea/react-native-ble-plx,998,Bug Report : cannot start scanning on Android 12 - A52 phone,closed,2022-07-18T09:33:19Z,2022-07-18T10:39:38Z,bug
+Polidea/react-native-ble-plx,996,Can't write on characteristic in ios,closed,2022-07-04T11:27:48Z,2022-07-29T16:36:01Z,bug
+Polidea/react-native-ble-plx,995,Could not resolve `rxandroidble:1.7.1`,closed,2022-07-04T08:57:52Z,2022-07-05T09:16:38Z,bug
+Polidea/react-native-ble-plx,992,Bug Report: MTU prop on device does not seem to reflect correct data,closed,2022-06-16T22:26:06Z,2023-09-29T12:23:20Z,bug
+Polidea/react-native-ble-plx,987,Bug Report,closed,2022-06-09T14:34:53Z,2022-06-10T13:14:01Z,bug
+Polidea/react-native-ble-plx,986,Bug Report - Getting Errors: Operation was rejected and Characteristic ... write failed for device ... and service ...    when trying to write,closed,2022-06-02T14:44:17Z,2023-09-29T12:35:54Z,bug
+Polidea/react-native-ble-plx,984,Bug Report - Can't create BLE manager,closed,2022-05-29T15:30:58Z,2022-05-31T14:39:34Z,bug
+Polidea/react-native-ble-plx,983,BluetoothLE is unsupported on this device with Chrome debugger enabled,closed,2022-05-23T14:00:21Z,2022-05-30T13:06:53Z,bug
+Polidea/react-native-ble-plx,980,writeCharacteristicWithoutResponse time between each message,closed,2022-05-18T17:24:24Z,2023-11-02T08:18:04Z,bug
+Polidea/react-native-ble-plx,979,Bug Report,closed,2022-05-17T06:38:21Z,2023-09-29T12:40:04Z,bug
+Polidea/react-native-ble-plx,978,Bug Report,closed,2022-05-13T11:54:25Z,2023-09-29T12:40:46Z,bug
+Polidea/react-native-ble-plx,969,Bug Report,closed,2022-04-22T09:55:58Z,2025-01-08T19:27:08Z,bug
+Polidea/react-native-ble-plx,967,Could not determine artifacts for com.github.Polidea:MultiPlatformBleAdapter:b0272c0fae040cc90f790481c54e8f2d45304339: Skipped due to earlier error,closed,2022-04-14T12:47:49Z,2023-09-29T12:44:23Z,bug
+Polidea/react-native-ble-plx,966,startDeviceScan error - Cannot start scanning operation - error code: 600,closed,2022-04-13T14:55:38Z,2023-09-27T10:37:52Z,bug
+Polidea/react-native-ble-plx,958,bitrise android build - Task :react-native-ble-plx:processDebugAndroidTestManifest FAILED,closed,2022-02-28T11:25:40Z,2023-11-02T08:16:21Z,bug
+Polidea/react-native-ble-plx,957,Android force kill doesn't disconnect,closed,2022-02-16T15:08:08Z,2023-11-02T08:16:12Z,bug
+Polidea/react-native-ble-plx,954,Not able to enable ccc descriptor,closed,2022-02-04T04:55:56Z,2023-10-02T08:21:04Z,bug
+Polidea/react-native-ble-plx,952,Unable to Initialize Library,closed,2022-01-29T22:10:38Z,2022-01-31T10:56:18Z,bug
+Polidea/react-native-ble-plx,948,getting null device name while calling startDeviceScan,closed,2022-01-19T15:32:42Z,2023-11-02T09:05:09Z,bug
+Polidea/react-native-ble-plx,947,Scanning is stopped when app is in the background and screen is locked,closed,2022-01-18T09:03:26Z,2023-10-02T08:20:52Z,bug
+Polidea/react-native-ble-plx,946,Current react native app cannot build due to jcenter connection issue.,closed,2022-01-17T19:17:30Z,2023-10-02T08:21:17Z,bug
+Polidea/react-native-ble-plx,931,Does not scan when pass UUIDs to startDeviceScan on Android,closed,2021-12-03T14:13:38Z,2023-10-02T08:21:39Z,bug
+Polidea/react-native-ble-plx,929,manager.startDeviceScan not working on Android API 28,closed,2021-11-28T14:25:38Z,2023-10-02T08:21:52Z,bug
+Polidea/react-native-ble-plx,921,react-native-ble-plx 2.0.3 error,closed,2021-11-09T03:17:13Z,2021-12-08T15:32:05Z,bug
+Polidea/react-native-ble-plx,919,the app crash,closed,2021-11-03T13:26:52Z,2022-01-11T10:58:48Z,bug
+Polidea/react-native-ble-plx,917,where is 2.0.3 release?,closed,2021-10-31T17:41:17Z,2021-12-07T11:47:20Z,bug
+Polidea/react-native-ble-plx,909,simulated beacons not detecting,closed,2021-10-08T02:43:01Z,2021-12-07T12:39:54Z,bug
+Polidea/react-native-ble-plx,905,Please update MultiplatformBleAdapter to version 0.1.9.,closed,2021-10-01T02:40:07Z,2021-10-02T11:35:27Z,bug
+Polidea/react-native-ble-plx,904,Devices with Extended Advertising enabled are not visible in scan,closed,2021-09-30T23:01:36Z,2023-10-16T14:40:43Z,bug
+Polidea/react-native-ble-plx,903,Loosing data sent from a BLE device,closed,2021-09-29T15:19:54Z,2023-11-02T08:12:10Z,bug
+Polidea/react-native-ble-plx,899,Xcode 13 error builds,closed,2021-09-22T14:09:39Z,2021-12-10T10:51:05Z,bug
+Polidea/react-native-ble-plx,896,Bug Report: Shows warning with React Native 0.65,closed,2021-08-28T08:55:12Z,2021-12-07T14:41:06Z,bug
+Polidea/react-native-ble-plx,893,Bug Report,closed,2021-08-23T21:01:25Z,2023-10-02T08:27:36Z,bug
+Polidea/react-native-ble-plx,892,BLE Scan not finding devices on some phones,closed,2021-08-17T07:59:07Z,2023-10-02T08:28:01Z,bug
+Polidea/react-native-ble-plx,891,How to read and update firmware version of BLE device?,closed,2021-08-12T07:45:59Z,2022-01-04T13:52:17Z,bug
+Polidea/react-native-ble-plx,888,Compile fails in Swift 5.5 and Xcode beta,closed,2021-07-27T08:10:24Z,2021-12-07T15:45:54Z,bug
+Polidea/react-native-ble-plx,882,Link to documentation in README.md is broken,closed,2021-07-16T11:00:46Z,2021-12-07T15:49:22Z,bug
+Polidea/react-native-ble-plx,878,throw error in monitorChracteristicForDevice(),closed,2021-07-08T05:29:43Z,2023-10-02T08:29:37Z,bug
+Polidea/react-native-ble-plx,876,not detecting all nearby devices have BLE support (printer bluetooth),closed,2021-07-01T10:53:31Z,2023-10-02T08:30:15Z,bug
+Polidea/react-native-ble-plx,871,Bug ReportTask :react-native-ble-plx:compileDebugJavaWithJavac FAILED,closed,2021-06-25T02:11:55Z,2023-10-02T08:31:21Z,bug
+Polidea/react-native-ble-plx,858,The manufacturer data is not being updated.,closed,2021-06-09T06:49:41Z,2022-01-13T12:40:17Z,bug
+Polidea/react-native-ble-plx,853,Null pointer exception when we unsubscribe the monitor and clear the ble instance,closed,2021-05-26T15:25:16Z,2023-10-02T08:34:52Z,bug
+Polidea/react-native-ble-plx,850,Android devices truncate monitorCharacteristicForService characteristic.value,closed,2021-05-20T23:36:20Z,2021-06-08T23:34:25Z,bug
+Polidea/react-native-ble-plx,848,[ANDROID] Bluetooth scan doesn't triggered on background,closed,2021-05-20T09:56:45Z,2023-11-02T08:39:28Z,bug
+Polidea/react-native-ble-plx,840,writeWithResponse  error,closed,2021-04-25T01:45:12Z,2022-04-06T01:14:44Z,bug
+Polidea/react-native-ble-plx,839,Android devices filter out peripheral if it contains unique UUID and manufacturer's data,closed,2021-04-18T12:19:18Z,2023-10-02T08:36:54Z,bug
+Polidea/react-native-ble-plx,833,[IOS] Release build fails with linking errors to swift libs despite bridging header,closed,2021-03-17T02:50:15Z,2023-10-02T08:37:31Z,bug
+Polidea/react-native-ble-plx,832,Bug Report: JSON value '1615573835574' of type NSNumber cannot be converted to NSString,closed,2021-03-12T18:54:36Z,2021-06-11T01:10:40Z,"bug, stale"
+Polidea/react-native-ble-plx,828,Device is not connected,closed,2021-03-08T06:45:13Z,2021-04-14T07:40:10Z,bug
+Polidea/react-native-ble-plx,827,Bug Report,closed,2021-03-02T21:24:30Z,2021-04-14T07:41:13Z,bug
+Polidea/react-native-ble-plx,824,[Android] destroying the manager the app crashes returning destroyClient on a null object reference,closed,2021-03-01T00:21:07Z,2021-06-11T01:10:37Z,"bug, stale"
+Polidea/react-native-ble-plx,816,Bug Report Could not resolve all task dependencies for configuration ':app:debugRuntimeClasspath'.    > Could not find com.github.Polidea:MultiPlatformBleAdapter:0.1.7.,closed,2021-02-09T15:32:29Z,2023-10-02T08:37:50Z,bug
+Polidea/react-native-ble-plx,815,"BleError: Invalid UUIDs or IDs were passed: null, null, ",closed,2021-02-06T10:04:29Z,2021-02-09T10:19:33Z,bug
+Polidea/react-native-ble-plx,814,Hard to discoverAllServicesAndCharacteristicsForDevice,closed,2021-02-04T11:01:32Z,2021-02-08T10:27:40Z,bug
+Polidea/react-native-ble-plx,811,writeCharacteristicWithResponseForDevice not firing in Release Build,closed,2021-01-28T08:05:25Z,2021-01-28T13:10:02Z,bug
+Polidea/react-native-ble-plx,810,"NSInternalInconsistencyException: Data {length = 0, bytes = 0x} does not represent a valid UUID",closed,2021-01-27T11:07:00Z,2021-06-11T01:10:28Z,"bug, stale"
+Polidea/react-native-ble-plx,809,onDisconnected never triggered,closed,2021-01-26T12:43:11Z,2021-01-26T15:25:37Z,bug
+Polidea/react-native-ble-plx,806,Bug Report: Disconnecting when subscriptions removed or transactions cancelled,closed,2021-01-21T22:11:18Z,2021-04-14T07:49:38Z,bug
+Polidea/react-native-ble-plx,805,Device name does not update when connecting  ,closed,2021-01-19T11:51:28Z,2021-06-11T01:10:27Z,"bug, stale"
+Polidea/react-native-ble-plx,801,Bug Report,closed,2021-01-17T23:54:15Z,2022-01-04T14:13:46Z,"bug, stale"
+Polidea/react-native-ble-plx,800,Bug Report,closed,2021-01-15T00:13:05Z,2021-04-14T07:46:49Z,bug
+Polidea/react-native-ble-plx,790,error event ios,closed,2020-12-22T13:40:31Z,2023-11-02T08:09:21Z,"bug, pending"
+Polidea/react-native-ble-plx,787,Bug Report,closed,2020-12-19T21:08:03Z,2021-06-07T22:09:15Z,"bug, stale"
+Polidea/react-native-ble-plx,786,Bug Report,closed,2020-12-17T14:45:47Z,2021-06-11T01:10:25Z,"bug, stale"
+Polidea/react-native-ble-plx,780,Cancelling one monitor via transactionID disables second monitor.,closed,2020-12-03T12:00:45Z,2021-03-15T13:51:23Z,bug
+Polidea/react-native-ble-plx,779,Could not find rxandroidble-1.7.1.jar (com.polidea.rxandroidble:rxandroidble:1.7.1).,closed,2020-11-30T06:00:50Z,2020-12-04T10:13:40Z,bug
+Polidea/react-native-ble-plx,776,Fail to build using Xcode 12,closed,2020-11-29T17:47:56Z,2021-01-04T17:35:32Z,bug
+Polidea/react-native-ble-plx,773,Issue with manager.startDeviceScan callback not being fired on iOS when used outside manager.onStateChange callback,closed,2020-11-23T06:00:53Z,2020-12-08T00:16:09Z,"bug, invalid"
+Polidea/react-native-ble-plx,771,Can't Find Characteristic with non-integer identifier,closed,2020-11-19T19:26:13Z,2020-11-20T23:01:26Z,bug
+Polidea/react-native-ble-plx,767,Potential memory leaks on multiple calls to BleManager constructor,closed,2020-11-17T12:38:41Z,2023-11-02T08:09:01Z,"bug, enhancement, question, pending"
+Polidea/react-native-ble-plx,766,[Android] Empty array of services is returned,closed,2020-11-16T22:18:22Z,2021-06-11T01:10:24Z,"bug, stale"
+Polidea/react-native-ble-plx,757,Causing the build to fail ,closed,2020-10-19T05:35:56Z,2020-11-15T07:08:58Z,bug
+Polidea/react-native-ble-plx,754,Bug Report,closed,2020-10-07T15:15:25Z,2021-06-07T22:08:44Z,"bug, stale"
+Polidea/react-native-ble-plx,750,[IOS] Got freezed when writing characteristic data,closed,2020-09-26T16:15:03Z,2020-12-25T09:50:44Z,"bug, stale"
+Polidea/react-native-ble-plx,749,Bug Report - Duplicate Devices Scanned when `allowDuplicates:false`,closed,2020-09-24T21:23:30Z,2021-06-04T15:42:16Z,"bug, stale"
+Polidea/react-native-ble-plx,744,Bug Report when I log the device and I log the deviceConnected,closed,2020-09-11T01:40:40Z,2020-10-06T22:10:46Z,bug
+Polidea/react-native-ble-plx,739,Bug Report,closed,2020-09-06T05:48:19Z,2020-11-14T09:03:16Z,"bug, stale"
+Polidea/react-native-ble-plx,738,"startDeviceScan error - ""Cannot start scanning operation"" on Android (Samsung Galaxy only)",closed,2020-09-05T13:24:36Z,2020-11-14T09:03:19Z,"bug, stale"
+Polidea/react-native-ble-plx,736,Android/ ConnectionOptions.requestMTU and connected device's mtu field is null?,closed,2020-09-03T10:53:49Z,2021-06-08T11:53:09Z,"bug, stale"
+Polidea/react-native-ble-plx,734,[Android] Connect and discover services - BleError: Device 00:16:A4:4C:B9:6A was disconnected,closed,2020-08-29T01:55:49Z,2020-11-09T06:50:34Z,"bug, stale"
+Polidea/react-native-ble-plx,732,[Android] cancelDeviceConnection is not invoking onDisconnected,closed,2020-08-25T17:46:41Z,2020-08-26T20:24:58Z,bug
+Polidea/react-native-ble-plx,728,Not providing heartbeat and other data from smart watch,closed,2020-08-18T06:53:42Z,2020-11-01T16:49:54Z,"bug, stale"
+Polidea/react-native-ble-plx,723,java.lang.IllegalArgumentException · null is not a valid Bluetooth address,closed,2020-07-27T08:16:06Z,2020-11-29T07:15:26Z,"bug, stale"
+Polidea/react-native-ble-plx,720,[Android] onDeviceDisconnected returns null error when connection lost unexpectedly,closed,2020-07-22T10:20:18Z,2023-11-02T08:08:49Z,"bug, pending"
+Polidea/react-native-ble-plx,719,[iOS] Service for device ? not found,closed,2020-07-21T13:50:47Z,2020-10-03T08:43:04Z,"bug, stale"
+Polidea/react-native-ble-plx,718,[iOS] cancelConnection not working,closed,2020-07-21T12:50:24Z,2020-11-09T06:50:35Z,"bug, stale"
+Polidea/react-native-ble-plx,715,[iOS] Scan - BleError: BluetoothLE is in unknown state,closed,2020-07-16T16:14:12Z,2021-06-11T01:10:22Z,"bug, stale"
+Polidea/react-native-ble-plx,713," not find compatible versions for pod ""MultiplatformBleAdapter""",closed,2020-07-15T10:05:59Z,2020-07-27T10:26:50Z,bug
+Polidea/react-native-ble-plx,708,Bug Report,closed,2020-07-03T11:24:58Z,2020-10-04T08:13:13Z,"bug, blocked, stale"
+Polidea/react-native-ble-plx,703,[iOS] unable to find all nearby devices,closed,2020-06-29T15:20:48Z,2020-07-01T11:23:39Z,bug
+Polidea/react-native-ble-plx,700,Can't monitoring multiple times without disconnect,closed,2020-06-25T16:05:39Z,2020-10-17T20:44:42Z,"bug, blocked, stale"
+Polidea/react-native-ble-plx,699,startDeviceScan listener never called iOS background,closed,2020-06-25T13:25:24Z,2020-06-26T08:21:13Z,bug
+Polidea/react-native-ble-plx,695,Bug Report,closed,2020-06-08T18:13:53Z,2020-06-29T14:44:22Z,bug
+Polidea/react-native-ble-plx,688,"Scanning BLE cannot get the ADV payload, manufactureData: null",closed,2020-06-04T04:37:20Z,2020-08-22T07:37:31Z,"bug, stale"
+Polidea/react-native-ble-plx,676,Bug Report: RSSI time out and Queued status,closed,2020-05-18T18:20:56Z,2020-06-09T13:44:15Z,"bug, blocked"
+Polidea/react-native-ble-plx,675,onDeviceDisconnected doesn't detect lost connection to device,closed,2020-05-15T16:46:38Z,2020-06-05T20:00:11Z,bug
+Polidea/react-native-ble-plx,674,[iOS] Cannot read characteristics after update to 2.0.0,closed,2020-05-15T14:32:48Z,2020-10-03T08:43:03Z,"bug, stale"
+Polidea/react-native-ble-plx,670,Detecting connection status doesn't seem to work,closed,2020-05-10T17:08:51Z,2020-05-10T17:24:51Z,bug
+Polidea/react-native-ble-plx,667,startDeviceScan Unexpected Behavior.,closed,2020-05-08T00:45:43Z,2020-05-14T16:08:36Z,bug
+Polidea/react-native-ble-plx,664,Bug Report,closed,2020-05-06T20:05:36Z,2020-06-29T14:26:44Z,bug
+Polidea/react-native-ble-plx,663,[Android] v2.0.0 seems to ignore onDeviceDisconnected callback,closed,2020-05-06T19:33:13Z,2020-06-05T20:00:11Z,bug
+Polidea/react-native-ble-plx,662,[iOS] errorCode:205 (Device is not connected) when performing readCharacteristicForService,closed,2020-05-06T16:48:55Z,2020-06-29T14:50:54Z,bug
+Polidea/react-native-ble-plx,659,null is not an object (evaluating '_BleModule.BleModule.createClient'),closed,2020-05-02T16:41:58Z,2020-05-06T16:57:38Z,bug
+Polidea/react-native-ble-plx,658,discoverAllServicesAndCharacteristics fails and disconnect the device,closed,2020-05-01T17:10:21Z,2020-05-04T17:01:39Z,"bug, invalid"
+Polidea/react-native-ble-plx,657,[iOS] monitorCharacteristicForDevice fails with error Characteristic 0000ffe1... notify change failed for device 4221AED1... and service 0000ffe0... on sensor tag,closed,2020-04-30T13:50:35Z,2020-09-04T21:53:30Z,"bug, stale"
+Polidea/react-native-ble-plx,656,bleManager.connectToDevice is NOT reporting any error on fail,closed,2020-04-29T23:00:33Z,2020-05-06T21:08:39Z,bug
+Polidea/react-native-ble-plx,655,"bleManager.isDeviceConnected() always returns false, irrespective of it's actually connected or not",closed,2020-04-27T17:22:18Z,2020-11-19T03:59:35Z,"bug, easy, blocked, stale"
+Polidea/react-native-ble-plx,647,Bug Report,closed,2020-04-13T19:58:33Z,2020-06-27T07:01:40Z,"bug, stale"
+Polidea/react-native-ble-plx,638,Bug Report,closed,2020-04-04T08:06:00Z,2020-06-24T10:37:42Z,"bug, stale"
+Polidea/react-native-ble-plx,631,Type for ScanOptions.callbackType is incorrect,closed,2020-03-29T17:43:45Z,2020-04-16T09:00:53Z,bug
+Polidea/react-native-ble-plx,623,Bug Report,closed,2020-03-02T20:39:39Z,2020-03-12T15:26:01Z,bug
+Polidea/react-native-ble-plx,620,Dependency cycle with Async Storage,closed,2020-02-25T02:37:31Z,2020-04-16T09:08:39Z,bug
+Polidea/react-native-ble-plx,617,startDeviceScan no working,closed,2020-02-20T05:16:46Z,2020-06-09T11:22:12Z,"bug, stale"
+Polidea/react-native-ble-plx,613,Bug Report,closed,2020-02-12T07:48:50Z,2020-02-12T11:51:57Z,bug
+Polidea/react-native-ble-plx,608,Characteristic notifications arrive out of order on Android,closed,2020-01-31T13:36:30Z,2020-05-22T09:34:39Z,bug
+Polidea/react-native-ble-plx,607,Found issue in Discovering the characteristics - Version 1.1.0 and above,closed,2020-01-30T15:03:38Z,2020-01-31T16:28:26Z,bug
+Polidea/react-native-ble-plx,605,manufacturerData of first returned peripheral record is null,closed,2020-01-27T08:27:47Z,2020-04-07T14:26:06Z,"bug, stale"
+Polidea/react-native-ble-plx,604,[iOS] JS thread freezes when turning on or off bluetooth,closed,2020-01-21T07:52:45Z,2020-04-07T14:26:08Z,"bug, stale"
+Polidea/react-native-ble-plx,603,Bug Report userState React Hooks,closed,2020-01-19T19:09:01Z,2020-05-25T11:17:36Z,"bug, stale"
+Polidea/react-native-ble-plx,601,"IOS strange and random disconnects (Code=6 ""The connection has timed out unexpectedly."")",closed,2020-01-17T08:33:28Z,2020-04-07T14:26:09Z,"bug, stale"
+Polidea/react-native-ble-plx,590,node module cannot be null. please help thank you!,closed,2019-12-16T02:18:55Z,2019-12-19T11:10:16Z,bug
+Polidea/react-native-ble-plx,589,"On IOS, localname and others data are missing sometimes",closed,2019-12-13T11:04:25Z,2022-01-07T12:20:38Z,"bug, pending"
+Polidea/react-native-ble-plx,586,Experiencing Freeze while monitor,closed,2019-12-10T21:17:04Z,2019-12-11T10:54:59Z,bug
+Polidea/react-native-ble-plx,574,"Bluetooth printer just prints once, stops printing, and then prints duplicates",closed,2019-11-13T19:29:01Z,2019-11-14T13:36:49Z,bug
+Polidea/react-native-ble-plx,573,State gets Unsupported after refresh or JS crash,closed,2019-11-13T12:13:39Z,2020-05-30T14:57:40Z,"bug, stale"
+Polidea/react-native-ble-plx,569,Bug Report - Android successful connection Bonding ,closed,2019-11-07T13:50:35Z,2020-01-13T14:53:50Z,"bug, stale"
+Polidea/react-native-ble-plx,568,[iOS] - The writeCharacteristicWithResponseForDevice promise does not resolves,closed,2019-11-06T13:50:20Z,2019-11-07T09:02:45Z,bug
+Polidea/react-native-ble-plx,566,[IOS] - discoverAllServicesAndCharacteristics throws error,closed,2019-11-04T22:21:20Z,2019-11-10T21:51:03Z,bug
+Polidea/react-native-ble-plx,565,[iOS]: Crashed: com.facebook.react.BleClientManagerQueue EXC_BAD_ACCESS,closed,2019-11-04T19:59:38Z,2020-01-26T11:14:30Z,"bug, stale"
+Polidea/react-native-ble-plx,563,monitorCharacteristicForDevice gets stuck ,closed,2019-10-31T17:25:52Z,2019-11-05T08:52:45Z,bug
+Polidea/react-native-ble-plx,560,Bug Report,closed,2019-10-22T07:47:02Z,2019-12-28T08:36:57Z,"bug, stale"
+Polidea/react-native-ble-plx,556,Parsing Manufacturer Specific Data when using Scan Response Event Type - Reopen #483,closed,2019-10-11T11:34:27Z,2019-10-16T09:54:47Z,bug
+Polidea/react-native-ble-plx,554,Bug: Unable to read packages larger than 185 bytes in iOS,closed,2019-10-09T16:23:35Z,2020-01-12T20:44:19Z,"bug, stale"
+Polidea/react-native-ble-plx,553,Issue with paring after forget device,closed,2019-10-09T06:58:02Z,2020-04-07T14:26:04Z,"bug, stale"
+Polidea/react-native-ble-plx,550,Build error xcode 10.3,closed,2019-10-03T23:12:59Z,2019-12-10T01:33:48Z,"bug, stale"
+Polidea/react-native-ble-plx,549,Bug Report: Fail to write  150+ byte payloads,closed,2019-09-30T16:12:48Z,2019-09-30T18:12:03Z,bug
+Polidea/react-native-ble-plx,548,Must call 'device.discoverAllServicesAndCharacteristics()' multiple times,closed,2019-09-28T02:39:07Z,2019-12-02T23:46:41Z,bug
+Polidea/react-native-ble-plx,547,Bug Report - After removing a subscription I still receive messages,closed,2019-09-25T09:09:39Z,2019-12-01T09:37:24Z,"bug, stale"
+Polidea/react-native-ble-plx,546,No visible @interface for 'BleClientManager' declares the selector 'descriptorsForDevice:serviceUUID:characteristicUUID:resolve:reject:',closed,2019-09-23T08:34:50Z,2019-09-23T11:38:17Z,bug
+Polidea/react-native-ble-plx,545,iOS 13 - canSendWriteWithoutResponse is only available in iOS 11 or higher.,closed,2019-09-23T08:25:51Z,2019-09-23T08:32:56Z,bug
+Polidea/react-native-ble-plx,544,Keep getting this2.error is not a function,closed,2019-09-22T20:56:19Z,2019-12-15T03:28:27Z,"bug, stale"
+Polidea/react-native-ble-plx,541,Unknown error occurred. This is probably a bug! Check reason property.,closed,2019-09-17T07:58:03Z,2019-09-25T08:03:18Z,bug
+Polidea/react-native-ble-plx,537,Remove const enums from index.d.ts do it works with --isolatedModules,closed,2019-09-13T13:47:23Z,2019-11-19T14:54:33Z,"bug, stale"
+Polidea/react-native-ble-plx,529,Scanning in background task.,closed,2019-09-03T22:00:55Z,2020-02-21T16:34:45Z,"bug, pending"
+Polidea/react-native-ble-plx,528,startDeviceScan not returning any values in Android ... ,closed,2019-09-03T10:28:28Z,2019-11-27T10:11:20Z,bug
+Polidea/react-native-ble-plx,525,Bug Report,closed,2019-08-21T17:32:47Z,2019-08-22T17:20:55Z,bug
+Polidea/react-native-ble-plx,521,Showing as BluetoothPoweredOff on react-native 0.60.4,closed,2019-08-10T02:07:03Z,2019-08-27T19:02:51Z,bug
+Polidea/react-native-ble-plx,513,startDeviceScan not working on Android 8.1! specifically on the oppo f7 device,closed,2019-07-28T14:47:09Z,2019-10-08T13:51:07Z,"bug, stale"
+Polidea/react-native-ble-plx,512,readCharacteristicForDevice incorrect value read on Android,closed,2019-07-26T15:57:29Z,2019-11-08T20:09:45Z,"bug, stale"
+Polidea/react-native-ble-plx,509,services() and servicesForDevice() return different results (both incorrect),closed,2019-07-24T15:15:12Z,2019-07-24T15:39:49Z,bug
+Polidea/react-native-ble-plx,507,"updated iPhone to iOS 12.4, BLE scan() stopped working",closed,2019-07-23T21:56:52Z,2019-08-02T20:17:55Z,bug
+Polidea/react-native-ble-plx,501,"Android, connectToDevice() repeatedly fails after a few successes",closed,2019-07-17T16:06:43Z,2019-11-25T13:50:35Z,"bug, stale"
+Polidea/react-native-ble-plx,499,Device.serviceUuids always returns empty,closed,2019-07-16T07:15:04Z,2019-08-27T08:02:39Z,bug
+Polidea/react-native-ble-plx,494,"Bug Report: [iOS Background & Suspended mode]""the callback never gets invoked in the startDeviceScan """,closed,2019-07-11T21:05:40Z,2019-07-15T17:54:46Z,bug
+Polidea/react-native-ble-plx,492,`SWIFT_VERSION` attribute set. Please contact the author or set the `SWIFT_VERSION` attribute in at least one of the targets that integrate this pod,closed,2019-07-05T07:41:38Z,2019-12-06T07:44:42Z,bug
+Polidea/react-native-ble-plx,489,Device was Disconnected - monitorCharacteristicForService,closed,2019-06-22T15:27:03Z,2019-08-30T12:31:52Z,"bug, stale"
+Polidea/react-native-ble-plx,487,BleError: Characteristic ... read failed for device,closed,2019-06-19T15:23:27Z,2019-06-22T00:31:37Z,bug
+Polidea/react-native-ble-plx,483,Parsing Manufacturer Specific Data when using Scan Response Event Type,closed,2019-06-11T22:54:38Z,2019-08-17T23:40:52Z,"bug, stale"
+Polidea/react-native-ble-plx,482,ScanCallbackType not working,closed,2019-06-07T09:14:19Z,2019-06-07T09:34:51Z,bug
+Polidea/react-native-ble-plx,481,All devices scanned have name equals to null,closed,2019-06-05T10:07:27Z,2019-06-05T11:38:36Z,bug
+Polidea/react-native-ble-plx,480,Expo tutorial failing to build,closed,2019-06-02T21:20:09Z,2019-06-03T04:56:37Z,bug
+Polidea/react-native-ble-plx,468,BleError: Characteristic X notify change failed for device Y and service Z  - monitoring ESP32 Arduino device peripheral on iOS,closed,2019-05-21T15:13:50Z,2019-05-27T13:29:17Z,bug
+Polidea/react-native-ble-plx,467,Memory Leak on iOS,closed,2019-05-21T15:09:16Z,2020-02-26T09:01:06Z,"bug, pending"
+Polidea/react-native-ble-plx,461,"Bug Report: ""BleError: Device is not authorized to use BluetoothLE""",closed,2019-05-08T18:10:10Z,2019-07-28T10:11:46Z,bug
+Polidea/react-native-ble-plx,460,error: The following binaries use incompatible versions of Swift: only in release mode,closed,2019-05-03T07:02:08Z,2019-07-12T08:19:31Z,"bug, stale"
+Polidea/react-native-ble-plx,457,Linker Error finding Swift Support Libraries,closed,2019-05-01T12:33:18Z,2019-05-01T12:34:36Z,bug
+Polidea/react-native-ble-plx,446,Android's monitorCharacteristicForDevice not working,closed,2019-04-08T17:25:12Z,2019-04-09T08:28:15Z,bug
+Polidea/react-native-ble-plx,443,Cannot connect to device using Service UUIDs,closed,2019-04-05T01:34:20Z,2019-04-10T00:16:52Z,bug
+Polidea/react-native-ble-plx,442,monitorCharacteristicForService value is fragmented,closed,2019-04-03T19:46:25Z,2019-04-05T17:52:19Z,bug
+Polidea/react-native-ble-plx,441,Please swift version so we can use thanks!,closed,2019-04-03T02:21:45Z,2019-06-29T06:16:17Z,"bug, stale"
+Polidea/react-native-ble-plx,436,linker command failed with exit code 1,closed,2019-03-22T12:39:36Z,2019-03-22T13:26:39Z,bug
+Polidea/react-native-ble-plx,435,Application hangs during startDeviceScan due to which the user is unable to navigate back or press any button.,closed,2019-03-21T04:28:34Z,2019-05-28T13:58:19Z,"bug, stale"
+Polidea/react-native-ble-plx,357,[Android][iOS] Inconsequent scan behaviour,closed,2018-10-30T17:05:17Z,2019-03-23T04:54:29Z,"bug, stale"
+Polidea/react-native-ble-plx,352,[Android] ConcurrentModificationException,closed,2018-10-29T14:01:24Z,2018-11-21T09:09:31Z,bug
+Polidea/react-native-ble-plx,265,[iOS][0.9.0] Device.onDisconnected() emits nulls,closed,2018-04-26T14:39:11Z,2019-03-23T04:54:27Z,"bug, stale"
+Polidea/react-native-ble-plx,242,get an error when I run flow to check types,closed,2018-03-24T09:45:37Z,2019-03-23T05:46:26Z,"bug, stale"
+Polidea/react-native-ble-plx,227,onDisconnected called multiple times for a disconnected device,closed,2018-02-15T12:19:15Z,2019-04-09T22:25:22Z,"bug, stale"
+Polidea/react-native-ble-plx,184,Communication only works with most recently connected device,closed,2017-11-29T06:57:47Z,2018-01-05T15:15:19Z,bug
+Polidea/react-native-ble-plx,176,Not able to get all Service data in Scan ,closed,2017-11-14T12:13:32Z,2018-04-09T07:34:49Z,bug
+Polidea/react-native-ble-plx,36,issues installing,closed,2016-11-25T05:13:31Z,2017-08-08T08:15:48Z,bug
+Polidea/react-native-ble-plx,32,[Android] Incorrectly getting Bluetooth Powered off error,closed,2016-11-15T13:55:54Z,2017-11-29T16:38:34Z,bug
+Polidea/react-native-ble-plx,30,[iOS] Bug with discoverAllServicesAndCharacteristics,closed,2016-11-11T21:34:49Z,2019-03-23T05:46:39Z,"bug, stale"
+Polidea/react-native-ble-plx,8,device.cancelConnection bug (and fix),closed,2016-10-10T03:08:42Z,2016-10-10T18:14:38Z,bug
+abrensch/brouter,872,Time element missing at start when no intermediate route points,closed,2026-01-16T07:46:25Z,2026-01-18T17:10:51Z,bug
+abrensch/brouter,695,Brouter Java error,closed,2024-05-11T05:12:18Z,2024-06-03T18:11:04Z,"bug, android"
+abrensch/brouter,680,Intermediate nodes on a route break the Data table's Time and Energy values,open,2024-03-10T20:14:53Z,,bug
+abrensch/brouter,659,zip file of  v1.7.3 realeases ,open,2024-01-09T16:32:58Z,,bug
+abrensch/brouter,643,Profile settings ,closed,2023-11-02T08:00:40Z,2024-04-09T14:58:20Z,bug
+abrensch/brouter,627,BRouter - OruxMaps mismatch since last update ,closed,2023-09-09T13:27:49Z,2024-03-01T09:38:19Z,"bug, android"
+abrensch/brouter,604,profile=hiking-mountain routes over way with foot=no,open,2023-07-30T17:57:02Z,,"bug, profiles"
+abrensch/brouter,603,NullPointerException thow in VoiceHintProcessor class,closed,2023-07-30T05:11:16Z,2024-04-10T14:42:11Z,bug
+abrensch/brouter,580,Unknown lookup name: estimated_noise_class,closed,2023-07-07T10:51:01Z,2024-04-10T14:45:22Z,bug
+abrensch/brouter,574,Crash on update,closed,2023-07-02T20:33:31Z,2024-04-10T14:47:03Z,bug
+abrensch/brouter,572,"""No right turn on red"" relation is wrongly interpreted as a prohibited turn",closed,2023-06-23T04:25:17Z,2023-10-30T07:30:12Z,bug
+abrensch/brouter,568,Start marker is to far from a route,closed,2023-06-09T20:57:30Z,2024-04-10T14:51:21Z,bug
+abrensch/brouter,512,Nogo area permanently in Android not working,closed,2023-03-16T11:13:29Z,2023-04-27T16:20:51Z,"bug, android"
+abrensch/brouter,505,No antemeridian support?,open,2023-02-08T08:46:56Z,,bug
+abrensch/brouter,425,Routing bug concerning closed highways,open,2022-04-24T12:24:34Z,,bug
+abrensch/brouter,232,Brouter-Web on mobile: adjust route in between two waypoints,closed,2020-04-01T06:01:55Z,2023-07-22T15:06:54Z,bug
+abrensch/brouter,18,Break up long way sections by intermediate points,closed,2014-07-20T17:56:24Z,2015-10-21T17:34:37Z,bug
+abrensch/brouter,10,timeout-free recalculation after nogo-changes ,closed,2014-02-02T15:56:23Z,2014-08-14T16:21:55Z,bug
+abrensch/brouter,4,bike routes: evaluate network tag,closed,2014-01-19T11:40:46Z,2014-04-21T12:37:10Z,bug
+abrensch/brouter,3,cleanup distance calculation,closed,2014-01-19T11:31:41Z,2018-12-11T22:13:06Z,bug
+ianhanniballake/ContractionTimer,93,Cannot add new contraction,closed,2012-08-10T04:11:06Z,2012-08-13T20:52:12Z,Bug
+ianhanniballake/ContractionTimer,91,Edit MenuItem on ViewActivity shows in overflow menu in <v11,closed,2012-08-07T02:39:03Z,2012-08-07T03:02:09Z,Bug
+ianhanniballake/ContractionTimer,90,Widget Titles Too Long,closed,2012-07-25T13:13:09Z,2012-07-26T05:08:41Z,Bug
+ianhanniballake/ContractionTimer,65,CAB Add/Edit Note Wrong,closed,2012-04-21T03:40:28Z,2012-04-21T03:44:21Z,Bug
+ianhanniballake/ContractionTimer,46,Control Widget does not toggle outside average time frame,closed,2012-03-19T18:46:09Z,2012-03-19T18:53:36Z,Bug
+ianhanniballake/ContractionTimer,45,Control Widget does not respect Average time frame,closed,2012-03-18T02:08:57Z,2012-03-18T02:11:39Z,Bug
+ianhanniballake/ContractionTimer,44,Toggle Widget does not trigger contractions more than an hour old,closed,2012-03-18T02:02:27Z,2012-03-18T02:03:54Z,Bug
+ianhanniballake/ContractionTimer,41,Note Dialog does not pre-fill existing notes,closed,2012-03-12T17:02:08Z,2012-03-12T23:25:50Z,Bug
+ianhanniballake/ContractionTimer,38,Live Duration stops when returning to MainActivity,closed,2012-03-07T04:11:24Z,2012-03-07T04:12:50Z,Bug
+ianhanniballake/ContractionTimer,34,Averages disappears on rotation,closed,2011-12-10T03:01:13Z,2011-12-10T04:26:00Z,Bug
+ianhanniballake/ContractionTimer,33,Keep Screen On does not work after closing/reopening,closed,2011-12-05T17:38:02Z,2011-12-05T17:39:52Z,Bug
+ianhanniballake/ContractionTimer,18,Share Button does not enable on first launch,closed,2011-09-18T19:38:11Z,2011-10-28T04:58:31Z,Bug
+ianhanniballake/ContractionTimer,16,Live Duration Updates wrong contraction,closed,2011-09-16T05:21:05Z,2011-09-16T05:37:21Z,Bug
+gbl08ma/underlx,42,App is logging line changes that did not occur,closed,2017-10-30T23:13:56Z,2017-11-18T16:20:26Z,bug
+gbl08ma/underlx,31,App crashes when opening preference fragments,closed,2017-07-29T08:36:06Z,2017-08-01T15:29:18Z,bug

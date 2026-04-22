@@ -1,0 +1,261 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+montselozanod/LearnPop,19,eliminate setting overflow menu from main tool bar,closed,2015-04-12T05:48:21Z,2015-04-15T08:35:28Z,bug
+iTXTech/Daedalus,128,[BUG] APP随机崩溃并丢失所有旧的配置,open,2024-01-02T20:33:28Z,,bug
+iTXTech/Daedalus,119,compile app error in API 30,closed,2020-10-20T10:20:32Z,2022-05-23T03:55:56Z,bug
+iTXTech/Daedalus,114,B,closed,2019-11-05T03:11:21Z,2019-11-06T06:35:25Z,bug
+iTXTech/Daedalus,112,App and service gets killed in low memory situations.,closed,2019-09-13T10:59:17Z,2019-10-10T02:59:19Z,bug
+iTXTech/Daedalus,111,"hello, Vpn does not work when the application is on the back of Android 9. Xiaomi Redmi Vpn never starts",closed,2019-08-06T20:48:00Z,2019-10-10T03:00:08Z,bug
+iTXTech/Daedalus,61,Failed to download rule on Android Oreo,closed,2018-02-14T14:26:20Z,2018-06-23T03:18:28Z,bug
+iTXTech/Daedalus,26,使用中的小问题,closed,2017-07-21T09:16:28Z,2017-07-29T14:43:56Z,bug
+abhijitparida/bunk,7,Users can access all locally saved passwords with the toggle password visibility button,closed,2018-01-27T21:32:06Z,2018-04-08T08:22:45Z,bug
+abhijitparida/bunk,6,Password can be toggled to visible during waiting time.,closed,2018-01-27T21:13:20Z,2018-01-27T21:26:42Z,bug
+timeforcoffee/timeforcoffee-android,109,Fix connections with departure,closed,2020-01-21T08:16:32Z,2021-04-05T15:32:03Z,bugfix
+timeforcoffee/timeforcoffee-android,71,Some regions don't provide all expected informations,closed,2018-03-19T15:22:20Z,2018-06-22T12:48:28Z,bugfix
+timeforcoffee/timeforcoffee-android,64,"""Network error"" when clicking on some lines from certain ""stations""",closed,2018-03-12T16:53:23Z,2018-03-16T10:38:38Z,bugfix
+timeforcoffee/timeforcoffee-android,60,Some connection checkpoints are not stations: find a way to filter them,closed,2018-03-12T12:55:47Z,2018-03-16T09:57:00Z,bugfix
+timeforcoffee/timeforcoffee-android,59,Loading location layout on the main activity does not disappear when coming from another activity,closed,2018-03-12T12:17:49Z,2018-03-12T15:05:40Z,bugfix
+timeforcoffee/timeforcoffee-android,52,"Watch: Smaller timeout, hide the spinner after it and display not connected message",closed,2018-03-09T09:03:55Z,2018-03-09T09:56:36Z,bugfix
+timeforcoffee/timeforcoffee-android,48,Fix crash report,closed,2018-02-27T09:29:05Z,2018-02-27T15:31:58Z,bugfix
+timeforcoffee/timeforcoffee-android,43,Fix some crashes due to fragment saving/restoration issue,closed,2018-02-19T17:04:37Z,2018-02-20T09:01:19Z,bugfix
+timeforcoffee/timeforcoffee-android,41,Layout issue on small devices,closed,2018-02-19T14:15:49Z,2018-02-27T15:50:12Z,bugfix
+timeforcoffee/timeforcoffee-android,25,App crashes on restore when one of the activity was killed,closed,2017-09-01T09:58:42Z,2017-11-14T10:12:16Z,bugfix
+timeforcoffee/timeforcoffee-android,16,Nearby stations do not load until a map is opened,closed,2017-04-26T19:51:30Z,2018-02-09T12:54:42Z,bugfix
+timeforcoffee/timeforcoffee-android,4,Watch: stations are not refreshed when opening the watch,closed,2017-01-31T19:45:10Z,2018-03-09T09:02:40Z,bugfix
+Bearded-Hen/Android-Bootstrap,196,[BootstrapLabel] If label text is empty it shows colored box ,closed,2017-03-30T05:38:43Z,2017-07-22T09:04:10Z,bug
+Bearded-Hen/Android-Bootstrap,194,Upgrading AwesomeFont to version 4.7,closed,2017-03-06T15:34:51Z,2017-07-22T09:02:17Z,"bug, help_welcome"
+Bearded-Hen/Android-Bootstrap,192,BootstrapEditText brand code error,closed,2017-01-18T03:51:28Z,2017-07-22T09:33:35Z,bug
+Bearded-Hen/Android-Bootstrap,191,[BootstrapDropdown] Calculation of longest item is wrong,open,2017-01-08T13:06:30Z,,bug
+Bearded-Hen/Android-Bootstrap,182,[Question] How to text align left in BootstrapLabel,closed,2016-11-21T08:02:51Z,2016-12-10T17:11:47Z,bug
+Bearded-Hen/Android-Bootstrap,181,Bootstrap Label Corners not changing to Square,closed,2016-10-16T10:57:51Z,2016-12-10T17:11:55Z,bug
+Bearded-Hen/Android-Bootstrap,177,Dropdown not working on API 23 (6.0),closed,2016-08-17T19:09:30Z,2016-12-10T17:14:04Z,bug
+Bearded-Hen/Android-Bootstrap,176,Got this after Compile my App,open,2016-08-13T14:08:52Z,,bug
+Bearded-Hen/Android-Bootstrap,175,BootstrapGroupButton BootstrapButton type radio act as Toggle button ? ,closed,2016-08-04T12:49:28Z,2016-12-10T17:11:38Z,bug
+Bearded-Hen/Android-Bootstrap,173,Add Gradle wrapper,closed,2016-07-17T20:48:53Z,2016-12-10T15:59:53Z,bug
+Bearded-Hen/Android-Bootstrap,161,"Attribute ""progress"" has already been defined",closed,2016-05-14T14:57:29Z,2016-07-02T10:29:58Z,"bug, ready_for_testing"
+Bearded-Hen/Android-Bootstrap,155,"AwesomeTextView ""android:clickable"" cannot be set to false within XML",closed,2016-04-06T20:35:25Z,2016-07-02T10:30:28Z,"bug, ready_for_testing"
+Bearded-Hen/Android-Bootstrap,129,Android Studio Preview : AwesomeTextView,closed,2015-11-23T23:23:35Z,2015-11-30T09:52:21Z,bug
+Bearded-Hen/Android-Bootstrap,127,BootstrapButton in BootstrapButtonGroup default check value,closed,2015-11-16T07:05:05Z,2016-02-26T21:41:51Z,bug
+Bearded-Hen/Android-Bootstrap,125,Getting this Exception when using custom style. Small bug overall i love this lib,closed,2015-11-10T08:42:14Z,2015-11-30T09:50:39Z,bug
+Bearded-Hen/Android-Bootstrap,120,AwesomeTextView doesn't render icon's name with underscores,closed,2015-11-04T18:35:13Z,2015-11-30T09:52:11Z,bug
+Bearded-Hen/Android-Bootstrap,119,OnClickListener of BootstrapButton within BootstrapButtonGroup,closed,2015-10-28T03:48:56Z,2016-07-02T10:31:07Z,"bug, ready_for_testing"
+Bearded-Hen/Android-Bootstrap,117,edittext with icon not working in v2.0 ,open,2015-10-11T20:54:16Z,,"bug, help_welcome"
+Bearded-Hen/Android-Bootstrap,115,Text Can't Be Aligned Top & Left,closed,2015-10-09T15:35:32Z,2015-11-30T09:52:53Z,bug
+Bearded-Hen/Android-Bootstrap,107,BootstrapButton,closed,2015-08-14T08:20:14Z,2015-10-08T13:29:12Z,bug
+Bearded-Hen/Android-Bootstrap,97,"In API 21+, FontAwesome icons clip on right-side in ",closed,2015-05-06T08:08:52Z,2015-11-30T09:52:56Z,"bug, clarification_needed"
+Bearded-Hen/Android-Bootstrap,76,Android Studio Preview Issue,closed,2014-12-21T22:54:12Z,2015-11-30T09:52:26Z,"bug, clarification_needed"
+Bearded-Hen/Android-Bootstrap,74,Error inflating class com.beardedhen.androidbootstrap.BootstrapButton,closed,2014-12-12T01:48:46Z,2014-12-12T10:24:30Z,bug
+Bearded-Hen/Android-Bootstrap,70,"After updating the library from April to today's version, button suddenly not displayed correctly",closed,2014-12-02T14:51:56Z,2015-01-27T10:26:24Z,bug
+Bearded-Hen/Android-Bootstrap,68,Bootstrap buttons not streching to fill the requred space,closed,2014-11-24T06:56:34Z,2014-11-28T10:23:21Z,bug
+Bearded-Hen/Android-Bootstrap,65,BootstrapCircleThumbnail is not displayed correctly,closed,2014-11-19T12:07:47Z,2014-11-25T11:07:30Z,bug
+Bearded-Hen/Android-Bootstrap,64,Android support v4 conflict using maven central,closed,2014-11-16T22:39:11Z,2014-11-21T17:48:42Z,bug
+Bearded-Hen/Android-Bootstrap,37,BootstrapButton created by code not visible,closed,2014-01-17T07:24:57Z,2015-10-08T13:27:05Z,bug
+vishesh/sealnote,25,Crashes at wakeup,closed,2016-11-06T18:56:12Z,2016-11-22T03:52:21Z,"bug, urgent"
+vishesh/sealnote,16,Reset data from app start screen,open,2016-02-18T09:45:13Z,,bug
+vishesh/sealnote,15,Restore crashes on some phones because of missing content selector ,open,2016-02-18T09:33:59Z,,bug
+vishesh/sealnote,14,Message of Note Saved even after note is empty,closed,2016-02-04T09:59:11Z,2017-03-12T22:33:47Z,bug
+vishesh/sealnote,12,Keep password in byte[] than Strings,open,2016-02-02T08:44:21Z,,bug
+vishesh/sealnote,11,Archive after editing doesn't save the note,closed,2015-11-29T11:31:48Z,2017-03-06T21:43:48Z,bug
+vishesh/sealnote,1,cursor goes under toolbar,open,2015-05-07T07:01:54Z,,bug
+javiersantos/AppUpdater,199,build error package error java.lang.runtimeexception:ta: unknown tag byte: 13 in aide,open,2020-12-16T02:34:25Z,,possible bug
+javiersantos/AppUpdater,156,Caused by java.lang.NoClassDefFoundError org.jsoup.parser.Parser,open,2019-02-01T20:21:49Z,,possible bug
+javiersantos/AppUpdater,132,Always get Latest Version 0.0.0.0 update from GOOGLE_PLAY,closed,2018-04-01T17:23:33Z,2018-07-05T22:01:49Z,"bug, help wanted"
+javiersantos/AppUpdater,118,The JSON updater file is mal-formatted. AppUpdate can't check for updates,closed,2018-01-11T14:11:30Z,2018-07-06T10:15:47Z,possible bug
+javiersantos/AppUpdater,110,RuntimeException is not caught on doInBackground ,open,2017-11-28T17:57:38Z,,possible bug
+javiersantos/AppUpdater,107,Seeing crash in Fabric/Crashlytics,open,2017-11-03T02:30:49Z,,possible bug
+javiersantos/AppUpdater,85,Dialog don't pop up when including latestVersionCode (JSON),closed,2017-04-01T01:28:39Z,2017-04-01T11:35:49Z,bug
+javiersantos/AppUpdater,75,Fatal error if activity closes while it's connecting,open,2017-02-01T22:11:47Z,,possible bug
+javiersantos/AppUpdater,33,RuntimeException in UtilsLibrary class,closed,2016-06-27T07:34:11Z,2016-08-27T11:56:52Z,bug
+javiersantos/AppUpdater,22,Snackbar is shown behind the Soft Navigation bar (button),closed,2016-03-04T07:53:36Z,2016-03-04T09:58:18Z,bug
+javiersantos/AppUpdater,15,Warning : string 'app_name' marked untranslatable but exists in locale 'fr',closed,2016-02-27T08:05:02Z,2016-02-28T15:49:51Z,bug
+javiersantos/AppUpdater,13,"Google Play returns ""Varies by Device""",closed,2016-02-25T19:04:04Z,2016-02-28T15:45:54Z,bug
+javiersantos/AppUpdater,12,Missing resource?,closed,2016-02-25T18:28:12Z,2016-02-26T12:57:46Z,bug
+javiersantos/AppUpdater,10,Snackbar update strings ,closed,2016-02-25T09:25:04Z,2016-02-25T12:14:32Z,bug
+martinohanlon/BlueDot,85,"Round x,y values in MockBlueDot",closed,2017-11-06T22:39:54Z,2017-12-06T08:13:17Z,bug
+martinohanlon/BlueDot,75,Android - rendering on small screen devices,closed,2017-09-09T12:40:21Z,2017-11-05T14:53:10Z,bug
+martinohanlon/BlueDot,67,Exception thrown when callback function uses Python3 return value declaration,closed,2017-07-05T11:46:14Z,2017-07-23T08:00:53Z,bug
+martinohanlon/BlueDot,61,BlueDot(power_up_device) doesn't work,closed,2017-06-07T13:49:25Z,2017-06-19T20:22:36Z,bug
+martinohanlon/BlueDot,59,wait_for_double_press bug,closed,2017-06-05T10:07:16Z,2017-06-19T20:22:49Z,bug
+yeokm1/nus-soc-print,4,Crash if no web/email client installed on phone when user click on link,closed,2014-03-20T02:13:48Z,2014-12-20T01:45:55Z,bug
+ITsvetkoFF/Kv-009,163,We don't apply time-zone when display problem's date in sliding layer header.,closed,2015-08-13T08:16:28Z,2015-08-19T11:51:58Z,bug
+ITsvetkoFF/Kv-009,160,delete AddproblemFragment after disableAddProblemMode(),closed,2015-08-11T10:33:28Z,2015-08-13T09:47:33Z,bug
+ITsvetkoFF/Kv-009,151,fix switch between fragments while adding problem,closed,2015-08-07T11:21:29Z,2015-08-10T09:26:14Z,bug
+ITsvetkoFF/Kv-009,148,show recently added problem after filters were set,closed,2015-08-07T08:47:33Z,2015-08-07T11:43:59Z,bug
+ITsvetkoFF/Kv-009,144,fix marker in addProblemMode after screen rotating,closed,2015-08-05T18:08:22Z,2015-08-06T10:12:42Z,bug
+ITsvetkoFF/Kv-009,106,Bug with EditText,closed,2015-07-28T11:57:31Z,2015-08-04T08:22:10Z,bug
+ITsvetkoFF/Kv-009,104,Title in the Toolbar is not appropriate when you select the menu item.,closed,2015-07-28T09:54:53Z,2015-08-02T14:50:31Z,bug
+ITsvetkoFF/Kv-009,100,Hiding the problem using swipe down gesture - keyboard problem,closed,2015-07-27T20:40:32Z,2015-08-03T10:16:43Z,bug
+ITsvetkoFF/Kv-009,83,Handle internet connection and login while voted,closed,2015-07-22T20:48:36Z,2015-07-27T12:35:26Z,bug
+ITsvetkoFF/Kv-009,82,Handle Google Services availability in MainActivity,closed,2015-07-22T17:02:30Z,2015-08-13T09:31:24Z,bug
+Give2Peer/g2p-client-android,3,Item images are mishandled.,closed,2016-06-12T18:28:52Z,2016-11-30T07:21:23Z,bug
+Give2Peer/g2p-client-android,2,Some devices fail to upload images,closed,2016-05-03T19:53:15Z,2016-05-08T20:02:12Z,bug
+Give2Peer/g2p-client-android,1,Items disappear from the map,closed,2016-05-02T16:00:32Z,2016-05-03T19:05:18Z,bug
+oSoc14/Artoria,103,Route crashes,closed,2015-02-02T19:04:16Z,2015-02-02T19:39:15Z,bug
+oSoc14/Artoria,84,MuseumActivity crashes on fling left,closed,2014-09-26T20:53:56Z,2014-09-26T21:01:02Z,bug
+oSoc14/Artoria,83,Cheap devices can open panorama,closed,2014-09-10T11:54:50Z,2014-09-10T12:21:15Z,bug
+oSoc14/Artoria,79,App crashes when there's no internet,closed,2014-07-25T09:53:33Z,2014-09-10T12:41:30Z,bug
+oSoc14/Artoria,76,Route planning going to detailview gives the wrong detail,closed,2014-07-24T11:29:54Z,2014-07-24T14:44:50Z,bug
+oSoc14/Artoria,75,POI's in panorama are not displayed on the right location,open,2014-07-24T11:29:07Z,,bug
+oSoc14/Artoria,69,Calculate route is broken,closed,2014-07-21T13:23:23Z,2014-07-23T20:42:52Z,bug
+oSoc14/Artoria,66,monument detail: tilting device destroys layout ,closed,2014-07-21T11:01:46Z,2014-07-21T12:21:39Z,bug
+oSoc14/Artoria,64,Language changes when screen is rotated,closed,2014-07-15T14:22:53Z,2014-07-15T14:45:44Z,bug
+oSoc14/Artoria,57,Fix clickhandlers on the POIMarkers,closed,2014-07-10T09:42:57Z,2014-07-10T11:48:13Z,bug
+oSoc14/Artoria,50,Language selection second time loads initial language,closed,2014-07-09T09:40:29Z,2014-07-09T10:05:48Z,bug
+oSoc14/Artoria,18,bug in buildingview,closed,2014-07-03T12:51:18Z,2014-07-04T11:55:00Z,bug
+oSoc14/Artoria,14,next and previous building is always the same,closed,2014-07-02T12:49:57Z,2014-07-02T13:05:35Z,bug
+oSoc14/Artoria,8,"Language selection, Selected language doesn't get stored in shared pref",closed,2014-07-01T19:46:46Z,2014-07-02T11:56:55Z,bug
+sawankh/MathAttack,9,Bullet speed bug.,closed,2015-03-28T14:20:03Z,2015-03-28T14:56:24Z,"bug, Android, Game"
+sawankh/MathAttack,7,Game Over animation.,closed,2015-03-28T14:01:31Z,2015-04-02T12:49:17Z,"bug, Game"
+sawankh/MathAttack,5,Bullet not repositioned.,closed,2015-03-28T13:15:24Z,2015-03-28T13:56:40Z,"bug, Android, Game"
+sawankh/MathAttack,4,One bullet one enemy.,closed,2015-03-27T19:47:06Z,2015-03-28T13:57:02Z,"bug, Game"
+sawankh/MathAttack,3,Table bug,closed,2015-03-26T13:56:34Z,2015-03-28T19:34:17Z,"bug, Game"
+Wojtechnology/Sunami,25,Songs do not start at beginning,closed,2015-08-26T03:59:41Z,2015-08-27T00:40:02Z,bug
+Wojtechnology/Sunami,16,Reproduce and fix crash regarding the Recycler View,closed,2015-08-26T02:45:06Z,2015-08-27T00:40:56Z,bug
+Wojtechnology/Sunami,14,Fix issue with artist sorting or with scroll bubble showing wrong first letter.,closed,2015-08-21T13:54:23Z,2015-08-21T23:33:36Z,bug
+Wojtechnology/Sunami,10,Fix thumbnail bug,closed,2015-08-21T04:35:12Z,2015-08-21T23:16:03Z,bug
+Wojtechnology/Sunami,8,Search bar does not lose focus when clicking search,closed,2015-08-17T12:38:48Z,2015-08-18T00:14:42Z,bug
+stuartsoft/PingIT,60,Crash on Registration,closed,2016-04-21T12:05:36Z,2016-04-23T17:39:54Z,bug
+stuartsoft/PingIT,57,Settings persist after logout,open,2016-04-19T20:23:45Z,,bug
+stuartsoft/PingIT,56,Chat persists after logout,open,2016-04-19T20:23:18Z,,bug
+stuartsoft/PingIT,55,"If you have a lot of pings and slide down to see them, trying to slide back up to get to the top always triggers the ""pull down to refresh"" thing. ",open,2016-04-19T00:49:10Z,,bug
+stuartsoft/PingIT,51,Fix crash when a ping is sent to an email that isn't in Parse,closed,2016-04-15T13:58:09Z,2016-04-18T22:48:27Z,bug
+stuartsoft/PingIT,50,"Pressing Back on the main screen brings you to the registration screen where it says ""logging you in with saved credentials""",closed,2016-04-15T00:46:03Z,2016-04-23T19:15:43Z,bug
+stuartsoft/PingIT,49,"Every time you enter Settings, the switch is off even if it was on when you left",closed,2016-04-15T00:45:50Z,2016-04-15T00:45:52Z,bug
+stuartsoft/PingIT,47,Notification Preference Summary,closed,2016-04-13T12:59:16Z,2016-04-15T00:11:30Z,bug
+stuartsoft/PingIT,46,FAQ Flicker,closed,2016-04-13T12:58:40Z,2016-04-29T04:26:41Z,bug
+stuartsoft/PingIT,41,Default ListPreference Does Not Show on First App Run (Dev),closed,2016-04-07T01:49:38Z,2016-04-07T18:45:08Z,bug
+stuartsoft/PingIT,40,Name Entered at Registration Does Not Update Name in Settings (Dev),closed,2016-04-07T01:43:38Z,2016-04-07T18:45:28Z,bug
+stuartsoft/PingIT,38,Tapping App Notification Does Nothing (Dev),closed,2016-04-07T01:35:28Z,2016-04-07T17:19:49Z,bug
+stuartsoft/PingIT,31,Memory Leaks (Dev),closed,2016-04-07T01:02:39Z,2016-04-07T18:48:46Z,bug
+stuartsoft/PingIT,29,Chat Persistence (Dev),closed,2016-04-07T01:01:21Z,2016-04-07T18:20:14Z,bug
+stuartsoft/PingIT,27,FAQ Persistence (Dev),closed,2016-04-07T00:54:58Z,2016-04-23T19:17:46Z,bug
+stuartsoft/PingIT,25,First-Time Settings Incorrect (Dev),closed,2016-04-07T00:52:48Z,2016-04-07T18:49:34Z,bug
+stuartsoft/PingIT,24,User Cannot Disconnect from Chat (Dev),closed,2016-04-07T00:51:12Z,2016-04-07T17:21:49Z,bug
+VriesDeRick/RoosterwijzigingChecker,19,"""Verbindfout"" in list on orientation change",closed,2015-08-08T21:04:21Z,2015-08-17T20:12:36Z,bug
+VriesDeRick/RoosterwijzigingChecker,18,"Keybaord disappearing when entering ""Klas"" in tutorial",open,2015-07-13T14:03:53Z,,bug
+VriesDeRick/RoosterwijzigingChecker,6,"""Klas"" selected, but no ""clusters"", only checked --> Crash",closed,2015-05-03T12:00:53Z,2015-05-03T13:36:23Z,bug
+VriesDeRick/RoosterwijzigingChecker,5,"""Stand says"" Stand vanStand (Stand is default, no ""stand"" is set)",closed,2015-05-02T20:54:23Z,2015-05-06T12:11:46Z,bug
+VriesDeRick/RoosterwijzigingChecker,4,"Crash when no ""klas"" in settings",closed,2015-05-02T20:53:40Z,2015-05-03T13:35:59Z,bug
+VriesDeRick/RoosterwijzigingChecker,3,Rare crash ,closed,2015-04-30T19:24:29Z,2015-05-05T17:57:54Z,bug
+rocketshipapps/adblockfast,102,g,closed,2024-07-06T11:25:48Z,2024-08-09T07:33:48Z,not a bug
+rocketshipapps/adblockfast,98,“Adblock Fast isn’t working” errors,closed,2024-05-13T18:07:07Z,2024-09-18T01:45:57Z,"bug, android, help wanted"
+rocketshipapps/adblockfast,97,Ads may be unblocked after updating,closed,2024-05-13T18:00:23Z,2024-06-07T20:12:20Z,"bug, android, help wanted"
+rocketshipapps/adblockfast,94,"What exactly is ""faster"" doing?! ",closed,2024-04-04T06:21:33Z,2024-04-05T23:49:18Z,"bug, android"
+rocketshipapps/adblockfast,79,administrators,closed,2023-02-17T07:25:46Z,2024-02-14T09:58:01Z,not a bug
+rocketshipapps/adblockfast,77,Timtim83,closed,2021-06-02T21:03:38Z,2024-02-14T09:58:37Z,not a bug
+rocketshipapps/adblockfast,76,https://log.rocketshipapps.com/adblock-fast-2-0-for-android-a7a7945ba649 for details.https://github.com/rocketshipapps/adblockfast,closed,2021-05-14T17:16:40Z,2024-02-14T10:01:04Z,not a bug
+rocketshipapps/adblockfast,72,Fix blocking of sponsored Facebook posts,closed,2019-08-11T05:17:13Z,2019-08-12T11:30:11Z,"bug, chrome"
+rocketshipapps/adblockfast,64,Ads on cp24.com,closed,2019-04-10T18:05:12Z,2019-04-29T08:11:36Z,"bug, android"
+rocketshipapps/adblockfast,59,Blocking content (ads too) on instiz.net,closed,2017-03-20T00:21:04Z,2018-10-07T09:13:14Z,"bug, chrome, cannot reproduce"
+rocketshipapps/adblockfast,57,Tapatalk banners/popups,closed,2017-03-01T19:23:16Z,2018-10-07T09:10:14Z,"bug, ios, android, cannot reproduce"
+rocketshipapps/adblockfast,41,Custom fonts aren’t rendering,closed,2016-02-07T21:14:11Z,2016-02-17T09:21:58Z,"bug, android"
+rocketshipapps/adblockfast,31,Unblocked ads-stream.com ads,closed,2015-12-02T04:18:01Z,2018-09-24T03:42:39Z,"bug, ios, cannot reproduce"
+rocketshipapps/adblockfast,30,Ads on perezhilton.com,closed,2015-11-23T02:19:04Z,2015-11-23T05:04:39Z,"bug, ios"
+rocketshipapps/adblockfast,28,Loading animation fires 2x,closed,2015-10-30T00:41:05Z,2015-11-05T04:16:01Z,"bug, ios"
+rocketshipapps/adblockfast,27,IOS Build Error,closed,2015-10-24T13:16:55Z,2015-10-27T05:26:30Z,"bug, ios"
+rocketshipapps/adblockfast,26,The app doesn't load the bundled blockerList.json,closed,2015-10-21T15:39:32Z,2015-11-22T23:45:16Z,"bug, ios"
+rocketshipapps/adblockfast,24,Failed to build iOS version,closed,2015-10-19T09:07:38Z,2015-10-27T05:32:11Z,"bug, ios"
+rocketshipapps/adblockfast,16,Too much blocking on ad.nl,closed,2015-09-26T04:32:15Z,2015-11-23T05:04:39Z,"bug, ios"
+rocketshipapps/adblockfast,14,peru21.pe doesn’t render,closed,2015-09-25T16:40:46Z,2015-11-23T05:04:39Z,"bug, ios"
+rocketshipapps/adblockfast,13,ios app install banners are not blocked,closed,2015-09-25T15:07:11Z,2015-09-30T00:20:26Z,"not a bug, ios"
+rocketshipapps/adblockfast,11,Ads on forbes.com,closed,2015-09-25T02:49:00Z,2015-11-23T05:04:38Z,"bug, ios"
+rocketshipapps/adblockfast,8,ad remaining on french website,closed,2015-09-14T09:43:44Z,2016-12-20T04:24:13Z,"bug, chrome, cannot reproduce"
+rocketshipapps/adblockfast,6,Loading animation stutters,closed,2015-09-13T22:52:15Z,2015-11-05T07:32:51Z,"bug, ios"
+rocketshipapps/adblockfast,3,Extension breaks time.com/videos ,closed,2015-08-31T20:34:37Z,2015-09-14T20:23:56Z,"bug, chrome"
+rocketshipapps/adblockfast,2,Blocking Tumblr's assets ,closed,2015-08-31T18:29:15Z,2015-08-31T19:34:17Z,"bug, chrome"
+lpaulger/cribbage-the-game,93,Android 6.0 card suit icons are off-colored,open,2016-02-25T17:11:13Z,,bug
+lpaulger/cribbage-the-game,91,The Starter Card has issues,closed,2015-02-23T09:35:09Z,2015-03-10T21:42:42Z,"bug, enhancement"
+lpaulger/cribbage-the-game,90,dips 1 on web browser makes 10 look squished,closed,2015-02-05T14:08:58Z,2015-03-10T18:30:29Z,bug
+lpaulger/cribbage-the-game,87,android 2.3 doesn't work,closed,2015-01-30T10:46:28Z,2015-02-02T21:35:12Z,bug
+lpaulger/cribbage-the-game,85,right handed enabled; played cards position under button,closed,2015-01-30T10:34:06Z,2015-02-02T21:35:12Z,bug
+lpaulger/cribbage-the-game,83,GA only for production,closed,2015-01-20T16:09:20Z,2015-03-10T18:05:13Z,bug
+lpaulger/cribbage-the-game,82,Tapping back button on the home screen should close app,open,2015-01-14T16:59:52Z,,bug
+lpaulger/cribbage-the-game,80,"when accessing settings, modifying, going back and then to settings again, name/desc missing",closed,2015-01-09T23:54:45Z,2015-01-09T23:57:40Z,bug
+lpaulger/cribbage-the-game,78,score control when +2 above 14 -> 16 actually sets to 15,closed,2015-01-09T08:50:25Z,2015-01-09T22:33:49Z,bug
+lpaulger/cribbage-the-game,77,count state cards are selected (shouldnt be),closed,2015-01-08T07:56:38Z,2015-01-09T08:49:32Z,bug
+lpaulger/cribbage-the-game,76,crib not sorted,closed,2015-01-08T07:56:04Z,2015-01-09T08:49:32Z,bug
+lpaulger/cribbage-the-game,75,"action confirmation, select card, try to change card doesnt work",closed,2015-01-07T16:30:02Z,2015-01-09T08:49:32Z,bug
+lpaulger/cribbage-the-game,74,"when user needs to play a card, but instead clicks action, a card is auto played. not desired result",closed,2015-01-07T16:03:21Z,2015-01-09T08:49:32Z,bug
+lpaulger/cribbage-the-game,73,"messages disappear when user needs to go, but press cards",closed,2015-01-07T15:59:38Z,2015-01-09T08:49:32Z,bug
+lpaulger/cribbage-the-game,72,going to info page while scoreboard is open and returning hides scoreboard,closed,2015-01-06T15:00:47Z,2015-01-07T21:50:04Z,bug
+lpaulger/cribbage-the-game,71,"when player scores two for his heels, message doesn't show",closed,2015-01-06T10:49:06Z,2015-01-07T16:34:43Z,bug
+lpaulger/cribbage-the-game,70,loading game state doesn't persist scoring step.,closed,2015-01-03T11:26:40Z,2015-01-07T16:34:33Z,bug
+lpaulger/cribbage-the-game,69,preplay draw card always from index 0,closed,2014-12-28T17:13:18Z,2014-12-29T20:55:25Z,bug
+lpaulger/cribbage-the-game,68,"when player scores during play, messages disappear too fast",closed,2014-12-26T23:53:44Z,2014-12-29T22:01:09Z,bug
+lpaulger/cribbage-the-game,67,"when 31 is scored, played cards disappear ",open,2014-12-26T21:59:40Z,,bug
+lpaulger/cribbage-the-game,66,score penalty algorithm needs improvement,closed,2014-12-26T15:34:36Z,2014-12-27T00:33:54Z,bug
+lpaulger/cribbage-the-game,64,"loading/reloading game in count state doesnt display previously counted hand, scored next hand",closed,2014-12-26T12:07:43Z,2014-12-26T14:15:42Z,bug
+lpaulger/cribbage-the-game,63,"clicking action button after opponent says go, but player has playable cards breaks game",closed,2014-12-25T12:20:15Z,2014-12-26T11:45:51Z,bug
+lpaulger/cribbage-the-game,62,"change the work ""click"" to ""tap""",closed,2014-12-12T08:35:06Z,2014-12-29T23:02:14Z,bug
+lpaulger/cribbage-the-game,60,scoring two for his heels goes to wrong player,closed,2014-12-04T23:13:09Z,2014-12-29T19:23:42Z,bug
+lpaulger/cribbage-the-game,59,"when no playable card during play state, still have 1 second wait",closed,2014-12-04T21:09:43Z,2014-12-04T21:10:15Z,bug
+lpaulger/cribbage-the-game,58,"When selecting cards for crib, message incorrect when selecting one, and unselecting one",closed,2014-12-04T20:48:07Z,2014-12-04T20:50:18Z,bug
+lpaulger/cribbage-the-game,57,new deck location doesn't show draw result,closed,2014-12-04T19:55:12Z,2014-12-04T20:50:18Z,bug
+lpaulger/cribbage-the-game,55,"when you have the crib and you're cutting, i don't get why it says pick the top card",closed,2014-12-04T10:45:50Z,2014-12-04T15:51:28Z,bug
+lpaulger/cribbage-the-game,53,Firefox deck bug,closed,2014-12-03T22:39:38Z,2014-12-03T22:39:44Z,bug
+lpaulger/cribbage-the-game,52,Multiple cards can be played when only one should be played,closed,2014-12-03T22:37:12Z,2014-12-03T23:05:11Z,bug
+lpaulger/cribbage-the-game,50,some play messages disapear when players action can't be completed,closed,2014-11-27T15:26:24Z,2014-12-04T23:00:32Z,bug
+lpaulger/cribbage-the-game,48,continue button doesn't imply game data is lost,open,2014-11-26T22:28:52Z,,bug
+lpaulger/cribbage-the-game,47,safari / ios cards in hand are out of order,closed,2014-11-26T22:13:13Z,2014-11-26T22:27:53Z,bug
+lpaulger/cribbage-the-game,42,"[TitleNavbar] on homepage, continue game needs to be situational",closed,2014-11-10T15:43:42Z,2014-11-15T12:21:57Z,bug
+lpaulger/cribbage-the-game,41,[TitleNavbar] home icon needs to be adjusted on ios 4 (320px width),closed,2014-11-10T15:43:01Z,2014-11-12T12:15:30Z,bug
+lpaulger/cribbage-the-game,39,[Not Verified] clicking card doesn't happen on tap,closed,2014-11-03T22:45:09Z,2015-01-31T12:15:39Z,bug
+lpaulger/cribbage-the-game,38,[CribbageBoard] last 30 points is shown on the wrong side,closed,2014-11-03T22:20:32Z,2014-11-10T15:41:59Z,bug
+lpaulger/cribbage-the-game,33,getRuns not properly scoring double run of 4,closed,2014-10-27T16:36:23Z,2014-10-30T14:30:16Z,bug
+lpaulger/cribbage-the-game,32,"[localStorage] when reloading cribState, p2 keeps adding 2 cards to cribOwners crib",closed,2014-10-27T15:36:16Z,2014-10-29T22:29:43Z,bug
+lpaulger/cribbage-the-game,31,"[localStorage] when loading CountState, the player earns his count again.",closed,2014-10-26T21:11:43Z,2014-10-29T22:29:43Z,bug
+lpaulger/cribbage-the-game,30,"after draw, deck can be clicked multiple times",closed,2014-10-23T16:55:48Z,2014-10-30T15:01:21Z,bug
+lpaulger/cribbage-the-game,28,End of round has extra message,closed,2014-10-21T07:00:44Z,2014-10-22T15:10:01Z,bug
+lpaulger/cribbage-the-game,27,Don't remove played cards until player clicks 'Ok',closed,2014-10-17T15:03:17Z,2014-10-20T15:07:44Z,bug
+lpaulger/cribbage-the-game,25,buttons still clickable in transition phase,closed,2014-10-16T16:37:13Z,2014-10-17T08:18:29Z,bug
+lpaulger/cribbage-the-game,24,missing -webkit- prefix for safari browsers,closed,2014-10-16T16:12:03Z,2014-10-17T14:59:43Z,bug
+lpaulger/cribbage-the-game,19,card text on mobile not correct,closed,2014-10-10T14:48:16Z,2014-11-26T22:11:25Z,bug
+lpaulger/cribbage-the-game,9,"runs don't necessarily need to be in order. 4, 5, 3 count as 3 points. not working",closed,2014-09-25T19:00:28Z,2014-09-25T20:37:18Z,bug
+lpaulger/cribbage-the-game,8,"other player says go, human should get 1 point. doesnt work",closed,2014-09-25T16:46:24Z,2014-10-07T14:29:19Z,bug
+lpaulger/cribbage-the-game,7,"6,5,6 should not award 3 points, it does.",closed,2014-09-25T15:52:10Z,2014-09-25T17:35:53Z,bug
+lpaulger/cribbage-the-game,6,"Human plays last card, isn't rewarded point but should be",closed,2014-09-25T15:32:36Z,2014-09-25T17:14:25Z,bug
+dkunzler/masterpassword,16,Use courier or other monospaced font to display passwords,closed,2015-04-10T09:30:24Z,2015-04-13T20:41:29Z,bug
+dkunzler/masterpassword,9,Crash in PreferenceDrawerItem,closed,2014-10-16T06:53:00Z,2014-10-16T16:58:51Z,bug
+kmzbrnoI/hJOPandroidDriver,67,Na Androidu 14 nefunguje hledání serverů,closed,2024-05-09T09:27:48Z,2024-05-09T09:28:21Z,bug
+kmzbrnoI/hJOPandroidDriver,66,Server Discover je na Android 14 nespolehlivý,closed,2024-05-09T09:27:14Z,2025-02-16T10:56:35Z,bug
+kmzbrnoI/hJOPandroidDriver,59,RecycleView recykluje výběr OR i na další OR při posunu,open,2021-10-31T06:13:13Z,,bug
+kmzbrnoI/hJOPandroidDriver,57,Regression: DCC is blinking when enabled is null,closed,2021-10-30T06:57:23Z,2022-12-30T16:08:24Z,"bug, fixed"
+kmzbrnoI/hJOPandroidDriver,56,"Pokud dispečer vybere HV, které je již otevřeno v regulátoru, driver dále zobrazuje žádost, panel ne",closed,2021-10-29T21:43:03Z,2025-02-02T13:22:36Z,bug
+kmzbrnoI/hJOPandroidDriver,55,Volitelná zpráva pro dispečera doručí pouze 1. řádek,closed,2021-10-29T20:01:08Z,2025-02-02T13:18:17Z,bug
+kmzbrnoI/hJOPandroidDriver,53,Změna přihlašovacích údajů není trvalá,closed,2021-10-14T23:44:10Z,2025-02-04T17:14:13Z,bug
+kmzbrnoI/hJOPandroidDriver,52,Ovládání hlasitosti posouvá s posuvníkem i bez ručního řízení,closed,2021-10-03T12:58:54Z,2021-10-11T20:23:47Z,"bug, fixed"
+kmzbrnoI/hJOPandroidDriver,51,Při překladu adres z doménového jména vyžadovat IPv4 adresu,closed,2021-06-17T15:04:17Z,2021-07-04T22:15:07Z,"bug, fixed"
+kmzbrnoI/hJOPandroidDriver,47,Aktualizace seznamu funkcí,closed,2021-04-06T15:29:32Z,2021-10-03T12:57:16Z,"bug, fixed"
+kmzbrnoI/hJOPandroidDriver,45,Při překlopení se změní řízení HW na HW s nejnižší adresou,closed,2021-03-09T15:40:14Z,2021-07-04T20:26:53Z,"bug, fixed"
+kmzbrnoI/hJOPandroidDriver,39,Resume aktivity řízení loko zobrazí nekonzistentní funkce s vybranou lokomotivou,closed,2020-12-04T20:47:32Z,2020-12-27T19:02:23Z,bug
+kmzbrnoI/hJOPandroidDriver,35,App not responding - ANR Input dispatching timed out,closed,2020-09-28T19:33:14Z,2021-10-19T06:55:01Z,"bug, wontfix"
+kmzbrnoI/hJOPandroidDriver,27,Nelze změnit IP/DN$ uloženého serveru,closed,2020-05-24T06:36:09Z,2020-05-24T20:35:54Z,"bug, fixed"
+kmzbrnoI/hJOPandroidDriver,26,Pád na Android 4.4.4 při kliknutí na funkci vlaku,closed,2020-05-23T13:12:31Z,2020-05-24T20:35:43Z,"bug, fixed"
+kmzbrnoI/hJOPandroidDriver,25,Při změně směru za jízdy zobrazí nesprávnou rychlost,closed,2020-05-22T11:36:12Z,2020-05-24T20:35:31Z,"bug, fixed"
+kmzbrnoI/hJOPandroidDriver,15,Aplikace havaruje při pokusu o připojení ke smyšlenému serveru,closed,2017-09-23T22:27:39Z,2017-09-24T09:14:59Z,bug
+xiprox/WaniKani-for-Android,58,Notification doesn't disappear after taking action,open,2017-10-17T17:31:16Z,,bug
+xiprox/WaniKani-for-Android,13,Crashes because of database,closed,2015-12-01T13:36:38Z,2017-01-01T19:35:15Z,"bug, enhancement"
+xiprox/WaniKani-for-Android,10,Critical items all appear as locked ,closed,2015-10-01T06:25:36Z,2015-11-29T09:14:17Z,bug
+xiprox/WaniKani-for-Android,5,Crash when going from vertical to horizontal view.,closed,2015-05-17T08:51:55Z,2017-01-01T20:17:36Z,bug
+xiprox/WaniKani-for-Android,3,Problems with some userscripts,closed,2015-05-01T18:47:53Z,2015-10-03T08:10:03Z,"bug, wontfix"
+VisualizeMobile/AKANAndroid,37,Create landscape layout for description screen,closed,2015-06-14T00:16:28Z,2015-06-14T00:17:21Z,Bug
+VisualizeMobile/AKANAndroid,35,Congressman name fields are too large,closed,2015-06-11T01:51:39Z,2015-06-11T03:52:59Z,Bug
+VisualizeMobile/AKANAndroid,34,Fix insertition of Statistics on localdatabase,closed,2015-06-11T01:44:39Z,2015-06-11T01:45:16Z,Bug
+VisualizeMobile/AKANAndroid,33,Fix Graph legends ,closed,2015-06-10T20:58:03Z,2015-06-11T01:38:11Z,Bug
+VisualizeMobile/AKANAndroid,31,Fix list animation on follow screen,closed,2015-06-10T20:13:39Z,2015-06-10T20:19:20Z,Bug
+VisualizeMobile/AKANAndroid,22,Fix quota descriptions ,closed,2015-06-09T21:57:09Z,2015-06-10T01:10:22Z,Bug
+VisualizeMobile/AKANAndroid,21,Create Backbutton for Graph screen,closed,2015-06-09T21:50:31Z,2015-06-10T20:53:50Z,Bug
+VisualizeMobile/AKANAndroid,20,Recreate the Search,closed,2015-06-08T22:56:04Z,2015-06-10T20:07:45Z,Bug
+VisualizeMobile/AKANAndroid,16,Animation bars quotas,closed,2015-06-08T22:50:23Z,2015-06-09T21:48:29Z,Bug
+VisualizeMobile/AKANAndroid,15,Show only quotas qith some value,closed,2015-06-08T00:42:48Z,2015-06-08T21:05:27Z,Bug
+VisualizeMobile/AKANAndroid,13,Url Has No Column Named UPDATE_VERIFIER_URL,closed,2015-06-06T03:26:31Z,2015-06-07T01:46:31Z,Bug
+VisualizeMobile/AKANAndroid,12,Get Years of the Quotas in Local Database,closed,2015-06-06T03:25:50Z,2015-06-06T23:58:10Z,Bug
+VisualizeMobile/AKANAndroid,11,Get Quotas of Valid Congressman,closed,2015-06-06T03:24:58Z,2015-06-06T23:46:06Z,Bug
+VisualizeMobile/AKANAndroid,10,Insertion of Quota Without Reference To Congressman,closed,2015-06-06T03:23:49Z,2015-06-06T12:47:45Z,Bug
+VisualizeMobile/AKANAndroid,9,Request Statistics from the server,closed,2015-06-05T22:18:42Z,2015-06-06T14:50:15Z,Bug
+VisualizeMobile/AKANAndroid,8,Insertion of null Quota,closed,2015-06-05T02:05:57Z,2015-06-05T22:23:15Z,Bug
+VisualizeMobile/AKANAndroid,7,Select Congressman by name,closed,2015-06-05T02:05:31Z,2015-06-05T21:39:32Z,Bug
+VisualizeMobile/AKANAndroid,6,Delete congressmen when the database is empty,closed,2015-06-05T02:04:40Z,2015-06-05T20:23:42Z,Bug
+VisualizeMobile/AKANAndroid,5,Insertion of null Congressman,closed,2015-06-05T02:03:56Z,2015-06-05T22:04:06Z,Bug
+VisualizeMobile/AKANAndroid,2,Approaching the end of the list,closed,2015-05-14T13:06:04Z,2015-06-08T21:06:51Z,Bug
+VisualizeMobile/AKANAndroid,1,App's stop to fetch details of spending,closed,2014-12-28T23:21:03Z,2015-06-12T07:37:02Z,Bug
+Pushwoosh/pushwoosh-android-sdk,192,[Bug]: NullPointerException from crashes,closed,2025-12-10T08:46:19Z,2025-12-10T09:13:36Z,bug

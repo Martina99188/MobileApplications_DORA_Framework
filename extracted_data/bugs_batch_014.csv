@@ -1,0 +1,501 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+transistorsoft/rn-background-geolocation-demo,65,undefined is not an object (evaluating 'context.changedBits'),closed,2018-05-15T04:00:04Z,2018-05-16T12:51:45Z,bug
+transistorsoft/rn-background-geolocation-demo,35,RCTBridgeModule.h' file not found,closed,2016-12-13T14:48:29Z,2017-04-01T17:21:28Z,bug
+ubx/SkyLinesTracker,30,Issue when re-opening the notification from the notification,closed,2022-01-02T23:57:19Z,2022-01-04T14:54:37Z,bug
+ubx/SkyLinesTracker,24,Auto Start Tracking not working in Android Oreo,closed,2019-01-16T09:14:53Z,2019-01-18T10:28:20Z,"bug, App versions: 1.3.3"
+ubx/SkyLinesTracker,21,"SecurityException: ""gps"" location provider requires ACCESS_FINE_LOCATION permission.",closed,2018-08-28T07:15:07Z,2019-01-11T20:06:26Z,"bug, Android, SplunkMINT, App versions: 1.3.1"
+ubx/SkyLinesTracker,18,java.lang.NullPointerException: Attempt to invoke interface method 'long ch.luethi.skylinestracker.FixQueueIF.size()' on a null object reference,closed,2017-08-16T15:51:20Z,2017-08-23T18:42:36Z,"bug, Android, SplunkMINT, App versions: 1.3.0"
+ubx/SkyLinesTracker,16,Outdated fix is displayed,closed,2017-05-24T07:39:10Z,2019-05-27T17:34:35Z,"bug, invalid"
+ubx/SkyLinesTracker,13,"java.lang.NullPointerException: Attempt to invoke virtual method 'void com.geeksville.location.SkyLinesTrackingWriter.emitPosition(long, double, double, float, int, float, float[], float)' on a null object reference",closed,2016-07-10T09:58:33Z,2016-12-27T10:50:50Z,"bug, Android, SplunkMINT, App versions: 1.1.0"
+ubx/SkyLinesTracker,12,java.lang.RuntimeException: Unable to stop service ch.luethi.skylinestracker.PositionService@401f28a0: java.lang.NullPointerException,closed,2015-10-19T05:18:26Z,2015-10-19T08:54:19Z,"bug, Android, SplunkMINT, App versions: 1.1.0"
+ubx/SkyLinesTracker,11,"java.lang.NullPointerException: Attempt to invoke virtual method 'void com.geeksville.location.SkyLinesTrackingWriter.emitPosition(long, double, double, float, int, float, float[], float)' on a null object reference",closed,2015-09-04T23:06:02Z,2015-10-19T08:55:07Z,"bug, Android, SplunkMINT, App versions: 1.1.0"
+ubx/SkyLinesTracker,7,ip address not changed,closed,2015-01-07T10:50:12Z,2015-01-12T19:36:30Z,bug
+ubx/SkyLinesTracker,4,java.lang.NullPointerException,closed,2014-04-19T15:34:40Z,2014-04-28T08:08:15Z,"Android, BugSense, App versions: 1.0.2"
+ubx/SkyLinesTracker,3,java.lang.NullPointerException,closed,2014-02-12T09:31:48Z,2014-02-12T10:16:46Z,"wontfix, Android, BugSense, App versions: 1.0.2"
+ubx/SkyLinesTracker,1,java.lang.NumberFormatException: Invalid BigInteger:,closed,2013-12-31T06:22:50Z,2014-01-01T17:35:35Z,"bug, Android, BugSense, App versions: 1.0"
+maggardJosh/Tiles,194,Particle system bug,closed,2013-04-02T07:14:26Z,2013-04-02T19:21:10Z,bug
+maggardJosh/Tiles,188,onPause lag  bug,closed,2013-03-26T09:07:55Z,2013-03-26T20:18:00Z,bug
+maggardJosh/Tiles,187,single/versus pause screen ,closed,2013-03-26T08:47:05Z,2013-03-26T17:15:12Z,bug
+maggardJosh/Tiles,186,Button too small bug,closed,2013-03-25T21:19:19Z,2013-03-26T20:30:41Z,bug
+maggardJosh/Tiles,179,Exit Button Double MenuBlip Sound Bug,closed,2013-03-20T00:56:31Z,2013-03-20T00:57:32Z,bug
+maggardJosh/Tiles,153,Select Skill Title is backwards ,closed,2013-03-07T23:21:55Z,2013-03-08T04:04:16Z,"bug, gfx"
+maggardJosh/Tiles,152,Setup Scene Labels Fade,closed,2013-03-07T23:10:47Z,2013-03-08T05:13:29Z,bug
+maggardJosh/Tiles,132,ScrollableScene back and scroll at the same time bug,closed,2013-03-06T02:49:52Z,2013-03-06T05:16:01Z,bug
+maggardJosh/Tiles,117,Move query calls ,closed,2013-03-04T07:59:24Z,2013-03-04T21:09:17Z,bug
+maggardJosh/Tiles,112,reset insane shuffle on game over - reflex,closed,2013-03-03T00:32:03Z,2013-03-04T02:28:52Z,bug
+maggardJosh/Tiles,107,Center tutorial image,closed,2013-03-01T03:34:57Z,2013-03-01T08:16:30Z,bug
+maggardJosh/Tiles,104,Mute Buttons not updating Bug,closed,2013-02-28T03:10:02Z,2013-02-28T18:17:15Z,bug
+maggardJosh/Tiles,103,Sort Children Display Animate Bug,closed,2013-02-27T07:36:10Z,2013-02-28T02:34:57Z,bug
+maggardJosh/Tiles,96,drum sound cuts off,closed,2013-02-25T22:50:11Z,2013-02-26T03:28:46Z,bug
+maggardJosh/Tiles,89,GameOver sound not playing in versus game over,closed,2013-02-24T23:55:43Z,2013-02-25T04:25:01Z,bug
+maggardJosh/Tiles,86,GameOverScreen Plays GameOverSound on any transition,closed,2013-02-24T23:36:33Z,2013-02-25T04:25:01Z,bug
+maggardJosh/Tiles,68,Display Indicator Fade In Bug,closed,2013-02-23T06:33:26Z,2013-02-26T04:25:33Z,bug
+maggardJosh/Tiles,67,Loading Tileset Bug,closed,2013-02-23T06:31:26Z,2013-02-23T23:02:21Z,bug
+maggardJosh/Tiles,66,Pause and Game Over Muffle Music Bug,closed,2013-02-23T06:27:26Z,2013-02-24T03:59:42Z,"bug, enhancement"
+maggardJosh/Tiles,61,Multiple Songs Bug,closed,2013-02-23T05:11:20Z,2013-02-24T00:02:34Z,bug
+maggardJosh/Tiles,56,Fix Button Graphic Artifacts,closed,2013-02-21T04:15:11Z,2013-02-22T20:46:39Z,bug
+maggardJosh/Tiles,53,Tile Animate In Bug,closed,2013-02-19T04:18:09Z,2013-02-19T04:20:19Z,bug
+maggardJosh/Tiles,47,Change Flurry ID back ,closed,2013-02-15T17:18:21Z,2013-02-15T22:23:13Z,bug
+maggardJosh/Tiles,44,Insane Two Player Bug,closed,2013-02-13T07:50:58Z,2013-02-13T21:29:53Z,bug
+maggardJosh/Tiles,39,Disable bug,closed,2013-02-11T06:10:40Z,2013-02-11T07:41:39Z,bug
+maggardJosh/Tiles,32,Fix Menu Buttons,closed,2013-02-08T21:46:14Z,2013-02-09T01:08:56Z,bug
+maggardJosh/Tiles,30,Animate display tile bug,closed,2013-02-07T09:24:27Z,2013-02-07T20:30:20Z,bug
+maggardJosh/Tiles,28,Broke One Tile Game,closed,2013-02-05T07:29:47Z,2013-02-06T04:11:39Z,bug
+maggardJosh/Tiles,25,Scaled Graphic Artifacts ,closed,2013-02-03T11:46:00Z,2013-02-04T03:17:45Z,bug
+maggardJosh/Tiles,24,Back button during transition,closed,2013-02-03T10:47:34Z,2013-02-04T03:01:56Z,bug
+maggardJosh/Tiles,19,Gradient Banding,closed,2013-02-03T10:36:26Z,2013-02-04T03:07:11Z,bug
+maggardJosh/Tiles,13,Game Over Delay,closed,2013-01-30T08:27:52Z,2013-01-31T23:19:01Z,bug
+maggardJosh/Tiles,5,Fix Multi-touch,closed,2013-01-27T01:35:45Z,2013-01-27T02:15:17Z,bug
+maggardJosh/Tiles,1,Fix Multiple Scores Bug,closed,2013-01-26T18:26:54Z,2013-01-26T18:39:42Z,bug
+Digitopia/Gamult,132,Particles out of bound,closed,2017-04-03T18:44:28Z,2017-06-21T19:32:36Z,"bug, android, ios"
+Digitopia/Gamult,131,About image distortion - tablet,closed,2017-03-31T16:51:07Z,2017-04-12T15:06:10Z,"bug, android, ios"
+Digitopia/Gamult,129,Fix multiple minor issues in RC,closed,2017-02-22T16:39:08Z,2017-04-03T17:14:02Z,bug
+Digitopia/Gamult,120,Audio is Clipping ,closed,2016-07-14T19:09:35Z,2016-12-19T18:48:41Z,bug
+Digitopia/Gamult,119,Fix slowness on macOS,open,2016-07-12T14:49:46Z,,bug
+Digitopia/Gamult,105,Fix multitouch problem,closed,2016-05-22T17:40:32Z,2016-05-22T18:42:45Z,bug
+Digitopia/Gamult,102,White lines underneath console on Mac OS X,closed,2016-05-05T16:46:06Z,2016-06-02T15:33:55Z,bug
+Digitopia/Gamult,99,Swipe shouldn't work when swiping over console,closed,2016-04-21T16:45:25Z,2016-04-21T16:46:47Z,"bug, ios"
+Digitopia/Gamult,96,Disable swiping over console,closed,2016-04-12T10:27:59Z,2016-05-22T19:26:04Z,"bug, ios"
+Digitopia/Gamult,95,"When swiping in Portrait Mode for iOS, particles shouldn't be added.",closed,2016-04-08T09:15:53Z,2016-05-05T16:18:34Z,"bug, ios"
+Digitopia/Gamult,94,Fader size not setting properly when switching between portrait and landscape mode,closed,2016-04-07T15:23:18Z,2016-05-22T17:36:49Z,"bug, ios"
+Digitopia/Gamult,90,iPhone app loads with a black screen,closed,2016-03-29T17:04:20Z,2016-03-29T21:33:03Z,"bug, ios"
+Digitopia/Gamult,84,Make images show up in iOS,closed,2016-03-01T17:34:30Z,2016-03-03T17:55:37Z,"bug, ios"
+Digitopia/Gamult,76,Credit Tiago Ângelo,closed,2015-10-29T22:05:04Z,2015-10-31T16:12:27Z,"bug, ui"
+Digitopia/Gamult,73,Fix arrow transparency,closed,2015-10-24T17:10:24Z,2015-10-27T16:09:46Z,bug
+Digitopia/Gamult,72,Fix pixel border line ,closed,2015-10-20T16:45:17Z,2015-10-21T16:23:22Z,bug
+Digitopia/Gamult,70,Rethink the physics,open,2015-10-14T17:22:46Z,,bug
+Digitopia/Gamult,69,Don't allow interaction with what is behind the bar,closed,2015-10-14T17:10:09Z,2015-10-15T14:59:20Z,bug
+Digitopia/Gamult,68,Don't allow creating a particle when the touch is over the console or bar UI,closed,2015-10-14T17:08:34Z,2015-10-16T10:30:48Z,bug
+Digitopia/Gamult,67,Match the size of the touch and the particle when it's released,closed,2015-10-14T17:03:18Z,2015-10-15T15:26:43Z,bug
+Digitopia/Gamult,65,Change collision check to the outer circle,closed,2015-10-13T17:04:15Z,2015-10-14T16:45:47Z,bug
+Digitopia/Gamult,63,Exit inactivity mode whenever mouse is moved,closed,2015-10-10T16:23:16Z,2015-10-13T15:51:24Z,bug
+Digitopia/Gamult,62,Don't draw the lines on top of the particles,closed,2015-10-09T13:55:53Z,2015-10-09T13:57:29Z,bug
+Digitopia/Gamult,59,Particles close to right border are being cut,closed,2015-09-18T15:42:55Z,2015-09-18T16:15:04Z,bug
+Digitopia/Gamult,51,Lowest speed is freezing particles,closed,2015-07-20T11:10:57Z,2015-07-21T15:09:47Z,bug
+Digitopia/Gamult,50,Multitouch hangs when seeing about button,closed,2015-07-20T10:11:18Z,2015-07-21T15:22:12Z,bug
+Digitopia/Gamult,49,Can't leave about image on acer screen,closed,2015-07-18T15:56:51Z,2015-07-18T15:59:32Z,bug
+Digitopia/Gamult,48,"Fix ""slowness"" in ios",closed,2015-07-07T15:53:18Z,2016-06-02T15:29:37Z,"bug, ios"
+Digitopia/Gamult,47,Fix orientation in ios,closed,2015-07-07T15:52:21Z,2016-01-08T17:09:51Z,"bug, ios"
+Digitopia/Gamult,44,Remove button causing app to crash,closed,2015-07-03T15:09:21Z,2015-07-03T15:58:38Z,bug
+Digitopia/Gamult,43,Not playing sound when gravity is off,closed,2015-06-30T16:18:11Z,2015-06-30T16:24:06Z,bug
+Digitopia/Gamult,41,Proper about message,closed,2015-06-30T15:24:05Z,2015-09-15T15:43:06Z,"bug, pending"
+Digitopia/Gamult,36,Remove button should cancel when moving away from it,closed,2015-06-25T16:33:26Z,2015-06-25T16:37:07Z,bug
+Digitopia/Gamult,34,Implement multitouch support for buttons,closed,2015-06-25T15:55:52Z,2015-06-25T16:35:44Z,bug
+Digitopia/Gamult,33,Fix console interface for multitouch,closed,2015-06-18T16:33:39Z,2015-06-23T16:20:40Z,bug
+Digitopia/Gamult,31,Particles created very close to console border are not behaving correctly,closed,2015-05-28T16:16:27Z,2015-05-28T16:33:43Z,bug
+Digitopia/Gamult,30,Loudness of the sound played should be according to velocity,closed,2015-05-22T11:41:57Z,2015-05-28T16:13:21Z,bug
+Digitopia/Gamult,29,Support for multitouch,closed,2015-05-19T15:10:47Z,2015-06-11T11:38:24Z,bug
+Digitopia/Gamult,28,Improve interface for remove button,closed,2015-05-12T16:31:41Z,2015-05-12T16:47:07Z,"bug, ui"
+Digitopia/Gamult,26,Speed should work the same way in same module,closed,2015-04-28T17:12:19Z,2015-05-25T13:12:09Z,bug
+Digitopia/Gamult,25,Note not mapping correctly,closed,2015-04-23T16:28:17Z,2015-04-23T16:49:47Z,bug
+Digitopia/Gamult,24,Mouse cursor not showing in OSX 10.10,closed,2015-04-20T10:33:09Z,2015-05-25T12:02:31Z,bug
+Digitopia/Gamult,23,Not changing ball colour when beneath threshold,closed,2015-04-20T10:24:11Z,2015-04-21T15:36:29Z,bug
+Digitopia/Gamult,20,Marks at the bottom of the screen,closed,2015-04-20T10:12:27Z,2015-04-25T15:16:45Z,bug
+Digitopia/Gamult,13,Can't add particles on lower half of module while on Loop mode.,closed,2015-04-04T20:35:50Z,2015-04-04T23:51:24Z,bug
+Digitopia/Gamult,12,Loop speed fader not working properly,closed,2015-04-04T20:34:21Z,2015-04-04T23:39:53Z,bug
+Digitopia/Gamult,11,Hitting the ceiling does not decrease life,closed,2015-04-04T16:08:35Z,2015-04-04T16:17:08Z,bug
+Digitopia/Gamult,9,Draws particles dragging from the console,closed,2015-03-31T14:52:22Z,2015-03-31T15:20:55Z,bug
+Digitopia/Gamult,8,Circles and arcs should be smoother,closed,2015-03-26T16:12:30Z,2015-03-26T16:16:21Z,bug
+Digitopia/Gamult,7,Loop button not working,closed,2015-03-25T12:31:14Z,2015-04-04T20:26:29Z,bug
+Digitopia/Gamult,6,Increment animation showing in module console,closed,2015-03-24T18:25:40Z,2015-03-24T20:57:57Z,bug
+Digitopia/Gamult,5,Colision check not working properly,closed,2015-03-24T18:00:25Z,2015-04-28T15:21:50Z,bug
+Digitopia/Gamult,4,Gravity and Loop faders reacting to same mouse press,closed,2015-03-24T17:58:11Z,2015-03-27T12:06:42Z,bug
+Digitopia/Gamult,3,Not drawing increment animation,closed,2015-03-24T17:50:09Z,2015-03-24T18:24:05Z,bug
+Digitopia/Gamult,2,Not using a font and unaligned text,closed,2015-03-24T17:49:11Z,2015-03-24T21:29:15Z,bug
+Digitopia/Gamult,1,Lines between Vertices not drawing correctly,closed,2015-03-24T17:46:18Z,2015-03-24T19:52:40Z,bug
+mpiannucci/HackWinds-Android,112,Don't request cam image #5,closed,2016-07-12T19:08:19Z,2016-07-12T22:18:33Z,"bug, High Priority"
+mpiannucci/HackWinds-Android,111,Add Tide Model Update Check,closed,2016-07-08T16:05:09Z,2016-07-12T10:56:12Z,"bug, enhancement, High Priority"
+mpiannucci/HackWinds-Android,107,Make Images above listviews into scrollable headers,closed,2016-05-09T21:01:27Z,2016-05-11T20:07:33Z,"bug, enhancement"
+mpiannucci/HackWinds-Android,105,Fix launching from saved states,closed,2016-04-21T19:58:25Z,2016-05-11T15:29:52Z,bug
+mpiannucci/HackWinds-Android,104,Buoy View Fails to Load after Tide Fragment,closed,2016-04-20T22:08:12Z,2016-04-21T12:00:35Z,bug
+mpiannucci/HackWinds-Android,103,Make sure imageviews all scale to fill width at aspect ratio,closed,2016-04-19T20:48:03Z,2016-05-30T13:26:04Z,bug
+mpiannucci/HackWinds-Android,102,Change WaveWatch Activity to use a view pager and tabs ,closed,2016-04-19T12:15:54Z,2016-04-20T15:18:30Z,bug
+mpiannucci/HackWinds-Android,101,Remove Third Part Sliding Tabs View,closed,2016-04-18T18:20:17Z,2016-04-19T12:15:19Z,bug
+mpiannucci/HackWinds-Android,99,Change Buoy History List to use a View Pager,closed,2016-04-14T22:56:45Z,2016-04-19T12:15:27Z,bug
+mpiannucci/HackWinds-Android,98,Change Detailed Forecast to View Pager,closed,2016-04-14T22:47:26Z,2016-04-19T12:15:33Z,bug
+mpiannucci/HackWinds-Android,97,Make sure all background and card colors are correct,closed,2016-04-14T17:31:54Z,2016-04-20T15:18:35Z,"bug, enhancement"
+mpiannucci/HackWinds-Android,96,Materialize the lists,closed,2016-04-14T17:22:39Z,2016-04-20T15:18:40Z,"bug, enhancement"
+mpiannucci/HackWinds-Android,92,Make models more thread safe,closed,2016-02-04T02:36:48Z,2016-04-14T17:21:31Z,bug
+mpiannucci/HackWinds-Android,91,Android Image Slider Images Disappearing on Fragment Switch,closed,2016-01-25T00:43:37Z,2016-02-04T02:36:22Z,bug
+mpiannucci/HackWinds-Android,87,Update Water Temp location on Default Buoy Change,closed,2015-12-08T23:02:30Z,2016-02-06T20:17:26Z,"bug, enhancement"
+mpiannucci/HackWinds-Android,86,Allow user to choose default buoy location,closed,2015-12-07T20:40:54Z,2015-12-08T23:02:07Z,"bug, enhancement"
+mpiannucci/HackWinds-Android,85,Add the Image Carousel to instead of livestream,closed,2015-10-23T21:06:32Z,2015-12-07T20:40:26Z,"bug, High Priority"
+mpiannucci/HackWinds-Android,84,Fix background color in the settings Activity,closed,2015-09-28T14:48:48Z,2015-09-29T23:31:33Z,bug
+mpiannucci/HackWinds-Android,83,Tide Fragment never loading,closed,2015-09-28T14:45:54Z,2015-09-29T23:26:36Z,"bug, High Priority"
+mpiannucci/HackWinds-Android,82,Crash loading BuoyFragment,closed,2015-09-19T05:50:50Z,2015-09-28T14:45:05Z,"bug, In Progress"
+mpiannucci/HackWinds-Android,79,Give buoy and forecast models state and update callbacks,closed,2015-09-01T01:03:18Z,2015-09-05T17:30:25Z,"bug, enhancement"
+mpiannucci/HackWinds-Android,74,Refactor http calls when building for Android API 23,closed,2015-08-20T02:17:42Z,2015-09-05T17:30:39Z,bug
+mpiannucci/HackWinds-Android,73,CameraModel not loading keys correctly.,closed,2015-08-18T02:27:29Z,2015-08-18T02:35:50Z,"bug, High Priority"
+mpiannucci/HackWinds-Android,71,Make time values dependent on 24 hour setting,closed,2015-07-28T02:06:54Z,2015-07-30T02:38:48Z,"bug, enhancement"
+mpiannucci/HackWinds-Android,70,Camera location not set in actionbar of IsoCameraView,closed,2015-07-20T02:26:24Z,2015-07-30T02:43:51Z,"bug, High Priority"
+mpiannucci/HackWinds-Android,63,Fix imageview scaling,closed,2015-05-29T04:37:29Z,2015-09-19T21:50:28Z,"bug, enhancement"
+mpiannucci/HackWinds-Android,58,Fix broken forecast change notifications.,closed,2015-04-16T04:14:12Z,2015-04-21T04:29:37Z,"bug, High Priority"
+mpiannucci/HackWinds-Android,57,Get rid of SwellInfo and only use MagicSeaweed,closed,2015-04-15T02:11:53Z,2015-04-15T04:12:26Z,bug
+mpiannucci/HackWinds-Android,56,Fix incorrect water temperature conversion,closed,2015-04-03T17:09:45Z,2015-04-03T21:47:53Z,bug
+mpiannucci/HackWinds-Android,46,Handle when there is no network available,closed,2014-12-16T04:29:52Z,2015-02-05T02:26:57Z,bug
+mpiannucci/HackWinds-Android,45,Make a callback for the video completing,closed,2014-12-16T03:29:20Z,2015-02-26T20:13:21Z,bug
+mpiannucci/HackWinds-Android,44,Montauk buoy crashes on load,closed,2014-12-12T03:37:08Z,2014-12-15T00:34:55Z,bug
+mpiannucci/HackWinds-Android,43,Make toolbar tabs evenly spaced,closed,2014-12-10T14:18:50Z,2014-12-11T03:36:12Z,bug
+mpiannucci/HackWinds-Android,42,Fix compatible padding,closed,2014-12-10T05:25:09Z,2014-12-10T05:43:22Z,bug
+mpiannucci/HackWinds-Android,41,Style dialogs to be material design compliant,closed,2014-12-10T03:36:53Z,2014-12-19T06:01:52Z,bug
+mpiannucci/HackWinds-Android,39,Make Buoy View look more consistent ,closed,2014-12-04T21:50:16Z,2014-12-05T04:09:27Z,bug
+mpiannucci/HackWinds-Android,38,Fix actionbar tab spacing,closed,2014-12-01T02:02:23Z,2014-12-10T03:37:04Z,"bug, wontfix"
+mpiannucci/HackWinds-Android,33,Make feature complete with iOS version,closed,2014-10-31T00:18:18Z,2014-11-30T19:53:10Z,"bug, enhancement"
+mpiannucci/HackWinds-Android,31,Style the tab pager ,closed,2014-09-05T18:45:45Z,2014-09-08T14:05:41Z,bug
+mpiannucci/HackWinds-Android,30,Add toast message to user when network connectivity is poor,closed,2014-09-05T18:23:51Z,2015-02-05T02:27:05Z,"bug, enhancement"
+mpiannucci/HackWinds-Android,29,Implement click to pause on video,closed,2014-08-13T13:57:05Z,2014-12-16T03:28:51Z,"bug, enhancement"
+mpiannucci/HackWinds-Android,28,Fix weird bold tide bug,closed,2014-08-02T22:33:24Z,2014-11-30T18:54:28Z,"bug, wontfix, Low Priority"
+mpiannucci/HackWinds-Android,27,Fix tablet layout cuz its awful ,closed,2014-07-27T03:06:43Z,2014-11-30T18:54:43Z,"bug, enhancement"
+mpiannucci/HackWinds-Android,23,After 7 oclock the data from swell info moves to the next day ,closed,2014-07-26T02:59:54Z,2014-07-27T03:00:44Z,bug
+mpiannucci/HackWinds-Android,22,If there is not enought tide data for the first day the last day becomes an empty list,closed,2014-07-26T02:58:34Z,2014-07-26T03:03:38Z,bug
+mpiannucci/HackWinds-Android,21,Add progress dialog to still camera fragment,closed,2014-07-25T13:40:54Z,2014-10-14T13:07:10Z,"bug, Low Priority"
+mpiannucci/HackWinds-Android,18,Fix 3 pm not showing up on current list item ,closed,2014-07-24T22:50:27Z,2014-07-26T02:42:55Z,bug
+mpiannucci/HackWinds-Android,12,Fix videoview freeze after 3 seconds,closed,2014-06-27T14:51:46Z,2014-06-29T03:12:27Z,bug
+mpiannucci/HackWinds-Android,5,Handle video timeouts,closed,2014-06-26T23:30:25Z,2014-07-27T03:02:47Z,bug
+kollerlukas/Camera-Roll-Android-App,237,Cannot save external sd card image after crop edit,open,2018-11-29T22:16:52Z,,bug
+kollerlukas/Camera-Roll-Android-App,227,Bottom of SettingsActivity covered by on screen navigation bar,open,2018-10-20T13:20:03Z,,bug
+kollerlukas/Camera-Roll-Android-App,219,8 bit color option cutoff at the bottom of the screen,closed,2018-09-21T08:02:28Z,2018-09-30T12:07:40Z,"bug, duplicate"
+kollerlukas/Camera-Roll-Android-App,216,found a crash in 1.0.6,open,2018-09-03T09:15:21Z,,bug
+kollerlukas/Camera-Roll-Android-App,211,UI issues in version 1.0.6,open,2018-07-20T18:12:38Z,,bug
+kollerlukas/Camera-Roll-Android-App,208,Permission Denial,closed,2018-07-05T06:49:11Z,2018-12-04T21:08:36Z,bug
+kollerlukas/Camera-Roll-Android-App,204,App crashes when deleting a picture,open,2018-06-15T12:29:22Z,,bug
+kollerlukas/Camera-Roll-Android-App,201,Wrong picture picked when sharing,closed,2018-05-25T09:13:38Z,2018-05-27T20:51:07Z,"bug, duplicate"
+kollerlukas/Camera-Roll-Android-App,198,Detecting Internal Memory As SD Card/Removable storage,open,2018-05-20T07:00:49Z,,bug
+kollerlukas/Camera-Roll-Android-App,197,App crashes when renaming a folder from the gallery,open,2018-05-20T06:17:09Z,,bug
+kollerlukas/Camera-Roll-Android-App,196,Could not save image file 1 MB more after editing,open,2018-05-18T21:52:18Z,,bug
+kollerlukas/Camera-Roll-Android-App,194,Save option doesn't work in exif editor in camera roll app.,open,2018-05-15T04:43:22Z,,bug
+kollerlukas/Camera-Roll-Android-App,193,Virtual albums not displaying correctly,open,2018-05-14T02:22:47Z,,bug
+kollerlukas/Camera-Roll-Android-App,191,Images not loading after the app has been running in the background for a while,open,2018-05-13T09:02:35Z,,bug
+kollerlukas/Camera-Roll-Android-App,189,"Camera Roll occasionally ""forgets"" excluded folders",open,2018-05-10T12:04:08Z,,bug
+kollerlukas/Camera-Roll-Android-App,188,Configuring a negative number of columns for cards view crashes app on startup,closed,2018-05-10T11:23:14Z,2018-05-21T11:45:30Z,bug
+kollerlukas/Camera-Roll-Android-App,176,Timeouts and freezes handling 70Gb photos.,open,2018-04-13T18:32:15Z,,bug
+kollerlukas/Camera-Roll-Android-App,174,raw/dng zoom,open,2018-04-08T12:55:32Z,,bug
+kollerlukas/Camera-Roll-Android-App,170,"Bug: cropping screen very slow, and hard to use ",closed,2018-04-02T17:01:26Z,2018-04-04T13:52:20Z,bug
+kollerlukas/Camera-Roll-Android-App,169,"Camera Roll: Bug found when clicked on ""Scan""",closed,2018-04-02T02:27:16Z,2018-04-04T13:58:27Z,bug
+kollerlukas/Camera-Roll-Android-App,167,App crashes when you long press on an item in the list,closed,2018-03-29T22:34:17Z,2018-04-04T14:41:22Z,bug
+kollerlukas/Camera-Roll-Android-App,166,Camera Roll: Move and Copy features crashes the app,closed,2018-03-29T11:35:02Z,2018-04-04T14:41:30Z,bug
+kollerlukas/Camera-Roll-Android-App,165,Camera Roll app crashes when trying to rename a file,closed,2018-03-28T21:50:40Z,2018-04-04T14:40:56Z,bug
+kollerlukas/Camera-Roll-Android-App,158,Camera Roll can not get a helper app to edit video,open,2018-03-25T13:53:18Z,,bug
+kollerlukas/Camera-Roll-Android-App,146,"pictures in SD card, the operation is very slow",open,2018-03-08T01:51:26Z,,"bug, improvement"
+kollerlukas/Camera-Roll-Android-App,135,False image delegation in sharing method,open,2018-01-04T20:35:20Z,,bug
+kollerlukas/Camera-Roll-Android-App,117,"""Show hidden folders"" doesn't work",closed,2017-11-05T01:51:52Z,2018-03-23T10:44:29Z,bug
+kollerlukas/Camera-Roll-Android-App,98,"Incorrect sorting by filename, when file have ""only numerical"" name",closed,2017-09-30T15:42:30Z,2017-10-01T12:00:51Z,bug
+kollerlukas/Camera-Roll-Android-App,81,Scroll up nested Recyclerview,open,2017-08-29T23:05:39Z,,bug
+kollerlukas/Camera-Roll-Android-App,79,White text on the white background (rename file dialog),closed,2017-08-29T09:46:10Z,2017-08-31T11:46:53Z,bug
+kollerlukas/Camera-Roll-Android-App,77,Image selected nested Recyclerview,closed,2017-08-22T19:29:27Z,2017-08-24T23:01:42Z,bug
+kollerlukas/Camera-Roll-Android-App,72,Video player doesn't work,closed,2017-08-20T19:26:04Z,2017-08-24T23:24:58Z,bug
+kollerlukas/Camera-Roll-Android-App,71,Deleted photos not being scanned on OnePlus Devices,closed,2017-08-19T03:42:19Z,2017-10-26T04:11:34Z,bug
+kollerlukas/Camera-Roll-Android-App,67,Scrolling between any 3 pictures back and forth causes app to crash,closed,2017-08-07T04:42:51Z,2017-08-15T05:29:32Z,bug
+kollerlukas/Camera-Roll-Android-App,65,Not visible after copying on the SD Card,closed,2017-08-02T22:18:15Z,2017-08-13T19:03:50Z,bug
+kollerlukas/Camera-Roll-Android-App,64,SD card access ,closed,2017-08-01T10:48:16Z,2017-08-17T19:23:58Z,bug
+kollerlukas/Camera-Roll-Android-App,63,Unable to delete photos,open,2017-07-31T14:42:56Z,,bug
+kollerlukas/Camera-Roll-Android-App,58,Toolbar text and icons are not tinted on new version,closed,2017-07-24T18:22:37Z,2017-07-25T00:49:25Z,bug
+kollerlukas/Camera-Roll-Android-App,57,App becomes unusable after using other apps and returning to CameraRoll,closed,2017-07-24T18:21:40Z,2017-07-30T04:39:36Z,bug
+kollerlukas/Camera-Roll-Android-App,39,"Writing on a removable Storage device (SD card, USB stick)",closed,2017-06-07T02:09:51Z,2017-08-11T17:52:52Z,"bug, improvement"
+kollerlukas/Camera-Roll-Android-App,38,Crash when launching the app,closed,2017-06-06T17:36:12Z,2017-06-07T04:52:20Z,bug
+kollerlukas/Camera-Roll-Android-App,37,Inconsistent Zoom on Album Cover,open,2017-06-06T16:34:43Z,,bug
+kollerlukas/Camera-Roll-Android-App,35,"Deleted files coming back automatically
+",closed,2017-06-05T12:43:44Z,2017-06-07T02:12:43Z,bug
+kollerlukas/Camera-Roll-Android-App,32,Excluded Folder shows when Media Retriever is Enabled,closed,2017-06-05T08:32:12Z,2017-06-10T01:33:24Z,bug
+kollerlukas/Camera-Roll-Android-App,29,Wrong Cover Image,closed,2017-06-05T07:33:29Z,2017-06-07T05:32:55Z,bug
+kollerlukas/Camera-Roll-Android-App,26,Inconsistent ellipses on folder names,closed,2017-06-03T04:45:06Z,2017-06-10T01:32:51Z,bug
+kollerlukas/Camera-Roll-Android-App,22,Inability to zoom on first view,closed,2017-05-30T10:21:10Z,2017-05-31T14:37:04Z,bug
+kollerlukas/Camera-Roll-Android-App,21,Folder name on app bar,closed,2017-05-30T10:02:19Z,2017-05-30T14:36:31Z,bug
+kollerlukas/Camera-Roll-Android-App,20,Long folder names on NestedRecyclerView,closed,2017-05-29T07:54:48Z,2017-05-30T00:14:33Z,bug
+kollerlukas/Camera-Roll-Android-App,17,Camera FAB click not working,closed,2017-05-13T21:34:22Z,2017-05-24T06:20:56Z,bug
+kollerlukas/Camera-Roll-Android-App,14,Sometimes resuming app does not work properly,closed,2017-05-07T04:08:02Z,2017-05-24T06:21:42Z,bug
+keyboardsurfer/Crouton,198,Crashes in L Preview,closed,2014-07-29T23:26:16Z,2014-10-25T21:54:09Z,bug
+keyboardsurfer/Crouton,188,Using Crouton with ViewGroup,closed,2014-06-17T20:51:00Z,2015-06-05T17:18:03Z,bug
+keyboardsurfer/Crouton,172,NPE onResume? ,closed,2014-03-31T23:52:19Z,2014-07-01T04:35:45Z,bug
+keyboardsurfer/Crouton,153,Using crouton 1.8.2 & 1.8.3 with Maven isn't possible anymore,closed,2014-02-07T09:08:37Z,2014-02-07T09:13:36Z,bug
+keyboardsurfer/Crouton,151,NoClassDefFoundError,closed,2014-01-24T14:06:33Z,2014-02-03T16:49:10Z,bug
+keyboardsurfer/Crouton,148,Null pointer exception in Manager#announceForAccessibilityCompat,closed,2014-01-16T07:05:24Z,2014-03-22T16:32:15Z,bug
+keyboardsurfer/Crouton,142,Crouton won't show when using Kit Kat translucent status bar,closed,2014-01-02T14:30:28Z,2014-01-10T13:02:32Z,bug
+keyboardsurfer/Crouton,140,Issue on Configuration DURATION_INFINITE,closed,2013-12-13T20:18:55Z,2015-06-05T17:19:14Z,"bug, demo"
+keyboardsurfer/Crouton,137,When many times clicked in listview Crouton doesn't show,closed,2013-11-20T11:39:49Z,2013-11-20T13:05:13Z,"bug, duplicate"
+keyboardsurfer/Crouton,124,There are no tests to verify Crouton is behaving correctly,open,2013-09-05T08:57:43Z,,bug
+keyboardsurfer/Crouton,116,Crouton show followed by immediate hide will ignore the hide,closed,2013-07-11T15:00:16Z,2015-06-05T17:19:03Z,bug
+keyboardsurfer/Crouton,112,Gravity isn't calculated correctly when non-default dimensions are used,closed,2013-07-03T17:46:43Z,2015-06-05T17:18:58Z,bug
+keyboardsurfer/Crouton,108,Maven artifact won't work with the Gradle build system,closed,2013-05-30T23:22:39Z,2014-02-03T16:51:25Z,bug
+keyboardsurfer/Crouton,90,[Bug] Animations use fix value for height,closed,2013-04-02T02:02:33Z,2013-04-02T17:10:13Z,bug
+keyboardsurfer/Crouton,60,the demo application doesn't work on pre ICS devices,closed,2012-12-24T11:45:05Z,2012-12-30T15:49:19Z,bug
+keyboardsurfer/Crouton,53,rename package to de.keyboardsurfer.android.widget,closed,2012-12-07T14:15:46Z,2012-12-07T14:16:06Z,bug
+keyboardsurfer/Crouton,51,Problem with ListActivity and Crouton,closed,2012-11-12T17:05:08Z,2013-02-05T13:07:03Z,bug
+keyboardsurfer/Crouton,24,Orientation changes prevent the Crouton queue to be displayed correctly.,closed,2012-09-18T08:12:41Z,2015-06-05T17:18:52Z,bug
+keyboardsurfer/Crouton,19,"Crouton ""destroys"" PreferenceFragment",closed,2012-09-06T14:01:03Z,2015-06-05T17:18:46Z,bug
+drpout/boilr,287,Replace GDAX with Coinbase Pro,open,2018-07-03T11:53:31Z,,bug
+drpout/boilr,280,UI cannot handle larger system font size,open,2017-12-21T10:54:46Z,,bug
+drpout/boilr,273,Kraken DASH Support,closed,2017-09-21T13:09:05Z,2017-09-21T16:06:04Z,bug
+drpout/boilr,268,"Delete alarm: add a button, drop swipe move",open,2017-08-24T08:01:15Z,,bug
+drpout/boilr,262,No BTC/EUR pair on Bitstamp,closed,2017-07-26T08:25:35Z,2017-07-27T10:37:22Z,bug
+drpout/boilr,261,Blinktrade based exchang SurBTC fix available,closed,2017-07-24T05:00:41Z,2017-07-25T18:10:19Z,bug
+drpout/boilr,260,Bitmex,closed,2017-07-19T14:19:01Z,2017-07-24T22:48:59Z,bug
+drpout/boilr,253,Blinktrade based exchanges not working,closed,2017-05-20T01:43:28Z,2017-07-25T18:30:04Z,bug
+drpout/boilr,237,Clicking a Boilr's notification when an alarm is rigging does not turn off the alarm,closed,2016-10-31T12:32:12Z,2016-12-23T14:57:44Z,bug
+drpout/boilr,234,c-cex pairs not working,closed,2016-07-05T08:58:25Z,2016-10-03T17:09:56Z,bug
+drpout/boilr,230,can't load yobit pairs,closed,2016-03-29T19:29:50Z,2016-10-03T17:09:56Z,bug
+drpout/boilr,224,lasts are forgotten after reboot,closed,2015-08-18T23:30:16Z,2016-12-19T18:08:41Z,bug
+drpout/boilr,150,no internet forever,closed,2015-04-05T13:10:39Z,2015-04-27T08:57:00Z,bug
+drpout/boilr,146,Killing app clears Price Change alarm's history,closed,2015-04-02T23:13:46Z,2016-12-19T18:08:41Z,bug
+drpout/boilr,135,Permissions - read phone status and identity,closed,2015-03-29T01:57:13Z,2015-03-29T01:57:42Z,bug
+drpout/boilr,133,alarm list - on/off bug,closed,2015-03-27T22:30:08Z,2015-03-28T00:17:36Z,bug
+drpout/boilr,110,Triggered alarm + menu button dead loop,closed,2015-03-14T16:27:48Z,2015-03-23T18:16:11Z,bug
+drpout/boilr,106,Extremely unstable after update,closed,2015-03-13T08:46:29Z,2015-03-21T16:52:49Z,bug
+drpout/boilr,105,editing offed price hit alarm directly on the alarm list,closed,2015-03-13T01:10:05Z,2015-03-13T11:02:43Z,bug
+drpout/boilr,93,No warning before login in HTTP authenticated network,closed,2015-03-02T20:50:19Z,2015-03-23T14:30:25Z,bug
+drpout/boilr,90,search exchange/coin cursor disappears after random input with no results,open,2015-02-27T00:50:30Z,,bug
+drpout/boilr,83,Preferences fragments with malformed theme after screen rotation,closed,2015-02-25T06:44:11Z,2015-03-02T00:17:42Z,"bug, bells&whistles"
+drpout/boilr,80,Substitute NaN for — when no price was fetched,closed,2015-02-25T03:42:09Z,2015-02-25T06:13:47Z,bug
+drpout/boilr,79,persistent no internet notifications,closed,2015-02-25T03:35:35Z,2015-03-03T13:36:44Z,bug
+drpout/boilr,75,"alerts ""default"" behavior",closed,2015-02-22T04:49:27Z,2015-03-02T19:27:27Z,bug
+drpout/boilr,72,price change time frame no default,closed,2015-02-22T04:17:28Z,2015-02-25T03:07:37Z,bug
+drpout/boilr,62,price hit triggers by itself,closed,2015-02-13T05:26:35Z,2015-02-19T19:18:45Z,bug
+drpout/boilr,59,Align arrow in fullscreen alarm notification when in horizontal rotation,closed,2015-01-31T23:54:07Z,2015-02-06T21:22:52Z,bug
+drpout/boilr,56,Alarms don't shut off,closed,2015-01-14T02:51:03Z,2015-02-06T18:56:18Z,"bug, duplicate"
+drpout/boilr,51,Alarms not updating with low quality internet connection,closed,2014-11-06T15:32:05Z,2015-01-15T00:34:31Z,bug
+drpout/boilr,35,Retry get last value in Price Change alarms,closed,2014-10-13T22:30:12Z,2014-10-14T17:26:40Z,"bug, enhancement"
+drpout/boilr,33,keep alarms & settings when updating,closed,2014-10-12T20:55:16Z,2014-10-13T13:13:37Z,bug
+drpout/boilr,25,exchange&pair list item height,closed,2014-10-05T19:50:22Z,2014-10-06T17:04:58Z,bug
+drpout/boilr,22,Boilr has no APK signing keys,closed,2014-10-04T01:23:14Z,2014-10-04T20:51:12Z,bug
+drpout/boilr,21,alarm disapeared and reapeared.,closed,2014-10-01T18:46:03Z,2014-10-03T16:11:09Z,bug
+drpout/boilr,20,"flashing ""no internet""",closed,2014-10-01T18:18:20Z,2014-10-02T22:48:39Z,bug
+drpout/boilr,17,price hit alarm - edit to - price change,closed,2014-09-26T15:55:16Z,2014-09-26T16:25:16Z,bug
+drpout/boilr,16,boilr crashes and keeps giving warnings,closed,2014-09-26T15:45:20Z,2014-10-04T23:55:14Z,bug
+drpout/boilr,13,really small prices,closed,2014-09-25T19:15:17Z,2014-09-26T16:25:16Z,"bug, enhancement"
+drpout/boilr,10,upper bound price hit alarm plays twice + other bugs,closed,2014-09-24T19:53:48Z,2015-01-14T20:36:02Z,bug
+drpout/boilr,8,price variation 2 price change,closed,2014-09-24T19:01:23Z,2014-09-25T13:58:36Z,bug
+drpout/boilr,4,Add choice between Light and Dark theme,closed,2014-09-10T04:51:33Z,2014-10-03T16:11:09Z,bug
+firebirdberlin/tinytimetracker,8,Manual trackers: no UI updates,closed,2017-08-25T19:35:56Z,2017-09-01T22:11:00Z,bug
+Team980/ThunderScout-Android,8,Infamous Red 3 bug: App crashes when accessing unloaded Views in ScoutingFlowActivity,closed,2018-04-24T01:33:11Z,2019-03-09T00:06:35Z,bug
+aseba-community/thymio-vpl2,132,click to change event or action do not alwas works,open,2018-01-23T20:38:47Z,,"bug, reactive mode"
+aseba-community/thymio-vpl2,129,Color blocks produce errors when deleted,open,2018-01-22T13:14:04Z,,"bug, blocks"
+aseba-community/thymio-vpl2,116,VPL is not declarative,open,2017-08-06T08:19:33Z,,"bug, enhancement, open question"
+aseba-community/thymio-vpl2,113,Duplicate parametrized events on different lines are not detected ,closed,2017-08-03T11:36:28Z,2018-01-22T13:06:04Z,"bug, reactive mode"
+aseba-community/thymio-vpl2,111,A line with a color and a motor actions returns error,closed,2017-08-03T11:31:42Z,2017-08-03T11:43:00Z,"bug, reactive mode"
+aseba-community/thymio-vpl2,108,"Sometimes, the transition initial values are not initialized properly",open,2017-07-26T16:08:22Z,,"bug, open question"
+aseba-community/thymio-vpl2,107,Layout bug in reactive mode,closed,2017-07-13T08:53:31Z,2017-07-13T11:44:39Z,"bug, reactive mode"
+aseba-community/thymio-vpl2,103,Compiler not called on parameters changed,closed,2017-07-11T11:22:51Z,2017-07-13T08:55:48Z,"bug, reactive mode"
+aseba-community/thymio-vpl2,102,Some action code is not generated,closed,2017-07-11T11:05:44Z,2017-07-13T08:55:25Z,"bug, reactive mode"
+aseba-community/thymio-vpl2,99,Inaccurate animation of the robot movement on the engine motors block,open,2017-07-01T08:56:46Z,,"bug, blocks"
+aseba-community/thymio-vpl2,98,App freeze on connecting to Thymio on some devices,open,2017-06-28T15:27:55Z,,"bug, open question, android"
+aseba-community/thymio-vpl2,87,Scroll of event/action pane in the editor changes block,closed,2017-06-13T11:11:25Z,2017-06-13T12:58:25Z,bug
+aseba-community/thymio-vpl2,85,Block being dragged is shown below others event-actions pairs,open,2017-06-13T08:22:53Z,,"bug, reactive mode"
+aseba-community/thymio-vpl2,82,Strange behavior of drag and drop of blocks,open,2017-06-13T07:37:32Z,,"bug, reactive mode"
+aseba-community/thymio-vpl2,81,Block list cannot be scrolled while in block editor,closed,2017-06-13T06:52:30Z,2017-06-13T07:49:23Z,bug
+aseba-community/thymio-vpl2,80,Dragging a block to the trash corrupts the display of blocks in the scene,open,2017-06-12T15:50:53Z,,bug
+aseba-community/thymio-vpl2,79,Visual artefact on block panes scroll,closed,2017-06-12T15:39:52Z,2017-06-13T13:43:00Z,bug
+aseba-community/thymio-vpl2,75,No error is produced when a row has no event,closed,2017-05-19T12:32:44Z,2017-08-03T08:28:27Z,bug
+aseba-community/thymio-vpl2,73,Compiler now generates invalid code,closed,2017-05-19T09:10:30Z,2017-05-19T09:27:11Z,bug
+aseba-community/thymio-vpl2,64,Incorrect text color in about box in dark mode,closed,2017-02-02T21:43:14Z,2017-06-13T09:26:48Z,bug
+aseba-community/thymio-vpl2,59,Resurect author pane,closed,2017-01-30T15:27:33Z,2017-02-02T17:58:28Z,bug
+aseba-community/thymio-vpl2,55,Prevent block editor to popup without any block selected,closed,2017-01-30T15:12:33Z,2017-08-04T11:21:50Z,bug
+aseba-community/thymio-vpl2,54,Binding loop in simple mode,open,2017-01-26T19:44:35Z,,"bug, reactive mode"
+aseba-community/thymio-vpl2,52,Stop Button should stop thymio,closed,2017-01-14T16:04:22Z,2017-01-26T19:39:31Z,bug
+aseba-community/thymio-vpl2,34,Display bug in simple mode when a program is loaded,closed,2016-12-16T20:25:53Z,2017-06-26T07:14:48Z,"bug, reactive mode"
+aseba-community/thymio-vpl2,33,Action execution is not shown any more,closed,2016-12-16T15:46:38Z,2017-06-26T07:20:05Z,"bug, reactive mode"
+aseba-community/thymio-vpl2,30,Advanced mode is broken,open,2016-12-15T10:57:08Z,,"bug, FSM mode"
+aseba-community/thymio-vpl2,27,Proximity and ground sensors blocks do not recover their current parameters when in edit mode,closed,2016-12-13T19:51:29Z,2016-12-15T10:37:23Z,bug
+aseba-community/thymio-vpl2,26,Generated code in simple mode cannot follow line as VPL1 does,closed,2016-12-13T15:49:13Z,2016-12-14T17:15:54Z,bug
+aseba-community/thymio-vpl2,25,Load is broken in VPL simple mode,closed,2016-12-13T15:47:15Z,2016-12-13T17:02:14Z,bug
+aseba-community/thymio-vpl2,24,VPL2 simple mode produces error on console on execution,closed,2016-12-13T09:19:18Z,2016-12-13T09:27:14Z,bug
+aseba-community/thymio-vpl2,23,Problem with initialization of conditions in simple mode,closed,2016-12-12T09:50:00Z,2016-12-15T10:45:56Z,bug
+aseba-community/thymio-vpl2,17,Do not allow inconsistent conditions in button and proximity blocks,closed,2016-12-07T16:55:06Z,2017-08-03T10:22:17Z,"bug, blocks"
+aseba-community/thymio-vpl2,14,"When an event is dropped, lines is resized but the zoom level is unchanged",closed,2016-12-07T15:46:16Z,2016-12-15T10:56:12Z,bug
+aseba-community/thymio-vpl2,12,Timer icon should be hidden is simple mode,closed,2016-12-07T15:41:03Z,2016-12-15T10:51:51Z,bug
+aseba-community/thymio-vpl2,11,A block being dragged to the trash is show below the panes,closed,2016-12-07T15:40:09Z,2016-12-16T13:18:45Z,bug
+aseba-community/thymio-vpl2,10,Generate error when inconsistent blocks are put on the same line in simple mode,closed,2016-12-07T15:39:10Z,2017-08-03T10:22:17Z,"bug, reactive mode"
+aseba-community/thymio-vpl2,9,Simple mode keeps action highlighted after execution feedback,closed,2016-12-07T15:36:31Z,2016-12-16T14:03:25Z,bug
+aseba-community/thymio-vpl2,8,Inconsistent program start in simple mode,closed,2016-12-07T15:35:41Z,2016-12-20T17:06:17Z,bug
+aseba-community/thymio-vpl2,7,"When switching from simple to advanced mode, programmed is stopped but play button continues to display the stop icon",open,2016-12-07T15:32:33Z,,"bug, FSM mode"
+SaschaWillems/VulkanCapsViewer,195,Why is the same information being queried for different extension supports?,open,2023-12-20T09:33:03Z,,bug
+SaschaWillems/VulkanCapsViewer,145,3.22 AppImage core-dumps on Linux Mint 20.3 where 3.21 does not.,closed,2022-05-27T13:55:39Z,2022-08-21T14:35:01Z,"bug, Platform: Linux"
+SaschaWillems/VulkanCapsViewer,143,AppImage newer than 3.11 segfaults with mesa-git (Debian sid),closed,2022-05-06T13:11:20Z,2022-08-12T14:36:50Z,"bug, Platform: Linux"
+SaschaWillems/VulkanCapsViewer,142,Segmentation fault on Manjaro with mesa-git RADV,closed,2022-05-02T16:58:14Z,2022-08-23T11:37:10Z,"bug, Platform: Linux"
+SaschaWillems/VulkanCapsViewer,21,Unable to submit with headerversion,closed,2016-05-18T12:11:00Z,2016-11-14T19:32:50Z,bug
+SaschaWillems/VulkanCapsViewer,9,pQueuePriorities not set,closed,2016-03-04T20:13:14Z,2016-03-04T20:21:27Z,bug
+Mygod/nju-portal-login-android,16,Sync notices for detect only mode,closed,2016-04-16T05:37:18Z,2016-04-16T06:11:45Z,bug
+Mygod/nju-portal-login-android,15,Destroy notifications when logged in,closed,2016-04-16T04:05:25Z,2016-04-16T06:13:49Z,bug
+Mygod/nju-portal-login-android,8,Chrome custom tab doesn't disable data saver,closed,2015-12-06T13:46:06Z,2015-12-06T17:51:51Z,bug
+Mygod/nju-portal-login-android,1,Auto login doesn't support Chrome OS,open,2015-11-27T09:15:15Z,,"bug, help wanted"
+Berlin-Vegan/berlin-vegan-guide,78,Append license header,closed,2016-06-19T15:06:11Z,2016-06-20T13:18:53Z,bug
+Berlin-Vegan/berlin-vegan-guide,77,Tiles perform badly,closed,2016-06-19T13:27:48Z,2021-06-09T22:40:37Z,bug
+Berlin-Vegan/berlin-vegan-guide,70,Remove rate Button,closed,2016-04-01T00:57:49Z,2016-04-01T18:17:24Z,bug
+Berlin-Vegan/berlin-vegan-guide,55,java.lang.RuntimeException: Unable to start activity ComponentInfo java.lang.NullPointerException,closed,2015-11-09T09:02:43Z,2021-06-09T22:40:35Z,"bug, acra-report"
+Berlin-Vegan/berlin-vegan-guide,53,java.lang.IllegalArgumentException:  not attached to window manager,closed,2015-11-09T08:41:20Z,2021-06-09T22:40:35Z,"bug, acra-report"
+Berlin-Vegan/berlin-vegan-guide,51,Scrollen der Karte in der Detailansicht funktioniert nicht ordentlich,closed,2015-11-04T21:17:00Z,2015-12-01T12:56:30Z,bug
+Berlin-Vegan/berlin-vegan-guide,43,android.view.InflateException: Binary XML file line #12: Error inflating class ,closed,2015-10-06T13:27:29Z,2021-06-09T22:40:33Z,"bug, acra-report"
+Berlin-Vegan/berlin-vegan-guide,40,Crash: java.lang.IllegalArgumentException: View not attached to window manager,closed,2015-09-19T17:51:19Z,2021-06-09T22:40:33Z,"bug, acra-report"
+Berlin-Vegan/berlin-vegan-guide,39,Crash: java.lang.IllegalArgumentException: no providers found for criteria,closed,2015-09-19T17:50:05Z,2015-11-30T11:52:48Z,"bug, acra-report"
+Berlin-Vegan/berlin-vegan-guide,38,Crash: java.lang.IllegalArgumentException: width and height must be > 0,closed,2015-09-19T17:47:47Z,2015-09-29T08:57:07Z,"bug, acra-report"
+Berlin-Vegan/berlin-vegan-guide,37,Crash:  No Activity found to handle Intent,closed,2015-09-19T17:45:48Z,2021-06-09T22:40:33Z,"bug, acra-report"
+Berlin-Vegan/berlin-vegan-guide,36,Crash auf CM 12.1 bei Click auf Navigationsbutton,closed,2015-08-26T20:53:47Z,2015-08-31T22:00:24Z,bug
+Berlin-Vegan/berlin-vegan-guide,33,Nullpointer in GastroHeadFragment.onCreateView,closed,2015-08-17T16:49:37Z,2015-08-17T17:27:10Z,"bug, acra-report"
+Berlin-Vegan/berlin-vegan-guide,31,Entfernungsanzeige in der Listenansicht ist ungenau,closed,2015-08-07T20:59:39Z,2021-06-09T22:40:32Z,bug
+Berlin-Vegan/berlin-vegan-guide,30,"Lokalität wird als geschlossen angezeigt, obwohl sie geöffnet ist.",closed,2015-08-07T20:58:24Z,2015-08-11T11:29:01Z,bug
+Berlin-Vegan/berlin-vegan-guide,21,Crash on GastroLocationViewHolder#onClick (ArrayIndexOutOfBoundsException),closed,2015-06-25T20:08:59Z,2021-06-09T22:40:32Z,"bug, acra-report"
+Berlin-Vegan/berlin-vegan-guide,19,Nullpointer GastroActivity#onPostCreate,closed,2015-06-22T14:11:16Z,2015-06-25T11:42:24Z,"bug, acra-report"
+Berlin-Vegan/berlin-vegan-guide,18,Crash (Nullpointer) beim Hinzufügen von Favoriten,closed,2015-06-19T13:28:55Z,2015-06-23T10:51:30Z,"bug, acra-report"
+Berlin-Vegan/berlin-vegan-guide,16,"Crash on showing ""GPS not available"" dialog",closed,2015-06-14T12:04:56Z,2015-06-23T10:51:51Z,"bug, acra-report"
+Berlin-Vegan/berlin-vegan-guide,15,Crash on JsonSyntaxException: java.net.SocketTimeoutException,closed,2015-06-14T12:00:38Z,2015-06-23T19:27:24Z,"bug, acra-report"
+Berlin-Vegan/berlin-vegan-guide,13,Zeilenumbruch in den Wörtern (Beschreibung),closed,2015-05-12T20:47:00Z,2015-05-26T16:58:46Z,bug
+futurice/meeting-room-tablet,37,Incorrect name showing when reserving from web,closed,2016-08-04T16:13:21Z,2016-08-09T19:40:56Z,bug
+futurice/meeting-room-tablet,32,Incorrect name shown on reservation,open,2015-10-29T11:14:50Z,,bug
+futurice/meeting-room-tablet,30,Bookings made from the app aren't visible anywhere else,open,2015-10-22T09:46:37Z,,bug
+RCasatta/EternityWallAndroid,59,Play Crash Report,closed,2016-01-20T09:34:37Z,2016-01-25T10:23:49Z,bug
+RCasatta/EternityWallAndroid,58,Play Crash Report,closed,2016-01-20T09:33:52Z,2016-01-25T10:23:49Z,bug
+asafge/NewsBlurPlus,26,Only saved stories are synced,closed,2013-09-05T00:56:16Z,2013-09-12T14:28:21Z,bug
+asafge/NewsBlurPlus,21,Mark as read - inconsistent behavior on a glitchy network,closed,2013-08-16T13:24:46Z,2013-08-17T08:12:38Z,bug
+asafge/NewsBlurPlus,19,Incremental sync issues,closed,2013-08-14T08:11:17Z,2013-08-24T13:21:34Z,bug
+asafge/NewsBlurPlus,17,Sync not getting all starred items [waiting],closed,2013-08-06T14:06:21Z,2013-08-10T17:04:34Z,bug
+asafge/NewsBlurPlus,15,Issues retrieving stories for free accounts,closed,2013-08-05T14:48:23Z,2013-08-07T14:20:18Z,bug
+asafge/NewsBlurPlus,14,Mark all as read -  don't include excluded feeds [waiting],closed,2013-08-04T20:48:27Z,2013-08-12T10:41:41Z,bug
+asafge/NewsBlurPlus,10,Workaround unread hashes issue in NewsBlur,closed,2013-07-31T07:59:02Z,2013-07-31T20:26:41Z,bug
+asafge/NewsBlurPlus,9,Mark single story as read issue,closed,2013-07-31T07:58:25Z,2013-08-05T21:36:06Z,bug
+CTC-CompTech/delivery,20,Jeep ability bug,closed,2015-03-23T15:03:54Z,2015-03-24T00:45:34Z,bug
+CTC-CompTech/delivery,19,Buttons are clickable behind credits and says menus,closed,2015-03-06T15:44:31Z,2015-03-11T00:54:04Z,bug
+CTC-CompTech/delivery,13,Render 'hiccups' when deleting obstacles,closed,2015-02-04T16:40:38Z,2015-02-07T01:35:02Z,bug
+CTC-CompTech/delivery,9,Ability button does not show after pause,closed,2015-01-14T01:46:49Z,2015-01-14T01:58:52Z,bug
+CTC-CompTech/delivery,7,Car off screen on start,closed,2015-01-12T02:03:26Z,2015-01-12T15:38:38Z,bug
+anycook/anycook-einkaufszettel-android,27,wrong recipe pictures while searching,closed,2014-11-25T07:54:02Z,2014-11-26T00:46:28Z,bug
+anycook/anycook-einkaufszettel-android,25,Application hangs-up on start  ,closed,2014-11-01T20:39:54Z,2014-11-02T19:46:13Z,bug
+anycook/anycook-einkaufszettel-android,24,logging not working,closed,2014-11-01T20:03:39Z,2014-11-06T01:20:01Z,bug
+anycook/anycook-einkaufszettel-android,19,Lint found errors in the project,closed,2014-08-06T19:56:50Z,2014-08-07T15:16:27Z,"bug, core"
+anycook/anycook-einkaufszettel-android,12,database leaking,closed,2014-08-03T10:54:42Z,2016-06-12T22:31:35Z,bug
+Apptitive/Ramadan,4,Justify text,closed,2014-05-28T15:16:42Z,2014-05-28T15:16:59Z,"bug, enhancement"
+Apptitive/Ramadan,1,Apply Bangla font,closed,2014-05-28T10:27:01Z,2014-06-10T11:37:42Z,bug
+sheimi/SGit,274,Editor removes newline character from the end of the file,closed,2016-10-06T15:54:50Z,2016-10-21T06:49:11Z,"bug, editor"
+sheimi/SGit,273,Testing SGIT on Android,closed,2016-10-05T20:37:27Z,2016-11-02T03:52:56Z,"bug, more info"
+sheimi/SGit,269,handle exception when trying to import corrupted repo,closed,2016-09-28T00:19:06Z,2016-11-02T03:35:24Z,"bug, minor"
+sheimi/SGit,265,subdir selection for importing repo broken,closed,2016-09-26T05:30:32Z,2016-09-26T05:55:35Z,"bug, beta, Priority"
+sheimi/SGit,264,summary doesnt update immediately after changing user name/email,closed,2016-09-26T05:22:49Z,2016-11-02T03:34:45Z,"bug, minor, chromebook"
+sheimi/SGit,255,A task for this repo is already running,closed,2016-09-09T22:05:32Z,2016-11-02T03:51:56Z,bug
+sheimi/SGit,254,Ignored files are shown in status page,closed,2016-09-06T16:55:40Z,2016-11-02T03:51:43Z,"bug, beta, Priority"
+sheimi/SGit,253,Username is Ignored when Logging in via SSH,closed,2016-09-05T12:14:52Z,2016-11-02T03:51:35Z,bug
+sheimi/SGit,252,Text Rendering and Syntax Highlighting failure with Fortran (possibly other languages too),closed,2016-09-02T15:30:29Z,2016-10-21T06:50:21Z,"bug, more info, investigating"
+sheimi/SGit,249,Build issue (lint): Every fragment must have an empty constructor,closed,2016-08-31T15:57:41Z,2016-09-24T04:46:53Z,"bug, beta"
+sheimi/SGit,248,App starts with light theme,closed,2016-08-31T14:23:20Z,2016-09-24T05:33:53Z,bug
+sheimi/SGit,247,Weird scrollbars(?) in commit diff view,closed,2016-08-31T03:35:48Z,2016-11-02T03:50:55Z,bug
+sheimi/SGit,246,[subjective] Dark theme folder icon color,closed,2016-08-31T03:19:51Z,2016-11-02T03:50:44Z,"bug, beta, minor"
+sheimi/SGit,245,Dark theme not applying to the choose branch screen,closed,2016-08-31T01:50:19Z,2016-09-24T04:44:36Z,"bug, beta"
+sheimi/SGit,243,Directories starting with a dot are not shown in file picker,closed,2016-08-30T11:14:09Z,2016-09-29T00:16:35Z,"bug, duplicate"
+sheimi/SGit,242,Lint code cleanup,closed,2016-08-30T05:05:19Z,2016-11-02T03:43:14Z,bug
+sheimi/SGit,233,still cant select sd card as storage,closed,2016-08-19T14:39:14Z,2016-09-24T06:51:32Z,"bug, Priority"
+sheimi/SGit,227,refs list does not display master branch when there is more than 1 remote,closed,2016-08-12T03:01:10Z,2016-11-02T03:44:52Z,bug
+sheimi/SGit,216,"after creating a new branch, statusbar shows no current branch name",closed,2016-08-05T00:56:34Z,2016-08-29T06:30:48Z,bug
+sheimi/SGit,209,using the default name for local repo dir does not work,closed,2016-08-03T07:22:47Z,2016-08-05T02:21:34Z,bug
+sheimi/SGit,196,Some refs are not being displayed correctly in Branch UI,closed,2016-06-11T06:12:30Z,2016-08-03T03:17:45Z,bug
+sheimi/SGit,185,Edit file does not save,closed,2016-05-26T20:45:10Z,2016-08-23T06:12:37Z,bug
+sheimi/SGit,156,Update from upstream,closed,2015-06-11T08:35:42Z,2016-08-23T06:16:35Z,bug
+sheimi/SGit,151,Cloning remote repository not working,closed,2015-04-16T09:52:07Z,2016-11-02T03:54:15Z,"bug, more info"
+sheimi/SGit,131,Directly delete a repository from Android/data/me.scheimi/files/repo but that repository still shows in the user interface of SGit,closed,2015-01-01T15:00:09Z,2016-11-02T03:56:13Z,bug
+sheimi/SGit,123,Git reset delete the files.,closed,2015-01-01T14:18:47Z,2016-11-02T03:56:28Z,bug
+sheimi/SGit,103,Compatibility issues with ART-enabled devices,closed,2014-09-29T05:12:17Z,2014-12-08T05:44:24Z,bug
+sheimi/SGit,91,Sleep while cloning,closed,2014-07-29T21:53:48Z,2016-09-29T00:24:56Z,bug
+sheimi/SGit,89,branches are not being updated,closed,2014-07-28T17:12:19Z,2014-12-11T02:12:39Z,bug
+sheimi/SGit,76,Doubled Commits,closed,2014-05-06T17:48:18Z,2014-12-09T08:12:54Z,bug
+sheimi/SGit,75,Bugs in SGit 1.2.4.4’s editor,closed,2014-05-06T05:01:25Z,2015-05-20T08:59:39Z,"bug, wontfix, editor"
+sheimi/SGit,74,Repo cloning lags ui thread.,closed,2014-04-20T10:39:19Z,2014-12-09T14:14:59Z,bug
+sheimi/SGit,73,Gists cannot be cloned,closed,2014-04-16T06:15:16Z,2014-05-07T09:38:44Z,bug
+sheimi/SGit,65,Can't clone repository over SSH,closed,2014-03-25T15:42:48Z,2016-08-12T05:50:19Z,bug
+sheimi/SGit,42,no way to see log info,closed,2014-01-06T21:48:21Z,2016-11-02T05:09:40Z,bug
+sheimi/SGit,36,No error message if push is rejected by remote,closed,2014-01-02T21:00:13Z,2014-01-03T08:27:14Z,bug
+sheimi/SGit,34,Bug can't push to origin,closed,2014-01-02T20:38:06Z,2014-01-03T08:26:48Z,bug
+sheimi/SGit,33,"Oops, Out of memory during resolving deltas",closed,2014-01-02T10:54:37Z,2014-12-08T05:30:27Z,bug
+sheimi/SGit,32,Package seems to be mismatch,closed,2014-01-01T10:40:59Z,2014-01-01T16:45:12Z,bug
+sheimi/SGit,31,Bug line number,closed,2013-12-30T23:09:34Z,2014-01-01T00:50:22Z,bug
+sheimi/SGit,16,Adding a repository fails when a redirect response is received.,closed,2013-11-10T03:08:31Z,2016-11-02T05:10:12Z,bug
+sheimi/SGit,7,Sometimes files won't open,closed,2013-10-12T06:02:33Z,2013-12-28T18:12:50Z,bug
+sheimi/SGit,5,Failed clone leads to in-correctable state,closed,2013-10-12T05:56:53Z,2016-11-02T05:10:25Z,bug
+sheimi/SGit,3,Can't push when using http without password,closed,2013-10-06T03:57:36Z,2013-11-13T17:58:11Z,bug
+sheimi/SGit,1,File editing,closed,2013-09-23T21:18:20Z,2013-09-28T00:22:45Z,bug
+Neraud/PADListener,103,All monsters getting updated,closed,2016-02-26T00:09:47Z,2016-02-26T10:18:43Z,bug
+Neraud/PADListener,101,Crash when syncing too many monsters,closed,2016-02-23T09:14:20Z,2016-02-23T10:09:15Z,bug
+Neraud/PADListener,88,Sharing capture data with Gmail fails,closed,2015-10-10T14:04:04Z,2015-10-10T14:22:10Z,bug
+Neraud/PADListener,81,Friend Filter feature not working,closed,2015-04-15T06:55:45Z,2016-02-22T16:15:24Z,bug
+Neraud/PADListener,74,minor typo,closed,2015-01-28T05:38:01Z,2016-02-22T16:24:45Z,bug
+Neraud/PADListener,72,Handle capturing friends with multiple accounts,closed,2015-01-15T06:55:22Z,2015-05-02T12:39:29Z,bug
+Neraud/PADListener,70,"Wrong app name with some launchers (""Home"" instead of ""PADListener"")",closed,2014-12-30T12:44:17Z,2015-01-02T14:02:50Z,bug
+Neraud/PADListener,67,Manual sync shows blank screen (no tabs),closed,2014-12-10T09:47:28Z,2014-12-13T18:30:37Z,bug
+Neraud/PADListener,66,auto capture+sync still directing to NA,closed,2014-12-10T09:26:38Z,2014-12-10T09:39:11Z,bug
+Neraud/PADListener,65,Auto capture (and sync) always stars NA PAD,closed,2014-12-09T20:09:45Z,2014-12-09T20:17:21Z,bug
+Neraud/PADListener,64,Crash when listener does not start on Auto capture,closed,2014-12-09T19:43:48Z,2014-12-09T20:17:21Z,bug
+Neraud/PADListener,61,Auto capture and sync crashes when unknown monsters are encountered,closed,2014-12-07T22:15:59Z,2014-12-07T22:30:04Z,bug
+Neraud/PADListener,60,Notification icon in Lollipop is all white,closed,2014-11-29T16:53:30Z,2014-11-29T17:19:04Z,bug
+Neraud/PADListener,58,Auto IPtables does not work with Android 5.0,closed,2014-11-26T06:48:37Z,2014-11-29T17:19:04Z,bug
+Neraud/PADListener,56,Auto-wifi proxy does not work with Android 5.0,closed,2014-11-25T16:59:00Z,2014-11-29T17:19:04Z,bug
+Neraud/PADListener,53,"After achieving target Ult Evo, PADherder shows devolution as the next step instead of ""None""",closed,2014-11-19T18:00:52Z,2014-12-13T18:30:37Z,bug
+Neraud/PADListener,52,Update seems to have broken padherder,closed,2014-11-02T14:41:38Z,2014-11-02T16:04:09Z,bug
+Neraud/PADListener,49,Unknown friend leader crashes,closed,2014-09-22T09:45:42Z,2014-09-22T15:28:04Z,bug
+Neraud/PADListener,45,Evolving a monster keeps the old level target,closed,2014-08-31T13:57:02Z,2014-08-31T14:14:58Z,bug
+Neraud/PADListener,42,Only if already a monster in PADherder option doesn't work,closed,2014-08-21T19:57:08Z,2014-08-29T07:01:56Z,bug
+Neraud/PADListener,39,Error creating chain 1,open,2014-08-17T22:21:30Z,,bug
+Neraud/PADListener,34,Cannot create monster when also material,closed,2014-08-14T15:48:47Z,2014-08-14T22:38:30Z,bug
+Neraud/PADListener,33,Monster incorrectly selected when also material,closed,2014-08-14T15:14:37Z,2014-08-14T22:38:30Z,bug
+Neraud/PADListener,29,Wrong password with correct password,open,2014-07-17T06:00:13Z,,bug
+Neraud/PADListener,28,PAD migrated to HTTPS,closed,2014-07-10T21:00:22Z,2014-07-13T11:08:53Z,bug
+Neraud/PADListener,27,Database closed,closed,2014-07-06T09:54:10Z,2014-07-13T11:07:28Z,bug
+Neraud/PADListener,24,Rank is synced even when not modified,closed,2014-06-30T18:58:04Z,2014-06-30T19:19:31Z,bug
+Neraud/PADListener,23,Database locked,closed,2014-06-29T18:24:20Z,2014-06-30T19:19:31Z,bug
+Neraud/PADListener,22,NPE on SwitchListener,closed,2014-06-29T18:23:23Z,2014-06-30T19:19:31Z,bug
+Neraud/PADListener,21,Crash when syncing with obsolete mmonster information,closed,2014-06-29T08:04:43Z,2014-06-29T09:44:46Z,bug
+Neraud/PADListener,19,Crash when rotating the device on SwichListener screen when listener is started,closed,2014-06-16T20:17:18Z,2014-06-16T21:49:06Z,bug
+Neraud/PADListener,18,Crash when PADHerder's login contains incorrect characters,closed,2014-06-16T19:31:48Z,2014-06-16T22:09:02Z,bug
+Neraud/PADListener,13,[Build] releases built by gradle do not include libsocketdest.so -> crash when starting the listener,closed,2014-06-16T07:36:04Z,2014-06-16T21:49:06Z,bug
+Neraud/PADListener,10,Sync shows updated monsters with more than the max awakenings,closed,2014-06-07T13:02:44Z,2014-06-07T13:13:27Z,bug
+Neraud/PADListener,8,Only one of each BAO monsters is syncinc,closed,2014-06-07T12:41:08Z,2014-06-07T12:50:43Z,bug
+Neraud/PADListener,5,UI badly scale on smaller resolution,closed,2014-06-04T18:26:03Z,2014-06-07T13:59:15Z,bug
+Neraud/PADListener,3,Turning listener on/off only works when doing it a few times,closed,2014-06-04T17:51:59Z,2014-06-04T22:05:41Z,bug
+Neraud/PADListener,2,Creating monsters does not set awakenings,closed,2014-06-04T07:15:43Z,2014-06-04T22:05:41Z,bug
+Neraud/PADListener,1,Possible Batman Collab Issues,closed,2014-06-03T22:34:52Z,2014-06-04T21:49:11Z,bug
+futurice/hemmo-app,2,Resetting the routes in LoginViewContainer leads to overlapping audio playback,closed,2017-07-06T13:02:33Z,2017-07-10T08:35:31Z,bug
+KlubJagiellonski/pola-android,48,Po każdym zrobieniu zdjęcia staje się ono jedynym w zgłoszeniu,closed,2017-10-04T17:54:24Z,2021-05-05T17:46:43Z,bug
+KlubJagiellonski/pola-android,45,Exception java.lang.RuntimeException: Unable to start activity ComponentInfo{pl.pola_app/pl.pola_app.ui.activity.MainActivity}: android.view.InflateException: Binary XML file line #9: Binary XML file line #9: Error inflating class fragment,closed,2017-09-05T12:41:42Z,2021-03-23T20:21:11Z,bug
+KlubJagiellonski/pola-android,44,Exception java.lang.IllegalArgumentException: width and height must be > 0,closed,2017-09-05T12:40:40Z,2021-03-23T20:20:41Z,"bug, wontfix"
+KlubJagiellonski/pola-android,43,java.lang.NullPointerException,closed,2017-09-05T12:38:46Z,2018-07-27T03:41:14Z,bug
+KlubJagiellonski/pola-android,40,Android 8.0 Oreo Nexus 5x odwrócony ekrain,closed,2017-08-22T17:50:24Z,2019-06-17T12:28:31Z,bug
+KlubJagiellonski/pola-android,34,"Zepsute zdjęcia z ""Naucz Polę""",closed,2017-08-18T05:24:30Z,2021-03-23T20:20:10Z,"bug, wontfix"
+KlubJagiellonski/pola-android,33,"Podczas uczenia Poli nie możemy robić zdjęć, musimy pobierać klatki z Camera Preview",closed,2017-08-16T06:08:54Z,2017-08-18T05:20:46Z,"bug, pri:high"
+KlubJagiellonski/pola-android,32,Fatal Exception: java.lang.RuntimeException: Camera is being used after Camera.release() was called,closed,2017-08-10T16:02:40Z,2017-08-21T00:36:24Z,"bug, pri:low"
+KlubJagiellonski/pola-android,31,"Fatal Exception: java.lang.RuntimeException: Failure delivering result ResultInfo{who=@android:requestPermissions:, request=172, result=-1, data=Intent { act=android.content.pm.action.REQUEST_PERMISSIONS (has extras) }} to activity {pl.pola_app/pl.pola_app.ui.activity.CreateReportActivity}: java.lang.SecurityException: Permission Denial: starting Intent { act=android.media.action.IMAGE_CAPTURE flg=0x3 cmp=com.android.camera2/com.android.camera.CaptureActivity clip={text/uri-list U:content://pl.pola_app.easyphotopicker.fileprovider/picturesext/bf506ace-2cb2-4e80-b570-ecc37000c0d5-615338898.jpg} (has extras) } from ProcessRecord{8e28f2 25202:pl.pola_app/u0a245} (pid=25202, uid=10245) with revoked permission android.permission.CAMERA",closed,2017-08-10T16:01:40Z,2017-08-21T00:36:13Z,"bug, pri:low"
+KlubJagiellonski/pola-android,30,Fatal Exception: java.lang.RuntimeException: setParameters failed,closed,2017-08-10T15:59:20Z,2017-08-21T00:35:48Z,"bug, pri:low"
+75py/Aplin,117,Some icons are not displayed on Oreo,closed,2017-09-12T12:50:53Z,2017-09-20T23:16:10Z,bug
+75py/Aplin,105, Exception java.lang.RuntimeException: Package manager has died,closed,2017-02-04T09:43:33Z,2022-05-04T01:48:14Z,bug
+75py/Aplin,80,Applications.kt line 158,closed,2016-01-11T16:03:27Z,2016-01-15T13:20:34Z,bug
+75py/Aplin,79,Applications.kt line 104,closed,2016-01-11T04:35:49Z,2017-02-04T12:37:42Z,"bug, duplicate"
+75py/Aplin,70,UncheckedRow.java line null,closed,2016-01-09T05:37:41Z,2017-02-04T12:39:18Z,bug
+75py/Aplin,69,AppConverter.kt line 82,closed,2015-12-30T18:21:24Z,2016-01-09T09:52:41Z,bug
+75py/Aplin,68,TableView.java line null,closed,2015-12-30T10:48:30Z,2016-01-09T08:14:58Z,bug
+75py/Aplin,64,端末の言語設定を変更しても、アプリ名が更新されない,closed,2015-12-28T12:37:20Z,2017-01-29T09:24:11Z,"bug, wontfix"
+75py/Aplin,53,Runtime permissionsの絞り込み条件が正確でない,closed,2015-12-06T12:14:05Z,2017-09-17T09:08:28Z,"bug, pending"
+75py/Aplin,52,カテゴリ名が切れる,closed,2015-12-06T11:16:56Z,2015-12-08T13:05:06Z,bug
+75py/Aplin,15,PackageManager$NameNotFoundException ,closed,2015-11-15T08:44:46Z,2015-11-29T06:56:16Z,bug
+athimel/mh-dla-notifier,18,"Les URL pour ""jouer son troll"" ne sont plus bonnes",closed,2017-07-06T10:28:39Z,2017-07-06T14:18:22Z,bug
+athimel/mh-dla-notifier,15,Mauvais charset utilisé pour la lecture des SP,closed,2016-11-02T15:01:12Z,2016-11-02T15:02:31Z,bug
+athimel/mh-dla-notifier,14,Il est possible d'avoir des bonus/malus physique pour la MM et la RM,closed,2016-11-02T13:55:13Z,2016-11-02T13:56:06Z,bug
+athimel/mh-dla-notifier,11,"Afficher la ""vue"" dans les caractéristiques",closed,2016-11-01T23:21:30Z,2017-03-28T14:51:32Z,bug
+athimel/mh-dla-notifier,1,Erreur de lecture de date Json,closed,2016-07-23T22:59:49Z,2016-11-02T14:00:26Z,bug
+qdeconinck/lln-campus,2,UCLouvain credentials are stored in plaintext,closed,2014-09-28T18:55:51Z,2014-10-02T11:16:24Z,bug
+begeekmyfriend/yasea,629,ByteArray.allocateDirect 创建的ByteArray，使用array() 获取的数据有问题,closed,2018-06-15T03:09:27Z,2018-06-15T08:33:43Z,bug
+begeekmyfriend/yasea,569,Vertical bar of pixels appearing on the left side of the recordings,open,2018-01-04T12:38:16Z,,bug
+begeekmyfriend/yasea,566,yasea 推流的时候旋转 接收客户端会出现花屏！,open,2017-12-14T06:37:46Z,,bug
+begeekmyfriend/yasea,505,re publishing to only audion data send..,closed,2017-08-24T04:29:43Z,2017-08-25T04:59:34Z,bug
+begeekmyfriend/yasea,401,magic,closed,2017-04-10T08:05:07Z,2017-04-10T12:04:22Z,bug
+begeekmyfriend/yasea,391,Possible bug in SrsEncoder,closed,2017-04-04T11:23:24Z,2017-04-04T11:37:50Z,bug
+begeekmyfriend/yasea,363,IndexOutOfBoundsException using hardEncoder,closed,2017-03-06T15:21:46Z,2017-03-07T15:16:34Z,bug
+begeekmyfriend/yasea,321,Video Stream freezing but audio still works when switch camera,closed,2017-01-27T11:41:40Z,2017-02-01T10:25:20Z,bug
+begeekmyfriend/yasea,314,How to start camera preview on activity start or Before broadcasting start?,closed,2017-01-18T09:56:23Z,2017-01-20T05:20:19Z,bug
+begeekmyfriend/yasea,293,publishing to rtmp server getting crash,closed,2017-01-06T06:31:21Z,2017-01-07T07:05:05Z,bug
+begeekmyfriend/yasea,281,貌似有个BUG,closed,2016-12-25T04:06:47Z,2016-12-26T02:08:05Z,bug
+begeekmyfriend/yasea,222,UnsatisfiedLinkError,closed,2016-11-13T10:23:13Z,2016-11-15T11:27:19Z,bug
+begeekmyfriend/yasea,194,libyuv failure,closed,2016-10-28T08:42:24Z,2016-12-19T02:37:53Z,bug
+begeekmyfriend/yasea,163,libyuv failure,closed,2016-09-28T16:55:19Z,2016-11-17T11:12:56Z,bug
+begeekmyfriend/yasea,139,Application hangs when stopping publishing.,closed,2016-09-20T13:37:43Z,2016-09-21T04:13:07Z,bug
+begeekmyfriend/yasea,135,Output Video Error ?,closed,2016-09-16T08:38:16Z,2016-10-03T02:36:50Z,bug
+begeekmyfriend/yasea,94,长时间推送自动停止的问题,closed,2016-08-26T07:35:20Z,2016-09-02T09:19:09Z,bug
+begeekmyfriend/yasea,51,YUV image messed up,closed,2016-07-13T15:13:14Z,2016-07-14T23:55:21Z,bug
+begeekmyfriend/yasea,50,libyuv bug,closed,2016-07-12T23:57:03Z,2016-07-13T03:48:56Z,"bug, help wanted"
+begeekmyfriend/yasea,32,没画面的问题,closed,2016-06-03T09:57:13Z,2016-06-04T11:34:14Z,bug
+begeekmyfriend/yasea,16,About push the stream of time,closed,2016-05-11T05:46:35Z,2016-05-13T12:38:39Z,bug
+begeekmyfriend/yasea,12,Not Working on Android M,closed,2016-05-04T07:55:20Z,2016-05-04T13:56:23Z,bug
+begeekmyfriend/yasea,4,writeThread not closed,closed,2016-04-26T13:47:09Z,2016-04-29T01:10:34Z,bug
+begeekmyfriend/yasea,1,ANR while stopping broadcast.,closed,2016-04-20T14:03:18Z,2016-04-21T08:38:12Z,bug

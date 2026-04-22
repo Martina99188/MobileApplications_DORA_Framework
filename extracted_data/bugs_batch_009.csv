@@ -1,0 +1,677 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+MartinStyk/AndroidApkAnalyzer,32,crashes when opening external APK,closed,2018-08-06T03:55:17Z,2018-10-17T06:35:25Z,bug
+MartinStyk/AndroidApkAnalyzer,27,analyzing not installed apk from SD card not working ,closed,2018-04-07T12:28:37Z,2018-10-17T06:34:55Z,bug
+MartinStyk/AndroidApkAnalyzer,15,API 27 not shown in graphs,closed,2018-01-11T11:31:42Z,2018-01-11T20:24:12Z,bug
+DigitalCampus/ujjwal-saathi-oppia-mobile,6,Add translation for client registration activity,open,2014-09-19T06:09:36Z,,"bug, medium priority"
+DigitalCampus/ujjwal-saathi-oppia-mobile,3,Check that media plays are tracked correctly,open,2014-09-19T05:51:12Z,,"bug, high priority"
+mpv-android/mpv-android,1182,AVIF Images Not Shown as Media Files,closed,2025-12-16T05:56:12Z,2025-12-16T11:30:24Z,"bug, filepicker"
+mpv-android/mpv-android,1169,Malayalam subtitle is not rendering properly (missing font support),open,2025-11-14T09:35:59Z,,bug
+mpv-android/mpv-android,1168,Touch offset issue in track chooser,closed,2025-11-12T11:53:52Z,2025-12-24T15:05:32Z,"bug, user interface"
+mpv-android/mpv-android,1135,playlist_next cause bottom control bar display for less than a second then hide.,closed,2025-09-01T08:07:09Z,2025-09-21T16:40:38Z,bug
+mpv-android/mpv-android,1133,Unable to switch between hw and sw decoding,closed,2025-08-17T13:08:41Z,2025-08-22T06:38:22Z,"bug, hwdec"
+mpv-android/mpv-android,1126,Main menu scaling issue,closed,2025-07-28T13:07:42Z,2025-07-28T19:29:14Z,"bug, user interface"
+mpv-android/mpv-android,1106,Muted video pauses when playing audio from another app,closed,2025-05-17T01:39:53Z,2025-07-24T14:56:13Z,"bug, audio"
+mpv-android/mpv-android,1103,PiP causes file confusion in combination with background playback,closed,2025-05-10T10:47:40Z,2025-05-16T14:12:34Z,bug
+mpv-android/mpv-android,1094,Crash on old device,closed,2025-04-24T15:20:04Z,2025-04-26T12:36:30Z,"bug, help wanted"
+mpv-android/mpv-android,1072,Subtitle font missing Bengali letters,open,2025-02-24T17:53:16Z,,bug
+mpv-android/mpv-android,1063,Take audio focus based on actual playback,closed,2025-01-27T21:34:09Z,2025-03-01T22:41:13Z,"bug, audio"
+mpv-android/mpv-android,1013,Crash when opening video while PiP is active,open,2024-10-08T04:41:24Z,,bug
+mpv-android/mpv-android,991,Surface size changes do not cause redraw (e.g. when rotating),closed,2024-09-09T09:16:51Z,2025-10-27T22:30:06Z,"bug, help wanted"
+mpv-android/mpv-android,988,MPV not able to render hindi subtitles.,closed,2024-09-05T16:49:51Z,2024-10-18T16:56:08Z,bug
+mpv-android/mpv-android,980,Opening mpv-android from another app causes crash (subtitles in intent),closed,2024-08-22T18:35:51Z,2024-08-29T12:13:24Z,bug
+mpv-android/mpv-android,976,Error displaying statistics stats.lua,closed,2024-08-21T03:56:17Z,2024-10-18T16:56:09Z,bug
+mpv-android/mpv-android,966,hwdec: mediacodec fails when transitioning to the next item in a playlist,closed,2024-08-03T21:16:52Z,2024-08-17T18:09:43Z,"bug, hwdec"
+mpv-android/mpv-android,957,Move `onloadCommands` to a hook,open,2024-07-15T20:14:46Z,,bug
+mpv-android/mpv-android,947,Crash when changing scalers,closed,2024-06-22T01:34:33Z,2024-11-18T10:57:32Z,"bug, gpu-next"
+mpv-android/mpv-android,933,video-rotate won't rotate 270 or 90 degrees in latest build,closed,2024-06-02T18:00:51Z,2024-06-05T17:09:01Z,bug
+mpv-android/mpv-android,925,Artist / Album stays if switching to file without tags,closed,2024-05-17T11:09:58Z,2024-07-27T11:00:02Z,bug
+mpv-android/mpv-android,917,Enabling TLSv1.3 breaks mbedtls (manually or by upgrading to 3.6.0),closed,2024-05-11T21:04:29Z,2024-06-18T20:31:59Z,bug
+mpv-android/mpv-android,916,Horizontal content don't always rotate to fullscreen,closed,2024-05-11T18:58:47Z,2024-05-12T18:38:51Z,bug
+mpv-android/mpv-android,907,Incorrect pkg-config path for Apple Silicon chips,closed,2024-04-28T09:02:24Z,2024-04-28T18:19:34Z,bug
+mpv-android/mpv-android,898,"Pressing back button in any directory changes it to the one selected using ""OPEN DOCUMENT TREE""",closed,2024-04-13T20:33:01Z,2024-04-14T13:59:30Z,"bug, filepicker"
+mpv-android/mpv-android,897,"Unable to add subtitle to video via ""open document"" (SAF)",closed,2024-04-13T16:48:58Z,2024-04-14T14:09:19Z,bug
+mpv-android/mpv-android,894,Controls never hide since v2024-04-09 for Android TV,closed,2024-04-12T19:33:24Z,2024-04-14T20:07:42Z,"bug, android-tv"
+mpv-android/mpv-android,890,Automatic screen orientation does not work?,closed,2024-03-25T23:38:31Z,2024-03-31T14:16:22Z,bug
+mpv-android/mpv-android,855,gpu-next: Unwatchable framerate when software decoding 10-bit video,closed,2024-01-18T17:08:25Z,2025-08-22T07:57:45Z,"bug, gpu-next"
+mpv-android/mpv-android,852,New toast notification popup does not visually override old one,closed,2024-01-14T10:17:49Z,2024-01-15T18:18:57Z,bug
+mpv-android/mpv-android,842,(dis)connection of BT keyboard stops playback and loses timeline position,closed,2024-01-05T03:32:04Z,2024-11-15T14:29:46Z,"bug, help wanted"
+mpv-android/mpv-android,833,AV1 gpu-next color plane rotated 180° in playback,closed,2023-12-21T15:51:05Z,2024-09-17T16:51:05Z,"bug, gpu-next"
+mpv-android/mpv-android,828,Screenshot doesn't work with gpu-next,closed,2023-12-14T23:55:30Z,2024-01-29T18:50:20Z,"bug, gpu-next"
+mpv-android/mpv-android,794,mpv icon in main page is blurry,closed,2023-10-12T02:56:52Z,2023-11-29T22:05:58Z,bug
+mpv-android/mpv-android,774,mpv has issues entering fullscreen on PC mode,open,2023-09-04T16:32:51Z,,"bug, help wanted"
+mpv-android/mpv-android,762,Crash when popout-player exits,closed,2023-08-05T13:54:58Z,2023-08-05T20:38:56Z,bug
+mpv-android/mpv-android,744,Navigation bar offset incorrectly applied to player UI,closed,2023-07-07T17:33:20Z,2023-08-06T19:31:53Z,"bug, user interface"
+mpv-android/mpv-android,726,Black bars was appeared at the cutout area (has notch/punch hole),closed,2023-06-06T02:48:58Z,2023-06-08T13:03:53Z,bug
+mpv-android/mpv-android,682,Black text on gray background in settings,closed,2023-04-03T18:50:52Z,2025-05-10T11:19:36Z,"bug, help wanted"
+mpv-android/mpv-android,677,Android navigation bar overlaps the player,closed,2023-03-13T06:38:31Z,2023-04-03T23:38:42Z,bug
+mpv-android/mpv-android,670,hwdec=mediacodec-copy fallback does not automatically work,closed,2023-03-01T07:31:25Z,2023-07-16T13:10:27Z,"bug, hwdec"
+mpv-android/mpv-android,669,Android TV: Subtitle / Audio selection popup cannot be opened,closed,2023-02-28T16:09:58Z,2023-08-05T22:12:02Z,"bug, android-tv, user interface"
+mpv-android/mpv-android,638,hwdec=mediacodec-copy no longer works,closed,2022-12-25T20:46:00Z,2023-01-28T14:57:09Z,"bug, hwdec"
+mpv-android/mpv-android,634,Can't Play from Samba Share,closed,2022-12-22T12:11:17Z,2023-01-18T20:38:47Z,bug
+mpv-android/mpv-android,633,File picker sometimes gets into a state where it ignores selections,closed,2022-12-22T11:18:43Z,2022-12-25T20:51:51Z,"bug, filepicker"
+mpv-android/mpv-android,619,Mpv stuck during spdif passthrough.,open,2022-10-29T11:34:24Z,,"bug, help wanted, audio"
+mpv-android/mpv-android,591,Video jump to later time when launching app switcher,closed,2022-08-23T04:32:56Z,2022-08-31T16:36:12Z,"bug, duplicate"
+mpv-android/mpv-android,590,Exiting video always returns to file picker,closed,2022-08-19T11:06:08Z,2022-08-31T16:47:10Z,bug
+mpv-android/mpv-android,573,External file picker won't show subtitles / lack of alternative,closed,2022-07-30T19:45:32Z,2023-02-24T21:11:14Z,bug
+mpv-android/mpv-android,559,Android TV touchups,closed,2022-07-05T10:44:58Z,2023-01-23T09:47:58Z,"bug, android-tv, user interface"
+mpv-android/mpv-android,542,Videos played from content uri stores and loads wrong progress position save file,closed,2022-05-28T20:40:22Z,2025-05-18T15:26:43Z,bug
+mpv-android/mpv-android,514," Strange intent filter effect on Android 12, cannot be used when host is an ipv4 address",closed,2022-03-26T18:07:02Z,2022-04-02T14:25:43Z,bug
+mpv-android/mpv-android,508,Severe performance regression with software decoding,closed,2022-03-11T15:09:12Z,2022-03-16T22:42:52Z,bug
+mpv-android/mpv-android,507,Hardware decoding doesn't work anymore with 10-Bit H.264 (Android TV / Nvidia SHIELD),open,2022-03-10T14:55:00Z,,"bug, hwdec"
+mpv-android/mpv-android,501,Screenshots not showing up in gallery or any media browser except for file manager,open,2022-02-28T09:23:51Z,,bug
+mpv-android/mpv-android,497,On android 12 mpv does not appear anymore as an option to stream media from network drives in file managers,closed,2022-02-19T10:17:31Z,2022-03-06T16:11:42Z,bug
+mpv-android/mpv-android,479,Fails to play any video (GLES 2.0),closed,2022-01-01T18:29:31Z,2022-01-02T13:51:23Z,bug
+mpv-android/mpv-android,468,No fallback to SW decoding (thus no successful playback) on Exynos Samsung tablet with 10-bit HEVC file,closed,2021-12-13T12:31:05Z,2021-12-30T17:45:24Z,"bug, hwdec"
+mpv-android/mpv-android,462,[Pixel 6] 10-bit files play incorrectly using hardware decoding,closed,2021-11-28T14:00:06Z,2022-10-19T08:29:47Z,"bug, hwdec"
+mpv-android/mpv-android,459,Hard to read purple text buttons in gray dialog,closed,2021-11-07T19:31:32Z,2022-07-16T13:56:04Z,"bug, user interface"
+mpv-android/mpv-android,454,"""Default File Manager Path"" setting does not work: value is ignored",closed,2021-11-02T13:51:49Z,2021-11-03T18:37:17Z,"bug, filepicker"
+mpv-android/mpv-android,450,MPV Android 2021-10-10 won't open on Android 10 Motorola G Power phone,closed,2021-10-27T19:01:52Z,2021-10-27T22:27:55Z,bug
+mpv-android/mpv-android,436,"""[ffmpeg:error] tls: mbedtls_ssl_handshake returned -0x2700"" When trying to open a video by url.",closed,2021-09-04T08:54:40Z,2021-09-06T15:11:18Z,bug
+mpv-android/mpv-android,422,MPV should respect device screen timeout settings while paused,closed,2021-06-29T03:42:01Z,2021-07-13T16:58:50Z,bug
+mpv-android/mpv-android,409,Flashing white screen when opened from shared link,closed,2021-05-12T15:52:32Z,2021-05-13T17:27:09Z,bug
+mpv-android/mpv-android,376,unrecognized options: --disable-docs,closed,2021-03-02T11:20:02Z,2021-03-02T14:57:37Z,bug
+mpv-android/mpv-android,358,Cache is cleared when app put in background,closed,2021-02-03T20:08:33Z,2024-01-22T17:43:09Z,bug
+mpv-android/mpv-android,355,cannot browse SMB shares in file manager,closed,2021-01-31T17:28:19Z,2021-02-09T16:25:22Z,bug
+mpv-android/mpv-android,354,No subtitle support in audio player,closed,2021-01-31T10:37:19Z,2021-02-03T17:26:44Z,bug
+mpv-android/mpv-android,341,Interpolation is broken (screen flickers),open,2020-12-15T13:42:48Z,,bug
+mpv-android/mpv-android,339,OSD is difficult to see on a white background,closed,2020-12-07T01:28:41Z,2021-01-16T18:31:22Z,bug
+mpv-android/mpv-android,331,No HEVC hardware decode for 25 fps videos,closed,2020-11-16T14:54:59Z,2021-02-14T12:39:32Z,"bug, hwdec"
+mpv-android/mpv-android,318,Persian/Arabic default font problem,closed,2020-10-14T10:22:03Z,2020-10-16T14:24:15Z,bug
+mpv-android/mpv-android,307,Dropped frames with display-resample and hwdec,closed,2020-09-08T21:12:19Z,2023-10-23T10:53:35Z,"bug, hwdec"
+mpv-android/mpv-android,306,mpv freezes with ao=opensles,closed,2020-09-04T14:56:42Z,2020-09-20T16:53:29Z,bug
+mpv-android/mpv-android,300,Hardware decoding not working on Sony Android TV,closed,2020-08-31T06:32:25Z,2024-11-02T13:03:18Z,"bug, hwdec"
+mpv-android/mpv-android,292,No video on X96Max+2(Mali-G31 GPU) when GPU video filters applied,closed,2020-08-02T10:58:39Z,2024-03-20T20:54:55Z,"bug, can't fix"
+mpv-android/mpv-android,290,Fix brightness gesture,closed,2020-07-28T14:26:20Z,2020-11-11T21:08:14Z,bug
+mpv-android/mpv-android,288,screenshots don't work,closed,2020-07-01T10:23:42Z,2020-07-01T11:59:18Z,bug
+mpv-android/mpv-android,268,HW decoding performance regression on latest release?,closed,2020-05-29T23:08:56Z,2020-06-01T17:09:31Z,"bug, hwdec"
+mpv-android/mpv-android,251,Pause MPV when I call or  answer a phone call,closed,2020-02-28T10:39:12Z,2020-05-27T17:44:26Z,bug
+mpv-android/mpv-android,249,lua script doesn't work after minimizing,closed,2020-02-16T01:13:46Z,2021-01-16T15:28:59Z,bug
+mpv-android/mpv-android,246,USB flash drive via OTG adapter is not mounted,closed,2020-02-06T12:14:39Z,2022-07-20T20:30:02Z,"bug, filepicker"
+mpv-android/mpv-android,244,Add manually update (pull down) for filepicker,closed,2020-02-05T17:10:27Z,2020-02-05T21:16:44Z,bug
+mpv-android/mpv-android,239,No seamless sound playback when background or returning to the app,open,2020-01-21T14:33:06Z,,"bug, audio"
+mpv-android/mpv-android,237,Bad contrast of file picker dialog,closed,2020-01-19T13:24:03Z,2020-01-20T20:36:46Z,bug
+mpv-android/mpv-android,234,Screen orientation (automatic) for videos does not work,closed,2020-01-18T15:43:00Z,2020-01-19T13:12:22Z,bug
+mpv-android/mpv-android,232,libmpv may not redraw frames when screen dimensions change,closed,2020-01-18T00:14:22Z,2020-01-20T20:56:51Z,bug
+mpv-android/mpv-android,231,File picker truncates filenames,closed,2020-01-17T23:56:45Z,2020-10-12T20:24:18Z,"bug, filepicker"
+mpv-android/mpv-android,230,When open second video file. Will not play.,closed,2020-01-17T23:08:28Z,2020-01-19T14:16:57Z,"bug, duplicate"
+mpv-android/mpv-android,228,The file view disappears,closed,2020-01-13T22:31:42Z,2020-01-30T21:32:22Z,bug
+mpv-android/mpv-android,222,No video output when using --sharpen filter,closed,2019-12-21T14:23:29Z,2024-08-08T17:07:32Z,"bug, can't fix"
+mpv-android/mpv-android,220,4K HDR washed out colours on Huawei Mate 10 Pro,closed,2019-11-09T23:32:50Z,2020-09-03T22:38:08Z,"bug, hwdec"
+mpv-android/mpv-android,218,Video corruption with newer library versions,closed,2019-11-02T14:43:38Z,2019-11-03T01:31:54Z,"bug, hwdec"
+mpv-android/mpv-android,203,Seek gestures conflict with android 10 navigation,closed,2019-09-07T00:41:39Z,2023-04-03T23:38:43Z,bug
+mpv-android/mpv-android,200,a/v out of sync,closed,2019-08-14T19:46:52Z,2019-09-01T22:13:58Z,bug
+mpv-android/mpv-android,198,10-bit video output broken (Mali GPU),open,2019-08-08T12:56:13Z,,"bug, can't fix"
+mpv-android/mpv-android,181,Settings become almost unreadable if the device is using a dark theme,closed,2019-04-29T01:12:24Z,2022-08-11T07:47:22Z,bug
+mpv-android/mpv-android,177,Video position resets when toggling split screen.,closed,2019-04-18T21:43:12Z,2019-04-19T10:39:07Z,bug
+mpv-android/mpv-android,169,save position is common for all file,closed,2019-02-03T09:06:38Z,2019-10-22T21:23:48Z,bug
+mpv-android/mpv-android,162,"When a video was playing, opening another one do not launch it",closed,2018-12-26T15:30:59Z,2020-01-20T20:36:45Z,bug
+mpv-android/mpv-android,148,Need to hit Back button twice to exit app.,closed,2018-10-20T07:19:58Z,2020-01-30T21:32:09Z,bug
+mpv-android/mpv-android,135,Audio equalizer/mods not working in mpv,closed,2018-07-16T06:43:26Z,2020-03-26T16:36:19Z,bug
+mpv-android/mpv-android,128,Portrait video on portrait screen shows in landscape orientation,closed,2018-06-15T13:59:42Z,2019-01-03T11:52:07Z,bug
+mpv-android/mpv-android,127,VO Framedrops when using bluetooth speaker,closed,2018-06-13T01:10:18Z,2019-07-17T05:15:46Z,bug
+mpv-android/mpv-android,117,Turning on save-position-on-quit results in videos resuming without video,closed,2018-04-07T23:32:13Z,2018-09-23T15:29:49Z,bug
+mpv-android/mpv-android,114,Split screen video stops playing when out of focus,closed,2018-03-29T15:42:32Z,2018-03-30T16:48:59Z,bug
+mpv-android/mpv-android,112,2018-02-22-alpha graphic regression,closed,2018-03-14T11:54:22Z,2018-04-30T04:56:36Z,"bug, hwdec"
+mpv-android/mpv-android,92,buildscripts : unable to determine java version from 9.0.1,closed,2018-01-07T14:40:46Z,2018-10-29T10:18:08Z,bug
+mpv-android/mpv-android,89,Enabling GPU debanding in settings flips output vertically,closed,2017-12-25T00:13:15Z,2024-03-20T20:48:00Z,"bug, can't fix"
+mpv-android/mpv-android,88,Rotating the device while in filepicker mode resets directory to default /sdcard,closed,2017-12-24T17:53:57Z,2018-02-10T13:11:09Z,bug
+mpv-android/mpv-android,85,Built-in stats use deprecated props,closed,2017-12-23T14:22:00Z,2017-12-24T17:17:29Z,bug
+mpv-android/mpv-android,82,GL surface dimensions are not updated sometimes,closed,2017-12-08T23:41:13Z,2017-12-27T22:29:08Z,bug
+mpv-android/mpv-android,81,The control panel (seek bar) is hidden while seeking using the seek bar,closed,2017-12-08T23:30:37Z,2017-12-10T16:19:33Z,bug
+mpv-android/mpv-android,67,Inability to handle playlists,closed,2017-09-11T14:43:01Z,2017-12-08T23:14:44Z,"bug, duplicate"
+mpv-android/mpv-android,64,HW decoding issues with MPEG-4 Part 2 (ASP),closed,2017-08-30T20:32:26Z,2024-08-03T19:40:18Z,"bug, hwdec, can't fix"
+mpv-android/mpv-android,57,Playlist file support,closed,2017-08-03T08:56:39Z,2017-12-09T00:01:05Z,"bug, feature request"
+mpv-android/mpv-android,55,UTF encoding?,closed,2017-07-28T15:10:16Z,2017-08-01T20:43:47Z,bug
+mpv-android/mpv-android,48,Debug build crashes when exiting player activity,closed,2017-06-15T14:54:51Z,2017-06-15T15:23:47Z,bug
+mpv-android/mpv-android,43,mpv doesn't act as a normal video player with other apps,closed,2017-04-27T17:54:18Z,2017-05-20T17:09:50Z,bug
+mpv-android/mpv-android,42,video_deband setting is a stub (non-functional),closed,2017-04-22T12:58:06Z,2017-04-22T15:00:48Z,bug
+mpv-android/mpv-android,17,Controls buttons focused state is very hard to see,closed,2016-04-27T15:09:34Z,2021-02-03T17:02:20Z,"bug, android-tv, user interface"
+mpv-android/mpv-android,9,File picker: hard/impossible to control without touch,closed,2016-04-22T12:16:45Z,2021-10-07T15:38:50Z,"bug, android-tv, filepicker"
+mpv-android/mpv-android,7,File picker: when navigating to a directory list Y scroll is not reset,closed,2016-04-22T12:14:32Z,2017-12-24T17:51:11Z,bug
+mpv-android/mpv-android,6,With hw decoder the end-file event never arrives,closed,2016-04-22T12:13:21Z,2017-12-08T23:17:33Z,bug
+mvarnagiris/expensius,19,"No internet connection: allows you to enter an amount, however the tick does nothing",open,2016-08-01T12:01:00Z,,bug
+mvarnagiris/expensius,18,"On first install, settings -> default currency is ""null""",closed,2016-07-28T09:02:06Z,2016-07-28T14:14:22Z,bug
+TeMoMuKo/AutoStopRace-Android,61,Misbehaving gms on post location,open,2019-04-15T10:32:32Z,,bug
+TeMoMuKo/AutoStopRace-Android,21,Potential bug : not being able to select photo from gallery on Samsung devices >=5.0,closed,2018-01-16T10:58:04Z,2018-04-15T21:42:01Z,bug
+Kegbot/kegbot-android,91,Home screen taps get swapped,closed,2014-05-28T21:46:20Z,2014-05-30T01:02:42Z,"type: bug, priority: P0, component: ui"
+Kegbot/kegbot-android,82,Report serial number and device type when creating controller,closed,2014-04-09T18:06:37Z,2014-04-14T22:01:09Z,"component: core, type: bug, priority: P1"
+Kegbot/kegbot-android,78,"Confusing multi-tap ""Beer Me"" behavior",open,2014-04-03T15:34:47Z,,"component: core, type: bug, priority: P1, component: ui, component: flow state"
+Kegbot/kegbot-android,74,Retake photos results in black/underexposed images,open,2014-03-20T05:55:00Z,,"type: bug, priority: P1, component: ui"
+Kegbot/kegbot-android,73,Warn on api permission errors,closed,2014-03-19T23:41:49Z,2020-05-21T23:08:01Z,"component: api/sync, type: bug, priority: P0"
+Kegbot/kegbot-android,71,Allow auth token assignment via manager pin,closed,2014-02-26T21:24:03Z,2020-05-21T23:08:42Z,"type: bug, priority: P1, component: ui"
+Kegbot/kegbot-android,69,Deferred pour does not have time recorded with it.,closed,2014-02-17T15:02:46Z,2020-06-28T14:27:51Z,"component: api/sync, type: bug"
+Kegbot/kegbot-android,67,Deferred pour to inactive tap eventually causes SyncManager to stop updating.,open,2014-02-10T01:21:35Z,,"component: api/sync, type: bug"
+Kegbot/kegbot-android,65,Incorrect picture associated with drink,closed,2014-01-22T21:35:12Z,2014-05-28T02:05:12Z,"component: api/sync, type: bug, triage"
+Kegbot/kegbot-android,51,Warn on USB Permission issue,open,2013-07-26T17:48:06Z,,"component: hardware, type: bug"
+Kegbot/kegbot-android,48,Current session text too large,closed,2013-06-26T00:23:40Z,2014-05-28T03:58:08Z,"type: bug, component: ui"
+Kegbot/kegbot-android,44,Usernames with period in them cause userlist to not show,closed,2013-05-15T16:38:11Z,2014-05-28T03:27:03Z,"type: bug, triage, component: ui"
+Kegbot/kegbot-android,35,No error text on user registration - tablet,closed,2013-04-11T02:51:03Z,2014-05-28T03:25:56Z,"component: api/sync, type: bug, component: ui"
+DHBWLoerrach/CampusApp,47,News nach Benachrichtigung aktualisieren,closed,2022-05-11T14:51:56Z,2023-03-24T12:27:30Z,bug
+DHBWLoerrach/CampusApp,46,Benachrichtigungen nur einmal anzeigen,closed,2022-05-11T06:12:13Z,2023-03-24T12:27:36Z,bug
+DHBWLoerrach/CampusApp,40,IOS Darkmode Launchscreen,closed,2021-12-04T11:54:49Z,2022-05-02T09:30:05Z,bug
+DHBWLoerrach/CampusApp,26,Benachrichtigungen testen und ggf. überarbeiten,closed,2021-07-12T12:47:10Z,2022-05-04T10:49:39Z,bug
+schnatterer/nusic,23,nusic does not respect time period when querying musicBrainz,closed,2019-07-03T20:27:52Z,2019-07-06T11:29:54Z,bug
+berict/Tapad,224,Attempt to invoke virtual method 'boolean java.lang.String.equals(java.lang.Object)' on a null object reference,closed,2018-06-23T03:42:48Z,2018-06-23T14:54:38Z,bug
+berict/Tapad,222,Empty about json hint shows item,closed,2018-06-13T09:50:54Z,2018-06-19T06:34:50Z,bug
+berict/Tapad,220,Offline presets shows download when removed,closed,2018-06-12T06:45:43Z,2018-06-13T14:41:13Z,bug
+berict/Tapad,219,Samsung S8 device specific issues,closed,2018-06-09T10:41:09Z,2018-06-19T05:43:20Z,bug
+berict/Tapad,218,RecyclerView updating method on custom zip presets,open,2018-06-05T06:12:55Z,,"bug, Priority: high"
+berict/Tapad,214,Pad color/margin changes not applied,closed,2018-01-31T16:26:08Z,2018-01-31T17:13:34Z,bug
+berict/Tapad,212,Installed preset doesn't show no preset,closed,2018-01-28T08:03:32Z,2018-01-28T08:27:05Z,bug
+berict/Tapad,211,Online preset store shows wrong current preset,closed,2018-01-27T17:19:05Z,2018-01-31T15:20:03Z,bug
+berict/Tapad,204,Preset store / Settings animation,closed,2017-12-26T18:53:23Z,2018-01-31T15:20:03Z,bug
+berict/Tapad,202,Download cancel not working,closed,2017-11-26T11:54:06Z,2017-12-23T11:49:04Z,bug
+berict/Tapad,201,Input invisible back of the keyboard,closed,2017-11-11T15:19:57Z,2017-12-26T18:51:12Z,"bug, enhancement"
+berict/Tapad,200,Preset store scrollview,closed,2017-11-11T13:55:15Z,2017-11-11T14:59:22Z,"bug, enhancement"
+berict/Tapad,198,Online preset store item deleted,closed,2017-10-29T11:08:30Z,2017-10-29T15:03:00Z,bug
+berict/Tapad,195,NullPointerException on null pad,closed,2017-10-21T16:13:59Z,2017-10-23T15:17:05Z,bug
+berict/Tapad,194,Notification sound on download notification,closed,2017-10-21T13:42:26Z,2017-10-21T14:36:25Z,"bug, enhancement"
+berict/Tapad,192,Colors option in settings crashes the app.,closed,2017-10-21T11:53:14Z,2017-10-21T14:12:09Z,bug
+berict/Tapad,191,Reversed display of preset title and its artist,closed,2017-10-21T11:49:09Z,2017-10-21T12:05:00Z,bug
+berict/Tapad,190,Crashes on About page,closed,2017-10-21T10:05:09Z,2017-10-21T14:12:09Z,bug
+berict/Tapad,188,Looping again on touch while looping,closed,2017-10-21T09:20:09Z,2017-10-21T09:31:56Z,bug
+berict/Tapad,184,Installed preset showing nothing,closed,2017-09-26T09:08:21Z,2017-09-26T16:03:30Z,bug
+berict/Tapad,183,Update online preset json to Json v2,closed,2017-09-25T16:40:31Z,2017-09-26T16:03:29Z,bug
+berict/Tapad,181,Crash on selecting preset,closed,2017-09-22T09:22:47Z,2017-09-25T16:38:52Z,"bug, Priority: high"
+berict/Tapad,180,Preset store animation,closed,2017-09-12T13:56:16Z,2017-10-03T08:36:45Z,"bug, enhancement"
+berict/Tapad,179,Android O Notification updates,closed,2017-09-11T03:22:06Z,2017-09-12T14:23:32Z,"bug, Priority: high"
+berict/Tapad,172,Update firebaseMetadata on the json update,closed,2017-08-12T16:01:25Z,2017-08-13T08:13:03Z,"bug, Priority: high"
+berict/Tapad,171,Preset store fab disappearing,closed,2017-08-08T15:11:30Z,2017-10-03T08:36:48Z,"bug, Priority: low"
+berict/Tapad,169,Looping pads not lighting up,closed,2017-08-01T15:51:45Z,2017-09-27T15:23:31Z,"bug, enhancement"
+berict/Tapad,165,Update about after preset change,closed,2017-07-19T02:47:05Z,2017-09-28T07:39:43Z,"bug, invalid"
+berict/Tapad,163,Preset store retrying forever,closed,2017-07-18T03:32:37Z,2017-09-13T02:33:23Z,"bug, invalid, Priority: low"
+berict/Tapad,162,Preset store error message overlapping,closed,2017-07-18T03:30:47Z,2018-01-21T16:31:22Z,bug
+berict/Tapad,161,Backpress not working on toolbar,closed,2017-07-17T22:30:08Z,2017-07-18T01:22:49Z,bug
+berict/Tapad,160,Load progressBar not working,closed,2017-07-17T15:22:04Z,2017-07-17T16:13:14Z,bug
+berict/Tapad,159,Double clicking the deck doesn't work,closed,2017-07-17T14:21:42Z,2017-07-17T15:27:51Z,bug
+berict/Tapad,158,setPadColorToDefault not working,closed,2017-07-17T14:21:04Z,2017-07-17T15:24:50Z,bug
+berict/Tapad,155,Preset store showing nothing on firstrun,closed,2017-07-14T01:08:59Z,2017-07-17T00:08:05Z,bug
+berict/Tapad,154,Fatal Exception: java.lang.NullPointerException at com.bedrock.padder.helper.FirebaseHelper.removeLocalPreset,closed,2017-07-12T01:31:08Z,2017-07-12T02:13:03Z,bug
+berict/Tapad,153,Fatal Exception: java.lang.NullPointerException at com.bedrock.padder.helper.FileHelper.deleteRecursive,closed,2017-07-12T01:28:18Z,2017-07-12T02:13:03Z,bug
+berict/Tapad,152,Fatal Exception: java.lang.NullPointerException at at com.bedrock.padder.helper.FileHelper$Decompress.onPostExecute,closed,2017-07-12T01:27:34Z,2017-07-12T01:29:28Z,"bug, duplicate"
+berict/Tapad,151,Fatal Exception: java.lang.NullPointerException at com.bedrock.padder.helper.FileHelper$Decompress.onPostExecute,closed,2017-07-12T01:20:44Z,2017-07-12T02:13:03Z,bug
+berict/Tapad,150,Installed tab error while downloading preset,closed,2017-07-02T13:51:07Z,2017-07-12T02:50:29Z,"bug, invalid"
+berict/Tapad,148,Fatal Exception: com.afollestad.materialdialogs.MaterialDialog$DialogException,closed,2017-07-02T09:45:25Z,2017-07-02T09:58:31Z,bug
+berict/Tapad,143,Fabric not working,closed,2017-07-01T14:27:25Z,2017-07-01T15:11:36Z,bug
+berict/Tapad,142,Crashing on re-entry of preset store,closed,2017-07-01T14:23:05Z,2017-07-12T02:50:45Z,"bug, invalid"
+berict/Tapad,141,Download notification not dismissing automatically,closed,2017-06-30T16:24:23Z,2017-07-02T12:47:21Z,bug
+berict/Tapad,140,Initializing the array before getting the permission,closed,2017-06-29T04:22:58Z,2017-06-29T16:09:44Z,"bug, enhancement"
+berict/Tapad,138,Statusbar error on API 16,closed,2017-06-26T02:20:38Z,2017-06-26T02:58:00Z,bug
+berict/Tapad,134,Version no. outdated,closed,2017-06-25T19:27:45Z,2017-06-26T01:34:32Z,bug
+berict/Tapad,133,Translate Tapad icons are different,closed,2017-06-25T19:21:39Z,2017-06-26T01:38:19Z,bug
+berict/Tapad,132,Action bar menu glitched,closed,2017-06-25T19:16:25Z,2017-07-02T11:36:09Z,"bug, invalid"
+berict/Tapad,131,Statusbar height error,closed,2017-06-25T14:00:23Z,2017-07-02T11:36:32Z,"bug, invalid"
+berict/Tapad,129,IntentHelper.java line 131,closed,2017-06-17T13:41:50Z,2017-06-17T13:43:19Z,bug
+berict/Tapad,128,IntentHelper.java line 133,closed,2017-06-17T13:39:51Z,2017-06-17T13:43:29Z,bug
+berict/Tapad,125,ActionBar glitched API < 21,closed,2017-06-17T11:20:20Z,2017-06-17T11:48:13Z,bug
+berict/Tapad,120,App restarts after manually removing corrupted preset,closed,2017-06-14T19:24:36Z,2017-06-17T15:50:46Z,"bug, Priority: high"
+berict/Tapad,115,App closing itself,closed,2017-06-13T21:26:58Z,2017-06-17T12:28:41Z,"bug, Priority: high"
+berict/Tapad,113,Preset download adapter,closed,2017-06-12T02:00:27Z,2017-06-14T16:19:46Z,bug
+berict/Tapad,112,currentPreset null,closed,2017-06-08T15:52:24Z,2017-06-09T18:00:27Z,bug
+berict/Tapad,111,Preset media visible,closed,2017-06-07T17:19:33Z,2017-06-08T15:30:12Z,"bug, Priority: high"
+berict/Tapad,102,Preset store cardview no action,closed,2017-06-02T15:39:20Z,2017-06-02T18:10:52Z,bug
+berict/Tapad,100,Toolbar tutorial icon,closed,2017-06-02T13:38:11Z,2017-06-02T15:24:05Z,bug
+berict/Tapad,98,MainActivity placeholder error,closed,2017-06-02T13:35:11Z,2017-06-02T15:44:42Z,bug
+berict/Tapad,97,Now playing image not showing,closed,2017-06-01T17:02:31Z,2017-06-02T17:01:02Z,bug
+berict/Tapad,94,Feedback statusbar not transparent,closed,2017-05-31T15:37:36Z,2017-05-31T15:40:59Z,bug
+berict/Tapad,93,Rebuild the preset selector,closed,2017-05-31T13:39:09Z,2017-06-01T17:06:06Z,"bug, enhancement"
+berict/Tapad,92,onOptionsItemSelected false trigger,closed,2017-05-31T13:19:16Z,2017-05-31T15:35:17Z,bug
+berict/Tapad,91,SVG every icons are black,closed,2017-05-31T09:48:11Z,2017-05-31T15:35:17Z,bug
+berict/Tapad,89,Preset creator showing null,closed,2017-05-29T11:29:52Z,2017-05-29T11:30:16Z,"bug, Priority: high"
+berict/Tapad,88,About / Settings crashing,closed,2017-05-28T07:21:34Z,2017-05-29T11:31:32Z,"bug, Priority: high"
+berict/Tapad,80,Loading sound counts overflowing,closed,2017-05-17T14:22:02Z,2017-05-21T12:32:52Z,bug
+berict/Tapad,79,Menu Settings collides with toolbar,closed,2017-05-17T14:17:36Z,2017-05-17T14:23:11Z,bug
+berict/Tapad,78,Sound normal status not working,closed,2017-05-16T16:26:23Z,2017-05-17T14:09:33Z,bug
+berict/Tapad,77,About section scrollview,closed,2017-05-16T16:16:02Z,2017-05-17T14:13:48Z,bug
+berict/Tapad,76,Update json,closed,2017-05-16T03:05:10Z,2017-05-16T16:14:43Z,"bug, Priority: high"
+berict/Tapad,72,Settings taskDesc not updating,closed,2017-05-13T14:51:17Z,2017-05-13T14:51:38Z,bug
+berict/Tapad,71,Feedback screen ui,closed,2017-05-13T14:46:39Z,2017-05-14T14:45:08Z,bug
+berict/Tapad,70,Settings preset not updating,closed,2017-05-12T14:07:23Z,2017-05-13T15:00:34Z,"bug, Priority: high"
+berict/Tapad,67,UserBenefits has no statusbar tint,closed,2017-05-09T12:42:19Z,2017-05-09T13:20:18Z,"bug, Priority: high"
+berict/Tapad,66,Received feedbacks have null values,closed,2017-05-09T12:22:05Z,2017-05-13T11:28:39Z,"bug, Priority: high"
+berict/Tapad,65,Feedback FAB showing on the wrong position,closed,2017-05-09T12:21:26Z,2017-05-13T13:21:53Z,"bug, Priority: high"
+berict/Tapad,63,Use light icons for toolbar icons,closed,2017-05-09T11:50:54Z,2017-05-09T13:13:34Z,"bug, enhancement"
+berict/Tapad,57,TaskDesc not updating,closed,2017-05-07T16:23:13Z,2017-05-08T04:41:13Z,"bug, Priority: high"
+berict/Tapad,56,Changing preset doesn't clear deck&light display,closed,2017-05-07T16:21:06Z,2017-05-08T04:37:22Z,bug
+berict/Tapad,55,Deck change playing wrong sound,closed,2017-05-07T15:09:15Z,2017-05-07T15:12:21Z,"bug, Priority: high"
+berict/Tapad,53,Preset fix: Roses,closed,2017-05-06T14:37:54Z,2018-01-21T12:08:27Z,"bug, preset"
+berict/Tapad,51,Preset fix: Hello,open,2017-05-06T06:12:55Z,,"bug, preset"
+berict/Tapad,50,java.lang.ArrayIndexOutOfBoundsException in com.bedrock.padder.activity.MainActivity.setSchemeInfo,closed,2017-05-06T06:10:48Z,2017-05-06T13:39:47Z,"bug, Priority: high"
+berict/Tapad,49,Choice list scroll bar not working,closed,2017-05-05T14:28:49Z,2017-05-13T14:14:02Z,bug
+berict/Tapad,48,fab disappearing on new run,closed,2017-05-05T07:43:09Z,2017-05-05T08:12:45Z,bug
+berict/Tapad,46,About page not updating,closed,2017-04-25T15:22:26Z,2017-04-25T15:33:10Z,bug
+berict/Tapad,45,Sounds have different volumes,closed,2017-04-25T15:16:55Z,2017-05-09T08:39:14Z,"bug, sound playing"
+berict/Tapad,43,About activity showing the wrong preset,closed,2017-04-25T14:44:57Z,2017-04-25T15:12:24Z,bug
+berict/Tapad,40,Crashing on power saving mode,closed,2017-04-23T01:35:26Z,2017-04-23T09:27:42Z,bug
+berict/Tapad,39,"Input bar unable to see, hidden by keyboard.",closed,2017-04-23T00:58:21Z,2017-04-23T01:31:58Z,bug
+berict/Tapad,38,Touch effects not disappearing,closed,2017-04-23T00:45:17Z,2017-10-03T08:28:41Z,"bug, invalid"
+berict/Tapad,37,Deck buttons press while loading,closed,2017-04-23T00:25:58Z,2017-05-05T04:58:03Z,bug
+berict/Tapad,36,Multi sound-looping bug,closed,2017-04-19T14:17:44Z,2017-04-19T23:01:34Z,bug
+berict/Tapad,34,CHANGE preset crashes the app,closed,2017-04-18T23:14:57Z,2017-04-25T14:43:01Z,bug
+berict/Tapad,33,CHANGE preset has the similar multiclicking error,closed,2017-04-18T14:24:27Z,2017-04-18T14:40:21Z,bug
+berict/Tapad,32,EXPLORE still not working,closed,2017-04-18T14:22:35Z,2017-04-18T14:30:54Z,bug
+berict/Tapad,31,EXPLORE section not functioning,closed,2017-04-18T09:46:10Z,2017-04-18T09:48:36Z,bug
+berict/Tapad,30,Sound loop with no lights,closed,2017-04-18T08:09:11Z,2017-04-18T14:59:22Z,bug
+berict/Tapad,29,No connection ad showing nothing,closed,2017-04-18T07:39:46Z,2017-05-05T08:38:49Z,"bug, enhancement"
+berict/Tapad,28,About explore crashing,closed,2017-04-17T14:34:07Z,2017-04-17T14:34:27Z,bug
+berict/Tapad,27,Feedback activity close button,closed,2017-04-17T14:23:14Z,2017-04-17T14:36:44Z,bug
+berict/Tapad,26,Feedback activity genre scroll,closed,2017-04-17T14:16:37Z,2017-05-05T08:39:29Z,"bug, wontfix"
+berict/Tapad,25,Toolbar multiple click,closed,2017-04-17T14:12:32Z,2017-04-17T14:24:13Z,"bug, help wanted"
+berict/Tapad,24,Button light issues,closed,2017-04-16T08:12:07Z,2017-04-16T08:17:45Z,bug
+berict/Tapad,23,TaskDesc not updating,closed,2017-04-14T07:21:13Z,2017-04-14T08:25:30Z,bug
+berict/Tapad,22,About Tapad image,closed,2017-04-13T14:37:11Z,2017-04-14T08:25:40Z,"bug, enhancement"
+berict/Tapad,21,onBackPressed hellgate,closed,2017-04-06T15:44:11Z,2017-04-13T15:35:26Z,bug
+berict/Tapad,19,Settings fragment ColorChooserDialog,closed,2017-03-31T13:20:59Z,2017-04-17T03:15:01Z,"bug, help wanted"
+berict/Tapad,12,Support dynamic screen size,closed,2017-03-27T02:48:48Z,2017-03-27T02:49:07Z,"bug, enhancement, help wanted"
+berict/Tapad,10,Renew the feedback screen,closed,2017-03-27T02:44:23Z,2017-03-27T02:44:59Z,"bug, enhancement, help wanted"
+berict/Tapad,3,Long vocal / sounds cut,closed,2017-03-27T02:36:49Z,2017-10-03T08:29:13Z,"bug, help wanted, sound playing"
+berict/Tapad,1,Roses preset not working,closed,2017-03-27T02:33:47Z,2017-03-27T02:34:47Z,bug
+SecUSo/privacy-friendly-weather,190,Use the device locale to choose the time format (24h vs 12h),open,2022-04-28T13:58:54Z,,bug
+SecUSo/privacy-friendly-weather,188,weather app is not starting (calyxos),closed,2022-03-18T05:36:45Z,2022-04-04T07:11:08Z,bug
+SecUSo/privacy-friendly-weather,187,Data loss while using the app (the text and map location disappears after double screen rotation),open,2022-03-13T18:27:20Z,,bug
+SecUSo/privacy-friendly-weather,185,Winddirection-Icons should be reworked,open,2022-01-27T14:21:33Z,,bug
+SecUSo/privacy-friendly-weather,178,Some locations seem to not correctly be offered in the dropdown,open,2021-11-18T14:46:05Z,,bug
+SecUSo/privacy-friendly-weather,175,4h Widget should be sorted correctly,open,2021-09-24T10:37:10Z,,bug
+SecUSo/privacy-friendly-weather,174,Widget seems to not switch languages correctly,open,2021-09-24T10:28:10Z,,bug
+SecUSo/privacy-friendly-weather,169,Missing translation,closed,2021-07-15T13:43:41Z,2021-07-15T13:53:01Z,bug
+SecUSo/privacy-friendly-weather,164,Update help page with nmew permission usage,open,2021-05-28T07:52:54Z,,bug
+SecUSo/privacy-friendly-weather,156,Newly added location does not show in main screen after pressing back button,open,2021-04-16T08:28:33Z,,bug
+SecUSo/privacy-friendly-weather,151,Locations list jumps to left side after forecast for one location updates,open,2021-03-15T00:10:45Z,,bug
+SecUSo/privacy-friendly-weather,137,Refresh of data sometimes takes longer than expected,open,2020-11-05T14:53:05Z,,bug
+SecUSo/privacy-friendly-weather,127,A display bug on widgets,open,2020-08-25T17:16:00Z,,bug
+SecUSo/privacy-friendly-weather,97,"widget bug, rebooting with turned off data",open,2020-06-25T17:50:32Z,,bug
+SecUSo/privacy-friendly-weather,96,Week temperatures too low,closed,2020-06-25T13:32:44Z,2020-08-16T16:50:26Z,bug
+SecUSo/privacy-friendly-weather,91,App is not responding for pretty long time being opened,closed,2020-03-15T03:49:35Z,2021-01-13T22:05:26Z,bug
+SecUSo/privacy-friendly-weather,89,Update weather tabs after city list changes,closed,2020-02-26T11:51:49Z,2020-06-30T13:01:56Z,bug
+SecUSo/privacy-friendly-weather,85,Wrong characters on Portuguese translation,closed,2020-01-12T21:23:54Z,2020-01-21T11:57:35Z,bug
+SecUSo/privacy-friendly-weather,82,Android widget shows dummy values for certain towns,closed,2019-06-07T18:18:48Z,2020-01-30T14:49:17Z,bug
+SecUSo/privacy-friendly-weather,79,"0,x °C is displayed without 0",closed,2019-03-30T17:38:26Z,2020-01-21T11:57:36Z,bug
+SecUSo/privacy-friendly-weather,74,Your device is not connected to the internet,closed,2018-07-01T21:11:12Z,2020-01-21T11:57:36Z,bug
+SecUSo/privacy-friendly-weather,72,"Can't find my city, too many duplicates",closed,2018-05-23T17:56:43Z,2020-06-25T10:45:36Z,"bug, enhancement"
+SecUSo/privacy-friendly-weather,68,App does not update until I switch between views,closed,2018-05-01T05:57:30Z,2019-03-13T19:37:57Z,bug
+SecUSo/privacy-friendly-weather,67,Widget doesn't update correctly,closed,2018-04-30T15:17:19Z,2020-04-17T16:36:48Z,bug
+SecUSo/privacy-friendly-weather,62,"Weather (Privacy Friendly) App crash, when click multiple times on refresh button.",closed,2018-03-24T12:08:13Z,2019-03-13T19:37:57Z,bug
+SecUSo/privacy-friendly-weather,61,"Weather (Privacy Friendly) App crash, when rotate 'The First Location' screen from portrait to landscape ",closed,2018-03-24T12:05:36Z,2019-03-13T20:05:59Z,bug
+SecUSo/privacy-friendly-weather,58,New release doesn't install on Android 5.0.2,closed,2018-03-19T11:17:14Z,2020-01-30T16:24:09Z,bug
+SecUSo/privacy-friendly-weather,56,Activity is recreated after dialog closes,closed,2018-01-25T13:29:58Z,2020-02-20T16:00:44Z,bug
+SecUSo/privacy-friendly-weather,54,input issue when adding places,closed,2017-12-16T09:00:45Z,2019-03-08T00:19:57Z,bug
+SecUSo/privacy-friendly-weather,52,Locations can be added multiple times,closed,2017-10-05T15:45:01Z,2018-02-13T15:51:57Z,bug
+SecUSo/privacy-friendly-weather,51,"Add crashes in case ""empty"" location is added",closed,2017-10-05T15:44:32Z,2018-02-13T15:51:57Z,bug
+SecUSo/privacy-friendly-weather,36,"Times are GMT, not current city's",closed,2016-12-08T17:39:24Z,2017-09-28T13:32:39Z,"bug, Redesign"
+SecUSo/privacy-friendly-weather,29,Only shows splash screen - Introduction of AsyncTasks at startup,closed,2016-11-22T18:51:51Z,2017-09-28T13:32:09Z,"bug, Redesign"
+SecUSo/privacy-friendly-weather,23,This location is not already in the list,closed,2016-11-14T10:30:40Z,2017-09-28T13:34:31Z,"bug, Redesign"
+SecUSo/privacy-friendly-weather,13,Changing of font size on the phone affects view,closed,2016-11-10T21:11:36Z,2019-03-08T00:30:30Z,"bug, Redesign"
+SecUSo/privacy-friendly-weather,6,Adjust Logo Size,closed,2016-10-24T09:35:22Z,2016-11-05T20:29:10Z,bug
+matejdro/PebbleNotificationCenter-Android,101,History duplicates itself,closed,2016-11-04T18:07:29Z,2016-11-13T22:02:44Z,bug
+matejdro/PebbleNotificationCenter-Android,96,Watchapp failing after launch,open,2016-06-18T11:11:07Z,,"bug, needs more info"
+malmstein/yahnac,37,Fix travis build,closed,2016-01-01T13:45:07Z,2016-01-10T12:16:25Z,bug
+malmstein/yahnac,24,Menu icons in articles and comments don't ripple,closed,2015-07-07T22:04:37Z,2016-01-23T17:35:05Z,bug
+plusonelabs/calendar-widget,328,v.3.0 Regression: Alarm and recurring icons aren't resized with text,closed,2019-09-29T08:59:47Z,2019-10-08T08:13:11Z,bug
+plusonelabs/calendar-widget,318,"Sometimes after device unlock the widget is stuck at ""ToDo Agenda Loading..."" view",closed,2019-09-02T18:06:09Z,2019-10-13T11:18:54Z,bug
+plusonelabs/calendar-widget,252,Whole day events not correctly opened by the calendar-widget,closed,2017-04-17T11:25:41Z,2017-04-19T03:19:37Z,bug
+plusonelabs/calendar-widget,206,Events that carry over to the next day show as ending at midnight,closed,2015-10-03T08:13:30Z,2015-11-01T10:36:31Z,bug
+plusonelabs/calendar-widget,199,Ongoing event shows wrong start time in 1.9.2 beta,closed,2015-09-12T08:39:32Z,2015-10-03T08:11:04Z,bug
+plusonelabs/calendar-widget,194,"When filling multiple days all day events we should honor ""Date range"" setting ",closed,2015-08-29T17:01:43Z,2015-09-25T17:49:00Z,bug
+plusonelabs/calendar-widget,191,Google events that repeat not showing ,closed,2015-08-25T22:41:25Z,2015-08-26T19:07:59Z,bug
+plusonelabs/calendar-widget,188,All day events: Remove Old Events,closed,2015-08-23T23:43:24Z,2015-10-22T12:26:32Z,bug
+plusonelabs/calendar-widget,187,ConcurrentModificationException when updating event list,closed,2015-08-23T08:19:36Z,2015-08-24T05:43:01Z,bug
+plusonelabs/calendar-widget,186,org.joda.time.IllegalInstantException when creating calendar event,closed,2015-08-23T08:17:16Z,2015-09-01T16:38:11Z,bug
+plusonelabs/calendar-widget,184,Multiple day events show as inactive,closed,2015-08-21T11:51:47Z,2015-12-17T05:50:34Z,bug
+plusonelabs/calendar-widget,183,NPE when filtering list of events,closed,2015-08-21T11:46:07Z,2015-08-24T19:23:42Z,bug
+plusonelabs/calendar-widget,152,Incorrect time for Russia timezones (MSK),closed,2014-11-04T22:21:31Z,2019-10-13T09:39:21Z,bug
+plusonelabs/calendar-widget,109,Norwegian translations are not showing for the user,closed,2014-04-13T08:07:19Z,2014-04-13T08:10:08Z,bug
+plusonelabs/calendar-widget,91,Setting background color applies a grayish tint,closed,2013-12-30T10:08:42Z,2013-12-30T10:10:11Z,bug
+plusonelabs/calendar-widget,89,App crashes on Android 4.1 devices because unknown query column is used,closed,2013-12-29T19:35:41Z,2013-12-29T19:36:59Z,bug
+plusonelabs/calendar-widget,84,Settings activity crashes on Android 4.4 (KitKat),closed,2013-11-18T09:19:41Z,2013-11-18T09:40:32Z,bug
+plusonelabs/calendar-widget,62,Widgets crashses when textSize is set from previous version,closed,2013-03-07T23:30:16Z,2013-03-07T23:31:00Z,bug
+plusonelabs/calendar-widget,57,Adding events crashes S Planner on SGS3,closed,2013-02-19T09:33:09Z,2013-03-07T23:28:51Z,bug
+plusonelabs/calendar-widget,51,all-day event starts incorrectly,closed,2012-12-12T11:41:03Z,2014-05-16T18:40:22Z,bug
+plusonelabs/calendar-widget,49,Events that last for one day from midnight to midnight have a wrong time indication,closed,2012-12-08T20:42:56Z,2013-11-17T17:03:26Z,bug
+plusonelabs/calendar-widget,48,Some devices crash when adding new events via the widget,closed,2012-12-08T16:18:00Z,2012-12-11T22:17:36Z,bug
+plusonelabs/calendar-widget,38,"The following day header is not showing ""tomorrow"" ",closed,2012-09-17T22:19:17Z,2012-12-01T09:35:33Z,bug
+plusonelabs/calendar-widget,36,NPE when trying to get RemoteView,closed,2012-09-14T08:58:39Z,2012-12-01T09:39:13Z,bug
+plusonelabs/calendar-widget,35,IllegalArgumentException in certain time zone,closed,2012-09-14T08:56:51Z,2013-12-07T11:43:37Z,bug
+plusonelabs/calendar-widget,32,Clicking on day header opens the native calendar app instead of allowing to choose the calendar app,closed,2012-09-08T08:28:54Z,2017-03-26T12:28:47Z,bug
+plusonelabs/calendar-widget,27,IndexOutOfBounds possibly when placing the widget twice on the home screen,closed,2012-08-04T08:04:37Z,2012-08-04T08:10:42Z,bug
+plusonelabs/calendar-widget,26,All day events are displayed one day to late,closed,2012-07-25T21:57:02Z,2012-08-04T19:05:48Z,bug
+plusonelabs/calendar-widget,25,Spanning events that start and end on the same time are displayed with one day short,closed,2012-07-15T09:13:48Z,2012-07-15T11:23:00Z,bug
+plusonelabs/calendar-widget,23,Opening the calendar preference page multiple times adds the calendars multiple times,closed,2012-07-14T10:13:30Z,2012-07-14T10:41:27Z,bug
+plusonelabs/calendar-widget,22,Calendar colors are not displayed in the Calendar widget on Jelly Bean,closed,2012-07-14T10:10:18Z,2012-07-14T12:20:42Z,bug
+plusonelabs/calendar-widget,21,Noon is displayed as 0:00 pm instead of 12:00 pm in am/pm format,closed,2012-07-08T17:27:37Z,2012-07-08T17:46:38Z,bug
+plusonelabs/calendar-widget,20,NPE in calendar preferences screen when no calendar exists,closed,2012-07-08T14:09:05Z,2012-07-08T17:46:38Z,bug
+plusonelabs/calendar-widget,19,Events without a title should indicate that there is no title,closed,2012-07-08T11:08:24Z,2012-07-08T11:08:32Z,bug
+plusonelabs/calendar-widget,18,Sometimes events show up that are dated as yesterday,closed,2012-07-08T10:36:22Z,2012-07-08T11:34:03Z,bug
+plusonelabs/calendar-widget,17,Events that span multiple days only show entry on the first day,closed,2012-07-02T20:15:44Z,2012-07-08T10:36:32Z,bug
+plusonelabs/calendar-widget,13,Opening an event from the widget displays wrong date,closed,2012-06-10T08:31:27Z,2012-06-10T09:05:41Z,bug
+plusonelabs/calendar-widget,7,"React to changes of the devices local, timezone, time and date",closed,2012-05-15T09:14:22Z,2012-06-09T12:59:47Z,bug
+plusonelabs/calendar-widget,6,Refresh the calendar widget at 0:00 device time to refresh the displayed date.,closed,2012-05-15T09:13:52Z,2012-06-09T12:59:47Z,bug
+plusonelabs/calendar-widget,4,Spell checking underlining seams to be enabled on some devices,closed,2012-05-15T09:12:36Z,2012-05-19T15:49:44Z,bug
+plusonelabs/calendar-widget,2,Properly deal with events in different time zones than the devices timezone,closed,2012-05-15T09:11:26Z,2012-06-09T12:01:23Z,bug
+plusonelabs/calendar-widget,1,Allow to shrink the widget on any density/resolution,closed,2012-05-15T09:09:57Z,2012-05-28T09:49:15Z,"bug, enhancement"
+gatheringhallstudios/MHGenDatabase,13,Some Hunting Horn Melodies have place-holders for their effects,closed,2016-07-27T14:58:14Z,2016-07-29T13:58:43Z,bug
+kamegami13/MonsterHunter4UDatabase,2,Update Project Reference from 3U to 4U,closed,2015-01-24T17:37:02Z,2015-01-24T23:03:07Z,bug
+Ashish-Bansal/OneTapVideoDownload,14,Unable to start service,closed,2016-12-02T23:30:29Z,2018-04-08T11:44:29Z,"bug, help wanted"
+Ashish-Bansal/OneTapVideoDownload,1,Found this error frequently on latest release build,closed,2016-05-31T13:19:53Z,2016-06-02T15:16:20Z,bug
+smallpath/psnine,5,奖杯tips无法加载,closed,2017-11-13T01:12:28Z,2017-11-13T12:44:50Z,"bug, Android 8.0"
+fhstp-mfg/mobilot,180,[Cordova-Plugin-IBeacon] Use only when required,open,2017-02-06T10:21:30Z,,"bug, hybrid, performance"
+fhstp-mfg/mobilot,164,[Settings] Cannot hide Mobidul on homescreen,closed,2016-12-21T11:41:13Z,2017-02-06T13:06:02Z,"bug, high priority"
+fhstp-mfg/mobilot,160,Fix bug induced by filtered mobiuser mobiduls,closed,2016-12-19T09:52:15Z,2016-12-19T09:54:13Z,"bug, high priority"
+fhstp-mfg/mobilot,158,Optimize setup,closed,2016-12-18T09:12:24Z,2016-12-19T08:59:03Z,"bug, setup"
+fhstp-mfg/mobilot,149,CHECK please: New station always hidden state,closed,2016-12-07T21:18:06Z,2016-12-09T11:27:50Z,"bug, waiting for, setup"
+fhstp-mfg/mobilot,145,Rally: Delete First Station Issue,closed,2016-12-03T18:06:03Z,2016-12-12T15:53:18Z,"bug, invalid"
+fhstp-mfg/mobilot,138,Fallback Code Directive for GPS doesn't work,closed,2016-11-21T12:01:43Z,2016-12-10T14:33:11Z,"bug, high priority, LIVE SERVER"
+fhstp-mfg/mobilot,137,"Password field must have required attribute, as well as on backend",closed,2016-11-07T11:38:41Z,2016-12-01T09:42:41Z,bug
+fhstp-mfg/mobilot,135,App crashes when trying to access Photo Library on iOS,closed,2016-10-24T14:58:03Z,2016-10-24T15:00:33Z,"bug, hybrid, iOS"
+fhstp-mfg/mobilot,134,App crashes when trying to upload pictures on iOS 10,closed,2016-10-24T14:21:15Z,2016-10-24T14:57:23Z,"bug, iOS, high priority"
+fhstp-mfg/mobilot,130,[Mobidul mode] Rally mode feature breaks default mode Mobiduls,open,2016-10-17T09:28:30Z,,"bug, help wanted"
+fhstp-mfg/mobilot,129,Styling Crash when menu is too high,closed,2016-10-15T20:11:52Z,2016-10-19T10:12:11Z,"bug, high priority"
+fhstp-mfg/mobilot,127,Permission issue,closed,2016-10-15T20:03:03Z,2016-10-28T07:37:11Z,"bug, duplicate, high priority"
+fhstp-mfg/mobilot,126,[Preview] Not displaying zoomable picture,open,2016-10-10T11:16:39Z,,bug
+fhstp-mfg/mobilot,125,Mobidul Menu doesn't immediately get updated,closed,2016-10-10T09:11:10Z,2016-11-21T15:46:12Z,"bug, high priority"
+fhstp-mfg/mobilot,124,Upload picture not working (on mobile),closed,2016-10-10T09:03:13Z,2016-10-24T15:28:50Z,"bug, hybrid, high priority"
+fhstp-mfg/mobilot,119,Changing password doesn't for because $resetToken,closed,2016-09-20T15:34:22Z,2016-10-07T13:26:13Z,"bug, high priority, security"
+fhstp-mfg/mobilot,118,Login with invalid credentials doesn't notify user on response,closed,2016-09-20T15:00:00Z,2016-09-20T15:05:12Z,bug
+fhstp-mfg/mobilot,109,MobidulMenu Join item should be accessible for non-users,closed,2016-09-06T11:50:55Z,2016-09-06T11:52:04Z,bug
+fhstp-mfg/mobilot,107,Problems relating logging out then logging in again,closed,2016-09-06T11:38:10Z,2016-12-15T02:29:09Z,"bug, high priority"
+fhstp-mfg/mobilot,106,[Map] My position isn't shown after acquired position,open,2016-09-06T11:36:05Z,,bug
+fhstp-mfg/mobilot,103,"StationCreator displays wrong Station states and components for a ""default"" Mobidul",closed,2016-09-06T11:23:11Z,2016-09-19T14:15:54Z,"bug, high priority, Station Component"
+fhstp-mfg/mobilot,99,Saving Spinner in Mobidul Options is broken,closed,2016-09-04T14:14:58Z,2016-12-21T12:18:27Z,"bug, invalid, styling"
+fhstp-mfg/mobilot,96,Error Dialog on Position determination,closed,2016-09-01T10:23:20Z,2016-12-21T12:21:42Z,"bug, enhancement, invalid, low priority"
+fhstp-mfg/mobilot,85,Can't save new Station without Coords,closed,2016-08-19T12:15:02Z,2016-08-22T10:00:49Z,bug
+fhstp-mfg/mobilot,76,EditorElements: Text in input fields is not visible while writing (iPhone),closed,2016-08-17T08:59:44Z,2016-08-24T09:14:50Z,"bug, iOS, Station Component"
+fhstp-mfg/mobilot,74,Progressbar doesn't refresh with new station,closed,2016-08-12T15:38:54Z,2016-08-22T10:29:55Z,"bug, low priority"
+fhstp-mfg/mobilot,72,Editor: Add Element Listener gets duplicated,closed,2016-08-12T14:55:22Z,2016-08-17T12:57:22Z,"bug, Station Component"
+fhstp-mfg/mobilot,71,Test Server Error: Monolog/Formatter/LineFormatter,closed,2016-08-10T10:43:00Z,2016-08-10T10:44:05Z,"bug, LIVE SERVER, TEST SERVER"
+fhstp-mfg/mobilot,69,Keyboard is opening when interacting with certain elements,closed,2016-08-10T09:08:39Z,2016-08-24T09:15:55Z,"bug, iOS"
+fhstp-mfg/mobilot,61,Hidden state shouldn't be configurable,closed,2016-07-30T12:09:03Z,2016-08-04T14:15:20Z,bug
+fhstp-mfg/mobilot,52,renderJSON gets called multiple times on StationView,closed,2016-07-22T17:20:47Z,2016-10-02T18:41:52Z,"bug, low priority, performance"
+fhstp-mfg/mobilot,51,Reset Rally not shown,closed,2016-07-22T17:13:27Z,2016-08-03T12:56:39Z,bug
+fhstp-mfg/mobilot,49,[PhotoUpload] Export doesn't work in Safari and Firefox,open,2016-07-22T14:04:42Z,,"bug, low priority"
+fhstp-mfg/mobilot,48,Home: Impressum button in Header not always showing,closed,2016-07-20T13:22:13Z,2016-08-12T14:14:50Z,"bug, low priority"
+fhstp-mfg/mobilot,39,WYSIWYG editor formats don't get displayed,closed,2016-07-16T12:29:08Z,2016-07-22T15:50:15Z,"bug, Station Component"
+fhstp-mfg/mobilot,38,[Routing] Not logged in user can directly access station editor,open,2016-07-16T12:08:03Z,,"bug, low priority"
+fhstp-mfg/mobilot,34,Update and extend Attachment table,closed,2016-07-15T11:45:08Z,2016-07-15T15:02:06Z,"bug, feature"
+fhstp-mfg/mobilot,30,Drag and Drop on mobile devices,closed,2016-07-13T14:17:51Z,2016-12-10T14:34:24Z,"bug, waiting for, high priority"
+fhstp-mfg/mobilot,12,Fix issues w/ setup.sh ,closed,2016-07-04T16:15:49Z,2016-07-04T16:18:57Z,bug
+fhstp-mfg/mobilot,8,Warning if not logged-in user wants to create mobidul ,closed,2016-06-29T13:57:59Z,2016-08-02T11:24:56Z,bug
+fhstp-mfg/mobilot,7,Default WYSIWYG StationEditor not shown,closed,2016-06-24T15:00:16Z,2016-07-07T09:13:03Z,bug
+nonylene/PhotoLinkViewer,51,Intent open issue,closed,2015-12-15T13:27:01Z,2015-12-20T13:36:04Z,"bug, wait for google"
+nonylene/PhotoLinkViewer,39,tumblr issue,closed,2015-11-08T12:33:27Z,2016-02-21T14:57:11Z,"bug, enhancement"
+nonylene/PhotoLinkViewer,37,まとめて設定にtumblr追加,closed,2015-10-25T13:42:25Z,2015-11-07T08:47:39Z,bug
+nonylene/PhotoLinkViewer,34,pagertabstrip title not shown first,closed,2015-10-10T18:44:05Z,2015-10-17T12:06:59Z,"bug, wait for google"
+nonylene/PhotoLinkViewer,33,vineの読み込みエラー出まくる,closed,2015-10-06T15:27:39Z,2015-10-18T08:41:49Z,bug
+nonylene/PhotoLinkViewer,30,edittextのactionmodeのアイコンが背景と同化している,closed,2015-05-31T13:40:18Z,2016-09-27T12:45:43Z,"bug, wait for google"
+nonylene/PhotoLinkViewer,29,tokenの問題,closed,2015-03-29T16:01:18Z,2015-07-29T22:49:54Z,bug
+nonylene/PhotoLinkViewer,28,urlのやつ,closed,2015-03-20T04:47:52Z,2015-04-05T14:35:46Z,bug
+nonylene/PhotoLinkViewer,23,ダブルタップからのアレ,closed,2014-12-29T22:22:22Z,2015-01-14T09:59:26Z,"bug, enhancement"
+nonylene/PhotoLinkViewer,20,GIFがみれない(twitter),closed,2014-12-11T11:55:06Z,2015-02-16T21:01:04Z,"bug, enhancement"
+nonylene/PhotoLinkViewer,19,アカウント削除させてくれ,closed,2014-12-09T18:08:41Z,2014-12-11T18:31:27Z,bug
+nonylene/PhotoLinkViewer,18,複数画像閲覧,closed,2014-11-28T22:31:32Z,2014-12-02T15:12:44Z,bug
+nonylene/PhotoLinkViewer,13,RT時のアイコン,closed,2014-11-15T01:44:40Z,2014-11-21T06:32:16Z,"bug, enhancement"
+nonylene/PhotoLinkViewer,12,androidマニフェストがしっかりしてない,closed,2014-11-15T01:43:33Z,2014-11-21T05:00:20Z,"bug, enhancement"
+nonylene/PhotoLinkViewer,9,Textureの画像サイズの問題,closed,2014-11-07T16:06:03Z,2014-12-02T13:01:04Z,"bug, enhancement"
+nonylene/PhotoLinkViewer,3,intent呼び出し,closed,2014-11-04T21:10:40Z,2014-11-07T15:59:27Z,bug
+nonylene/PhotoLinkViewer,1,twitterの複数投稿画像対応,closed,2014-11-04T21:09:29Z,2014-11-14T22:43:50Z,"bug, enhancement"
+maxiee/HeartBeat,13,"新想法页面点返回, 第第二下会弹起键盘再退出",closed,2017-07-17T14:52:07Z,2017-07-17T16:04:37Z,bug
+maxiee/HeartBeat,11,删除事件后事件还在，点击后崩溃,open,2016-04-28T16:22:59Z,,bug
+maxiee/HeartBeat,9,生成长图感想图片不显示了。,closed,2016-04-21T03:10:21Z,2016-04-25T09:18:00Z,bug
+guardianproject/ObscuraCam,127,Reduce frame size (not just compress) for video,open,2018-04-12T13:48:05Z,,BUG
+guardianproject/ObscuraCam,89,No manipulation of regions occurring on save,open,2011-11-12T18:37:42Z,,BUG
+guardianproject/ObscuraCam,88,edited areas have incorrect size and position when safed,open,2011-11-07T16:48:48Z,,BUG
+guardianproject/ObscuraCam,87,Region UI issues,open,2011-11-01T15:41:32Z,,"SHOULD HAVE, BUG"
+guardianproject/ObscuraCam,85,Long click triggers vibration but nothing else,closed,2011-10-24T15:43:37Z,2011-10-27T18:06:11Z,BUG
+guardianproject/ObscuraCam,84,Photos taken in portrait mode appear rotated 90 degrees in editor,open,2011-10-24T15:40:13Z,,BUG
+guardianproject/ObscuraCam,83,App close when choosing image from gallery,open,2011-09-27T20:58:28Z,,"MUST HAVE, BUG"
+guardianproject/ObscuraCam,81,"""Exporting for share"" progress dialog",closed,2011-09-21T15:16:03Z,2011-09-21T15:42:03Z,BUG
+guardianproject/ObscuraCam,80,Resizing region tag into negatives!,closed,2011-08-25T16:01:54Z,2011-10-27T18:55:36Z,"SHOULD HAVE, BUG"
+guardianproject/ObscuraCam,78,Image filenames should be based on path generated by camera app,open,2011-08-25T15:21:45Z,,"MUST HAVE, BUG"
+guardianproject/ObscuraCam,76,"Selecting ""Take Photo"" tries to load albums and images",closed,2011-08-23T15:21:41Z,2011-10-27T18:08:03Z,"SHOULD HAVE, BUG"
+guardianproject/ObscuraCam,75,FTM: Crash - IllegalArgumentException in DatabaseUtils.readExceptionFromParcel(),closed,2011-08-09T20:26:43Z,2011-08-23T02:59:19Z,BUG
+guardianproject/ObscuraCam,74,FTM: Crash - ClassCastException in ViewGroup.measureChildWithMargins(),closed,2011-08-09T20:25:20Z,2011-10-27T18:58:02Z,BUG
+guardianproject/ObscuraCam,73,FTM: Crash - NullPointerException in Bitmap.createBitmap(),closed,2011-08-09T20:24:35Z,2011-08-23T15:57:37Z,BUG
+guardianproject/ObscuraCam,71,FTM: Crash - NullPointerException in org.witness.sscphase1,closed,2011-08-09T20:22:21Z,2011-08-23T03:26:22Z,BUG
+guardianproject/ObscuraCam,70,FTM: Crash - WindowManager$BadTokenException,open,2011-08-09T20:18:40Z,,BUG
+guardianproject/ObscuraCam,69,FTM: App Freeze - ANR keyDispatchingTimedOut in ImageEditor,open,2011-08-09T20:11:31Z,,BUG
+guardianproject/ObscuraCam,68,timestamp not erased / pixellation not applied,closed,2011-07-07T10:55:05Z,2011-10-27T18:57:26Z,BUG
+guardianproject/ObscuraCam,67,FTM: OutOfMemoryError in org.witness.sscphase1 ,closed,2011-07-01T15:15:21Z,2011-07-01T23:34:47Z,BUG
+guardianproject/ObscuraCam,66,FTM: NullPointerException in org.witness.sscphase1 ,closed,2011-07-01T15:13:12Z,2011-10-27T18:57:45Z,BUG
+guardianproject/ObscuraCam,65,Can't see editing options,closed,2011-07-01T14:15:17Z,2011-10-27T18:09:00Z,BUG
+guardianproject/ObscuraCam,62,Pixellation extends outside of edit region,closed,2011-06-24T15:12:49Z,2011-08-23T03:26:22Z,BUG
+guardianproject/ObscuraCam,60,Redacted & saved image doesn't appear in gallery,closed,2011-06-24T15:07:21Z,2011-08-23T18:57:15Z,BUG
+guardianproject/ObscuraCam,58,Multiple (and unredacted) copies of images are stored.,closed,2011-06-24T14:42:43Z,2011-08-25T15:24:09Z,BUG
+guardianproject/ObscuraCam,57,First picture taken doesn't return to edit screen,closed,2011-06-24T14:40:00Z,2011-08-23T16:34:53Z,"MUST HAVE, BUG"
+guardianproject/ObscuraCam,56,"Another ""No SDCard"" bug: FTM: UnsupportedOperationException",closed,2011-06-23T15:51:05Z,2011-08-23T04:22:10Z,BUG
+guardianproject/ObscuraCam,55,FTM: OutOfMemoryError in org.witness.sscphase1 ,closed,2011-06-23T15:49:43Z,2011-08-23T05:54:12Z,BUG
+guardianproject/ObscuraCam,52,Rotating doesn't recenter image on screen,closed,2011-06-16T20:58:08Z,2011-10-27T20:18:56Z,BUG
+guardianproject/ObscuraCam,51,handles for resizing regions move positions after choosing edit,closed,2011-06-16T20:57:23Z,2011-10-27T18:09:20Z,BUG
+guardianproject/ObscuraCam,50,anon/mask obscure method is missing image?,closed,2011-06-16T20:56:34Z,2011-06-16T21:43:43Z,BUG
+guardianproject/ObscuraCam,47,FTM:  java.lang.IllegalArgumentException Source method Bitmap.checkPixelAccess(),closed,2011-06-14T19:54:58Z,2011-08-23T05:12:07Z,BUG
+guardianproject/ObscuraCam,46,FTM: java.lang.NullPointerException Source method ImageEditor.onCreate(),closed,2011-06-14T19:52:14Z,2011-08-23T05:10:41Z,BUG
+guardianproject/ObscuraCam,45,FTM:  java.lang.NullPointerException Source method SplashScreenActivity.onCreate(),closed,2011-06-14T19:51:38Z,2011-08-23T05:13:10Z,BUG
+guardianproject/ObscuraCam,44,FromTheMarket:  java.lang.NullPointerException Source method CameraObscuraMainMenu.onActivityResult(),closed,2011-06-14T19:50:49Z,2011-08-23T05:14:25Z,BUG
+guardianproject/ObscuraCam,43,FromTheMarket: Exception class java.lang.IllegalStateException Source method Parcel.readException(),closed,2011-06-14T19:49:54Z,2011-08-23T05:15:19Z,BUG
+guardianproject/ObscuraCam,37,Face recognition no longer reliable,closed,2011-06-09T14:14:48Z,2011-06-10T17:29:39Z,"MUST HAVE, BUG"
+guardianproject/ObscuraCam,36,FC when no SD present,closed,2011-06-08T20:53:32Z,2011-08-23T05:16:52Z,BUG
+guardianproject/ObscuraCam,34,Touching non-tagged area of image should de-select any regions,closed,2011-06-07T16:42:49Z,2011-06-07T19:17:54Z,"SHOULD HAVE, BUG"
+guardianproject/ObscuraCam,33,'Share Image' dialog box should close after completing activity,closed,2011-06-07T16:38:25Z,2011-06-07T19:16:46Z,"SHOULD HAVE, BUG"
+guardianproject/ObscuraCam,32,Initial image view not centered but then centers on move operation,closed,2011-06-07T16:18:31Z,2011-06-09T21:02:58Z,BUG
+guardianproject/ObscuraCam,31,Taking a new image in landscape mode causes FC,closed,2011-06-07T16:14:27Z,2011-06-07T19:18:18Z,"MUST HAVE, BUG"
+guardianproject/ObscuraCam,30,"File on share isn't ""public"" and therefore can't be shared.",closed,2011-06-06T16:39:13Z,2011-06-07T03:25:44Z,BUG
+guardianproject/ObscuraCam,22,"when imageregion outside of image bounds, crash on save/share",closed,2011-05-31T21:16:53Z,2011-06-07T03:26:12Z,BUG
+guardianproject/ObscuraCam,18,Image regions not holding positions on zoom/move - Fix,closed,2011-05-31T21:12:25Z,2011-06-05T14:57:29Z,BUG
+guardianproject/ObscuraCam,16,FC on 2nd region creation,closed,2011-04-19T16:22:40Z,2011-05-17T21:38:19Z,BUG
+guardianproject/ObscuraCam,15,Changing device orientation clears regions and prompts auto-scan,closed,2011-04-19T16:15:38Z,2011-04-22T15:28:06Z,BUG
+phish108/MoblerCards,165,Question loop: next question seems to lead into a deadlock after a few questions,open,2015-11-12T10:38:54Z,,bug
+phish108/MoblerCards,163,remove all JQuery references that could be done with Templer,open,2015-11-07T10:00:25Z,,bug
+phish108/MoblerCards,161,CourseView: Courses without active Questions should not be listed,closed,2015-11-04T11:10:31Z,2015-11-08T17:36:42Z,bug
+phish108/MoblerCards,160,Activate Numeric Questions,open,2015-11-04T11:09:05Z,,bug
+phish108/MoblerCards,159,Activate Cloze Questions again,open,2015-11-04T11:08:44Z,,bug
+phish108/MoblerCards,158,sort widget: Dragging activates text selection for uneditable content,closed,2015-11-04T08:51:56Z,2015-11-04T09:27:16Z,"bug, enhancement"
+phish108/MoblerCards,155,Pool View: Make scrollable,closed,2015-11-03T15:19:45Z,2015-11-03T22:15:55Z,bug
+phish108/MoblerCards,154,Sort Widget flips items when immediately dropped,closed,2015-11-01T23:10:53Z,2015-11-04T11:03:47Z,bug
+phish108/MoblerCards,151,Back button is confused in statistics view if multiple question pools are present,closed,2015-10-26T05:06:04Z,2015-10-27T19:28:25Z,bug
+phish108/MoblerCards,150,On iOS the question pools are permanently loaded from the server,closed,2015-10-25T18:59:35Z,2015-10-25T18:59:59Z,bug
+phish108/MoblerCards,149,Course View does not show traffic lights if there are courses in the LRS that are unknown to the Content Broker,closed,2015-10-25T18:16:02Z,2015-10-25T18:16:56Z,bug
+phish108/MoblerCards,148,Wrong traffic light stats if all answers were answered incorrectly,closed,2015-10-25T13:45:37Z,2015-10-25T13:49:29Z,bug
+phish108/MoblerCards,146,entropy map fails to deliver useful results if most questions are answered correctly,closed,2015-10-24T13:21:12Z,2015-10-24T15:05:44Z,bug
+phish108/MoblerCards,144,make feedback view scrollable,closed,2015-10-23T07:35:21Z,2015-10-23T13:35:21Z,bug
+phish108/MoblerCards,142,Statistics: Best day is wrongly displayed,closed,2015-10-21T19:53:16Z,2015-10-23T07:28:42Z,bug
+phish108/MoblerCards,141,The content broker does not reset the context when leaving a course,closed,2015-10-21T19:38:26Z,2015-10-21T19:48:30Z,bug
+phish108/MoblerCards,137,Gradients are lost on pre 4.4 Android systems,closed,2015-10-09T14:23:52Z,2015-10-09T15:27:04Z,bug
+phish108/MoblerCards,136,Answer View- Multiple choice widget: wrong title is on display for single choice questions ,closed,2015-10-07T16:00:43Z,2015-10-09T17:59:24Z,bug
+phish108/MoblerCards,134,LMS Language Settings seem not to be used by the frontend,closed,2015-09-25T05:25:26Z,2015-10-09T17:58:45Z,"bug, question"
+phish108/MoblerCards,133,ios moves from the landing directly to the login screen,closed,2015-09-24T19:46:28Z,2015-09-24T19:57:32Z,bug
+phish108/MoblerCards,124,Returning from feedback view to question view allows manipulating the answer,closed,2015-09-23T14:38:13Z,2015-09-24T12:48:55Z,bug
+phish108/MoblerCards,122,Answered questions appear while there are still unanswered questions,closed,2015-09-23T14:34:01Z,2015-10-23T07:17:14Z,bug
+phish108/MoblerCards,119,add new lms button does not hide the label properly when adding a new LMS,closed,2015-09-15T09:56:36Z,2015-09-15T09:57:36Z,bug
+phish108/MoblerCards,118,on IOS the views scroll up if the Keyboard pops up.  ,open,2015-09-15T09:54:08Z,,bug
+phish108/MoblerCards,117,LRS does not synchronise statistics,closed,2015-09-14T01:41:05Z,2015-09-22T12:50:21Z,bug
+phish108/MoblerCards,116,"If the content broker receives an empty course list, it will show public courses",closed,2015-09-13T15:27:56Z,2015-09-13T16:08:25Z,bug
+phish108/MoblerCards,115,LMS View: Tapping on a LMS will not trigger the correct UI Behavior,closed,2015-09-13T08:26:38Z,2015-09-24T19:05:52Z,bug
+phish108/MoblerCards,114,logout locks up if the LRS is empty,closed,2015-09-12T19:50:59Z,2015-09-13T23:23:34Z,bug
+phish108/MoblerCards,113,LRS: uses wrong id attribute for statements,closed,2015-09-05T18:00:50Z,2015-09-05T18:02:29Z,bug
+phish108/MoblerCards,112,LRS: must not try to insert actions that are already present,closed,2015-09-05T17:32:41Z,2015-09-05T18:02:29Z,bug
+phish108/MoblerCards,111,LRS sync index is not properly updated. ,closed,2015-09-05T17:30:17Z,2015-09-05T18:10:47Z,bug
+phish108/MoblerCards,110,LRS: actor id is not expanded with the IDToken.,closed,2015-09-05T16:05:02Z,2015-09-05T16:36:31Z,bug
+phish108/MoblerCards,109,LRS: stored timestamp is not added to the statement record,closed,2015-09-05T15:52:52Z,2015-09-05T16:49:43Z,bug
+phish108/MoblerCards,108,LRS: finishAction does not fill in the extended statement. ,closed,2015-09-05T15:52:19Z,2015-09-05T16:49:43Z,bug
+phish108/MoblerCards,107,IDP: session headers cannot get generated for multi sync,open,2015-08-30T18:02:15Z,,bug
+phish108/MoblerCards,104,App crashes after skipping several times ,closed,2015-08-29T21:35:26Z,2015-08-30T13:36:25Z,bug
+phish108/MoblerCards,102,LoginView should not use deferred view change,closed,2015-08-29T16:43:05Z,2015-08-29T19:24:11Z,bug
+phish108/MoblerCards,101,FeedbackView: use HTML to format the content.,closed,2015-08-27T09:32:17Z,2015-08-27T17:57:25Z,bug
+phish108/MoblerCards,100,QuestionType Widgets: answer texts are not properly formatted,closed,2015-08-27T09:30:19Z,2015-08-27T18:06:43Z,bug
+phish108/MoblerCards,91,Feedback View: cannot use X button,closed,2015-08-25T21:06:10Z,2015-08-25T21:54:27Z,bug
+phish108/MoblerCards,90,QuestionView: display question type icon in header.,closed,2015-08-25T19:32:37Z,2015-08-25T21:54:27Z,bug
+phish108/MoblerCards,89,App Icon Missing,closed,2015-08-25T19:28:49Z,2015-08-30T11:32:28Z,bug
+phish108/MoblerCards,87,create templates for answer and feedback widgets,closed,2015-08-25T07:15:03Z,2015-10-25T12:29:16Z,"bug, enhancement"
+phish108/MoblerCards,84,Statistics View: red and green icons have different sizes,closed,2015-08-24T20:38:53Z,2015-08-24T21:08:36Z,bug
+phish108/MoblerCards,82,statistics view does not reset values on leave,closed,2015-08-24T19:12:38Z,2015-08-24T20:35:55Z,bug
+phish108/MoblerCards,81,Statistics view Best Day and Best Score are initially wrongly displayed ,closed,2015-08-24T19:09:09Z,2015-08-24T20:35:55Z,bug
+phish108/MoblerCards,80,Statistics View displays baseline values wrongly,closed,2015-08-24T19:05:17Z,2015-08-24T21:00:46Z,bug
+phish108/MoblerCards,73,ClozeQuestion Widget must not crash wih new models,closed,2015-08-17T06:18:54Z,2015-08-27T00:22:03Z,bug
+phish108/MoblerCards,72,Numeric Question widget must not crash with new models,closed,2015-08-17T06:17:34Z,2015-08-25T21:54:27Z,bug
+phish108/MoblerCards,69,ContentBroker does not report the response to the LRS,closed,2015-08-16T09:57:44Z,2015-08-16T12:26:56Z,bug
+phish108/MoblerCards,68,QuestionView: HTML Code not properly stripped ,closed,2015-08-16T08:45:01Z,2015-08-27T17:49:40Z,bug
+phish108/MoblerCards,64,LoginView: display information about login failures,open,2015-08-15T16:47:02Z,,bug
+phish108/MoblerCards,63,CourseView Tap on background tries to load a course,closed,2015-08-15T15:52:23Z,2015-08-15T16:04:34Z,bug
+phish108/MoblerCards,61,LoginView: focus on the user name ,closed,2015-08-15T15:40:02Z,2015-09-24T19:36:41Z,bug
+phish108/MoblerCards,59,Profile service responds 403 to Mobler requests,closed,2015-08-15T15:37:12Z,2015-08-15T16:46:36Z,bug
+phish108/MoblerCards,55,wrongly sent 200 that should be 204 must not get treated as errors,closed,2015-08-14T06:08:44Z,2015-08-27T00:24:20Z,bug
+phish108/MoblerCards,53,Authentication Requests are not signed with the Request Header,closed,2015-08-13T12:20:51Z,2015-08-15T15:01:41Z,bug
+phish108/MoblerCards,48,Long answers are not scrollable in Answer and Feedback View,closed,2015-08-12T10:27:54Z,2015-08-12T10:28:43Z,bug
+phish108/MoblerCards,29,text sort widget,closed,2015-05-31T20:31:40Z,2015-11-01T23:08:57Z,bug
+phish108/MoblerCards,24,Synchronise only new learning activies with the LMS.,open,2015-05-22T17:18:50Z,,"bug, wontfix"
+phish108/MoblerCards,18,The course listing is not correctly refreshed when returning from another view,closed,2015-05-04T01:01:17Z,2015-08-15T15:43:02Z,bug
+phish108/MoblerCards,13,Visual Grid is incomplete,closed,2015-02-03T22:00:42Z,2015-05-04T01:06:34Z,bug
+phish108/MoblerCards,12,session tokes are not persistent ,closed,2015-02-03T21:59:56Z,2015-08-10T09:46:09Z,bug
+phish108/MoblerCards,11,footer button is sometimes not triggering the tap action,closed,2015-02-03T20:42:59Z,2015-08-10T09:47:04Z,bug
+phish108/MoblerCards,10,LoginView: on Android click event selects the password field after the view is opened,closed,2015-02-03T20:40:31Z,2015-08-12T20:13:46Z,bug
+phish108/MoblerCards,8,LMSView: avoid multiple requests to invalid server names,closed,2015-02-02T19:36:39Z,2015-02-02T19:41:39Z,bug
+phish108/MoblerCards,7,landing view: Tapping on exclusive content won't respond,closed,2015-02-02T19:35:27Z,2015-02-02T19:41:39Z,bug
+mathisdt/trackworktime,329,"Restoring Backup breaks, if event comment includes line break",closed,2025-04-09T06:36:01Z,2025-04-10T15:08:13Z,bug
+mathisdt/trackworktime,325,Flextime / Flexi does reset every week,open,2025-03-20T20:24:52Z,,bug
+mathisdt/trackworktime,308,Small visual bug in Quick Settings tile,open,2024-10-25T19:07:36Z,,bug
+mathisdt/trackworktime,268,Restoring Data fails,closed,2023-12-05T09:45:41Z,2023-12-09T10:16:47Z,"bug, workaround-exists"
+mathisdt/trackworktime,246,problem when changing backup target directory,closed,2023-06-18T14:29:18Z,2023-08-12T20:43:25Z,bug
+mathisdt/trackworktime,210,Bug - Calculating with future end time,closed,2022-07-12T15:03:36Z,2022-09-22T18:17:55Z,bug
+mathisdt/trackworktime,198,Report sometimes includes irrelevant posts,closed,2022-03-01T06:15:04Z,2022-05-28T19:45:20Z,"bug, cant-reproduce"
+mathisdt/trackworktime,180,"""Count down to 0:00 every day"" disabled does not work when day starts with positive flexitime",closed,2021-08-16T07:13:40Z,2021-11-26T16:14:31Z,bug
+mathisdt/trackworktime,178,Restore of Targets Backup not working without hints,closed,2021-07-12T19:55:59Z,2021-07-14T17:53:02Z,bug
+mathisdt/trackworktime,173,Out of memory after many hours with the app open,closed,2021-06-28T15:16:02Z,2022-03-19T17:32:31Z,bug
+mathisdt/trackworktime,150,Locale issues,closed,2021-03-26T19:21:58Z,2022-03-18T20:11:17Z,bug
+mathisdt/trackworktime,137,"crash on ""remove restrictions""",closed,2021-02-03T21:46:37Z,2021-02-04T17:20:22Z,bug
+mathisdt/trackworktime,133,report: off-by-one error in daily time aggregation,closed,2021-02-01T21:36:16Z,2021-02-06T14:42:07Z,bug
+mathisdt/trackworktime,100,"Reports (day, week) differ from view in App",closed,2020-06-07T21:53:51Z,2022-08-27T21:03:15Z,bug
+mathisdt/trackworktime,95,working over month boundaries,closed,2020-05-01T13:42:05Z,2021-01-30T21:38:47Z,bug
+mathisdt/trackworktime,93,automatic backup when app is not opened,closed,2020-03-07T06:42:01Z,2020-03-08T20:12:41Z,bug
+mathisdt/trackworktime,91,faulty time calculation when using FLEX events,closed,2020-02-17T19:15:06Z,2020-12-29T21:37:11Z,"bug, obsolete"
+mathisdt/trackworktime,25,Report: too high values on the task which was running during the generation,closed,2017-12-11T17:27:15Z,2022-03-19T17:20:19Z,bug
+mathisdt/trackworktime,24,Report: summing the times doesn't give the same results as the in app total,closed,2017-12-11T17:23:36Z,2021-06-07T18:54:16Z,bug
+aragaer/jtt_android,31,Start of day,closed,2021-07-10T23:40:19Z,2021-07-11T21:05:47Z,not a bug
+aragaer/jtt_android,29,Local time is shown without DST,closed,2020-03-03T08:46:16Z,2020-03-04T10:47:45Z,not a bug
+aragaer/jtt_android,11,Touchwiz launcher doesn't invoke ENABLED event,closed,2012-09-07T18:38:11Z,2013-06-14T21:18:14Z,Bug
+aragaer/jtt_android,10,Service gets unloaded/stopped sometimes,closed,2012-08-24T14:30:54Z,2012-10-06T13:21:37Z,"Bug, Critical/Crash"
+aragaer/jtt_android,1,Widgets not drawn when added,closed,2012-08-24T06:11:20Z,2012-10-06T13:21:14Z,Bug
+mitmel/Locast-Core-Android,8,add detection of auth failures,open,2013-02-19T21:53:02Z,,bug
+janoliver/pOT-Droid,277,"Teilen funktioniert nicht mehr, u.a. mit WhatsAPP",closed,2016-07-22T07:40:21Z,2016-08-04T13:28:15Z,bug
+janoliver/pOT-Droid,233,"Polling Service sollte nicht laufen, wenn Intervall 0 eingestellt ist.",closed,2016-01-11T16:19:35Z,2016-03-06T15:23:16Z,bug
+janoliver/pOT-Droid,97,rendering bug #123123: Text fett ab bestimmtem Post,open,2016-01-02T18:59:29Z,,bug
+janoliver/pOT-Droid,227,Optionaler Home Button links in der Blättern toolbar,closed,2016-01-02T18:58:46Z,2016-03-06T15:31:26Z,bug
+janoliver/pOT-Droid,125,Watch later button von YT Videos funktioniert nicht.,open,2016-01-02T18:57:47Z,,bug
+janoliver/pOT-Droid,249,"Die Info, dass ein Thread geschlossen ist, wird von der Tastatur verdeckt",open,2015-07-26T00:57:11Z,,bug
+janoliver/pOT-Droid,149,Fix WebView link destination,closed,2015-07-26T00:54:14Z,2016-08-04T13:36:24Z,"bug, urgent"
+janoliver/pOT-Droid,133,maxCacheSize: erlaube Werte über 1024 MB,closed,2015-03-12T12:37:28Z,2016-01-02T21:19:30Z,"bug, wontfix"
+janoliver/pOT-Droid,220,bbcode Button wird beim PM schreiben angezeigt.,closed,2015-01-19T21:23:40Z,2015-01-24T15:28:09Z,bug
+janoliver/pOT-Droid,54,Fastscroll buttons funktionieren nicht während der Inhalt scrollt,open,2015-01-19T12:18:42Z,,bug
+janoliver/pOT-Droid,131,youtube funktioniert nicht richtig,closed,2015-01-19T07:41:14Z,2015-01-24T15:44:43Z,bug
+janoliver/pOT-Droid,203,Es laden nicht immer alle Bilder,closed,2015-01-19T07:40:55Z,2015-01-24T15:44:39Z,bug
+janoliver/pOT-Droid,81,Freeze beim Thread Anzeigen,closed,2015-01-14T21:54:45Z,2015-01-18T12:38:12Z,bug
+janoliver/pOT-Droid,255,Android 4.0.3 Tabelle overflow,open,2015-01-14T21:54:01Z,,bug
+janoliver/pOT-Droid,207,Absturz,closed,2014-12-25T21:14:14Z,2015-01-14T21:47:11Z,bug
+janoliver/pOT-Droid,94,"Stürzt ab, wenn man Thread horizontal anschauen will",closed,2014-12-25T16:40:44Z,2015-01-14T21:49:30Z,bug
+janoliver/pOT-Droid,58,Material Design: swipe to refresh,open,2014-12-25T15:32:30Z,,bug
+janoliver/pOT-Droid,161,Thread Untertitel und letzter Poster überlappen manchmal,closed,2014-12-13T12:45:13Z,2014-12-16T07:43:36Z,bug
+janoliver/pOT-Droid,89,Thread lädt ewig,open,2014-12-11T12:51:55Z,,bug
+janoliver/pOT-Droid,250,-- Post konnte nicht geparst werden --,closed,2014-09-11T15:02:33Z,2014-09-12T15:48:36Z,bug
+janoliver/pOT-Droid,71,Links werden im pOT Droid geöffnet.,open,2014-08-23T09:28:31Z,,bug
+janoliver/pOT-Droid,229,zu viele ungelesene Posts bei neuem bookmark,closed,2014-07-29T05:50:27Z,2014-12-20T14:14:49Z,"bug, wontfix"
+janoliver/pOT-Droid,148,Post [video] ist leer,closed,2014-05-26T11:27:18Z,2014-08-05T19:28:45Z,"bug, wontfix"
+janoliver/pOT-Droid,168,"""bild extern anzeigen"" führt zu appabsturz",closed,2014-04-27T16:32:06Z,2014-06-23T11:43:15Z,bug
+janoliver/pOT-Droid,117,Überflüssige Fehlermeldung bei PMs,closed,2014-04-19T12:04:56Z,2014-04-26T14:38:02Z,bug
+janoliver/pOT-Droid,76,"Photos App stürzt ab, wenn man sie zum Bild betrachten verwendet",closed,2014-03-26T15:02:11Z,2014-10-26T21:24:47Z,bug
+janoliver/pOT-Droid,185,Bild mit link unterlegt,closed,2014-03-23T17:10:46Z,2014-04-26T08:59:52Z,"bug, wontfix"
+janoliver/pOT-Droid,52,PMs vom System (z.B. Benderuploads) werden nicht geladen,closed,2014-03-06T12:59:45Z,2014-08-05T19:59:14Z,bug
+janoliver/pOT-Droid,206,Alle Schrift fett gedruckt ab bestimmtem Post ,closed,2014-03-05T19:56:54Z,2015-02-21T13:19:09Z,bug
+janoliver/pOT-Droid,84,"Absturz, wenn man sich den Changelog anschauen will",closed,2014-02-24T08:20:05Z,2014-03-10T10:17:59Z,"bug, wontfix"
+janoliver/pOT-Droid,124,Force Close bei den Bookmarks,closed,2014-02-21T09:54:09Z,2014-02-23T11:40:09Z,bug
+janoliver/pOT-Droid,257,Bei neuerstellten Themen wird in der Übersicht kein Poster angezeigt,closed,2014-02-12T09:00:53Z,2014-02-23T11:08:25Z,bug
+janoliver/pOT-Droid,150,Iconnutzbarkeit / switch zwischen WLan-Erkennung und Funknetz,closed,2014-02-03T17:18:00Z,2014-12-20T14:13:51Z,"bug, wontfix"
+janoliver/pOT-Droid,158,Scroll-Bug in der Thread-Übersicht,closed,2014-02-02T09:55:16Z,2014-02-23T11:17:20Z,bug
+janoliver/pOT-Droid,228,Javascript funktioniert manchmal nicht.,closed,2014-02-01T23:18:24Z,2014-02-01T23:18:37Z,bug
+janoliver/pOT-Droid,61,"Wenn man ein Posticon ausgewählt hat, kann man nicht mehr ""keins"" auswählen.",closed,2014-01-31T13:21:45Z,2014-01-31T19:49:31Z,bug
+janoliver/pOT-Droid,246,"Programmcrash durch frühzeitige Nutzung des ""Beitrag schreiben""-Buttons",closed,2014-01-31T10:16:09Z,2014-01-31T19:24:38Z,"bug, urgent"
+janoliver/pOT-Droid,160,Keine < im PM Titel erlaubt,closed,2014-01-31T10:12:47Z,2014-01-31T19:41:57Z,bug
+janoliver/pOT-Droid,272,"""Öffnen mit"" erscheint immer wieder und kann nicht gespeichert werden",closed,2014-01-30T22:08:00Z,2014-01-31T20:15:49Z,bug
+janoliver/pOT-Droid,132,Bilder werden beim Topic Seitenwechsel nicht mehr neu geladen,closed,2014-01-30T22:07:30Z,2014-01-31T19:36:35Z,bug
+janoliver/pOT-Droid,167,seitenwechsel,closed,2014-01-30T21:20:21Z,2014-01-31T19:49:44Z,"bug, wontfix"
+janoliver/pOT-Droid,140,Nach Rotation und Resume bleibt BIldschirm schwarz,closed,2014-01-30T07:49:19Z,2014-01-30T19:38:38Z,bug
+janoliver/pOT-Droid,59,Beitragsicon falach skaliert,closed,2014-01-30T06:33:50Z,2014-01-31T07:20:27Z,bug
+janoliver/pOT-Droid,248,Neuer Post button ifRoom,closed,2014-01-29T16:00:00Z,2014-01-29T17:45:22Z,bug
+janoliver/pOT-Droid,82,Keine Posticons,closed,2014-01-29T15:58:50Z,2014-01-29T19:43:18Z,bug
+janoliver/pOT-Droid,176,Smileys werden in PMs nicht dargestellt ,closed,2014-01-28T12:52:51Z,2014-01-31T08:19:10Z,bug
+janoliver/pOT-Droid,239,Editor Darstellungsfehler auch mit v4,closed,2014-01-27T21:12:17Z,2014-01-30T08:30:43Z,"bug, wontfix"
+janoliver/pOT-Droid,216,Bild öffnen mit noch nicht optimal,closed,2014-01-27T21:12:03Z,2014-02-23T11:40:52Z,"bug, wontfix"
+janoliver/pOT-Droid,55,Gelesen-Markierung markiert ungelesene Posts,closed,2014-01-27T20:59:16Z,2014-01-28T12:25:40Z,"bug, wontfix"
+janoliver/pOT-Droid,219,nach wechsel auf neue Seite landet am Ende dieser,closed,2014-01-27T12:56:06Z,2014-01-27T17:26:58Z,"bug, wontfix"
+janoliver/pOT-Droid,178,Extra Zeilenumbruch nach Posts entfernen,closed,2014-01-27T08:15:21Z,2014-01-27T17:29:06Z,bug
+janoliver/pOT-Droid,121,Gelesen-Markierung fehlerhaft,closed,2014-01-26T17:58:10Z,2014-01-26T18:02:35Z,"bug, wontfix"
+janoliver/pOT-Droid,209,Einstellungen: Startscreen und -forum nicht auswählbar,closed,2014-01-26T17:55:17Z,2014-01-26T18:50:28Z,"bug, wontfix"
+janoliver/pOT-Droid,122,Startforum fehlerhaft,closed,2014-01-26T17:50:50Z,2014-01-26T18:17:17Z,"bug, urgent"
+janoliver/pOT-Droid,221,Anzeigefehler des Editors,closed,2014-01-26T17:27:34Z,2014-01-30T19:43:27Z,bug
+janoliver/pOT-Droid,211,Kein Javascript beim Sony XPERIA U ,closed,2014-01-26T17:21:57Z,2014-01-29T19:43:18Z,bug
+janoliver/pOT-Droid,204,Blättern im Thread scrollt zur alten Position,closed,2014-01-26T17:18:23Z,2014-01-30T19:38:21Z,"bug, urgent"
+janoliver/pOT-Droid,134,Absturz nach klick auf nichtöffentliche foren,closed,2014-01-26T17:16:43Z,2014-01-29T17:35:48Z,bug
+janoliver/pOT-Droid,68,"Post Ausgang ""von""  statt ""an"" ",closed,2014-01-22T13:11:35Z,2014-01-25T10:54:54Z,bug
+janoliver/pOT-Droid,95,Force close bei tab Wechsel mit offenem reply Fenster ,closed,2014-01-20T09:39:39Z,2014-01-25T10:54:53Z,bug
+janoliver/pOT-Droid,186,PM und quote Fehler bei eckigen KLammern im Namen,closed,2014-01-18T11:22:21Z,2014-01-24T12:18:30Z,"bug, urgent"
+janoliver/pOT-Droid,266,Letzter Post in der Threadübersicht,closed,2014-01-08T18:04:56Z,2014-02-01T22:31:10Z,bug
+janoliver/pOT-Droid,166,Größe der Threadicons,closed,2014-01-02T22:25:04Z,2014-01-25T11:45:51Z,"bug, urgent"
+janoliver/pOT-Droid,172,Subtitle der Bookmarks View ist falsch,closed,2014-01-02T21:11:40Z,2014-01-23T18:18:16Z,"bug, urgent"
+janoliver/pOT-Droid,226,Position bei Seitenwechsel ,closed,2014-01-01T16:06:31Z,2014-01-24T12:06:07Z,"bug, urgent"
+janoliver/pOT-Droid,210,Mein Nick schädigt quotes ,closed,2014-01-01T08:36:45Z,2014-01-02T17:00:29Z,bug
+janoliver/pOT-Droid,200,Aktuliersieren im 'Bookmarks'-Bildschirm geht nicht,closed,2013-12-31T15:45:06Z,2014-01-02T17:00:29Z,bug
+janoliver/pOT-Droid,64,Login sollte per HTTPS arbeiten,open,2013-12-30T18:01:53Z,,bug
+janoliver/pOT-Droid,194,Login POST darf nicht UTF-8 codiert sein,closed,2013-12-30T17:51:06Z,2013-12-30T17:52:45Z,bug
+janoliver/pOT-Droid,74,App-Icon überarbeiten,closed,2013-12-30T17:43:20Z,2013-12-31T12:30:48Z,bug
+janoliver/pOT-Droid,78,"Bender verstecken, wenn deaktiviert",closed,2013-12-30T17:31:33Z,2013-12-30T18:07:12Z,bug
+janoliver/pOT-Droid,245,Skin mit dem Gestreiften wirkt unruhig,closed,2013-12-30T17:31:01Z,2014-10-26T21:20:34Z,bug
+janoliver/pOT-Droid,274,Fehlender Cursor bei Texteingabe ,closed,2013-12-30T17:20:31Z,2013-12-30T18:27:27Z,bug
+janoliver/pOT-Droid,184,FC beim Löschen alter webviews ,closed,2013-12-28T12:51:00Z,2013-12-30T12:02:03Z,bug
+janoliver/pOT-Droid,72,Liste im bbcode zeigt einen Punkt zu viel an,closed,2013-12-28T12:50:02Z,2013-12-30T12:08:06Z,bug
+janoliver/pOT-Droid,99,Blättern Funktion zeigt manchmal leere Seiten ,closed,2013-12-28T12:49:15Z,2013-12-30T12:13:04Z,bug
+janoliver/pOT-Droid,143,"About Dialog, Update info usw.",closed,2013-12-20T17:57:49Z,2014-01-25T10:54:42Z,"bug, urgent"
+janoliver/pOT-Droid,73,URL Tags mit [b]: Komisches Verhalten,closed,2013-12-20T07:38:01Z,2013-12-20T15:44:25Z,bug
+janoliver/pOT-Droid,139,Encoding beim Posten ist falsch,closed,2013-12-18T14:03:19Z,2013-12-20T17:51:16Z,bug
+janoliver/pOT-Droid,243,"Landscape Modus, wenn die tastatur offen ist.",closed,2013-12-18T14:02:58Z,2013-12-19T17:59:03Z,bug
+janoliver/pOT-Droid,165,Kompatibilität mit > v2.2,closed,2013-12-16T21:25:09Z,2013-12-17T22:09:10Z,"bug, urgent"
+janoliver/pOT-Droid,109,Lautstärke Blättern funktioniert nicht im Landscape Modus,closed,2013-07-14T17:38:48Z,2013-07-14T17:38:48Z,bug
+janoliver/pOT-Droid,181,Bilder werden immer angezeigt,closed,2013-07-14T17:38:46Z,2013-07-14T17:38:46Z,bug
+janoliver/pOT-Droid,141,"Die App crasht bzw immer noch, wenn man Posts lange gedrückt hält ",closed,2013-07-14T17:38:46Z,2013-07-14T17:38:46Z,bug
+janoliver/pOT-Droid,237,spoiler tags überarbeiten,closed,2013-07-14T17:38:45Z,2013-07-14T17:38:45Z,bug
+janoliver/pOT-Droid,234,Touch auf das Datum öffnet dialer.,closed,2013-07-14T17:38:45Z,2013-07-14T17:38:45Z,bug
+janoliver/pOT-Droid,137,bilder verkleinern?,closed,2013-07-14T17:38:45Z,2013-07-14T17:38:45Z,bug
+janoliver/pOT-Droid,107,Ladescreen rotiert nicht bei 180 Grad gedrehten Gerät,closed,2013-07-14T17:38:45Z,2013-07-14T17:38:45Z,bug
+janoliver/pOT-Droid,196,Roter balken eigene posts funktioniert nicht korrekt.,closed,2013-07-14T17:38:44Z,2013-07-14T17:38:44Z,bug
+janoliver/pOT-Droid,173,Topic layouts überarbeiten.,closed,2013-07-14T17:38:42Z,2013-07-14T17:38:42Z,bug
+janoliver/pOT-Droid,146,PM notifications,closed,2013-07-14T17:38:42Z,2013-07-14T17:38:42Z,bug
+janoliver/pOT-Droid,101,Weihnachtssmileys.,closed,2013-07-14T17:38:42Z,2013-07-14T17:38:42Z,bug
+janoliver/pOT-Droid,231,Tauschen von Long-Press und Press,closed,2013-07-14T17:38:41Z,2013-07-14T17:38:41Z,bug
+janoliver/pOT-Droid,230,spoiler im dark theme schwer zu lesen,closed,2013-07-14T17:38:41Z,2013-07-14T17:38:41Z,bug
+janoliver/pOT-Droid,189,Bestimmtes Forum als Startseite,closed,2013-07-14T17:38:41Z,2013-07-14T17:38:41Z,bug
+janoliver/pOT-Droid,153,"Long Press -> 1. Seite, Normal press -> letzte Seite",closed,2013-07-14T17:38:41Z,2013-07-14T17:38:41Z,bug
+janoliver/pOT-Droid,223,"Bei Bildern, die einen Link haben, wird das Bild nicht angezeigt.",closed,2013-07-14T17:38:40Z,2013-07-14T17:38:40Z,bug
+janoliver/pOT-Droid,190,Post dialog Landscape mode,closed,2013-07-14T17:38:40Z,2013-07-14T17:38:40Z,bug
+janoliver/pOT-Droid,113,Activities werden beim Aktualisieren nicht gelöscht.,closed,2013-07-14T17:38:40Z,2013-07-14T17:38:40Z,bug
+janoliver/pOT-Droid,111,Blättern BUttons auch unterhalb von Threads.,closed,2013-07-14T17:38:40Z,2013-07-14T17:38:40Z,bug
+janoliver/pOT-Droid,136,[m] Tag in 2.0,closed,2013-07-14T17:38:34Z,2013-07-14T17:38:34Z,bug
+janoliver/pOT-Droid,53,Bookmark löschen führt zu crash,closed,2013-07-14T17:38:34Z,2013-07-14T17:38:34Z,bug
+janoliver/pOT-Droid,224,NPE beim starten der App wenn die Activities beendet wurden,closed,2013-07-14T17:38:32Z,2013-07-14T17:38:32Z,bug
+janoliver/pOT-Droid,273,Don't reload topic when app was killed in the background,closed,2013-07-14T17:38:31Z,2013-07-14T17:38:31Z,bug
+janoliver/pOT-Droid,170,Show if user is not logged in in Bookmark Activity,closed,2013-07-14T17:38:31Z,2013-07-14T17:38:31Z,bug
+janoliver/pOT-Droid,69,Proposed fix for upstream issue #31 (https://github.com/janoliver/pOT-Dr...,closed,2013-07-14T17:38:31Z,2013-07-14T17:38:31Z,bug
+janoliver/pOT-Droid,215,Bender support,closed,2013-07-14T17:38:30Z,2013-07-14T17:38:30Z,bug
+janoliver/pOT-Droid,123,Hardware-Menü-Taste ist bei mir immer noch ohne Funktion,closed,2013-07-14T17:38:29Z,2013-07-14T17:38:29Z,bug
+janoliver/pOT-Droid,261,ich würd mir immernoch einen aktualisieren button zwischen den seiten blätern pfeilen wünschen.,closed,2013-07-14T17:38:28Z,2013-07-14T17:38:28Z,bug
+janoliver/pOT-Droid,154,potdroid: die list funktion zeigt ein unnötigen punkt an,closed,2013-07-14T17:38:28Z,2013-07-14T17:38:28Z,bug
+janoliver/pOT-Droid,96,fehlendes Forum: LPIP,closed,2013-07-14T17:38:28Z,2013-07-14T17:38:28Z,bug
+janoliver/pOT-Droid,110,bei mir werden URL deutlich über den Rand nach rechts hinaus angezeigt,closed,2013-07-14T17:37:46Z,2013-09-09T11:50:25Z,"bug, wontfix"
+janoliver/pOT-Droid,104,Absturz FT Seite 12,closed,2013-07-14T17:37:46Z,2013-09-09T11:50:40Z,"bug, wontfix"
+janoliver/pOT-Droid,118,Posten funktioniert nicht,closed,2013-07-14T17:37:44Z,2013-09-09T11:51:28Z,"bug, wontfix"
+brarcher/loyalty-card-locker,371,About dialog disappear after rotation,open,2020-08-04T12:50:25Z,,"bug, help wanted"
+brarcher/loyalty-card-locker,340,App crashes when loading About dialog on Android 5 devices,open,2020-01-06T07:24:08Z,,bug
+brarcher/loyalty-card-locker,335,Cannot convert a card with a barcode to a card without a barcode,closed,2019-12-31T04:01:10Z,2020-01-05T01:28:39Z,bug
+brarcher/loyalty-card-locker,302,"My barcode scans and shows number, but displays the wrong format",open,2019-05-30T18:11:13Z,,"bug, help wanted"
+brarcher/loyalty-card-locker,241,Note cutoff when viewing a card,closed,2018-05-08T02:09:41Z,2019-12-03T07:29:58Z,"bug, help wanted"
+brarcher/loyalty-card-locker,67,Rescale the barcode,closed,2016-11-22T07:59:27Z,2018-02-19T15:40:01Z,"bug, help wanted"
+brarcher/loyalty-card-locker,17,Unreadable generated barcode,closed,2016-02-11T08:50:23Z,2016-02-13T16:47:26Z,bug
+brarcher/loyalty-card-locker,12,6.01 - Crash when accessing camera,closed,2016-02-10T18:06:27Z,2016-02-12T17:40:17Z,bug

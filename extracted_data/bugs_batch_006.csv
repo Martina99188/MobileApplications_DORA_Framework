@@ -1,0 +1,403 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+ikarus23/MifareClassicTool,524,text error in uid log tool menu,closed,2025-07-18T16:42:43Z,2025-08-19T21:41:24Z,bug
+ikarus23/MifareClassicTool,480,Confusing loading state in Battery Saver,open,2024-05-06T15:34:56Z,,"bug, enhancement"
+ikarus23/MifareClassicTool,473,Found 3 Fatal Exception Crashes from Testing,open,2024-03-15T06:27:03Z,,bug
+ikarus23/MifareClassicTool,458,Write Block if only key A can write fails (but reports success),closed,2023-12-27T15:49:04Z,2023-12-28T17:28:32Z,bug
+ikarus23/MifareClassicTool,425,"Factory Format only sect 0, other error",closed,2023-07-28T16:52:50Z,2023-08-17T12:16:56Z,bug
+ikarus23/MifareClassicTool,412,Write dump file failed,closed,2023-02-23T04:00:34Z,2023-08-17T11:13:07Z,bug
+ikarus23/MifareClassicTool,359,Error: There is no MIFARE Classic tag,closed,2021-11-22T15:05:21Z,2021-11-24T09:14:20Z,bug
+ikarus23/MifareClassicTool,350,"shows ""NFC not enabled"" after few seconds when starting mapping a mifare card [Galaxy Note 10 Lite]",closed,2021-08-05T10:19:27Z,2023-08-18T08:19:06Z,bug
+ikarus23/MifareClassicTool,307,Clone tool writes wrong ATQA to tags,closed,2020-09-05T16:36:58Z,2020-09-12T20:38:06Z,bug
+ikarus23/MifareClassicTool,274,Can't share dump files,closed,2019-10-19T08:48:52Z,2020-08-15T10:43:17Z,bug
+ikarus23/MifareClassicTool,267,Nothing happens when mapping [Galaxy S7 SM-G930U],closed,2019-09-25T12:34:06Z,2020-10-16T22:26:44Z,bug
+ikarus23/MifareClassicTool,247,Wrong error messages on MIFARE Classic support when using an external reader.,closed,2019-04-26T11:53:02Z,2020-09-01T12:16:25Z,bug
+ikarus23/MifareClassicTool,167,Auto reconnect feature is not woking,closed,2018-01-14T12:10:46Z,2020-08-17T10:48:31Z,bug
+ikarus23/MifareClassicTool,165,Sharing dumps/keys on Android 7+,closed,2018-01-06T00:52:05Z,2018-01-06T14:11:28Z,"bug, high priority"
+ikarus23/MifareClassicTool,134,Problem with write sector magic 7 byte card.,closed,2017-06-05T22:24:25Z,2017-10-30T14:00:19Z,bug
+ikarus23/MifareClassicTool,131,issues of checkMifareClassicSupport  ,closed,2017-05-19T07:20:56Z,2018-01-04T15:14:27Z,"bug, enhancement, help wanted"
+ikarus23/MifareClassicTool,55,Increment and decrement value blocks error,closed,2015-03-09T21:23:09Z,2017-12-27T19:18:42Z,"bug, can't reproduce"
+ikarus23/MifareClassicTool,53,s5 on lolipop showing dashes ,closed,2015-02-09T17:20:28Z,2015-03-31T21:35:20Z,"bug, high priority"
+ikarus23/MifareClassicTool,52,MCT crashes on HTC One (m7/m8) after updating to Lollipop,closed,2015-02-08T13:02:50Z,2015-05-24T15:04:56Z,"bug, high priority"
+ikarus23/MifareClassicTool,49,v1.8.2 'unsaved changes' warning applies even to unchanged dumps opened from file,closed,2014-12-31T10:23:02Z,2014-12-31T13:00:15Z,"bug, high priority"
+ikarus23/MifareClassicTool,44,"""Not a MF Classic"" message, but in tag type shows ""Classic 1K, NXP""",closed,2014-12-20T13:24:43Z,2014-12-21T11:25:45Z,"bug, high priority"
+ikarus23/MifareClassicTool,3,HTC One X load issue,closed,2013-04-02T11:01:29Z,2013-04-08T11:29:33Z,bug
+kaltura/playkit-android,781,ANR happening on some Android 11/12 devices after calling `PlayKitManager.loadPlayer`,open,2022-04-13T13:05:34Z,,"bug, enhancement"
+Longi94/bptf,58,shared elements transition in backpack is glitched,open,2018-09-16T23:11:13Z,,"bug, help wanted"
+Longi94/bptf,52,unusual taunt effects not showing in backpack,closed,2017-10-22T22:15:29Z,2018-09-30T00:43:23Z,bug
+cernekee/ics-openconnect,36,Add New Connection button disappeared on Android TV,open,2018-08-30T02:06:39Z,,bug
+hcmlab/ssj,39,Component list is not getting populated,closed,2019-07-24T21:02:21Z,2019-07-30T09:20:17Z,bug
+ge0rg/aprsdroid,431,USB Serial,open,2025-10-11T06:27:19Z,,bug
+ge0rg/aprsdroid,343,KISS: FEND/FESC are not escaped in writePacket(),open,2023-02-20T00:05:04Z,,bug
+ge0rg/aprsdroid,342,AFSK Audio doubling with multiple position transmissions,open,2023-02-17T18:28:20Z,,bug
+ge0rg/aprsdroid,298,Settings: allow changing callsign from passcode config,closed,2021-03-18T16:18:57Z,2021-08-31T08:56:23Z,bug
+ge0rg/aprsdroid,297,Object Icons not displaying correctly ,closed,2021-03-09T20:26:01Z,2021-06-08T15:51:33Z,bug
+ge0rg/aprsdroid,285,Bluetooth: explicit RFCOMM channel broken(?) on Android 9+,open,2020-10-01T15:24:14Z,,"feedback-needed, bug"
+ge0rg/aprsdroid,263,PeriodicGPS: refactor to validate preferences on service start,open,2020-05-09T14:49:30Z,,bug
+ge0rg/aprsdroid,218,Non-IS mode still showing passcode warning,closed,2018-10-19T16:30:35Z,2018-10-22T14:58:26Z,bug
+ge0rg/aprsdroid,217,incoming message problem,open,2018-10-14T18:31:40Z,,"feedback-needed, bug"
+ge0rg/aprsdroid,216,Error Importing Certificate,open,2018-10-05T22:58:14Z,,"feedback-needed, bug"
+ge0rg/aprsdroid,213,No audio output on AFSK ,open,2018-09-11T10:58:07Z,,"feedback-needed, bug"
+ge0rg/aprsdroid,212,Home button missing in nested preferences,open,2018-07-17T11:05:36Z,,bug
+ge0rg/aprsdroid,207,Android 8.0/8.1 Bluetooth issue,open,2018-03-19T20:47:34Z,,"feedback-needed, bug"
+ge0rg/aprsdroid,202,Can't SEND_PACKET using Tasker,closed,2018-01-13T12:51:10Z,2018-10-23T07:02:09Z,bug
+ge0rg/aprsdroid,190,Can't enter lowercase characters in name field for messages,closed,2017-09-26T18:38:10Z,2018-10-22T12:05:29Z,bug
+ge0rg/aprsdroid,186,"When the system language is set to Arabic, the sent packets are discarded",closed,2017-08-18T14:14:42Z,2018-10-22T11:59:30Z,bug
+ge0rg/aprsdroid,167,APRSDroid only receiving packet when stop tracking pushed. ,open,2017-05-16T20:29:26Z,,"feedback-needed, bug"
+ge0rg/aprsdroid,163,"ArrayIndexOutOfBoundsException in AFSK mode, callsign too long",closed,2017-04-19T19:09:54Z,2018-10-22T11:59:30Z,bug
+ge0rg/aprsdroid,156,APRSdroid Transmitted Packets Illegible,open,2017-01-29T18:35:30Z,,bug
+ge0rg/aprsdroid,150,java:io.IOException error with bluetooth device,closed,2016-12-01T18:20:01Z,2017-07-28T07:49:17Z,bug
+ge0rg/aprsdroid,149,APRS Droid Will Not Use Microphone,open,2016-11-18T03:01:49Z,,bug
+ge0rg/aprsdroid,136,LoTW client certificate not found by APRSdroid,closed,2016-07-06T15:53:24Z,2017-07-28T06:45:02Z,bug
+dafi/photoshelf,10,Feedly List crash,closed,2020-06-13T11:05:44Z,2020-06-13T11:06:17Z,bug
+dafi/photoshelf,9,Insert exception when schedule on device A and 'save as draft' on device B,closed,2019-10-27T10:57:44Z,2019-12-26T06:49:00Z,bug
+dafi/photoshelf,8,Crash when Home button is pressed while Post dialog is visible,closed,2018-11-15T05:33:01Z,2018-11-18T06:33:39Z,bug
+dafi/photoshelf,7,TagMatcherDAO during import saves multiple time the same tag,closed,2018-03-22T15:18:44Z,2018-03-22T15:19:39Z,"bug, import"
+dafi/photoshelf,6,Item count on Actionbar isn't updated when the searchView is visible,closed,2018-03-19T16:13:42Z,2018-03-21T04:34:55Z,bug
+dafi/photoshelf,5,After 'Select all' the checked state is correct only for visible items,closed,2018-03-13T10:31:05Z,2018-03-18T12:53:52Z,bug
+dafi/photoshelf,3,App crashes when undeliverable error is thrown from RxJava,closed,2017-10-19T13:14:51Z,2017-10-20T04:09:59Z,bug
+dafi/photoshelf,2,Reading public posts containing identical publish timestamps return duplicated items,closed,2017-10-08T07:28:34Z,2017-10-09T03:51:09Z,"bug, tumblr api"
+dhis2/dhis2-android-eventcapture,69,UI doesn't update correctly on change for assign program rule,closed,2016-06-06T15:08:28Z,2016-08-06T09:05:32Z,Bug
+dhis2/dhis2-android-eventcapture,68,Correct spelling: DHIS 2 not DHIS2,open,2016-05-25T08:57:50Z,,Bug
+dhis2/dhis2-android-eventcapture,67,Description of report date not respected,closed,2016-05-23T11:41:14Z,2016-05-24T08:39:20Z,Bug
+dhis2/dhis2-android-eventcapture,60,Back button not working,closed,2015-10-03T13:06:26Z,2015-10-05T09:28:42Z,Bug
+dhis2/dhis2-android-eventcapture,58,Boolean data elements in list of events show should show yes / no instead of true / false correspondingly,open,2015-09-10T09:47:21Z,,Bug
+dhis2/dhis2-android-eventcapture,56,Event status is not updated in Event List when sending individual event to server,closed,2015-07-22T10:48:35Z,2015-08-07T13:52:05Z,Bug
+dhis2/dhis2-android-eventcapture,54,Event screen returns to main screen when screen locs,closed,2015-07-08T18:49:24Z,2015-07-10T13:41:23Z,Bug
+dhis2/dhis2-android-eventcapture,53,Using same program indicator in multiple section only shows in first section,closed,2015-07-08T15:33:28Z,2015-07-14T20:10:42Z,Bug
+dhis2/dhis2-android-eventcapture,52,Meta-data loading screen never appears on Android 5,closed,2015-07-07T09:03:35Z,2015-07-10T13:40:13Z,Bug
+dhis2/dhis2-android-eventcapture,49,Synchronizing with server while loading for SelectProgramFragment listview is delayed for very long,closed,2015-05-22T08:20:57Z,2015-06-02T10:47:36Z,Bug
+dhis2/dhis2-android-eventcapture,43,Hide keyboard for option set fields,closed,2015-05-15T07:55:40Z,2015-06-27T12:27:54Z,Bug
+dhis2/dhis2-android-eventcapture,34,If initial loading finishes while app is in the background it crashes,closed,2015-05-05T09:30:14Z,2015-05-18T05:28:04Z,Bug
+dhis2/dhis2-android-eventcapture,32,Use displayName in validation dialog,closed,2015-04-30T14:42:51Z,2015-05-04T08:54:24Z,Bug
+dhis2/dhis2-android-eventcapture,29,List of existing events takes long to load with many events,closed,2015-04-28T14:33:24Z,2016-08-06T08:46:50Z,"Bug, Feature"
+dhis2/dhis2-android-eventcapture,27,"If pressing back in SelectProgramFragment and LoadingFragment has been previously shown, it is displayed.",closed,2015-04-28T13:45:45Z,2015-05-04T09:10:48Z,Bug
+dhis2/dhis2-android-eventcapture,22,View recycling related issue in DataEntryFragment ListView. ,closed,2015-04-21T11:22:56Z,2015-04-22T11:44:40Z,Bug
+dhis2/dhis2-android-eventcapture,20,Options need to be sorted in data entry drop down list,closed,2015-04-20T16:33:46Z,2015-04-22T05:26:50Z,Bug
+dhis2/dhis2-android-eventcapture,19,Reduce wait time when showing DataEntryFragment,closed,2015-04-20T15:55:37Z,2015-09-03T12:59:27Z,Bug
+dhis2/dhis2-android-eventcapture,16,GPS Coordinates are not saved in data entry,closed,2015-04-17T12:59:09Z,2015-04-17T13:13:41Z,Bug
+dhis2/dhis2-android-eventcapture,14,App crash on entering data in EditTextField,closed,2015-04-17T04:44:36Z,2015-04-17T15:51:59Z,Bug
+dhis2/dhis2-android-eventcapture,2,List of registered events should have fixed height of 2 lines regardless of content,closed,2015-03-26T09:59:57Z,2015-04-04T08:49:30Z,Bug
+dhis2/dhis2-android-eventcapture,1,Option sets are shown in list and in data entry showing code rather than name,closed,2015-03-26T09:59:11Z,2015-04-13T15:47:33Z,Bug
+renard314/textfairy,9,Fix installation procedure,closed,2013-06-22T08:11:15Z,2013-10-08T20:04:51Z,bug
+renard314/textfairy,8,../libjpeg/jidctfst.S:66: Error: missing '),closed,2013-06-22T07:52:16Z,2013-11-12T14:37:14Z,bug
+renard314/textfairy,5,Text in pdf files is not selectable when opened with mac os preview ,closed,2013-05-27T21:39:39Z,2013-12-27T11:22:11Z,"bug, enhancement"
+Intermodalics/tango_ros,360,rectification.cc: Check failed. Fatal signal 6 (SIGABRT).,closed,2017-07-28T19:01:56Z,2017-08-11T12:51:59Z,"bug, in progress"
+Intermodalics/tango_ros,350,Share button broken,open,2017-07-13T07:21:39Z,,bug
+Intermodalics/tango_ros,341,/tango/reconstruction/occupancy_grid does not always get cleared when reconnecting to Tango,open,2017-07-07T08:03:11Z,,bug
+Intermodalics/tango_ros,339,Missing header file (for Android API-Level > 20): asm/page.h,open,2017-07-06T11:26:55Z,,bug
+Intermodalics/tango_ros,334,ADF saving does not always get initiated after clicking on the save button,closed,2017-06-28T15:47:37Z,2017-07-06T13:22:57Z,bug
+Intermodalics/tango_ros,328,Saving a map: turning phone makes snackbar disappear,open,2017-06-22T14:36:52Z,,bug
+Intermodalics/tango_ros,314,Failed to connect to Tango on Asus ZenAR,closed,2017-06-14T09:09:18Z,2017-08-11T12:22:41Z,"bug, in progress"
+Intermodalics/tango_ros,225,No maps show up if you go to the settings page too fast after starting the app.,closed,2017-04-13T09:00:17Z,2017-04-21T16:53:46Z,bug
+Intermodalics/tango_ros,224,ROS param and app UI inconsistency,closed,2017-04-13T08:57:51Z,2017-04-20T15:30:39Z,bug
+Intermodalics/tango_ros,169,Tango connection light intends connection error if successfully connected.,closed,2017-03-07T14:08:04Z,2017-03-15T09:33:50Z,bug
+Intermodalics/tango_ros,94,Options start to toggle automatically,closed,2017-01-10T15:07:02Z,2017-01-18T13:24:41Z,bug
+Intermodalics/tango_ros,84,Compilation fails due to missing (generated?) file,closed,2017-01-09T09:44:28Z,2017-01-09T14:24:45Z,bug
+Intermodalics/tango_ros,76,App crashes when putting in or taking out of the powerbay,closed,2017-01-06T09:16:55Z,2017-01-09T09:21:00Z,bug
+quarck/CalendarNotification,250,No reminders for events created by ToDoist,closed,2017-07-08T19:18:19Z,2017-07-09T01:22:29Z,bug
+quarck/CalendarNotification,248,Bug: time zone is handled incorrectly in all day events when manually rescanning the calendar,closed,2017-06-28T05:52:05Z,2017-07-01T23:56:30Z,bug
+quarck/CalendarNotification,245,"Weird conflict with 'Mint bill due dates': ""It generates a dozens of notifications and never stops, even after items have been marked paid. Phone was going ff non-stop.""",closed,2017-06-27T06:42:51Z,2019-03-04T09:31:56Z,"bug, help wanted, cantfix_no_access"
+quarck/CalendarNotification,242,snooze on swap and negative snooze presets,closed,2017-06-22T01:47:49Z,2017-07-08T16:37:43Z,bug
+quarck/CalendarNotification,239,Stopped Receiving Notifications,closed,2017-06-16T13:28:32Z,2017-06-30T01:31:10Z,bug
+quarck/CalendarNotification,234,Issue with moving events via the app,open,2017-06-09T05:36:52Z,,bug
+quarck/CalendarNotification,203,Spinner menu closes on device rotation,closed,2017-01-16T15:44:53Z,2017-06-01T06:50:23Z,bug
+quarck/CalendarNotification,202,Picker changes state on device rotation,closed,2017-01-16T15:41:12Z,2017-06-01T06:52:27Z,bug
+quarck/CalendarNotification,201,Text disappears on device rotation,closed,2017-01-16T15:32:15Z,2017-06-01T16:21:38Z,bug
+quarck/CalendarNotification,200,Scrollable view changes state on device rotation,closed,2017-01-16T15:28:56Z,2017-06-01T06:53:50Z,bug
+quarck/CalendarNotification,199,Dialog disappears on device rotation,closed,2017-01-16T15:26:21Z,2017-06-04T21:16:49Z,bug
+quarck/CalendarNotification,198,Action Overflow Menu disappears on device rotation,closed,2017-01-16T15:19:52Z,2017-06-01T06:51:30Z,bug
+quarck/CalendarNotification,187,Issue with moving event and changing date after move,open,2016-11-08T06:52:52Z,,bug
+quarck/CalendarNotification,180,"Bug: When I have the phone in night mode (all alerts off except for priority contacts), the reminders still vibrate. The sound is silent.",closed,2016-10-06T21:57:42Z,2017-06-01T06:12:23Z,bug
+quarck/CalendarNotification,178,"In Notification settings ""Show Dismiss button""description is not very clear, you should write there if this option is disabled notification can be dismissed by swiping away.",closed,2016-09-11T18:30:35Z,2017-05-31T06:37:31Z,bug
+quarck/CalendarNotification,166,"Issure reported by user: It seems there is some bug in max reminders quantity settings. If I set here 1 or 2, I still get 3 reminders.",closed,2016-08-24T06:02:38Z,2017-06-01T16:11:25Z,bug
+quarck/CalendarNotification,165,"User reported issue: ""When I put -5 in the snooze presets, it doesn't show up in the list""",closed,2016-08-24T06:01:31Z,2017-06-01T06:04:16Z,bug
+quarck/CalendarNotification,155,"Bug: App is incompatible with ""Light Flow"" app",closed,2016-07-15T16:05:21Z,2017-05-26T16:11:24Z,bug
+quarck/CalendarNotification,154,BUG:  Motorola X Play (Android 6.01) notifications on the lock screen is not displayed and the (re) reminded not reproduce vibration and sound,closed,2016-07-15T15:49:01Z,2017-06-01T06:08:30Z,bug
+quarck/CalendarNotification,152,BUG: Two users has reported mis-fired events ,closed,2016-07-13T22:19:34Z,2016-07-29T15:51:03Z,bug
+quarck/CalendarNotification,146,"Bug: mass of the elements in compact view isn't enough, should be increased ",closed,2016-07-07T16:01:37Z,2016-07-07T16:27:44Z,bug
+quarck/CalendarNotification,145,Bug: LED pattern editor needs rounding to let say multiples of 50 when moving slider ,closed,2016-07-07T15:59:54Z,2016-07-07T16:27:53Z,bug
+quarck/CalendarNotification,128,Bug: snooze until time isn't precise ,closed,2016-06-27T06:48:32Z,2016-06-27T19:40:20Z,bug
+quarck/CalendarNotification,121,Bug: notification ballons on Galaxy S5,closed,2016-06-23T22:18:16Z,2016-07-07T16:05:52Z,bug
+quarck/CalendarNotification,120,Bug: inconsisten reminder times on Galaxy S5,closed,2016-06-23T22:17:18Z,2016-07-06T16:07:43Z,bug
+quarck/CalendarNotification,112,Bug: all-day events are displayed incorrectly,closed,2016-06-20T08:26:54Z,2016-06-25T03:05:23Z,bug
+quarck/CalendarNotification,108,Bug: performance can be still better with 100 like events ,closed,2016-06-18T18:34:21Z,2016-07-02T21:41:53Z,bug
+quarck/CalendarNotification,94,TODO/bug: do not add instance start / end for non-repeating events,closed,2016-06-12T21:03:35Z,2016-06-12T21:39:49Z,bug
+quarck/CalendarNotification,92,TODO/bug: wher user dismissed event and moves far down / up - dismiss that prompt earlier,closed,2016-06-12T01:44:14Z,2016-06-12T22:28:27Z,bug
+quarck/CalendarNotification,89,"Bug: when instance time was updated, current code wouldn't be able to update it",closed,2016-06-11T09:02:12Z,2016-06-12T01:38:22Z,bug
+quarck/CalendarNotification,88,Bug: instance start / end times aren't refreshed,closed,2016-06-11T08:32:49Z,2016-06-12T01:38:44Z,bug
+quarck/CalendarNotification,86,Bug: it seems to be a crash in the last test build,closed,2016-06-10T15:48:25Z,2016-06-12T01:39:09Z,bug
+quarck/CalendarNotification,84,Bug: on some devices app incorrectly opening repeating events,closed,2016-06-08T10:22:16Z,2016-06-08T19:49:08Z,bug
+quarck/CalendarNotification,81,Bug: app should treat multiple instances of the same event as separate things,closed,2016-06-07T06:18:37Z,2016-06-09T16:27:56Z,bug
+quarck/CalendarNotification,78,Bug: end-time is detected incorrectly on repeating event ,closed,2016-06-04T15:27:30Z,2016-06-04T19:00:37Z,bug
+quarck/CalendarNotification,62,Bug: calendar changes arent' always detected for things like event title updated,closed,2016-05-29T16:37:45Z,2016-05-29T19:07:12Z,bug
+quarck/CalendarNotification,60,Bug: calendar changes aren't always detected properly,closed,2016-05-27T18:52:31Z,2016-05-29T21:10:42Z,bug
+quarck/CalendarNotification,18,"Issue/Bug: When snoozing from the notification bar, the launcher is called instead of reverting back to the last open app.",closed,2016-04-05T07:35:19Z,2016-06-15T05:22:59Z,bug
+caarmen/poet-assistant,206,Unable to use search on Android 15,closed,2024-10-24T09:00:23Z,2024-12-02T16:02:24Z,bug
+caarmen/poet-assistant,136,Crash when searching then rotating,closed,2018-01-06T15:16:39Z,2018-01-31T18:48:01Z,bug
+caarmen/poet-assistant,134,Crash when copying word to clipboard,closed,2018-01-06T13:53:51Z,2018-01-31T18:48:08Z,bug
+caarmen/poet-assistant,133,"Exceptions preventing the app from working, on ICS",closed,2017-12-29T06:39:41Z,2017-12-29T06:55:35Z,bug
+caarmen/poet-assistant,118,System voice settings doesn't open ,closed,2017-11-06T23:35:16Z,2017-11-08T20:08:55Z,bug
+caarmen/poet-assistant,101,Crash sharing from older devices,closed,2017-10-19T18:29:43Z,2017-10-19T19:51:17Z,bug
+caarmen/poet-assistant,81,Crash in ResultListFragment,closed,2017-05-24T17:42:02Z,2017-06-01T16:29:50Z,bug
+caarmen/poet-assistant,80,Crash in Search.java,closed,2017-05-24T17:40:30Z,2017-05-25T12:39:59Z,bug
+caarmen/poet-assistant,79,Crash casting Application to PoetAssistantApplication,closed,2017-05-24T17:36:58Z,2017-05-26T09:05:37Z,bug
+caarmen/poet-assistant,78,Crash in TextPopupMenu,closed,2017-05-24T17:35:15Z,2017-05-25T12:40:08Z,bug
+caarmen/poet-assistant,72,Clearing the poem hides the app bar layout (on some devices),closed,2017-04-20T21:30:06Z,2017-04-23T06:00:56Z,bug
+caarmen/poet-assistant,44,Crash: corrupt db,closed,2016-11-27T20:03:49Z,2016-12-04T09:24:51Z,bug
+caarmen/poet-assistant,41,Crash,closed,2016-11-03T20:57:56Z,2017-02-11T12:16:48Z,bug
+caarmen/poet-assistant,36,Voice-searched words aren't saved to suggestions,closed,2016-10-29T14:08:26Z,2016-11-01T23:15:52Z,bug
+caarmen/poet-assistant,35,"Crash when searching for ""henchmen""",closed,2016-10-29T10:43:16Z,2016-10-29T14:08:03Z,bug
+caarmen/poet-assistant,21,Word of the day frequency,closed,2016-09-18T08:31:16Z,2016-09-24T23:41:27Z,bug
+caarmen/poet-assistant,19,NullPointerException looking up a word,closed,2016-09-11T13:08:05Z,2016-09-18T16:23:41Z,bug
+caarmen/poet-assistant,18,SecurityException saving file (to google docs?),closed,2016-09-11T12:49:25Z,2016-09-11T13:07:10Z,bug
+tilal6991/HoloIRC,88,Messages from NickServ ChanServ causing notifications,open,2014-09-19T12:23:44Z,,bug
+tilal6991/HoloIRC,75,Crash on /names command,open,2014-08-15T10:33:03Z,,bug
+tilal6991/HoloIRC,53,Users list goes back to top if someone joins/leaves,open,2014-04-04T10:03:45Z,,bug
+tilal6991/HoloIRC,33,Popup menu sometimes moves about,closed,2013-08-22T10:33:01Z,2013-12-11T17:46:38Z,bug
+tilal6991/HoloIRC,28,Nick changes may not always come through,closed,2013-08-22T10:30:18Z,2013-09-08T18:00:19Z,bug
+tilal6991/HoloIRC,25,Actions don't work correctly,closed,2013-07-11T07:31:11Z,2013-07-11T07:34:47Z,bug
+tilal6991/HoloIRC,24,Licensing issues,closed,2013-06-24T18:54:40Z,2013-08-22T10:18:10Z,bug
+tilal6991/HoloIRC,21,Fix nick change bug,closed,2013-05-23T06:52:24Z,2013-06-01T20:11:16Z,bug
+tilal6991/HoloIRC,17,Removing a channel from the middle of the viewpager results in weirdness,closed,2013-04-09T17:38:00Z,2013-04-09T17:42:51Z,bug
+tilal6991/HoloIRC,16,Changing the nick needs a disconnect and reconnect to propogate,closed,2013-04-06T19:01:53Z,2013-04-06T19:06:08Z,bug
+tilal6991/HoloIRC,4,Fix up editing of server settings properly,closed,2013-04-04T20:36:14Z,2013-06-01T22:10:45Z,bug
+tilal6991/HoloIRC,3,Fix random crashes when not displayed to user,closed,2013-04-04T20:35:42Z,2013-05-05T16:13:11Z,bug
+ushahidi/Ushahidi_Android,158,"Main map does not load, but mini-maps in reports do",closed,2013-07-23T14:48:56Z,2014-05-02T13:50:40Z,"Bug, P1 - Immediate"
+ushahidi/Ushahidi_Android,150,About Layout ,closed,2013-07-08T02:11:31Z,2013-07-08T09:21:31Z,Bug
+ushahidi/Ushahidi_Android,149,Whitelabelled app locking into demo map list,closed,2013-07-07T20:56:59Z,2013-07-10T01:30:17Z,Bug
+ushahidi/Ushahidi_Android,148,Location Names may return null values,closed,2013-07-02T04:29:02Z,2013-07-09T06:01:32Z,Bug
+ushahidi/Ushahidi_Android,147,Filter By Categories Broken,closed,2013-06-27T23:54:06Z,2013-07-01T05:12:01Z,Bug
+ushahidi/Ushahidi_Android,143,App shows verified in list but not in reports,closed,2013-06-05T22:00:03Z,2013-07-01T05:12:01Z,Bug
+ushahidi/Ushahidi_Android,138,App crashes when syncing my deployment,closed,2013-06-02T06:56:11Z,2013-06-03T13:25:47Z,Bug
+ushahidi/Ushahidi_Android,137,Pop up launches the wrong report view,closed,2013-05-27T11:48:41Z,2013-06-03T12:49:56Z,Bug
+ushahidi/Ushahidi_Android,135,Change cursor drawable color from white to gray,closed,2013-05-24T05:30:42Z,2013-05-24T05:52:15Z,Bug
+ushahidi/Ushahidi_Android,131,Properly handle successfully uploaded report but bad server response.,closed,2013-05-17T06:34:13Z,2013-06-03T13:31:33Z,"Bug, P2 - Normal"
+ushahidi/Ushahidi_Android,129,Can't Scroll on Report View (3.1.6-debug-2),closed,2013-05-15T15:02:34Z,2013-05-16T00:20:55Z,Bug
+ushahidi/Ushahidi_Android,128,Search Box Issue (3.1.6-debug-2),closed,2013-05-15T15:01:33Z,2013-05-15T18:05:55Z,Bug
+ushahidi/Ushahidi_Android,127,Android app crashing,closed,2013-05-15T10:00:36Z,2013-05-15T12:55:59Z,Bug
+ushahidi/Ushahidi_Android,126,MapFragment flickers when scrolling,open,2013-05-15T05:45:40Z,,"Bug, P1 - Immediate"
+ushahidi/Ushahidi_Android,124,Adding post fails,closed,2013-05-06T20:47:24Z,2013-05-06T21:41:51Z,Bug
+ushahidi/Ushahidi_Android,117,Adding maps is crashing ,closed,2013-04-09T15:07:53Z,2013-05-05T21:57:33Z,Bug
+ushahidi/Ushahidi_Android,100,A cursor not closed causing an ugly exception to be thrown,closed,2012-10-31T22:48:38Z,2012-10-31T23:13:59Z,Bug
+ushahidi/Ushahidi_Android,97,Report upload fails,closed,2012-10-31T07:22:50Z,2012-11-01T00:13:16Z,Bug
+ushahidi/Ushahidi_Android,96,Title field case,closed,2012-10-31T07:16:57Z,2012-10-31T23:30:51Z,Bug
+ushahidi/Ushahidi_Android,95,App occasionally crashes upon attempting to submit a report.,closed,2012-10-31T06:16:21Z,2012-10-31T08:10:47Z,Bug
+ushahidi/Ushahidi_Android,94,cannot send report by android app,closed,2012-10-30T15:51:05Z,2012-11-08T07:55:08Z,Bug
+ushahidi/Ushahidi_Android,91,Commenting API crashes,closed,2012-10-29T12:13:35Z,2012-10-31T05:40:19Z,Bug
+ushahidi/Ushahidi_Android,90,About screen crashes ,closed,2012-10-25T11:09:32Z,2012-10-29T19:51:19Z,Bug
+ushahidi/Ushahidi_Android,87,possible incorrect category data,closed,2012-10-24T10:44:49Z,2013-05-27T14:46:52Z,"Bug, P1 - Immediate"
+ushahidi/Ushahidi_Android,74,When adding a map missing off trailing slash causes failure,closed,2012-09-19T17:36:18Z,2012-10-24T22:51:49Z,Bug
+ushahidi/Ushahidi_Android,62,Report upload failed ....,closed,2012-07-23T01:20:26Z,2012-10-24T15:53:15Z,Bug
+ushahidi/Ushahidi_Android,32,Investigate the cause of this issue,closed,2012-02-13T08:09:57Z,2012-05-13T16:43:08Z,Bug
+ushahidi/Ushahidi_Android,26,Resource Not Found Exception is thrown when going to about page,closed,2012-01-07T12:59:09Z,2012-01-08T19:50:55Z,Bug
+ushahidi/Ushahidi_Android,25,Nullpointer when checkin is doing a file upload,closed,2012-01-07T12:57:10Z,2012-01-08T20:49:11Z,Bug
+ushahidi/Ushahidi_Android,3,About page,closed,2009-07-30T20:46:11Z,2011-12-13T15:08:09Z,Bug
+ushahidi/Ushahidi_Android,2,Not responding,closed,2009-07-30T20:44:31Z,2011-12-13T15:08:09Z,Bug
+ushahidi/Ushahidi_Android,1,Back button map,closed,2009-07-30T19:58:49Z,2011-12-13T15:08:09Z,Bug
+rm3l/maoni,398,[CI] Importing translations failing,closed,2024-05-27T14:46:32Z,2024-05-27T14:50:44Z,bug
+rm3l/maoni,294, Could not find `:unspecified:` when importing transitive dependencies,open,2022-04-22T22:48:44Z,,"bug, lifecycle/frozen"
+rm3l/maoni,283,Missing dependency to PaNaVTEC/DrawableView - ClassNotFoundException at runtime,closed,2022-03-14T19:20:47Z,2023-11-06T23:36:35Z,"bug, lifecycle/stale, lifecycle/rotten"
+rm3l/maoni,253,Docs say that maoni-email should be included but it's not,closed,2021-07-12T23:05:21Z,2023-11-06T23:36:38Z,"bug, lifecycle/stale, lifecycle/rotten"
+rm3l/maoni,11,NullPointerException when trying to submit form,closed,2017-03-20T12:33:30Z,2017-04-23T15:56:57Z,bug
+rm3l/maoni,7,InvalidUserDataException not found,closed,2016-12-31T06:28:34Z,2017-08-15T22:56:42Z,bug
+rm3l/maoni,2,Add possibility to build project without signing,closed,2016-07-17T21:59:32Z,2016-07-31T12:40:12Z,bug
+DreierF/MyTargets,375,Huge number of shots produces TransactionTooLargeException,open,2018-08-25T15:04:41Z,,"bug, HIGH"
+DreierF/MyTargets,374,Backups may be corrupt since using Room,closed,2018-08-25T15:03:14Z,2019-08-04T09:31:21Z,"bug, HIGH"
+DreierF/MyTargets,369,End index becomes inconsistent when switching between rounds,open,2018-08-16T06:30:38Z,,"bug, HIGH"
+DreierF/MyTargets,363,Target face overwritten,open,2018-05-22T12:05:32Z,,"bug, HIGH"
+DreierF/MyTargets,362,Max Points wrong for 3D targets,closed,2018-04-28T17:50:59Z,2018-07-31T19:11:31Z,bug
+DreierF/MyTargets,361,Photo after scores has been entered,closed,2018-04-21T08:58:33Z,2018-07-31T19:11:31Z,bug
+DreierF/MyTargets,358,Scoreboard has black background,closed,2018-03-26T20:22:41Z,2018-05-03T18:21:05Z,"bug, HIGH"
+DreierF/MyTargets,353,Arrow Ranking is not sorted by best average,open,2018-03-10T11:59:36Z,,bug
+DreierF/MyTargets,351,wrong export date,open,2018-03-06T20:18:00Z,,bug
+DreierF/MyTargets,344,Improve performance of InputActivity,open,2018-01-30T20:50:21Z,,bug
+DreierF/MyTargets,310,Backup scheduling is buggy,open,2017-11-14T12:42:23Z,,"bug, HIGH"
+DreierF/MyTargets,309,Fix title in Playstore,closed,2017-11-14T09:50:00Z,2017-12-07T18:11:02Z,bug
+DreierF/MyTargets,302,Bray rounds have the wrong number of ends,open,2017-10-12T15:37:59Z,,bug
+DreierF/MyTargets,291,Store distances you once entered,closed,2017-09-10T17:19:41Z,2017-11-14T17:12:58Z,"bug, HIGH"
+DreierF/MyTargets,288,Scoreboard cutoff when shared on narrow devices,closed,2017-08-27T14:05:56Z,2017-12-02T17:09:31Z,bug
+DreierF/MyTargets,285,Diagram building issue,closed,2017-07-20T10:20:15Z,2018-01-22T17:52:18Z,bug
+DreierF/MyTargets,282,Imperial distances don't show up,closed,2017-07-14T06:14:05Z,2017-11-14T17:11:35Z,"bug, HIGH"
+DreierF/MyTargets,248,Change default scoring style,closed,2017-03-25T08:26:35Z,2017-04-06T16:07:28Z,bug
+DreierF/MyTargets,233,Recent backups are not shown,closed,2017-01-23T15:09:56Z,2017-03-24T11:52:15Z,bug
+DreierF/MyTargets,210,Adding comments to a round increases its count,closed,2016-12-17T10:52:05Z,2016-12-17T16:04:29Z,bug
+DreierF/MyTargets,201,Sharing scoreboard failes,closed,2016-12-04T07:01:41Z,2016-12-15T10:18:59Z,bug
+DreierF/MyTargets,200,Deleting an end in a standard round training changes the end count in the template,closed,2016-12-03T11:08:40Z,2016-12-17T16:04:30Z,bug
+DreierF/MyTargets,198,Training list not always updated correctly,closed,2016-11-27T13:04:17Z,2017-01-11T18:09:50Z,bug
+DreierF/MyTargets,190,Arrow size is not correctly displayed for WA spots,closed,2016-11-05T17:21:31Z,2016-11-05T18:26:33Z,bug
+DreierF/MyTargets,179,Date of training,closed,2016-10-15T10:39:16Z,2017-04-15T13:20:48Z,"bug, more information needed"
+DreierF/MyTargets,176,Statistics freezes on slow devices,closed,2016-10-10T17:28:00Z,2016-10-12T19:36:20Z,bug
+DreierF/MyTargets,163,Make sure standard round rounds cannot be deleted on the UI,closed,2016-10-08T17:24:06Z,2016-10-09T13:11:22Z,bug
+DreierF/MyTargets,161,Timer is not showing after creating training,closed,2016-10-08T16:56:59Z,2016-10-12T19:36:19Z,bug
+DreierF/MyTargets,151,Black background in pie chart,closed,2016-09-26T06:55:21Z,2016-12-01T12:17:37Z,bug
+DreierF/MyTargets,147,Crash when deleting arrow,closed,2016-09-15T09:42:39Z,2016-09-15T13:24:38Z,bug
+DreierF/MyTargets,140,Impossibile to see the volée number in the wear application. ,closed,2016-09-08T05:37:09Z,2017-04-06T18:13:47Z,bug
+DreierF/MyTargets,138,Google Play lists some devices as not compatible,closed,2016-08-21T12:13:03Z,2017-03-30T17:57:33Z,"bug, more information needed"
+DreierF/MyTargets,134,Remember if arrow numbering was on or off,closed,2016-08-20T10:12:02Z,2016-08-20T12:12:11Z,bug
+DreierF/MyTargets,133,Deleting an end in practice round should decrease the template's end count,closed,2016-08-20T10:10:40Z,2016-10-09T12:59:43Z,"bug, more information needed"
+DreierF/MyTargets,129,export csv has incorrect date,closed,2016-08-10T07:28:46Z,2016-08-10T10:10:38Z,bug
+DreierF/MyTargets,117,Date in Data Export does not match local time,closed,2016-07-20T06:20:43Z,2016-07-23T17:05:30Z,bug
+DreierF/MyTargets,116,IllegalArgumentException,closed,2016-07-19T14:37:27Z,2016-08-03T12:03:12Z,bug
+DreierF/MyTargets,115,Divide by zero,closed,2016-07-19T14:05:59Z,2016-11-25T18:11:18Z,bug
+DreierF/MyTargets,114,Crash while drawing target,closed,2016-07-19T14:04:21Z,2016-12-15T09:35:23Z,bug
+DreierF/MyTargets,113,Update arrow order when end is modified to maintain high-low order,closed,2016-07-18T10:33:47Z,2016-08-03T12:03:12Z,bug
+DreierF/MyTargets,112,Wrong order of rounds in scoresheet,closed,2016-07-13T07:48:55Z,2016-08-03T17:57:45Z,bug
+DreierF/MyTargets,111,Preference summary for timer is not shown,closed,2016-07-13T07:47:16Z,2016-07-23T19:43:38Z,bug
+DreierF/MyTargets,107,Hit count not calculated correctly,closed,2016-06-30T19:36:18Z,2016-07-03T09:10:16Z,bug
+DreierF/MyTargets,104,Arrow numbers are not saved,closed,2016-06-29T06:38:02Z,2016-06-29T07:37:14Z,bug
+DreierF/MyTargets,103,Target keyboard only shows M and 10,closed,2016-06-29T06:37:09Z,2016-07-03T09:10:50Z,bug
+DreierF/MyTargets,97,"App crashes when saving rounds with target faces measured as e.g. Small, Mini, ...",closed,2016-06-28T07:01:18Z,2016-06-28T07:17:25Z,bug
+DreierF/MyTargets,94,Samsung related bug in EditBowActivity,closed,2016-06-27T11:36:10Z,2016-06-28T17:45:52Z,bug
+DreierF/MyTargets,92,unexpected behavior when accidentally submitting an incomplete or empty end,closed,2016-06-26T17:02:31Z,2016-09-15T10:37:58Z,"bug, more information needed"
+DreierF/MyTargets,91,crash when adding new round to training,closed,2016-06-26T17:00:43Z,2016-10-09T13:00:11Z,"bug, more information needed"
+DreierF/MyTargets,81,Share Function Bug,closed,2016-06-18T18:52:49Z,2016-07-23T12:40:26Z,bug
+DreierF/MyTargets,80,Arrow ranking broken,closed,2016-06-18T17:51:53Z,2016-06-19T10:04:13Z,bug
+DreierF/MyTargets,79,Issue with arrow numbers,closed,2016-06-16T11:54:08Z,2016-06-16T16:54:00Z,bug
+DreierF/MyTargets,78,Sharing via mail seems to be broken,closed,2016-06-16T11:53:30Z,2016-06-16T14:21:11Z,bug
+DreierF/MyTargets,77,Scoreboard does no longer show dispersion pattern,closed,2016-06-16T11:52:47Z,2016-06-19T10:04:13Z,bug
+DreierF/MyTargets,76,"When choosing arrow type in training setup, edit mode is entered instead.",closed,2016-06-16T07:06:33Z,2016-06-16T11:49:11Z,bug
+DreierF/MyTargets,75,"App crash when setting date for new training, or editing historical training.",closed,2016-06-16T07:03:37Z,2016-06-16T11:29:44Z,bug
+DreierF/MyTargets,74,Inner ring of NFAA Indoor should be counted as four instead of five,closed,2016-06-14T16:02:03Z,2016-06-16T11:32:48Z,bug
+DreierF/MyTargets,70,Sight settings are buggy,closed,2016-06-07T07:17:11Z,2016-06-08T14:18:07Z,bug
+DreierF/MyTargets,61,Training details overlap on small screens,closed,2016-05-30T08:54:01Z,2016-06-08T15:53:31Z,bug
+DreierF/MyTargets,57,German (Austria) language profile shows english texts,closed,2016-05-26T09:04:43Z,2016-05-26T18:20:44Z,bug
+DreierF/MyTargets,56,Training with IFAA Animal target crashes after entering 3rd arrow,closed,2016-05-26T08:58:29Z,2016-05-26T18:21:09Z,bug
+DreierF/MyTargets,51,Yahoo Weather API seems to be broken,closed,2016-04-10T08:40:45Z,2016-04-10T12:46:59Z,bug
+DreierF/MyTargets,47,Trainings don't show up in chronological order,closed,2016-03-30T08:29:41Z,2016-04-11T09:39:31Z,bug
+DreierF/MyTargets,45,Wrong numbers on watch interface,closed,2016-03-21T15:44:17Z,2016-05-13T20:43:07Z,bug
+DreierF/MyTargets,42,Scoreboard share image is white for big scoreboards,closed,2016-03-01T08:16:36Z,2016-07-23T12:40:26Z,bug
+DreierF/MyTargets,29,App sometimes crashes while importing a backup,closed,2015-12-01T14:43:54Z,2016-08-10T08:44:02Z,bug
+DreierF/MyTargets,27,Issues with EditWithImageActivity,closed,2015-11-24T13:24:13Z,2016-05-01T13:59:05Z,bug
+DreierF/MyTargets,22,Arrow average in red is not readable in some cases,closed,2015-11-16T10:49:58Z,2015-11-23T15:23:30Z,bug
+DreierF/MyTargets,19,Blankbow and longbow are switched when displayed in overview,closed,2015-11-16T10:38:49Z,2015-11-20T07:33:29Z,bug
+DreierF/MyTargets,18,Show target faces for multiple rounds side by side,closed,2015-11-16T10:34:56Z,2015-11-20T19:50:32Z,bug
+DreierF/MyTargets,16,Create new template of standard round,closed,2015-11-10T12:34:43Z,2015-11-20T20:31:28Z,bug
+DreierF/MyTargets,8,Lags in standard rounds list,closed,2015-11-10T12:23:04Z,2016-06-01T19:00:11Z,bug
+reloZid/android-anuto,187,Incresing crashes as levels progress,open,2020-11-24T05:48:41Z,,bug
+reloZid/android-anuto,185,Increasing Scroe after Game Over!,closed,2020-10-01T12:05:38Z,2021-03-08T10:33:50Z,bug
+reloZid/android-anuto,165,Crashing,open,2019-07-30T22:45:15Z,,bug
+reloZid/android-anuto,158,anuto crashes on enemy success at high level,closed,2019-02-17T22:40:50Z,2019-02-19T22:10:10Z,bug
+reloZid/android-anuto,151,Bullet Hose misses fast Fliers,closed,2019-01-03T22:02:11Z,2019-02-11T13:18:17Z,bug
+reloZid/android-anuto,147,Game crash after remove from recent apps,closed,2018-11-05T17:23:59Z,2019-02-11T13:24:28Z,bug
+reloZid/android-anuto,118,Teleport Indicator doesn't disappear,closed,2018-02-01T19:06:39Z,2018-09-24T14:45:50Z,bug
+reloZid/android-anuto,106,"map ""Waiting line"" wrong starting point",closed,2017-07-31T19:56:03Z,2017-08-05T10:56:10Z,bug
+reloZid/android-anuto,104,Fix transparent in-game window,closed,2017-07-25T18:37:33Z,2017-07-25T18:50:53Z,bug
+reloZid/android-anuto,100,Fix overlapping top textviews,closed,2017-07-10T16:55:43Z,2017-10-07T10:31:56Z,bug
+reloZid/android-anuto,79,some stars heal faster than others,closed,2017-03-30T10:08:49Z,2017-07-26T18:46:05Z,bug
+reloZid/android-anuto,77,Game frozen at level 27,closed,2017-03-13T00:13:16Z,2017-10-05T19:28:03Z,bug
+reloZid/android-anuto,71,Crash after returning from paused state.,closed,2017-02-13T10:50:04Z,2017-02-13T21:38:05Z,bug
+reloZid/android-anuto,68,Negative Credits,closed,2017-02-10T23:45:49Z,2017-02-12T22:03:20Z,bug
+reloZid/android-anuto,61,[Bug] App crashes after selecting level for the second time,closed,2017-01-03T19:17:48Z,2017-01-21T17:22:07Z,bug
+reloZid/android-anuto,47,"""Strongest"" strategy button covers Inflicted text",closed,2016-10-06T13:25:13Z,2017-02-13T19:01:58Z,bug
+reloZid/android-anuto,46,No enemies appearing bug,closed,2016-10-02T07:45:06Z,2017-02-13T19:11:12Z,bug
+reloZid/android-anuto,39,"The next wave timeout is based on realtime, rather than in-game time",closed,2016-08-05T07:56:01Z,2016-11-28T20:19:10Z,bug
+reloZid/android-anuto,26,Screen goes dark after screen timeout,closed,2016-07-10T06:41:30Z,2016-11-27T12:31:30Z,bug
+reloZid/android-anuto,17,Cannon shoots from its last position,closed,2016-07-07T18:10:47Z,2017-01-21T17:14:01Z,bug
+reloZid/android-anuto,10,Traps stop working,closed,2016-07-05T18:24:05Z,2016-07-07T00:08:08Z,bug
+reloZid/android-anuto,9,Crash on too many turrets,closed,2016-07-05T07:12:17Z,2017-02-13T19:13:51Z,bug
+reloZid/android-anuto,7,Easy to cheat the game,closed,2016-07-02T22:05:18Z,2016-07-04T09:27:11Z,bug
+reloZid/android-anuto,1,Crash when re-opening app,closed,2015-11-10T20:11:58Z,2015-12-06T14:41:37Z,bug
+mamewotoko/podplayer,5,Preference based PreferenceFragmentCompat class is rendered ugly lines,open,2016-10-26T22:13:14Z,,bug
+mamewotoko/podplayer,4,Use action overflow(like menu) instead of menu button,closed,2016-10-17T12:02:28Z,2016-10-26T22:03:52Z,bug
+mamewotoko/podplayer,3,Cannot uncheck podcast,closed,2016-08-05T10:55:00Z,2016-08-12T23:44:30Z,bug
+mamewotoko/podplayer,1,Only VOA episodes are displayed,closed,2016-08-03T11:46:51Z,2016-11-07T11:45:06Z,bug
+BackyardBrains/Spike-Recorder-Android,103,Fix a bug in custom filter input,closed,2019-01-25T14:49:56Z,2019-01-28T15:09:44Z,bug
+BackyardBrains/Spike-Recorder-Android,98,Spikes are off when seeking,closed,2018-09-27T10:47:09Z,2018-10-11T12:59:47Z,"playback, analysis, bug"
+BackyardBrains/Spike-Recorder-Android,97,When in playback and coming from background playhead should be at the position where it was before going to background,closed,2018-09-24T14:33:24Z,2018-09-24T14:36:32Z,"playback, bug"
+BackyardBrains/Spike-Recorder-Android,91,In AC or ISI analysis graph click outside one of the thumbs redraws graph for the first spike train,closed,2018-06-11T11:57:06Z,2018-06-11T15:45:09Z,"analysis, bug"
+BackyardBrains/Spike-Recorder-Android,88,App sometimes crashes when recording is being played,closed,2018-04-26T20:56:50Z,2018-04-26T21:23:55Z,bug
+BackyardBrains/Spike-Recorder-Android,87,App crashes when audio file without extension is played,closed,2018-04-26T20:54:18Z,2018-04-26T21:22:21Z,bug
+BackyardBrains/Spike-Recorder-Android,86,App sometimes crash when Recordings screen is opened,closed,2018-04-24T14:47:52Z,2018-04-24T17:15:59Z,bug
+BackyardBrains/Spike-Recorder-Android,85,App crashes when setting cut off values for custom filter,closed,2018-04-24T14:38:19Z,2018-04-24T17:16:09Z,bug
+BackyardBrains/Spike-Recorder-Android,67,Scrubber should be set to start after coming from background,closed,2018-02-27T12:28:45Z,2018-09-24T14:35:26Z,"playback, bug"
+klnusbaum/UDJ-Android-Client,25,Joining password players broken,closed,2012-10-28T18:12:51Z,2012-11-17T20:25:35Z,bug
+klnusbaum/UDJ-Android-Client,22,Handle Being Banned,open,2012-09-02T18:57:01Z,,bug
+klnusbaum/UDJ-Android-Client,20,Fix Artitst List Loading on rotation,open,2012-08-17T02:56:33Z,,bug
+klnusbaum/UDJ-Android-Client,16,Tap To Retry should go away automatically,open,2012-06-17T18:42:47Z,,bug
+klnusbaum/UDJ-Android-Client,14,Fix facebook sharing issues,open,2012-06-10T21:28:38Z,,bug
+klnusbaum/UDJ-Android-Client,9,Convert Playlist Add 409 to upvote,closed,2012-05-29T01:44:36Z,2012-06-10T21:21:26Z,"bug, Feature Request"
+klnusbaum/UDJ-Android-Client,6,Switch Dialog in Auth Activity,open,2012-04-28T00:19:26Z,,bug
+klnusbaum/UDJ-Android-Client,2,white space in searches,closed,2012-04-28T00:13:47Z,2012-06-10T18:05:45Z,bug
+klnusbaum/UDJ-Android-Client,1,Android app needs to disallow blank searches,closed,2012-04-28T00:12:55Z,2012-06-10T18:06:04Z,bug
+souliss/soulissapp,156,T6x in TAGs are read only,open,2017-03-18T15:38:03Z,,bug
+souliss/soulissapp,154,cannot change background TAG picture,open,2017-03-07T22:15:28Z,,bug
+souliss/soulissapp,139,Widget and WiFi,open,2016-09-30T19:55:44Z,,bug
+souliss/soulissapp,137,Erroneous node displayed,open,2016-07-10T19:48:00Z,,bug
+souliss/soulissapp,130,onSystemUiVisibilityChange,closed,2016-04-28T23:14:39Z,2016-04-28T23:20:07Z,bug
+souliss/soulissapp,127,"""Rebuild node"" not accesible in landscape mode",closed,2016-04-20T19:16:05Z,2016-04-20T23:07:59Z,bug
+souliss/soulissapp,118,[BUG] T31 Inverted Cool-Heat Mode,closed,2016-01-07T15:37:42Z,2016-04-24T22:01:09Z,bug
+souliss/soulissapp,108,Tasker Plugin PING Command not recognized,closed,2015-11-06T20:33:01Z,2015-11-16T00:46:00Z,bug
+souliss/soulissapp,100,Typical do not show tag list,closed,2015-10-29T21:51:50Z,2015-11-05T00:14:47Z,bug
+souliss/soulissapp,99,Add new tag at the bottom,closed,2015-10-29T21:34:20Z,2015-11-05T00:14:47Z,bug
+souliss/soulissapp,92,Traslation missing FUNZIONI and OPZIONI words on Sidebar,closed,2015-10-22T15:35:17Z,2015-10-26T21:04:44Z,bug
+souliss/soulissapp,91,Rebuild node doesn't work,closed,2015-10-21T22:24:59Z,2015-10-26T20:24:47Z,bug
+souliss/soulissapp,80,T19 Sliding bar feedback,closed,2015-10-02T17:51:18Z,2015-10-04T11:34:28Z,bug
+souliss/soulissapp,79,ONLINE / OFFLINE Icon,closed,2015-10-02T17:40:05Z,2015-10-06T00:24:29Z,bug
+souliss/soulissapp,77,"Opening T19 Detail, SoulissApp Crash",closed,2015-10-01T07:55:02Z,2016-03-08T18:56:10Z,bug
+souliss/soulissapp,71,T_19: brightness options in sceens not working properly,closed,2015-09-21T10:00:01Z,2015-09-21T17:13:57Z,bug
+souliss/soulissapp,69,Feedback for voice command,closed,2015-09-19T20:44:52Z,2015-10-18T22:30:54Z,bug
+souliss/soulissapp,66,Equalizer disappeared,closed,2015-09-17T23:17:23Z,2015-09-17T23:37:44Z,bug
+souliss/soulissapp,64,Overlapping: status indicator,closed,2015-09-16T11:28:41Z,2015-09-17T23:37:44Z,bug
+souliss/soulissapp,57,widget Text Overlap,closed,2015-09-13T12:16:39Z,2015-09-14T18:40:08Z,bug
+souliss/soulissapp,54,App stops working when the phone goes in standby,closed,2015-09-11T17:31:13Z,2017-02-01T23:41:00Z,"bug, wontfix"
+souliss/soulissapp,52,T_19 slider not updated correctly after ON/OFF,closed,2015-09-11T14:08:26Z,2015-09-16T16:26:58Z,bug
+souliss/soulissapp,41,SoulissApp 1.5.2 Scroll is not working,closed,2015-09-05T18:37:51Z,2015-09-06T12:52:11Z,bug
+souliss/soulissapp,36,T31 does not correctly store setpoint,open,2015-08-31T21:12:34Z,,bug
+souliss/soulissapp,33,Release 1.5.2 confuses slot with typicals,closed,2015-08-30T08:10:28Z,2015-09-01T13:20:02Z,bug
+souliss/soulissapp,32,User configurable UDP port crash the Network Option menu,closed,2015-08-29T19:43:53Z,2015-08-31T10:57:15Z,bug
+souliss/soulissapp,24,Multicolor RGB Channels doesn't follow the actual state,closed,2015-08-20T22:34:18Z,2015-09-06T12:52:11Z,bug
+souliss/soulissapp,21,T56 logcat error,closed,2015-08-18T23:37:25Z,2015-08-25T13:53:33Z,bug
+souliss/soulissapp,20,When add T5x Widget Crashes App,closed,2015-08-18T15:08:21Z,2015-08-31T14:57:10Z,bug
+souliss/soulissapp,19,When a T14 is opened SoulissApp stops working,closed,2015-07-31T16:01:35Z,2015-08-25T23:25:52Z,bug
+souliss/soulissapp,18,"AndroidAirConditioner, AndroidRGBLamp not proceed to detail",open,2015-06-06T13:29:13Z,,bug
+souliss/soulissapp,17,Temperature control T31,closed,2015-06-06T13:28:36Z,2015-09-14T18:05:28Z,"bug, duplicate"
+souliss/soulissapp,13,Souliss app Typical 19 bugs,closed,2015-06-06T13:24:33Z,2015-09-08T00:14:51Z,bug
+souliss/soulissapp,11,Analog Lux value on SoulissApp,closed,2015-06-06T13:22:20Z,2015-09-04T14:56:36Z,bug
+souliss/soulissapp,9,tag on SoulissApp,closed,2015-06-06T13:17:43Z,2015-08-26T14:52:28Z,bug
+souliss/soulissapp,8,Antitheft Peer Status Alarm when Antitheft Main is Not Armed (OFF),open,2015-05-27T11:05:44Z,,bug
+souliss/soulissapp,7,T58 Don't show the right values,closed,2015-05-26T00:12:09Z,2015-08-27T14:20:27Z,bug
+souliss/soulissapp,6,Programs aren't working,closed,2015-05-15T13:49:28Z,2015-08-24T23:45:07Z,bug
+souliss/soulissapp,5,T55 Voltage indicator is not Working,open,2015-04-08T19:59:13Z,,"bug, help wanted"
+souliss/soulissapp,1,Broadcast Setting,closed,2015-03-21T00:14:40Z,2015-09-28T21:55:55Z,bug
+Ifsttar/NoiseCapture,344,Stack overflow error,closed,2021-06-27T18:00:39Z,2023-06-30T08:43:14Z,"bug, App, Severity Critical"
+Ifsttar/NoiseCapture,342,Notification popup loop on Android 11,open,2021-05-10T14:22:47Z,,"bug, Severity Normal, sonoreze"
+Ifsttar/NoiseCapture,302,Infinity values created during the capture,closed,2019-12-08T19:22:06Z,2025-02-25T13:23:58Z,bug
+Ifsttar/NoiseCapture,215,v1.0.1 Display photo issue,open,2017-08-30T13:54:45Z,,"bug, Severity Trivial"
+Ifsttar/NoiseCapture,211,Do not block GUI when uploading measurements,open,2017-08-29T07:47:09Z,,"bug, sonoreze"
+Ifsttar/NoiseCapture,206,The Pan doesn't work if the density layer is disable,closed,2017-08-24T13:33:14Z,2017-08-30T14:45:49Z,"bug, Severity Major"
+Ifsttar/NoiseCapture,197,Error reversed bearing and speed,closed,2017-08-18T08:59:15Z,2017-08-23T07:50:41Z,"bug, Severity Major"
+Ifsttar/NoiseCapture,186,Crash 0.5.0 Network operation on main thread,closed,2017-08-07T07:05:21Z,2017-08-29T09:02:24Z,"bug, PlayStore Crash Report, Severity Major"
+Ifsttar/NoiseCapture,185,SecurityException when trying to unmute application,closed,2017-08-07T07:05:11Z,2017-08-30T11:50:48Z,"bug, PlayStore Crash Report, Severity Normal"
+Ifsttar/NoiseCapture,160,Trigger a pause while a phone call is triggered,open,2017-06-15T09:21:24Z,,"bug, enhancement, Severity Trivial, sonoreze"
+Ifsttar/NoiseCapture,125,Octave band center frequencies for calibration,closed,2017-02-09T09:14:56Z,2017-03-08T08:14:00Z,bug
+Ifsttar/NoiseCapture,123,Check calibration frequencies,closed,2017-01-24T14:08:35Z,2017-04-03T12:14:17Z,bug
+Ifsttar/NoiseCapture,107,Disable file transert on an item History when already upload,closed,2016-11-17T20:07:59Z,2017-07-20T15:03:47Z,"bug, App"
+Ifsttar/NoiseCapture,103,Applying correction factor,closed,2016-11-09T17:35:04Z,2016-11-16T12:39:16Z,bug
+Ifsttar/NoiseCapture,100,NPE CommentActivity$OnDeleteMeasurement,open,2016-11-07T13:50:42Z,,"bug, PlayStore Crash Report, App"
+Ifsttar/NoiseCapture,70,java.lang.NullPointerException: Attempt to get length of null array,closed,2016-09-22T09:15:25Z,2017-06-15T07:01:18Z,"bug, App"
+Ifsttar/NoiseCapture,57,Disable upload to community action,closed,2016-07-25T07:18:52Z,2017-11-23T12:39:12Z,"bug, App"
+Ifsttar/NoiseCapture,39,Post-Processing of measures,closed,2016-06-22T09:25:39Z,2016-11-24T10:26:28Z,bug
+Ifsttar/NoiseCapture,33,"Fix computation of LA90, LA50",closed,2016-06-16T15:54:03Z,2016-11-24T10:09:41Z,bug
+Ifsttar/NoiseCapture,7,No measurement after stopping recording,closed,2016-04-21T17:21:17Z,2016-05-03T08:57:50Z,bug
+Ifsttar/NoiseCapture,6,Full frequency axis on the spectrogram,closed,2016-04-21T17:17:32Z,2016-05-03T08:58:00Z,bug
+Ifsttar/NoiseCapture,5,Bug of the time scale of the spectrogram,closed,2016-04-21T16:54:17Z,2016-05-03T08:58:08Z,bug
+nbossard/packlist,71,"""lets go"" button is cut off in landscape screen mode",open,2018-03-30T12:16:47Z,,bug
+nbossard/packlist,62,BUG : Floating Action Bar inactive,open,2017-12-23T20:57:57Z,,"bug, help wanted, good first issue"
+nbossard/packlist,61,BUG : no color change when selecting an item in trip detail,open,2017-12-23T20:53:49Z,,"bug, help wanted, good first issue"
+nbossard/packlist,60,BUG : english text in CAB (Contextual Action Bar) ,open,2017-12-23T20:46:22Z,,"bug, help wanted, good first issue"
+nbossard/packlist,58,Problem with colors of categories,closed,2017-08-16T11:51:21Z,2017-12-14T09:09:57Z,bug
+nbossard/packlist,43,Crash when modifying trip after going to background ( reported by Josh Mudge),closed,2016-08-07T20:49:02Z,2017-03-28T22:07:24Z,bug
+nbossard/packlist,42,crash at start on fresh install of v0.10 (empty trip name),closed,2016-07-22T14:13:44Z,2016-08-07T20:45:43Z,bug
+nbossard/packlist,38,"Importing text file, checkboxes are incorrectly managed",closed,2016-06-10T14:04:18Z,2016-07-22T20:39:49Z,bug
+nbossard/packlist,34,Crashes and toggling not working,closed,2016-06-02T05:25:22Z,2016-07-22T21:41:40Z,bug
+nbossard/packlist,30,Crash on v0.8.1 on DatePicker Dialog,closed,2016-05-01T13:21:34Z,2016-07-22T22:25:07Z,"bug, question"
+nbossard/packlist,29,Issue on V0.8.1 Impossible to uncheck boxes,closed,2016-04-30T10:33:33Z,2016-06-02T20:55:37Z,"bug, question"
+nbossard/packlist,26,crash : modifying an item... null pointer,closed,2016-04-13T19:19:13Z,2016-04-16T21:27:24Z,bug
+nbossard/packlist,21,packlist display jumps to top upon every (un)pack of an item,closed,2016-03-20T19:52:01Z,2016-04-09T13:44:41Z,bug
+nbossard/packlist,18,Crash when no start date,closed,2016-03-19T20:28:09Z,2016-03-20T21:07:07Z,bug
+nbossard/packlist,17,Using rotation enough times will cause overlay problems,closed,2016-03-16T20:02:52Z,2016-03-16T22:14:25Z,bug
+nbossard/packlist,15,Rotation brings user back to main menu from any screen,closed,2016-03-16T19:55:21Z,2016-03-16T21:37:43Z,bug
+nbossard/packlist,9,Supprimer l'obfuscation dans les versions releases,closed,2016-02-13T11:59:27Z,2016-02-18T22:24:25Z,bug
+nbossard/packlist,7,Plusieurs pages Home empilés,closed,2016-02-06T15:04:59Z,2016-03-16T22:16:50Z,bug
+nbossard/packlist,6,"Le bouton ""send"" du clavier ne fait pas l'action attendue",closed,2016-02-06T15:04:09Z,2016-03-15T17:50:35Z,bug
+nbossard/packlist,1,Impossible to add new item,closed,2016-01-31T21:57:14Z,2016-02-02T22:25:47Z,bug
