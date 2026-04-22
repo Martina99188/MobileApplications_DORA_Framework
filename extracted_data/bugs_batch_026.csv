@@ -1,0 +1,92 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+bluejamesbond/TextJustify-Android,103,setLineHeightMultiplier; normalize implementation,open,2016-01-29T16:19:54Z,,bug
+bluejamesbond/TextJustify-Android,100,[BUG]ChineseCharacterTest every line in the end  miss one Character,open,2015-12-22T07:42:00Z,,bug
+bluejamesbond/TextJustify-Android,92,Setting FORMATTED_TEXT will remove the period from text,open,2015-08-09T22:47:31Z,,bug
+bluejamesbond/TextJustify-Android,89,support spanable justify textview for RTL ( Right To Left ) langueges,open,2015-08-04T07:39:41Z,,bug
+bluejamesbond/TextJustify-Android,55,IndexOutOfBoundsException while measuring...,closed,2015-01-17T14:45:32Z,2015-01-18T08:24:00Z,bug
+bluejamesbond/TextJustify-Android,48,CacheBitmap too large when compiling with targetSDK API 21,closed,2015-01-05T04:58:18Z,2015-01-12T17:33:02Z,bug
+bluejamesbond/TextJustify-Android,47,Fix strikethrough and underline ,open,2015-01-04T18:57:04Z,,bug
+bluejamesbond/TextJustify-Android,45,Destroy cache can clash with onDraw,closed,2015-01-04T16:19:20Z,2015-01-04T20:51:02Z,bug
+midhunhk/random-contact,35,IllegalStateException - ContactsApiGateway not initialized,closed,2025-01-30T17:19:21Z,2025-01-30T20:00:00Z,"bug, priority\medium"
+midhunhk/random-contact,29,Random Contact not displayed when upgrading from prior installation to version 4.0,closed,2021-03-08T15:17:51Z,2021-03-23T03:16:54Z,"bug, priority\medium"
+midhunhk/random-contact,14,Design layout when no Contacts are present,closed,2018-04-07T19:30:10Z,2018-07-07T10:10:05Z,"bug, good first issue, priority\low"
+midhunhk/random-contact,10,Not Able To Scroll Down and View Contact Details in Landscape Mode,closed,2018-04-04T15:14:26Z,2018-04-06T02:44:06Z,"bug, completed, priority\high"
+midhunhk/random-contact,1,App Crash on Android 6 with no permissions given,closed,2016-03-10T18:15:45Z,2016-04-12T17:19:12Z,"bug, completed, priority\high"
+ynurmahomed/renova,5,Crash ao mudar a orientação do dispositivo.,closed,2017-01-03T20:17:23Z,2017-01-05T16:36:22Z,bug
+yDelouis/selfoss-android,40,Timezone issue,open,2014-10-19T11:04:52Z,,bug
+yDelouis/selfoss-android,39,Encoding issue with UTF-8 article content,open,2014-10-18T15:46:26Z,,bug
+yDelouis/selfoss-android,37,Marking feeds as READ in the unread section doesn't make them go away ,open,2014-10-07T10:40:40Z,,bug
+yDelouis/selfoss-android,36,Return to feed list takes you back to the top,open,2014-10-07T10:33:27Z,,bug
+yDelouis/selfoss-android,29,"After rotating the device, the action bar is wrong",open,2014-08-17T21:42:34Z,,bug
+yDelouis/selfoss-android,18,Clear data when configuration is changed,closed,2014-06-25T21:28:32Z,2014-06-26T18:45:54Z,bug
+yDelouis/selfoss-android,17,Bad deserialisation if json fields are typed,closed,2014-06-25T11:24:49Z,2014-06-26T08:16:38Z,bug
+yDelouis/selfoss-android,12,Login with no auth shows error,closed,2014-06-16T15:43:06Z,2014-06-19T08:34:05Z,bug
+yDelouis/selfoss-android,9,Article marked read by viewpager,closed,2014-04-16T09:50:27Z,2014-04-17T10:02:54Z,bug
+yDelouis/selfoss-android,7,selfoss on non-standard port fails to connect,closed,2014-03-27T07:51:27Z,2014-03-30T21:45:21Z,bug
+yDelouis/selfoss-android,2,Certificate error !,closed,2014-03-20T09:16:36Z,2014-03-20T22:08:07Z,bug
+wisedog/Whoochoo,8,Market crash log,closed,2014-02-18T01:47:24Z,2021-06-18T13:30:53Z,bug
+wisedog/Whoochoo,4,Wrong transaction date is input,closed,2014-02-14T05:38:42Z,2014-02-14T10:14:32Z,bug
+calintat/units,5,App shortcuts,closed,2017-04-10T13:42:40Z,2017-04-10T16:06:24Z,bug
+BloopApp/Bloop,41,Figure out how to use Retrofit + RxJava without empty responses breaking the world,open,2016-12-15T22:55:45Z,,bug
+BloopApp/Bloop,30,Sounds don't play on older phones,closed,2016-12-14T03:34:34Z,2016-12-14T20:39:01Z,bug
+lambdasoup/watchlater,53,YouTube API shut down error,closed,2021-02-10T23:09:22Z,2021-02-25T08:08:53Z,bug
+lambdasoup/watchlater,40,fix crash when video not found,closed,2017-11-19T16:29:56Z,2021-01-08T08:54:09Z,bug
+lambdasoup/watchlater,32,Crashes on fragment transaction (still),closed,2016-02-23T09:58:04Z,2017-09-02T14:33:50Z,bug
+lambdasoup/watchlater,31,App crashes on API level 16,closed,2016-02-23T09:55:47Z,2016-02-23T10:09:05Z,bug
+lambdasoup/watchlater,30,java.lang.UnsupportedOperationException at android.net.Uri.getQueryParameter,closed,2016-02-02T19:02:58Z,2016-02-03T08:34:28Z,bug
+lambdasoup/watchlater,29,Crashes due to untimely commit of fragment transactions (and other UI modifications),closed,2016-01-18T12:30:41Z,2016-01-18T12:34:31Z,bug
+lambdasoup/watchlater,21,Infinite number of retries on 403 is a bad idea,closed,2015-09-23T13:24:41Z,2015-09-28T13:22:04Z,bug
+lambdasoup/watchlater,20,Header of account chooser list is clickable; app crashes on click,closed,2015-09-23T13:04:45Z,2015-09-28T13:54:09Z,bug
+lambdasoup/watchlater,7,Empty screen without Google account,closed,2015-07-24T08:27:36Z,2015-07-24T10:53:57Z,bug
+LibertACAO/libertacao-android,14,"Clicking on a new opens general Anda site, not the specific new",closed,2015-11-30T10:56:05Z,2021-12-08T21:41:23Z,bug
+LibertACAO/libertacao-android,13,Every time that we refresh the external news page it adds duplicate news,closed,2015-11-30T10:55:33Z,2021-12-08T21:41:23Z,bug
+LibertACAO/libertacao-android,12,Message when list is empty does not make sense in some categories,closed,2015-11-30T10:55:11Z,2015-12-01T23:15:07Z,bug
+droidcon/iosched,17,Tracks not correctly being determined.,closed,2013-09-17T08:38:32Z,2013-09-18T10:58:55Z,bug
+droidcon/iosched,16,No 1st-run autosync,closed,2013-09-17T08:03:20Z,2013-09-17T12:23:39Z,bug
+droidcon/iosched,13,"android.database.CursorIndexOutOfBoundsException: Index -1 requested, with a size of 6 at android.database.AbstractCursor.checkPosition(AbstractCursor.java:424)",closed,2013-09-15T07:24:50Z,2013-09-18T11:36:50Z,bug
+droidcon/iosched,10,java.lang.NullPointerException at com.funkyandroid.droidcon.uk.iosched.ui.MapFragment.showFloor(MapFragment.java:347),closed,2013-09-14T07:20:41Z,2013-09-18T12:07:44Z,bug
+droidcon/iosched,9,java.lang.NullPointerException at com.funkyandroid.droidcon.uk.iosched.ui.BaseActivity.setActionBarTrackIcon(BaseActivity.java:61),closed,2013-09-14T07:19:59Z,2013-09-18T11:29:10Z,bug
+droidcon/iosched,8,Remote Sync not working,closed,2013-09-13T16:50:14Z,2013-09-16T13:37:08Z,bug
+geekyouup/ultimatestopwatch,12,"HVGA 2.2, no countdown dialog showing",open,2014-10-23T15:56:12Z,,bug
+Mark-Lauman/DominionPicker,40,Bane Cards do not cost 2 or 3,closed,2015-10-27T10:11:04Z,2015-11-11T11:17:27Z,bug
+Mark-Lauman/DominionPicker,36,Ruins in Black Market,closed,2015-09-23T03:52:01Z,2015-09-23T04:30:23Z,bug
+Mark-Lauman/DominionPicker,27,Black Market can contain Event cards,closed,2015-07-29T09:08:27Z,2015-08-08T01:55:10Z,bug
+Magister-Android/Magister-Android,5,Cache word niet verwijderd als iemand anders inlogt,closed,2016-01-27T11:52:16Z,2016-01-28T08:51:33Z,bug
+NeuroTechX/eeg-101,42,Classifier Data Collection return tries to update an unmounted component when navigating away during data collection,closed,2017-09-17T23:31:52Z,2021-04-13T16:49:16Z,"bug, React Native"
+NeuroTechX/eeg-101,35,Can't send recorded EEG data through Gmail or Inbox,closed,2017-07-28T17:39:24Z,2021-04-13T16:49:15Z,bug
+NeuroTechX/eeg-101,24,Android BuildConfig.DEBUG always returns false,closed,2017-06-29T17:08:51Z,2017-07-11T02:55:52Z,bug
+NeuroTechX/eeg-101,5,Fix highpass filter issues,closed,2017-04-23T18:30:38Z,2017-05-31T20:15:48Z,"bug, Java, Signal Processing"
+NeuroTechX/eeg-101,4,Lottie Animation Issues,closed,2017-03-31T18:26:10Z,2021-04-13T16:49:14Z,bug
+Daskiworks/ghwatch,128,Dialog action button text color is not contrast enough for dark theme,open,2021-01-07T08:42:09Z,,bug
+Daskiworks/ghwatch,126,GitHub Discussions,open,2020-12-29T18:00:46Z,,"bug, blocked, github_api_problem"
+Daskiworks/ghwatch,117,NPE at MainActivity.java:204 in v1.29,closed,2019-03-18T15:45:46Z,2019-03-18T20:53:03Z,bug
+Daskiworks/ghwatch,116,Not receiving Android notifications,closed,2019-03-14T22:22:41Z,2019-03-17T19:44:19Z,bug
+Daskiworks/ghwatch,110,Notification loading error due to wrong pagination header parsing,closed,2018-04-23T16:53:49Z,2018-04-23T16:56:16Z,bug
+Daskiworks/ghwatch,109,Login fails when password contains utf-8 characters,closed,2018-03-12T21:32:03Z,2018-04-14T18:21:23Z,bug
+Daskiworks/ghwatch,107,RejectedExecutionException at com.daskiworks.ghwatch.MainActivity.showNotification,closed,2017-11-23T17:43:35Z,2017-11-23T18:04:08Z,bug
+Daskiworks/ghwatch,105,Number in Launcher icon badge is not updated when Android notification action is used,closed,2017-11-21T14:48:37Z,2017-11-23T20:42:11Z,bug
+Daskiworks/ghwatch,100,RejectedExecutionException in NotificationListAdapter.getView,closed,2017-11-12T15:34:36Z,2017-11-12T16:36:54Z,bug
+Daskiworks/ghwatch,99,IndexOutOfBoundsException in NotificationListAdapter.removeNotificationByPosition,closed,2017-11-12T15:32:05Z,2017-11-12T15:50:09Z,bug
+Daskiworks/ghwatch,96,UI bug: filter by repository,closed,2017-11-03T21:37:13Z,2017-11-06T20:12:24Z,bug
+Daskiworks/ghwatch,89,Cannot open notification if it was a new commit to PR.,closed,2017-06-03T09:11:00Z,2017-06-04T16:56:47Z,bug
+Daskiworks/ghwatch,87,Release type notification click doesn't work,closed,2017-03-28T16:08:47Z,2017-06-04T16:59:51Z,bug
+Daskiworks/ghwatch,74,Authentification fails on new device,closed,2015-10-28T10:16:19Z,2015-10-28T17:00:35Z,bug
+Daskiworks/ghwatch,68,Rare exception when notification list screen is rotated during loading info to show ,closed,2015-01-29T18:24:56Z,2015-10-28T17:53:44Z,bug
+Daskiworks/ghwatch,67,App fails when first widget is added or last one is removed,closed,2015-01-27T11:58:08Z,2015-01-28T17:20:29Z,bug
+Daskiworks/ghwatch,60,Force close on android 5,closed,2014-12-16T17:48:51Z,2015-01-08T19:23:40Z,bug
+Daskiworks/ghwatch,55,"Repeated ""Mark everything as read"" dialog when app is opened from android notification",closed,2014-11-29T18:45:07Z,2014-11-29T18:45:52Z,bug
+Daskiworks/ghwatch,53,Disabling Notification from preferences doesn't work,closed,2014-11-15T20:51:14Z,2014-11-18T17:28:12Z,bug
+Daskiworks/ghwatch,52,Android 5: Error,closed,2014-11-13T11:18:03Z,2014-11-14T20:59:59Z,bug
+Daskiworks/ghwatch,51,"Make ""three dots"" clicking area bigger",closed,2014-11-12T14:31:09Z,2014-11-13T09:29:52Z,bug
+Daskiworks/ghwatch,50,Difficult to click on menu of issue,closed,2014-11-02T14:18:39Z,2014-11-04T19:39:13Z,bug
+Daskiworks/ghwatch,48,"""Mark everything as read"" action item is not shown",closed,2014-10-26T14:12:54Z,2014-10-26T14:15:50Z,bug
+Daskiworks/ghwatch,40,Android notification is not fired when github unread notification is updated,closed,2014-09-13T06:27:42Z,2014-09-13T06:30:12Z,bug
+Daskiworks/ghwatch,39,List of unread notifications is not shown correctly when opened from android notification/widget and notification detail has been shown previously,closed,2014-09-12T06:45:02Z,2014-09-13T09:19:58Z,bug
+Daskiworks/ghwatch,37,Error with notifications from Private Repos ,closed,2014-08-20T18:38:27Z,2014-08-26T18:50:33Z,bug
+Daskiworks/ghwatch,29,Android notifications are not fired,closed,2014-05-15T19:48:40Z,2014-05-17T09:09:51Z,bug
+Daskiworks/ghwatch,26,Back button doesn't work in Login dialog shown after first start,closed,2014-04-10T18:27:44Z,2014-04-15T17:30:07Z,bug
+Daskiworks/ghwatch,22,Login dialog may be dismmised by back button even if not cancelable,closed,2014-01-29T22:56:06Z,2014-01-29T22:57:48Z,bug
+Daskiworks/ghwatch,21,Repository filter selection not cleared correctly when last notification for selected repository is removed,closed,2014-01-29T19:59:03Z,2014-01-29T20:03:08Z,bug
+Daskiworks/ghwatch,20,Notifications checking is not started after application upgrade from play,closed,2014-01-16T12:54:10Z,2014-01-29T19:55:47Z,bug
+infoeducatie/infoeducatie-android,9,URL API,closed,2015-07-09T15:10:29Z,2015-07-11T05:07:05Z,bug
+infoeducatie/infoeducatie-android,1,Scoate fisierele de la IDE din git,closed,2015-07-08T12:27:02Z,2015-07-08T12:40:58Z,bug

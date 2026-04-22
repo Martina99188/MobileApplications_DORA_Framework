@@ -1,0 +1,145 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+wsv-accidis/tmeit-android,33,Uploading images that were downloaded from facebook fail,open,2017-09-21T18:12:19Z,,bug
+wsv-accidis/tmeit-android,31,On a recieved notification the notification history is resent,open,2017-02-19T15:33:20Z,,bug
+wsv-accidis/tmeit-android,26,Image upload bug,closed,2016-11-15T12:56:05Z,2017-12-31T05:09:36Z,bug
+wsv-accidis/tmeit-android,25,Marskalk without assigned team shown in incorrect cases.,closed,2016-01-07T23:43:01Z,2016-08-09T19:48:00Z,bug
+wsv-accidis/tmeit-android,24,"Rotating in ""Over 18?"" view removes the date",closed,2015-11-05T21:18:50Z,2015-11-05T21:27:33Z,bug
+wsv-accidis/tmeit-android,23,App should show an error when access to storage is denied,closed,2015-11-02T21:18:42Z,2015-11-05T21:45:29Z,bug
+wsv-accidis/tmeit-android,22,App does not handle loss of network well,closed,2015-10-14T20:19:31Z,2015-11-05T21:57:14Z,bug
+wsv-accidis/tmeit-android,21,Back button in a start fragment clears app,closed,2015-10-07T13:05:46Z,2015-10-07T13:23:55Z,bug
+wsv-accidis/tmeit-android,20,Number of workers on the event list doesn't update,closed,2015-10-05T14:19:26Z,2015-11-07T19:14:09Z,bug
+wsv-accidis/tmeit-android,18,Crash in FinishUploadPhotoFragment,closed,2015-09-22T18:41:05Z,2015-09-30T20:42:31Z,bug
+wsv-accidis/tmeit-android,15,Back button should always go to the default page,closed,2015-09-04T18:08:15Z,2015-09-17T20:27:10Z,bug
+wsv-accidis/tmeit-android,8,Pressing call should open the dialer app with number,closed,2015-05-06T06:05:34Z,2015-05-06T20:56:42Z,bug
+mrpdaemon/encdroid,76,Rotating VolumeBrowserActivity while task in progress should run FillTask,open,2014-12-13T00:29:07Z,,bug
+mrpdaemon/encdroid,74,Multiple selection list lost on device rotation,open,2014-12-12T19:42:47Z,,bug
+mrpdaemon/encdroid,73,Link to Google account from Accounts activity doesn't work,closed,2014-12-12T19:42:02Z,2015-01-31T04:42:10Z,bug
+mrpdaemon/encdroid,70,Dropbox / encfs in root,closed,2014-11-18T16:13:41Z,2014-11-29T08:58:16Z,bug
+mrpdaemon/encdroid,66,Crash: NullPointerException in FileChooserActivity,closed,2014-03-29T18:38:48Z,2014-07-24T06:41:55Z,bug
+mrpdaemon/encdroid,63,GoogleDriveFileProvider shouldn't crash on invalid file names,closed,2013-12-05T07:18:41Z,2014-02-17T04:45:07Z,bug
+mrpdaemon/encdroid,61,Issue with unicode characters in passwords,closed,2013-11-29T23:00:08Z,2014-02-17T23:26:30Z,bug
+mrpdaemon/encdroid,59,File content corruption with Google Drive,closed,2013-11-23T23:58:10Z,2014-03-22T08:04:29Z,bug
+mrpdaemon/encdroid,58,Renaming certain files deletes them in Google Drive,closed,2013-11-22T07:52:50Z,2013-11-22T08:20:48Z,bug
+mrpdaemon/encdroid,56,AccountActivity crash if Google Play Services not available,closed,2013-11-22T07:04:16Z,2013-11-22T08:38:45Z,bug
+mrpdaemon/encdroid,55,MIME type detection doesn't work if extension is capitalized,closed,2013-11-22T06:26:34Z,2013-11-22T08:25:52Z,bug
+mrpdaemon/encdroid,54,Show toast if login to Google Drive fails when a volume is clicked,closed,2013-11-22T05:42:13Z,2013-11-22T07:44:22Z,bug
+mrpdaemon/encdroid,53,Crash when using long press menu of list header of VolumeBrowserActivity,closed,2013-11-22T04:50:14Z,2014-02-17T05:50:45Z,bug
+mrpdaemon/encdroid,46,Files/Folders whose name contain unicode characters not shown,closed,2013-09-26T08:10:28Z,2014-02-18T07:09:15Z,bug
+mrpdaemon/encdroid,45,External SD card broken on Android 4.3,open,2013-09-26T08:07:41Z,,bug
+mrpdaemon/encdroid,39,ArrayIndexOutOfBoundsException in EncFSCrypto.getMacBytes(),closed,2013-05-03T07:02:27Z,2013-05-24T05:19:49Z,bug
+mrpdaemon/encdroid,38,ArrayIndexOutOfBoundsException in EDVolumeBrowserActivity.copyStreams(),closed,2013-04-24T06:10:31Z,2013-05-08T06:27:59Z,bug
+mrpdaemon/encdroid,37,NullPointerException in EDVolumeBrowserActivity$FillTask.onPreExecute(),closed,2013-04-24T06:09:00Z,2013-04-24T06:31:15Z,bug
+mrpdaemon/encdroid,36,password containing symbol <,closed,2013-04-17T13:05:26Z,2013-04-22T08:50:15Z,bug
+mrpdaemon/encdroid,35,Unable to update KeepassDroid database files in local volume,closed,2013-03-29T18:00:29Z,2013-09-26T08:03:50Z,bug
+mrpdaemon/encdroid,32,Password entry dialog shouldn't autocomplete,closed,2013-03-25T01:29:28Z,2013-05-24T05:47:18Z,bug
+mrpdaemon/encdroid,31,EDVolumeListActivity.UnlockVolumeTask modifies ListView adapter outside the UI thread,closed,2013-03-20T06:09:31Z,2013-03-20T06:31:45Z,bug
+mrpdaemon/encdroid,29,NullPointerException in EDVolumeListActivity.onCreateDialog(),closed,2013-02-18T00:03:35Z,2013-02-18T01:02:33Z,bug
+mrpdaemon/encdroid,27,Crash in encfs-java local file provider,closed,2012-12-27T20:02:35Z,2012-12-27T20:28:39Z,bug
+mrpdaemon/encdroid,26,AsyncTask's should gracefully terminate if app is killed/restarted,closed,2012-12-27T19:51:00Z,2013-01-31T07:07:01Z,bug
+mrpdaemon/encdroid,25,Fix logging exceptions with empty messages,closed,2012-11-21T04:39:47Z,2013-02-09T23:45:03Z,bug
+mrpdaemon/encdroid,21,Crash in EDFileChooserAdapter.getItem(),closed,2012-11-03T09:19:07Z,2012-11-10T07:24:12Z,bug
+mrpdaemon/encdroid,17,NullPointerException when resuming EDVolumeBrowserActivity,closed,2012-10-20T01:29:38Z,2012-10-21T16:53:00Z,bug
+mrpdaemon/encdroid,16,EncDroid can't open files with spaces in filename,closed,2012-10-15T11:34:03Z,2012-10-16T06:08:17Z,bug
+mrpdaemon/encdroid,14,File change tracking not working reliably,closed,2012-10-10T16:17:04Z,2012-10-15T01:34:46Z,bug
+VEINHORN/ScrollGalleryView,76,image size is too large,open,2019-01-23T11:41:16Z,,bug
+VEINHORN/ScrollGalleryView,69,Image fails to re-load after rotate,closed,2018-06-01T01:27:27Z,2019-02-03T18:04:12Z,bug
+VEINHORN/ScrollGalleryView,46,Pinch to zoom,open,2017-03-31T15:54:10Z,,bug
+VEINHORN/ScrollGalleryView,39,Exception java.io.FileNotFoundException: No content provider,open,2016-08-08T18:21:54Z,,bug
+VEINHORN/ScrollGalleryView,31,OutOfMemory exception,closed,2016-03-26T19:18:03Z,2018-02-06T10:01:03Z,bug
+VEINHORN/ScrollGalleryView,29,Nullpointer in HackyViewPager,open,2016-03-16T15:03:19Z,,bug
+krtkush/LinearTimer,34,Animation is not displayed HUAWEI MATE 9 EMUI,closed,2018-06-08T15:21:39Z,2022-08-27T07:12:33Z,"bug, help wanted"
+krtkush/LinearTimer,30,Make countUpTimer`handler` static to prevent memory leak.,open,2018-01-11T07:46:43Z,,bug
+krtkush/LinearTimer,26,TypedArray.getDimension already returns converted pixel value not dp value,open,2017-09-28T09:04:39Z,,bug
+krtkush/LinearTimer,24,Timer won't resume,closed,2017-04-27T05:23:55Z,2017-05-02T13:18:12Z,bug
+krtkush/LinearTimer,19,Documentation missing on importing library into another project.,closed,2017-02-17T09:38:58Z,2017-02-20T06:31:37Z,bug
+krtkush/LinearTimer,13,The LinearTimer view is unaligned in the XML preview section.,closed,2017-01-19T13:16:28Z,2017-02-19T18:26:01Z,bug
+krtkush/LinearTimer,6,Restart() does not work once the animation has completed.,closed,2017-01-14T13:34:40Z,2017-01-18T06:14:46Z,bug
+krtkush/LinearTimer,5,Reset() does not work after the animation has completed.,closed,2017-01-14T13:32:19Z,2017-01-18T06:06:24Z,bug
+krtkush/LinearTimer,2,Calling startTimer() method twice changes the starting point of the timer animation.,closed,2017-01-07T15:47:24Z,2017-01-07T16:31:15Z,bug
+knilch0r/freeshisen,11,Missing null check in onDestroy,closed,2018-05-11T13:05:47Z,2018-05-14T19:22:49Z,bug
+nikolamilosevic86/owasp-seraphimdroid,38,SMS log error ,open,2016-03-23T16:50:34Z,,minor bug
+nikolamilosevic86/owasp-seraphimdroid,36,Application lock pops up multiple times over locked app,open,2016-03-22T09:10:29Z,,minor bug
+nikolamilosevic86/owasp-seraphimdroid,33,Problems after installation,closed,2016-03-18T02:59:14Z,2016-03-19T17:51:45Z,major bug
+nikolamilosevic86/owasp-seraphimdroid,32,Application lock bypass,open,2016-03-05T13:53:02Z,,minor bug
+nikolamilosevic86/owasp-seraphimdroid,26,False positives (app install/text messages...),closed,2015-10-02T08:47:09Z,2015-10-07T10:52:45Z,major bug
+nikolamilosevic86/owasp-seraphimdroid,25,Remote lock does not work,closed,2015-09-25T23:17:38Z,2016-03-08T09:57:05Z,major bug
+nikolamilosevic86/owasp-seraphimdroid,18,SIM change lock,closed,2015-08-28T13:01:57Z,2016-04-18T08:54:59Z,minor bug
+nikolamilosevic86/owasp-seraphimdroid,9,Applications not sorted completely,closed,2015-02-16T05:04:22Z,2015-02-19T13:04:00Z,minor bug
+nikolamilosevic86/owasp-seraphimdroid,7,Application lock Bypass bug,closed,2015-01-16T12:34:52Z,2015-07-23T12:58:46Z,major bug
+notriddle/budget-envelopes,21,Finally figured out what exactly is happening when funding envelopes with a smaller salary,open,2013-12-01T08:17:44Z,,bug
+notriddle/budget-envelopes,12,Another First of Month Distribution Issue (fully documented this time),open,2013-11-02T03:33:54Z,,bug
+notriddle/budget-envelopes,11,Widget doesn't refresh,open,2013-10-25T02:12:00Z,,bug
+notriddle/budget-envelopes,10,Allocation on the first of the month,open,2013-10-03T05:30:23Z,,bug
+notriddle/budget-envelopes,4,Missing envelopes,closed,2013-08-10T20:36:05Z,2013-08-16T04:18:20Z,bug
+strooooke/quickfit,64,Tapping on workout notification does not scroll to correct workout,closed,2019-10-29T18:43:45Z,2019-11-01T08:48:13Z,bug
+strooooke/quickfit,62,Handle time and timezone changes correctly,closed,2019-10-11T14:11:01Z,2021-04-06T12:01:53Z,bug
+strooooke/quickfit,61,"Resolve ""FloatingActionButton  I  Setting a custom background is not supported.""",open,2019-10-11T09:54:22Z,,bug
+strooooke/quickfit,60,Cannot start service in background,closed,2019-10-11T08:58:48Z,2019-11-01T08:43:04Z,bug
+strooooke/quickfit,52,WorkoutListActivity on launch has somewhat scrolled-down list,open,2019-09-19T07:48:02Z,,bug
+strooooke/quickfit,51,Item dividers don't translate with their items,closed,2019-09-19T07:47:03Z,2019-09-20T08:53:10Z,bug
+strooooke/quickfit,48,SwipeDelete triggers too easily while scrolling,closed,2019-09-13T08:52:43Z,2019-09-30T14:10:57Z,bug
+strooooke/quickfit,9,List content of WorkoutListActivity randomly disappears,closed,2016-01-19T18:08:12Z,2016-01-20T11:43:19Z,bug
+sizezero/dice-probabilities,13,easy to accidentally display the background graph,closed,2014-02-13T02:51:20Z,2014-02-14T02:06:38Z,bug
+sizezero/dice-probabilities,11,crit specials can exceed 100%,closed,2014-02-11T17:58:20Z,2014-02-12T02:01:33Z,bug
+sizezero/dice-probabilities,7,don't round to 100%,closed,2014-02-06T18:18:54Z,2014-02-09T18:10:53Z,bug
+sizezero/dice-probabilities,2,button sizes should not change,open,2014-02-05T06:15:50Z,,bug
+sizezero/dice-probabilities,1,Incorrect percentage with lots of dice,closed,2014-02-05T01:43:59Z,2014-02-06T02:40:45Z,bug
+where2night/W2N-Android,98,Fix big photo,closed,2014-05-23T02:14:46Z,2014-05-23T13:47:02Z,bug
+where2night/W2N-Android,91,change song layout,closed,2014-05-21T19:11:25Z,2014-05-21T21:51:47Z,bug
+where2night/W2N-Android,88,My profile info tab send message button should not be visible,closed,2014-05-21T13:17:10Z,2014-05-21T13:17:38Z,bug
+where2night/W2N-Android,87,"Friend profile info shows music,drink and civil state index insted of text",closed,2014-05-21T13:14:05Z,2014-05-21T13:14:37Z,bug
+where2night/W2N-Android,86,Delete civil state from friend info,closed,2014-05-21T09:24:40Z,2014-05-21T13:26:24Z,bug
+where2night/W2N-Android,85,Delete civil state from friend info,closed,2014-05-21T09:24:06Z,2014-05-21T13:26:24Z,bug
+where2night/W2N-Android,77,"""Mi perfil"" crashes",closed,2014-05-01T17:06:58Z,2014-05-02T09:37:23Z,bug
+where2night/W2N-Android,43,[Problem] Register button is not accesible in small screens,closed,2014-03-30T00:49:16Z,2014-05-19T18:01:25Z,bug
+where2night/W2N-Android,41,Photo from facebook graph api is not being loaded ,closed,2014-03-28T02:07:37Z,2014-05-19T17:58:40Z,bug
+where2night/W2N-Android,38,Fix Assist button in event -- it is not being selected,closed,2014-03-28T01:36:35Z,2014-03-28T11:49:47Z,bug
+where2night/W2N-Android,37,Assist button in event is not being selected,closed,2014-03-28T01:35:27Z,2014-03-28T12:37:48Z,bug
+where2night/W2N-Android,35,Fix Event card image scale,closed,2014-03-28T01:33:33Z,2014-03-28T12:37:48Z,bug
+where2night/W2N-Android,34,Fix Event card mage scale,closed,2014-03-28T01:33:01Z,2014-03-28T12:37:48Z,bug
+where2night/W2N-Android,33,Facebook birthdate format,closed,2014-03-28T01:27:16Z,2014-03-28T01:30:55Z,bug
+where2night/W2N-Android,32,Back buttom fails sometimes,closed,2014-03-28T01:25:14Z,2014-05-01T15:19:03Z,bug
+where2night/W2N-Android,30,Minor bug in up button,closed,2014-03-28T01:19:25Z,2014-03-28T01:24:19Z,bug
+where2night/W2N-Android,24,When Locan and DJ has no events Progress Bar still there,closed,2014-03-27T12:41:31Z,2014-03-27T12:51:46Z,bug
+where2night/W2N-Android,22,Button Home as up Enabled,closed,2014-03-27T04:48:58Z,2014-03-28T01:24:19Z,bug
+where2night/W2N-Android,21,Fix Dj list view images scale,closed,2014-03-27T04:42:24Z,2014-03-28T12:37:48Z,bug
+where2night/W2N-Android,18,Fix Local list view images scale,closed,2014-03-27T04:36:34Z,2014-03-28T12:37:48Z,bug
+dimtion/Shaarlier,61,The app fails to share links,open,2021-04-25T10:17:20Z,,bug
+dimtion/Shaarlier,60,Shaarlier reports Failed to share using REST api but it does actually share,open,2021-01-14T14:51:20Z,,bug
+dimtion/Shaarlier,55,Multiple tags are added as one huge tag,open,2020-11-22T19:12:51Z,,bug
+dimtion/Shaarlier,52,"""Disable certificate validation"" resets on editing account",open,2020-10-26T00:07:25Z,,bug
+dimtion/Shaarlier,51,Absolute links generated,closed,2020-10-26T00:04:42Z,2020-10-29T22:01:28Z,bug
+dimtion/Shaarlier,50,"Shaarlier displays ""wrong"" message",closed,2020-10-22T19:23:25Z,2020-11-13T04:31:18Z,bug
+dimtion/Shaarlier,49,v1.8.0 (F-Droid) doesn't load title / description of shaares,open,2020-10-10T18:47:23Z,,bug
+dimtion/Shaarlier,42,Username or password incorrect on latest version of Shaarli,closed,2020-02-21T00:50:04Z,2020-09-15T03:55:55Z,bug
+dimtion/Shaarlier,35,Data is lost when switching to another app then coming back to Shaarlier,closed,2018-10-11T12:14:31Z,2020-09-15T03:55:09Z,bug
+dimtion/Shaarlier,33,Not showing dropdown suggestions for tags,closed,2018-03-30T02:57:42Z,2019-04-02T13:16:59Z,bug
+dimtion/Shaarlier,31,Impossible to connect my Shaarli when included in a wordpress template,closed,2017-09-01T10:13:35Z,2020-03-20T04:21:38Z,bug
+dimtion/Shaarlier,30,Unable to select account when shaaring a link,closed,2017-08-09T11:53:37Z,2019-04-02T13:16:27Z,bug
+dimtion/Shaarlier,29,Make add-link interface scrollable,closed,2017-07-08T20:03:44Z,2019-04-02T13:16:06Z,bug
+dimtion/Shaarlier,22,Fails to share a link when marshmallow's battery saver is ON,open,2016-03-22T10:42:39Z,,"bug, wontfix"
+dimtion/Shaarlier,19,Unable to shaare from FlymeOS default browser,closed,2016-02-16T17:42:55Z,2016-06-28T06:47:05Z,bug
+dimtion/Shaarlier,18,Unable to retry when sharing fails,closed,2015-12-26T18:24:31Z,2016-06-08T14:57:16Z,bug
+dimtion/Shaarlier,10,The diablog box is crashing,closed,2015-05-31T02:23:31Z,2015-05-31T14:38:37Z,bug
+dimtion/Shaarlier,5,No share option on MIUI default web browser,closed,2015-04-04T21:26:50Z,2015-05-30T16:49:21Z,"bug, fixlater"
+dimtion/Shaarlier,4,No autocompletion on tags,closed,2015-04-04T21:25:30Z,2015-04-06T12:29:31Z,bug
+dimtion/Shaarlier,2,Perte de contenu en cas de rotation de l'écran,closed,2015-04-02T12:10:32Z,2015-04-05T14:53:17Z,bug
+dimtion/Shaarlier,1,autocompletion / nettoyage des url,closed,2015-04-02T07:59:14Z,2015-04-05T14:53:07Z,bug
+nextgis/nextgislogger,57,Sessions list is always empty,closed,2016-11-10T11:52:50Z,2016-11-11T15:07:14Z,bug
+nextgis/nextgislogger,55,Power is always 0 under LTE,closed,2016-01-08T20:34:43Z,2016-01-11T15:50:31Z,bug
+nextgis/nextgislogger,52,dark screen's print on samsung,closed,2015-10-28T22:27:33Z,2016-01-18T11:15:31Z,bug
+nextgis/nextgislogger,49,Bluetooth indicator shows even when externals are off if the logger is on,closed,2015-07-14T16:41:20Z,2015-07-16T19:13:55Z,bug
+nextgis/nextgislogger,32,Old icon in the toolbar,closed,2015-02-28T11:14:25Z,2015-02-28T13:58:48Z,bug
+nextgis/nextgislogger,31,back arrow on app icon doesn't work,closed,2015-02-28T11:07:07Z,2015-02-28T13:58:48Z,bug
+nextgis/nextgislogger,24,При старте логгирования нельзя добавить метки,closed,2015-02-03T07:41:10Z,2015-07-13T16:11:31Z,bug
+nextgis/nextgislogger,19,No gyroscope message even if gyroscope is turned off,closed,2014-12-21T20:43:21Z,2015-02-26T17:44:30Z,bug
+nextgis/nextgislogger,17,Невозможно поделиться логом через GoogleDrive и Gmail,closed,2014-12-17T22:47:53Z,2014-12-18T18:34:07Z,bug
+nextgis/nextgislogger,16,Cellular data reads from one SIM slot,open,2014-12-04T10:14:26Z,,"bug, enhancement"
+nextgis/nextgislogger,14,Падает при изменении текста в окне ввода,closed,2014-11-28T21:49:06Z,2014-11-29T15:53:49Z,bug
+nextgis/nextgislogger,13,List of user categories doesn't fit the screen,closed,2014-11-28T21:42:08Z,2014-12-09T19:37:57Z,bug
+nextgis/nextgislogger,12,При удалении или переименовании файла категорий перестает работать выбор,closed,2014-11-28T21:25:41Z,2014-12-04T09:59:06Z,bug
+nextgis/nextgislogger,8,Log must be log,closed,2014-11-28T21:07:28Z,2016-11-11T15:08:26Z,"bug, discussion"
+nextgis/nextgislogger,7,"Программа вылетает при активном пункте настроек ""Try to use API >= 17""",closed,2014-11-20T07:59:59Z,2014-11-20T16:23:07Z,bug
+jrvansuita/MaterialAbout,57,Android 5.1 Theme Light,closed,2017-11-29T14:38:47Z,2020-04-26T17:29:18Z,"bug, help wanted"
+SimonMarquis/Android-PreferencesManager,5,No preference files found,closed,2014-02-07T17:16:56Z,2014-03-18T21:13:36Z,bug
+SimonMarquis/Android-PreferencesManager,1,Application without title,closed,2013-09-11T12:09:23Z,2013-09-11T17:24:17Z,bug

@@ -1,0 +1,31 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+alexismp/egress,8,Update icons,open,2015-04-03T11:37:01Z,,bug
+alexismp/egress,5,Leaderboard,open,2015-04-03T11:28:17Z,,bug
+alexismp/egress,4,"Use station ID, not names from client",closed,2015-04-03T11:27:55Z,2015-04-05T13:44:46Z,bug
+andremion/Louvre,29,Crash in android 10,closed,2020-06-15T22:00:14Z,2021-04-27T09:14:53Z,bug
+andremion/Louvre,28,Upgrade to latest version of `CounterFab` that has some bug fixes.,closed,2019-02-03T15:24:52Z,2021-04-27T09:09:57Z,bug
+andremion/Louvre,16,The crash connected with PhotoView library,closed,2017-10-25T11:33:10Z,2017-11-15T16:05:39Z,bug
+andremion/Louvre,4,The done FAB disappears,closed,2017-02-12T23:17:19Z,2017-02-21T15:25:35Z,bug
+avast/sms-ticket,24,Date select in statistics does not work,closed,2015-11-05T09:13:57Z,2016-01-28T13:04:02Z,bug
+avast/sms-ticket,19,Date picker in statistics doesn't work properly,closed,2015-07-04T10:10:03Z,2015-07-13T14:27:28Z,bug
+avast/sms-ticket,18,Crashlytics not working,closed,2015-07-03T11:21:06Z,2015-07-03T21:55:49Z,bug
+avast/sms-ticket,12,Selecting notification sounds doesn't work much,open,2015-06-26T14:20:32Z,,bug
+avast/sms-ticket,10,Problems with syncing notifications on Wear,open,2015-06-26T14:18:30Z,,bug
+zugaldia/capitalbikeshare,15,java.lang.NoClassDefFoundError: ActionBarActivityDelegateBase.java:914,open,2015-04-01T21:26:41Z,,bug
+zugaldia/capitalbikeshare,9,Handle Disconnection Events,open,2015-03-06T20:42:50Z,,bug
+zugaldia/capitalbikeshare,7,Handle location errors with LocationCallback,open,2015-03-05T02:04:51Z,,bug
+zugaldia/capitalbikeshare,3,Replace default Android icon,closed,2015-03-04T19:20:52Z,2015-03-05T14:46:39Z,bug
+zugaldia/capitalbikeshare,2,Write a proper welcome README.md,closed,2015-03-04T19:19:58Z,2015-03-13T01:52:13Z,bug
+zugaldia/capitalbikeshare,1,Add link to Play Store to GitHub repo frontpage,closed,2015-03-04T19:19:39Z,2015-03-13T01:51:58Z,bug
+TheAndroidMaster/Metronome-Android,13,[Wear] AW3.0 Support,closed,2018-04-08T23:31:45Z,2018-04-09T23:50:55Z,bug
+TheAndroidMaster/Metronome-Android,8,Non-Constant Intervals on Some Devices,open,2017-11-08T14:48:00Z,,"bug, module: wear, module: app"
+TheAndroidMaster/Metronome-Android,1,"""Beep"" Sound Doesn't Work On Some Devices",closed,2017-05-15T13:06:13Z,2017-05-15T19:45:51Z,bug
+wsv-accidis/in-sangbok,2,Opening same view places it on top,closed,2016-01-02T16:41:24Z,2016-01-03T12:26:45Z,bug
+wsv-accidis/in-sangbok,1,Opening app should not have focus on search field,closed,2016-01-02T16:40:07Z,2016-01-03T12:13:28Z,"bug, wontfix"
+richard1/BCP-Mobile,10,java.lang.InstantiationException,open,2014-09-21T00:06:54Z,,bug
+richard1/BCP-Mobile,6,Handle announcements with no body,closed,2014-08-28T09:17:24Z,2014-08-28T09:29:21Z,bug
+richard1/BCP-Mobile,5,Handle weird characters,closed,2014-08-28T09:16:01Z,2014-08-29T03:48:30Z,bug
+richard1/BCP-Mobile,1,Instantiation exception,closed,2014-08-27T18:26:31Z,2014-09-01T04:45:58Z,bug
+fedefernandez/MyAppList,4,Can't change backup directory,closed,2013-11-22T10:43:16Z,2013-11-22T12:40:48Z,bug
+fedefernandez/MyAppList,3,Error with uninstalled applications,closed,2013-07-01T09:44:31Z,2013-07-01T20:10:33Z,bug
+fedefernandez/MyAppList,1,Applications with special characters not loaded,closed,2012-04-25T07:37:07Z,2012-04-25T10:30:29Z,bug

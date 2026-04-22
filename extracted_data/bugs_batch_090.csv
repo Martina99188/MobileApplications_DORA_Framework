@@ -1,0 +1,13 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+pserwylo/msjviewer,2,Doesn't remember password on Lollipop,open,2014-12-04T08:59:23Z,,bug
+ogaclejapan/Qiitanium,6,LeakCanary reporting a leak in ArticleFragment,open,2015-12-27T05:47:28Z,,bug
+timothyb89/lifx-tasker,5,First attempt to run an action fails,open,2014-05-29T06:51:39Z,,bug
+timothyb89/lifx-tasker,4,Only first gateway is discovered,closed,2014-05-28T03:26:24Z,2014-06-04T02:14:17Z,bug
+timothyb89/lifx-tasker,3,Application crashing,closed,2014-05-23T11:44:54Z,2014-05-25T00:00:34Z,bug
+timothyb89/lifx-tasker,2,All detected bulbs have the same name,closed,2014-05-23T04:56:58Z,2014-05-28T03:09:29Z,bug
+timothyb89/lifx-tasker,1,"Bulbs are detected, but no actions work",closed,2014-05-22T03:03:48Z,2014-06-04T02:13:22Z,bug
+plusonelabs/dashclock-gerrit,4,BasicAuthWithCookieAuthenticationProvider appendQueryToChangesUrl bug,closed,2013-02-23T21:15:29Z,2013-02-24T18:43:00Z,bug
+plusonelabs/dashclock-gerrit,2,Improve secret key handling,closed,2013-02-23T08:48:22Z,2013-02-27T19:41:42Z,bug
+aldld/ColourDB,2,Revise ordering of colours into a numerical (non-alphabetic) order,closed,2014-07-26T18:18:30Z,2014-08-09T05:25:26Z,bug
+aldld/ColourDB,1,Missing colours,closed,2014-07-26T18:16:16Z,2014-08-09T05:26:02Z,bug
+gkarunakaran/Ezhil-Programming,8,rotation to landscape mode does not fit screen ,open,2016-12-17T10:28:35Z,,bug

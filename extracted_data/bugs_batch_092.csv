@@ -1,0 +1,7 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+serialc/CemeterySurveyor,8,Long press on some attribute icons crashes,open,2020-09-29T10:56:27Z,,bug
+serialc/CemeterySurveyor,6,Field checking is not functioning in latest version 1.12,closed,2016-05-17T20:39:24Z,2016-09-26T15:11:13Z,bug
+plugdio/MQTTSYSConsole,3,System tab looks ugly,closed,2016-12-01T20:39:01Z,2016-12-02T00:02:33Z,bug
+plugdio/MQTTSYSConsole,2,Not all topics are available,closed,2016-11-30T19:40:36Z,2016-12-03T22:01:09Z,bug
+plugdio/MQTTSYSConsole,1,Values are not updated,closed,2016-11-30T19:39:26Z,2016-12-01T21:53:07Z,bug
+manishsgaikwad/MusicID,1,Unable to edit songs metadata.,closed,2018-05-30T07:49:40Z,2019-10-02T05:42:47Z,bug

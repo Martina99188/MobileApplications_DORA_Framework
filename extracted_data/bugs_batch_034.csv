@@ -1,0 +1,167 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+AndrewReitz/encrypted-camera,2,"Unable to dismiss ""Error while decrypting"" alert",closed,2014-06-05T23:52:21Z,2014-11-09T21:04:13Z,bug
+AndrewReitz/encrypted-camera,1,"Able to click ""View Unencrypted Photos"" when photos are encrypted",open,2014-06-05T23:51:04Z,,bug
+loadrunner/Facebook-Contact-Sync,39,Fix profile link,closed,2014-07-20T13:07:26Z,2014-07-20T13:45:25Z,bug
+loadrunner/Facebook-Contact-Sync,35,java.lang.IllegalArgumentException: Service not registered: ro.weednet.contactssync.b.c@41f150c0,closed,2014-05-06T09:26:48Z,2014-07-20T13:03:48Z,bug
+loadrunner/Facebook-Contact-Sync,34,Unable to Add Account with Updated Facebook App,closed,2014-04-19T14:29:20Z,2014-05-06T13:20:28Z,bug
+loadrunner/Facebook-Contact-Sync,11,App crashes when Facebook doesn't return an email.,closed,2013-03-24T15:08:00Z,2013-03-26T12:12:17Z,bug
+Nimrodda/WizarDroid,63,WizardFragment.onStepChanged() does not notify about all changes,open,2015-05-08T14:14:11Z,,bug
+Nimrodda/WizarDroid,59,Context Variable Update Issue,closed,2015-03-09T11:17:43Z,2015-03-23T14:31:32Z,bug
+Nimrodda/WizarDroid,34,Swipe Back/Prev is very sensitive,closed,2014-01-08T22:39:07Z,2014-12-28T13:35:55Z,bug
+Nimrodda/WizarDroid,32,Using @ContextVariable when overriding BasicWizardLayout,closed,2013-12-11T17:34:17Z,2013-12-25T11:56:23Z,bug
+Nimrodda/WizarDroid,31,Crash occures when having more than one required step marked completed,closed,2013-12-06T14:21:09Z,2014-12-26T17:56:15Z,bug
+Nimrodda/WizarDroid,8,Add support for Parcelable ContextVariable,closed,2013-08-03T15:02:31Z,2013-08-03T15:40:50Z,bug
+Nimrodda/WizarDroid,5,Passing Serializable objects,closed,2013-07-04T15:57:14Z,2013-07-04T19:33:05Z,bug
+Nimrodda/WizarDroid,2,Passing data between steps,closed,2013-04-26T19:46:55Z,2013-06-23T22:34:13Z,bug
+Nimrodda/WizarDroid,1,Crash when rotating device,closed,2013-04-21T20:40:58Z,2013-06-16T19:49:20Z,bug
+BramBonne/privacypolice,11,"App FC when Wi-Fi is off and displaying ""Known hotspots""",closed,2015-05-21T11:23:08Z,2015-10-12T14:11:03Z,"bug, help wanted"
+BramBonne/privacypolice,9,Layout of the main screen a bit weird,closed,2015-03-16T13:01:51Z,2016-03-29T11:57:53Z,bug
+BramBonne/privacypolice,8,[NFR] Multi-user support,closed,2015-03-15T09:46:20Z,2015-03-17T16:09:42Z,"bug, help wanted"
+dhbw-timetable/dhbw-timetable-android,95,Weird loading on today view,open,2018-01-09T08:22:48Z,,bug
+dhbw-timetable/dhbw-timetable-android,93,Fix change comparison,closed,2018-01-04T22:20:45Z,2018-01-05T01:43:11Z,bug
+dhbw-timetable/dhbw-timetable-android,91,Fix Android 8 Security Preferences ,closed,2018-01-04T12:42:50Z,2018-01-05T16:16:31Z,bug
+dhbw-timetable/dhbw-timetable-android,87,Don't fire alarm when the event has already started since x minutes,closed,2017-10-18T07:10:01Z,2018-01-05T16:16:31Z,bug
+dhbw-timetable/dhbw-timetable-android,83,Reboots are a problem for alarm,closed,2017-10-04T18:22:07Z,2017-10-13T10:00:43Z,bug
+dhbw-timetable/dhbw-timetable-android,82,No appointens found on client is displayed to often,closed,2017-10-04T07:45:21Z,2017-10-04T08:11:24Z,bug
+dhbw-timetable/dhbw-timetable-android,81,Cards are cut off ,closed,2017-10-04T07:15:33Z,2017-10-04T07:41:00Z,bug
+dhbw-timetable/dhbw-timetable-android,78,Line wrapping is not done correctly,closed,2017-09-14T19:12:10Z,2018-01-02T18:30:27Z,"bug, design"
+dhbw-timetable/dhbw-timetable-android,75,App crashes on alarm when another (native) alarm is scheduled,closed,2017-07-20T10:41:00Z,2017-10-04T10:02:05Z,bug
+dhbw-timetable/dhbw-timetable-android,74,DO NOT DISTURB Mode is not restarted after alarm code.,closed,2017-07-20T09:49:34Z,2017-10-04T09:33:05Z,bug
+dhbw-timetable/dhbw-timetable-android,73,Alarm crashed on huawaii,closed,2017-07-20T09:48:59Z,2018-01-02T17:53:55Z,bug
+dhbw-timetable/dhbw-timetable-android,65,Week view behaves weird on offline mode,closed,2017-07-11T16:48:41Z,2017-07-11T17:48:24Z,bug
+dhbw-timetable/dhbw-timetable-android,62,Internet connection tests,closed,2017-07-11T12:51:46Z,2017-07-11T16:45:40Z,bug
+dhbw-timetable/dhbw-timetable-android,61,TodayFragment Offline,closed,2017-07-11T12:50:59Z,2017-07-11T17:36:03Z,bug
+dhbw-timetable/dhbw-timetable-android,60,Cleanup on main activity destroy,closed,2017-07-10T19:53:02Z,2017-07-11T16:25:02Z,"bug, enhancement"
+dhbw-timetable/dhbw-timetable-android,59,Force the sound to be loud on alarm,closed,2017-07-10T16:55:27Z,2017-07-11T16:23:51Z,"bug, enhancement"
+dhbw-timetable/dhbw-timetable-android,58,Onboarding for DAUs,closed,2017-07-09T20:31:30Z,2017-07-11T10:51:08Z,bug
+dhbw-timetable/dhbw-timetable-android,55,"Localize ""Keine Vorlesungen""",closed,2017-07-09T11:39:55Z,2017-07-09T12:40:30Z,bug
+dhbw-timetable/dhbw-timetable-android,53,Tomorrow duplicate appointments,closed,2017-07-09T11:37:29Z,2017-07-09T19:31:36Z,bug
+dhbw-timetable/dhbw-timetable-android,52,Malfunctioning default view,closed,2017-07-07T23:12:44Z,2017-07-08T09:50:30Z,bug
+dhbw-timetable/dhbw-timetable-android,50,DHBW Timetable stopped on settings result sync range future changed,closed,2017-07-07T09:46:03Z,2017-07-07T19:09:45Z,bug
+dhbw-timetable/dhbw-timetable-android,44,Fix the DOZE Issue ,closed,2017-07-03T12:25:10Z,2017-07-12T17:11:56Z,bug
+dhbw-timetable/dhbw-timetable-android,43,Secure alarm activity,closed,2017-07-03T11:14:07Z,2017-07-04T19:54:33Z,bug
+dhbw-timetable/dhbw-timetable-android,42,Alarms on reboot,closed,2017-07-03T11:10:05Z,2017-07-07T23:14:32Z,bug
+dhbw-timetable/dhbw-timetable-android,41,Unexpected crashes,closed,2017-07-02T14:43:48Z,2018-01-02T18:02:34Z,"bug, help wanted"
+dhbw-timetable/dhbw-timetable-android,39,Notifications settings constallation,closed,2017-07-01T19:49:46Z,2017-07-04T19:50:42Z,bug
+dhbw-timetable/dhbw-timetable-android,38,Wrong title for notifications,closed,2017-07-01T19:47:55Z,2017-07-04T19:50:03Z,bug
+dhbw-timetable/dhbw-timetable-android,35,Unknown functionality about mobile networking,closed,2017-06-30T12:54:28Z,2017-07-07T19:08:37Z,bug
+dhbw-timetable/dhbw-timetable-android,31,Default view only working on hard start,closed,2017-06-07T08:38:36Z,2017-06-28T17:00:30Z,"bug, enhancement"
+dhbw-timetable/dhbw-timetable-android,23,Asynchronous Sync,closed,2017-05-24T19:02:30Z,2017-06-05T14:51:58Z,bug
+dhbw-timetable/dhbw-timetable-android,18,Unnecessary break,closed,2017-05-19T11:12:13Z,2017-05-22T20:04:38Z,bug
+dhbw-timetable/dhbw-timetable-android,15,Setting for standard view,closed,2017-05-18T06:51:20Z,2017-05-22T20:05:47Z,"bug, enhancement, help wanted"
+dhbw-timetable/dhbw-timetable-android,14,Build fix,closed,2017-05-17T21:08:21Z,2017-05-24T17:14:00Z,bug
+KlubJagiellonski/poznaj-app-android,36,Location request,closed,2017-10-12T18:23:15Z,2017-11-30T15:07:17Z,bug
+KlubJagiellonski/poznaj-app-android,6,App start too long,closed,2016-12-02T14:52:53Z,2017-05-06T23:35:22Z,bug
+KlubJagiellonski/poznaj-app-android,2,Toolbar elevation,closed,2016-12-01T22:22:19Z,2017-06-20T13:50:51Z,bug
+shinymayhem/radio-presets-widget,89,Double duck doesn't unduck,open,2013-05-25T20:47:31Z,,bug
+shinymayhem/radio-presets-widget,82,Widget not updated on waiting for network,open,2013-03-27T02:44:55Z,,bug
+shinymayhem/radio-presets-widget,80,Edit dialog disappears on rotate,open,2013-03-22T07:33:09Z,,bug
+shinymayhem/radio-presets-widget,79,metadata shows old station right after switching,open,2013-03-21T05:53:23Z,,bug
+shinymayhem/radio-presets-widget,74,cursor finalized without prior close() warning,open,2013-03-16T06:55:48Z,,bug
+shinymayhem/radio-presets-widget,73,exit action mode on edit,open,2013-03-15T17:25:27Z,,bug
+shinymayhem/radio-presets-widget,70,Volume reset back to max,open,2013-03-15T07:41:20Z,,bug
+shinymayhem/radio-presets-widget,67,null station shown on network resume after failed play,closed,2013-03-15T04:41:52Z,2013-03-16T20:10:13Z,bug
+shinymayhem/radio-presets-widget,65,Activity player not updated on resume,closed,2013-03-13T01:56:37Z,2013-03-14T06:09:00Z,bug
+shinymayhem/radio-presets-widget,64,Activity player button states,closed,2013-03-13T01:17:24Z,2013-03-14T06:09:00Z,bug
+shinymayhem/radio-presets-widget,63,activity player not updated on stop,closed,2013-03-13T01:02:05Z,2013-03-14T06:09:00Z,bug
+shinymayhem/radio-presets-widget,61,back button doesn't work,closed,2013-03-13T00:59:03Z,2013-03-14T17:02:04Z,bug
+shinymayhem/radio-presets-widget,60,Widget intents ordered instead of canceled or updated ,open,2013-03-12T08:20:05Z,,"bug, question"
+shinymayhem/radio-presets-widget,59,Widget hides entire word if too long,closed,2013-03-10T18:34:30Z,2013-03-15T00:44:49Z,bug
+shinymayhem/radio-presets-widget,58,play when not connected stays waiting for network,closed,2013-03-08T01:43:44Z,2013-03-08T02:15:56Z,bug
+shinymayhem/radio-presets-widget,54,error -2147483648,open,2013-03-02T18:08:59Z,,bug
+shinymayhem/radio-presets-widget,53,got stuck buffering,open,2013-03-02T08:28:42Z,,bug
+shinymayhem/radio-presets-widget,52,widget stop when stopped crashes,closed,2013-03-02T01:29:12Z,2013-03-02T09:03:57Z,bug
+shinymayhem/radio-presets-widget,51,"delete station rearrange caused ""trying to re-open an already-closed object"" error",open,2013-03-01T02:30:31Z,,bug
+shinymayhem/radio-presets-widget,50,widget keeps saying playing,open,2013-02-28T19:17:23Z,,"bug, question"
+shinymayhem/radio-presets-widget,49,widget initial layout doesn't update,closed,2013-02-28T07:25:31Z,2013-03-03T03:07:52Z,bug
+shinymayhem/radio-presets-widget,48,sometimes back returns from main to main,closed,2013-02-28T07:19:40Z,2013-03-03T06:28:24Z,bug
+shinymayhem/radio-presets-widget,47,network listener sometimes registered twice or more,open,2013-02-28T07:18:21Z,,bug
+shinymayhem/radio-presets-widget,46,widget doesn't do anything,open,2013-02-28T07:15:39Z,,"bug, question"
+shinymayhem/radio-presets-widget,43,media io error if network change while preparing,closed,2013-02-27T02:22:26Z,2013-03-16T20:05:11Z,bug
+shinymayhem/radio-presets-widget,38,invalid url causes error,closed,2013-02-26T07:28:59Z,2013-03-16T19:36:28Z,bug
+shinymayhem/radio-presets-widget,9,widget buttons not updated on station edit,closed,2013-02-25T23:13:45Z,2013-03-14T06:09:00Z,bug
+shinymayhem/radio-presets-widget,8,widget playing info not updated on widget resize,closed,2013-02-25T08:38:11Z,2013-03-14T06:09:00Z,bug
+shinymayhem/radio-presets-widget,7,"player doesn't trim whitespace from url, fails",closed,2013-02-22T07:29:06Z,2013-02-26T07:09:20Z,"bug, duplicate"
+shinymayhem/radio-presets-widget,6,edit playing station doesn't update,closed,2013-02-22T07:24:25Z,2013-02-25T08:37:19Z,bug
+shinymayhem/radio-presets-widget,5,service crashes on activity unbind,closed,2013-02-21T05:59:56Z,2013-02-21T06:24:57Z,bug
+shinymayhem/radio-presets-widget,4,nothing displayed on stationslist empty,closed,2013-02-20T22:35:36Z,2013-02-27T00:54:58Z,bug
+shinymayhem/radio-presets-widget,3,service crash keeps pending intent,closed,2013-02-20T20:49:55Z,2013-02-20T22:29:56Z,bug
+shinymayhem/radio-presets-widget,2,anr receiving network broadcast intent,open,2013-02-20T20:05:26Z,,bug
+shinymayhem/radio-presets-widget,1,restarts after stop,closed,2013-02-18T07:19:47Z,2013-03-13T00:49:33Z,bug
+torch2424/Feather,37,"User Suggestions - Tap video to pause/play, Allow controlling app full screen",open,2016-01-29T18:15:24Z,,"bug, enhancement"
+torch2424/Feather,34,Not supported on the Galaxy J1,open,2015-10-07T06:18:31Z,,bug
+torch2424/Feather,33,Feather can not be opened from other apps,open,2015-08-24T18:38:57Z,,bug
+torch2424/Feather,28,Feather Wear inititalizes with a blank string,open,2015-04-19T19:03:14Z,,"bug, enhancement"
+torch2424/Feather,27,Remove Debug Logs from feather,closed,2015-04-19T18:54:47Z,2015-04-19T21:19:20Z,bug
+torch2424/Feather,26,Play Media buttons reach other apps instead of just feather,open,2015-04-16T22:57:33Z,,"bug, enhancement"
+torch2424/Feather,24,Comparator still buggy,closed,2015-04-16T05:35:17Z,2015-04-19T19:40:46Z,bug
+torch2424/Feather,23,Make notification buttons slightly bigger!,closed,2015-04-13T16:55:52Z,2015-04-13T17:41:08Z,bug
+torch2424/Feather,18,Pressing Next with no next file does not toast,closed,2015-04-07T01:15:09Z,2015-04-07T01:31:35Z,"bug, enhancement"
+torch2424/Feather,17,Music ends early on lollipop,closed,2015-04-06T15:23:33Z,2015-04-07T16:28:35Z,bug
+torch2424/Feather,15,Android Wear notification does not go away,closed,2015-03-30T18:51:44Z,2015-04-08T02:01:36Z,bug
+torch2424/Feather,1,3rd Party Remote Support,open,2015-03-10T02:23:04Z,,bug
+mgsx-dev/rainstick,2,Input not disabled during screen transitions,closed,2017-03-23T11:19:30Z,2017-03-24T10:19:53Z,bug
+stealthcopter/AndroidNetworkTools,63,Couldn't check ping when power saving is on,open,2020-01-18T06:24:56Z,,bug
+stealthcopter/AndroidNetworkTools,59,Mac address is always null,closed,2019-09-17T19:25:37Z,2023-06-21T10:50:27Z,bug
+stealthcopter/AndroidNetworkTools,58,PortScan() blocked UI thread and caused Progress Dialog is stopped and hang,closed,2019-09-09T06:27:32Z,2020-06-24T14:33:53Z,bug
+stealthcopter/AndroidNetworkTools,57,Multiple ip has same MAC address.,open,2019-08-29T10:09:18Z,,bug
+stealthcopter/AndroidNetworkTools,53,Native ping java Process streams not closed,closed,2019-01-28T09:20:08Z,2019-11-03T10:50:29Z,bug
+stealthcopter/AndroidNetworkTools,52,The application does not see the ip devices in the local wifi network,open,2018-11-22T05:50:14Z,,bug
+stealthcopter/AndroidNetworkTools,51,App is blocking the UI and crashing in android 6.0 and below,open,2018-10-09T06:31:51Z,,bug
+stealthcopter/AndroidNetworkTools,48,ping command timeout and ttl arguments error ?,closed,2018-08-14T07:00:17Z,2018-08-14T09:01:29Z,bug
+stealthcopter/AndroidNetworkTools,47,getting FileNotFoundException in library ,closed,2018-07-30T06:15:09Z,2018-08-14T09:01:34Z,bug
+stealthcopter/AndroidNetworkTools,46,UI thread blocked when find local devices in subnet,closed,2018-07-14T18:16:35Z,2018-08-13T16:27:43Z,bug
+stealthcopter/AndroidNetworkTools,36,Subnet Devices : Outofmemory error and illegal access error,closed,2018-02-25T19:21:02Z,2018-06-17T16:24:14Z,bug
+stealthcopter/AndroidNetworkTools,29,NetworkOnMainThreadException on Ping,closed,2017-12-18T03:45:52Z,2018-06-17T16:24:06Z,bug
+stealthcopter/AndroidNetworkTools,8,Library pings hostname instead of IP,closed,2016-12-20T13:02:17Z,2017-03-13T20:34:06Z,bug
+Cleveroad/LoopBar,26,find a error issue ,open,2017-08-18T09:28:16Z,,bug
+luckytoilet/WATisRain,38,Dijkstra's algorithm should not be O(n^2),open,2015-12-15T22:45:15Z,,bug
+luckytoilet/WATisRain,32,Directions pane mispositioned on older 2.3 phone,closed,2014-07-03T17:00:38Z,2014-08-02T21:05:50Z,bug
+luckytoilet/WATisRain,31,"Remove the ""Settings"" button that does nothing",closed,2014-06-28T16:24:17Z,2014-07-01T21:21:49Z,bug
+luckytoilet/WATisRain,29,Investigate a loading bar when starting the app because the map can take several seconds to load on older devices,closed,2014-05-28T14:05:45Z,2016-05-12T01:42:43Z,"bug, investigate"
+luckytoilet/WATisRain,27,"Line width needs to be relative to scale, not constant",closed,2014-05-12T03:55:24Z,2014-05-13T03:19:21Z,bug
+luckytoilet/WATisRain,26,Severe issues with very small screen size,closed,2014-05-09T16:21:37Z,2014-05-12T03:55:44Z,bug
+luckytoilet/WATisRain,22,"If you select the same location twice, the entire app crashes",closed,2014-05-06T06:26:14Z,2014-05-06T13:23:03Z,bug
+luckytoilet/WATisRain,19,Further differentiate between different types of connections,closed,2014-05-06T03:48:19Z,2014-05-07T13:40:30Z,bug
+luckytoilet/WATisRain,18,Support 0-indexed buildings,closed,2014-05-05T16:15:28Z,2014-05-06T23:34:52Z,bug
+luckytoilet/WATisRain,14,Encourage taking multiple stairs at a time,closed,2014-05-01T04:42:51Z,2014-05-06T13:22:55Z,bug
+luckytoilet/WATisRain,13,Investigate way to deal with special case (with DWE and CPH),open,2014-04-27T15:59:05Z,,"bug, investigate"
+luckytoilet/WATisRain,11,Indoor and outdoor paths should be marked a different color,closed,2014-04-27T15:46:29Z,2016-05-12T01:42:24Z,bug
+luckytoilet/WATisRain,10,Location icons are just slightly off center,closed,2014-04-27T01:38:53Z,2014-04-27T15:45:04Z,bug
+luckytoilet/WATisRain,5,Some buildings have misleading locations,closed,2014-04-24T04:21:36Z,2014-04-24T14:50:16Z,bug
+luckytoilet/WATisRain,2,map_2400 does not include RING_ROAD_PAS,closed,2014-04-17T14:49:37Z,2014-04-18T14:05:30Z,bug
+el1t/Iolite,2,Web requests for destroyed activities,open,2014-12-02T05:01:36Z,,bug
+el1t/Iolite,1,Parse not-logged-in xml in all parsers,closed,2014-12-02T04:56:47Z,2015-08-09T23:16:05Z,bug
+dragthor/learning,4,Empty letter/word view on screen,open,2014-10-28T10:54:32Z,,bug
+mattelacchiato/FastBudget3,10,Progress bar jumps,closed,2014-04-26T06:16:26Z,2014-04-29T19:34:38Z,bug
+mattelacchiato/FastBudget3,8,NPE in summarizeExpenses,closed,2014-03-08T13:31:55Z,2014-03-19T21:14:03Z,bug
+mattelacchiato/FastBudget3,7,Refresh category list after expense edit,closed,2014-02-15T20:19:24Z,2014-03-23T18:07:49Z,bug
+mattelacchiato/FastBudget3,4,"Date ""till"" field gets reset",closed,2014-02-09T15:46:45Z,2014-03-23T16:32:31Z,bug
+mattelacchiato/FastBudget3,1,Negative Budget should have filled progress bar,closed,2014-02-01T09:29:18Z,2014-03-24T17:50:15Z,bug
+jpardogo/ListBuddies,10,Multitouch action stop ListViews,closed,2014-08-11T10:38:27Z,2014-08-11T11:05:55Z,bug
+jpardogo/ListBuddies,9,Tap during right ListView scroll scroolling is stopped some times,open,2014-08-11T10:35:26Z,,bug
+jpardogo/ListBuddies,3,list scrolling issue,closed,2014-04-07T13:19:54Z,2014-08-11T10:40:53Z,bug
+pretix/pretixdroid,2,java.lang.RuntimeException: getParameters failed (empty parameters),open,2016-11-02T20:34:00Z,,"bug, help wanted"
+Sensirion/SmartGadget-Android,31,Bug: Strange gaps when downloading logged data,closed,2016-09-29T10:07:09Z,2017-10-23T12:20:32Z,bug
+jmsalcido/catapi-android,59,Share not working,closed,2016-06-22T01:21:48Z,2016-06-22T01:50:20Z,bug
+jmsalcido/catapi-android,50,Navigation error,closed,2016-06-09T16:44:41Z,2016-06-09T20:24:10Z,bug
+jmsalcido/catapi-android,46,Permissions for Android 6.0,closed,2016-06-09T01:01:18Z,2016-06-09T03:30:02Z,"bug, enhancement"
+jmsalcido/catapi-android,43,Proguard not working on prod,closed,2016-05-27T02:01:58Z,2016-05-27T02:17:17Z,bug
+jmsalcido/catapi-android,41,Navigation is not working correctly,closed,2016-05-26T05:34:21Z,2016-05-26T19:29:24Z,bug
+meefik/linuxdeploy,1012,Various Oreo issues,open,2018-10-16T19:40:19Z,,bug
+meefik/linuxdeploy,646,Fedora core 23 and 24 install issues (+ fixes).,closed,2016-11-05T19:00:26Z,2017-01-23T13:09:31Z,bug
+wsv-accidis/fm-fg-godsdekl,11,Text i utskrift är för ljus,closed,2016-12-19T10:55:30Z,2016-12-29T00:00:51Z,bug
+kshoji/BLE-MIDI-for-Android,16,Synthesizer doesn't be registered to MidiSystem,open,2016-01-08T04:32:46Z,,bug
+kshoji/BLE-MIDI-for-Android,14,Correct RPN/NRPN event treatment,closed,2015-12-10T05:07:14Z,2015-12-10T14:31:48Z,bug
+kshoji/BLE-MIDI-for-Android,12,BLE MIDI Peripheral fails to initialize,closed,2015-07-12T09:59:43Z,2015-07-12T10:36:42Z,bug
+kshoji/BLE-MIDI-for-Android,11,MIDI events are handled out of order,closed,2015-06-25T06:32:02Z,2015-12-09T13:56:37Z,bug
+kshoji/BLE-MIDI-for-Android,9,OnMidiDeviceDetachedListener will be called before removing the device from Map,closed,2015-04-22T09:16:39Z,2015-04-30T02:58:55Z,bug
+kshoji/BLE-MIDI-for-Android,8,Timestamp of end of SysEx crashes SysEx data,closed,2015-03-18T09:01:00Z,2015-03-23T09:04:30Z,bug
+kshoji/BLE-MIDI-for-Android,5,MIDI parsing fails when frequent events is coming.,closed,2015-01-22T07:41:02Z,2015-01-22T09:02:32Z,bug
+kshoji/BLE-MIDI-for-Android,4,Timestamp feature is not working,closed,2015-01-17T05:59:04Z,2015-01-20T03:23:32Z,bug
+kshoji/BLE-MIDI-for-Android,3,Can't create connection between Android devices,closed,2015-01-13T01:30:36Z,2015-01-14T11:54:00Z,bug
+jareddlc/OpenFit,66,Weather based on GeoLocation Never Sync,closed,2020-03-27T12:03:13Z,2020-03-27T22:09:45Z,bug
+jareddlc/OpenFit,64,Openfit crashes when receiving call,closed,2019-03-29T16:02:44Z,2019-03-31T23:03:11Z,bug
+jareddlc/OpenFit,62,OpenFit causes device to disconnect from wifi when locked,open,2018-09-02T01:39:22Z,,bug
+jareddlc/OpenFit,40,Open Fit with Gear Fit Manager,open,2016-04-27T15:38:38Z,,bug
+jareddlc/OpenFit,31,Icons and issues...,open,2016-02-25T17:08:01Z,,bug

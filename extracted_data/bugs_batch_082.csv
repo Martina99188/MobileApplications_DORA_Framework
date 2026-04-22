@@ -1,0 +1,22 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+ajaykumarkannan/Sense-and-Sanity,9,Pickup to Answer Problematic,closed,2012-08-01T14:32:20Z,2012-08-07T08:57:41Z,bug
+ajaykumarkannan/Sense-and-Sanity,6,Add some filtering of sorts for proximity,closed,2012-07-17T05:36:29Z,2012-08-01T14:30:31Z,bug
+ajaykumarkannan/Sense-and-Sanity,4,Pick up to Answer,closed,2012-07-16T18:19:44Z,2012-08-20T09:31:20Z,"bug, proposal"
+ddqd/aweather,4,Progressbar on refresh,open,2014-12-23T09:47:55Z,,bug
+ddqd/aweather,3,Strange cropping,open,2014-12-23T09:22:39Z,,bug
+madhur/DashAnalytics,21,Toast should not fire on non attribute preferences,closed,2013-12-06T03:59:14Z,2013-12-06T15:46:44Z,bug
+madhur/DashAnalytics,19,Auto load accounts on first load.,closed,2013-12-06T01:16:13Z,2013-12-06T19:08:38Z,bug
+madhur/DashAnalytics,18,Supress toast on load,closed,2013-12-06T01:15:25Z,2013-12-06T01:21:44Z,bug
+madhur/DashAnalytics,17,No Back button on preference screen,closed,2013-12-05T00:14:04Z,2013-12-05T16:26:47Z,bug
+madhur/DashAnalytics,16,Mix and match of preference files,closed,2013-12-05T00:13:50Z,2013-12-05T16:26:50Z,bug
+madhur/DashAnalytics,15,Fully test Otto Event bus,closed,2013-12-05T00:13:28Z,2013-12-05T08:31:40Z,bug
+madhur/DashAnalytics,12,Otto error on UpdateUI non instantiated,closed,2013-12-03T03:54:44Z,2013-12-05T08:31:46Z,bug
+madhur/DashAnalytics,11,Adsense widget disappears at 12 AM,closed,2013-12-02T18:38:49Z,2013-12-06T19:08:25Z,bug
+madhur/DashAnalytics,10,Restore spinner selection preference,closed,2013-12-02T14:19:15Z,2013-12-02T18:12:37Z,bug
+madhur/DashAnalytics,9,Null result with timezone unchecked,closed,2013-12-02T06:46:17Z,2013-12-09T04:40:34Z,bug
+madhur/DashAnalytics,1,Account change on network disconnect should clear the activity,closed,2013-12-02T04:20:26Z,2013-12-02T18:12:37Z,bug
+ahuskano/Sensors-Adventure,1,Isue 1,closed,2015-05-31T17:32:26Z,2015-05-31T17:33:40Z,bug
+trashify/bolt-starter,16,Change repo description,closed,2017-08-16T16:39:24Z,2017-08-16T20:08:53Z,bug
+trashify/bolt-starter,15,What does the resulting app do ?,closed,2017-03-16T23:56:24Z,2017-03-22T11:10:44Z,bug
+mschlauch/comfortreader,12,java.lang.StringIndexOutOfBoundsException,closed,2018-03-31T03:46:50Z,2018-04-19T17:48:03Z,bug
+mschlauch/comfortreader,2,Reading speed isn't applied immediately,open,2017-04-17T15:27:44Z,,bug

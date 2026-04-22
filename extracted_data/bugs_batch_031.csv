@@ -1,0 +1,74 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+castorflex/SmoothProgressBar,91,Issue on Android Nougat,closed,2016-10-02T07:15:08Z,2017-08-27T15:13:48Z,bug
+castorflex/SmoothProgressBar,81,spb_progressiveStart_activated attribute is read twice,open,2015-09-17T14:39:41Z,,bug
+castorflex/SmoothProgressBar,78,CircularProgressBar in Power Saving Mode,closed,2015-07-20T08:35:29Z,2015-10-24T10:05:17Z,bug
+castorflex/SmoothProgressBar,3,Each GONE and VISIBLE causes more sections,closed,2013-11-28T11:35:27Z,2013-11-29T22:32:56Z,bug
+google/watchpresenter,14,com.example used for permission in manifest,closed,2015-09-21T09:00:15Z,2015-12-08T19:50:40Z,bug
+google/watchpresenter,7,Background audio keeps on playing after notification dismissed,open,2015-06-23T11:56:24Z,,bug
+google/watchpresenter,6,Moto 360 moving to next slide on random gestures,open,2015-06-18T08:17:28Z,,bug
+google/watchpresenter,5,Messages not arriving to Chrome on certain WiFi configurations,closed,2015-06-17T11:58:05Z,2015-06-18T09:57:48Z,bug
+TonicArtos/StickyGridHeaders,59,Recycling problem when different type,closed,2013-09-19T16:05:04Z,2013-10-11T05:26:59Z,bug
+TonicArtos/StickyGridHeaders,55,StickyGridHeaders bug when used inside RelativeLayout,closed,2013-09-11T06:04:46Z,2013-09-12T11:45:33Z,bug
+TonicArtos/StickyGridHeaders,54,Visual artifact: fast scroll appearing on the left side,closed,2013-09-07T06:58:03Z,2013-09-08T04:03:42Z,"bug, confirmed"
+TonicArtos/StickyGridHeaders,48,Scroll to position ,closed,2013-08-23T14:08:51Z,2018-01-12T11:10:00Z,bug
+TonicArtos/StickyGridHeaders,47,Header height incorrect when using images,closed,2013-08-16T19:54:48Z,2018-01-12T11:10:00Z,bug
+TonicArtos/StickyGridHeaders,45,Recycled bitmap exception,closed,2013-08-12T17:58:00Z,2018-01-12T11:10:00Z,bug
+TonicArtos/StickyGridHeaders,43,Header height not calculated correctly,closed,2013-07-31T02:43:25Z,2013-07-31T02:55:48Z,bug
+TonicArtos/StickyGridHeaders,40,ClassCastException,closed,2013-07-13T16:42:55Z,2018-01-12T11:10:00Z,bug
+TonicArtos/StickyGridHeaders,38,Getting nullpointerexception some times when I scroll the list,closed,2013-06-26T11:11:38Z,2013-07-28T13:17:39Z,bug
+TonicArtos/StickyGridHeaders,34,NullPointerException in StickyGridHeadersBaseAdapterWrapper,closed,2013-06-11T06:18:40Z,2013-07-28T13:27:34Z,bug
+TonicArtos/StickyGridHeaders,30,ImageViews receive onDetachedFromWindow premuturely,closed,2013-05-24T23:26:06Z,2013-07-28T13:10:50Z,bug
+TonicArtos/StickyGridHeaders,29,SectionIndexer,closed,2013-05-21T06:25:20Z,2018-01-12T11:10:00Z,bug
+TonicArtos/StickyGridHeaders,26,How to make header invisible or gone,closed,2013-05-07T18:21:36Z,2013-05-11T03:24:51Z,bug
+TonicArtos/StickyGridHeaders,22,IGNORE_ITEM_VIEW_TYPE is not respected by StickyGridHeadersBaseAdapterWrapper,closed,2013-04-28T08:34:49Z,2013-04-29T04:33:07Z,bug
+TonicArtos/StickyGridHeaders,16,Headers disappear when data set is invalidated but data still exists.,closed,2013-03-25T22:16:56Z,2013-03-25T22:56:03Z,bug
+TonicArtos/StickyGridHeaders,15,adapter.notifyDataSetChanged() bug...,closed,2013-03-25T17:59:50Z,2013-03-25T22:48:45Z,bug
+TonicArtos/StickyGridHeaders,14,Orientation bug...,closed,2013-03-25T17:58:30Z,2013-03-30T10:29:56Z,bug
+TonicArtos/StickyGridHeaders,12,header problem with android:verticalSpacing...,closed,2013-03-24T20:27:34Z,2013-03-25T11:37:56Z,bug
+TonicArtos/StickyGridHeaders,7,wrong mNumColumns,closed,2013-02-15T15:48:29Z,2013-02-20T02:22:20Z,bug
+TonicArtos/StickyGridHeaders,3,Crashes when displaying only one column,closed,2013-01-31T01:08:44Z,2013-01-31T01:47:26Z,bug
+TonicArtos/StickyGridHeaders,2,Auto-Fitted columns are sometimes incorrectly calculated.,closed,2013-01-30T00:51:33Z,2013-01-31T01:47:26Z,bug
+TonicArtos/StickyGridHeaders,1,Padding Drawing Error,closed,2013-01-28T07:01:41Z,2013-01-28T12:00:32Z,bug
+aminb/mathtools,5,NaN in vector:line:R2:standard in some cases,closed,2014-08-01T16:48:38Z,2014-08-06T17:06:30Z,bug
+meetshah1995/TechFest2k15,6,App Closes Unfortunately on Screen Tilt ,closed,2014-12-16T08:09:10Z,2014-12-16T11:26:12Z,bug
+meetshah1995/TechFest2k15,5,App crashes on loading CSV from app cache,closed,2014-11-28T16:05:40Z,2014-11-28T18:28:31Z,bug
+meetshah1995/TechFest2k15,4,Unfortunate App Close on getDirections press,closed,2014-11-23T19:18:49Z,2014-11-24T11:35:00Z,bug
+asamm/locus-api,57,What about Map SRTM Altitute? Deprecation?,closed,2025-02-01T17:11:17Z,2025-02-03T12:35:39Z,bug
+asamm/locus-api,55,minifyEnabled stops working at API 0.9.53 onwards: Location has no zero argument constructor,closed,2025-01-20T21:44:27Z,2025-01-27T10:25:57Z,bug
+asamm/locus-api,44,GetTemperatue returns 0,closed,2022-02-28T05:50:33Z,2025-02-03T12:59:18Z,bug
+asamm/locus-api,38,"Api does not work, when targetting android version 30",closed,2021-05-23T10:10:17Z,2021-05-25T20:23:40Z,bug
+asamm/locus-api,37,Action Task Map Zoom Value does not match ,closed,2021-04-29T18:39:39Z,2021-05-04T11:27:05Z,bug
+asamm/locus-api,36,Why does the sample app Query permission not match to API package list?,closed,2021-04-28T14:49:25Z,2021-05-04T09:27:56Z,bug
+asamm/locus-api,35,revert the deletion of the value CACHE_SIZE_HUGE,closed,2021-04-25T13:28:40Z,2021-04-25T18:16:39Z,bug
+asamm/locus-api,34,Live_tracking broadcast issue,closed,2021-04-13T17:57:41Z,2021-04-14T07:35:00Z,bug
+asamm/locus-api,32,Error in call lastIndexOf in class GeocachingAttribute,closed,2021-02-15T22:41:05Z,2021-02-17T18:56:08Z,bug
+asamm/locus-api,25,ActionDisplayPoints sendPacksFile - fileUri not everywhere optional,closed,2019-08-12T19:39:03Z,2019-09-25T19:27:39Z,bug
+asamm/locus-api,23,Get point by name not working,closed,2019-06-27T18:31:30Z,2019-07-24T19:04:06Z,bug
+asamm/locus-api,17,Incorrect call `ActionTools.displayLocusStoreItemDetail`,closed,2019-04-15T14:32:34Z,2019-08-20T11:19:34Z,bug
+asamm/locus-api,16,(Waypoint) point.getParameterStyleName() returns null for icons from Garmin set,closed,2019-01-17T11:40:34Z,2019-01-20T15:37:56Z,bug
+asamm/locus-api,9,LocusUtils.getAvailableVersions(...) returns empty list on Android 8.0 when any Instant App is installed,closed,2018-03-31T08:31:57Z,2018-04-05T12:32:10Z,bug
+asamm/locus-api,8,leaks some kotlin related dependencies,closed,2018-02-03T05:56:57Z,2019-01-18T13:15:40Z,bug
+asamm/locus-api,7,getMapPreview() dops an exception,closed,2017-10-25T09:26:15Z,2017-10-29T17:56:04Z,bug
+asamm/locus-api,5,Broadcast receivers can't receive implicit intents on Android 8.0.0 (Android O),closed,2017-06-12T09:15:28Z,2017-07-25T09:19:46Z,bug
+asamm/locus-api,4,LocusInfo() ctor to public,closed,2017-03-07T18:10:49Z,2017-03-12T23:14:14Z,bug
+APCVSRepo/hmi_sdk,7,There is an error during build on Linux,closed,2016-11-30T08:39:21Z,2016-12-01T02:54:34Z,bug
+beta/cloudier,4,App crashing after account authorization,closed,2016-09-16T18:01:30Z,2016-09-16T18:03:24Z,bug
+beta/cloudier,3,Snackbar doesn't animate if any accessibility service is turned on,closed,2016-09-16T07:52:51Z,2016-09-16T08:14:52Z,"bug, wontfix"
+beta/cloudier,2,Unable to display images too large,open,2016-09-15T16:05:17Z,,bug
+beta/cloudier,1,Unable to display images too large,closed,2016-09-15T16:00:36Z,2016-09-15T16:06:32Z,"bug, duplicate"
+tvbarthel/SimpleWeatherForecast,10,Expected rain amount,open,2016-05-06T14:31:53Z,,bug
+tvbarthel/SimpleWeatherForecast,5,[NPE] DailyForecastUpdateService.onStartCommand,closed,2014-08-31T12:50:14Z,2014-09-04T13:18:29Z,bug
+tvbarthel/SimpleWeatherForecast,4,[NPE] IabHelper.queryPurchases,closed,2014-06-16T19:48:53Z,2014-12-01T21:01:44Z,bug
+d-max/plua,3,Fix crash,closed,2015-07-30T15:41:43Z,2015-08-26T10:43:35Z,bug
+Letme/give-me-coinsMonitoringApp,22,Storing SharedPreferences keys in strings.xml can lead to problems,open,2013-12-07T20:52:29Z,,bug
+Letme/give-me-coinsMonitoringApp,21,"Unchecking ""Show in Notification Bar"" does not remove notification",open,2013-12-07T19:52:47Z,,"bug, enhancement"
+Letme/give-me-coinsMonitoringApp,20,Remove unnecessary uses of static variables.,open,2013-12-07T14:03:29Z,,bug
+Letme/give-me-coinsMonitoringApp,5,Closing and reopening - Sticky service does not re-run,closed,2013-11-24T21:42:25Z,2013-11-25T22:09:34Z,bug
+Coffeeboys/RenewPass,33,Password encryption/decryption fails when app is re-installed,open,2016-07-19T01:22:28Z,,bug
+Coffeeboys/RenewPass,31,Douglas UPass renew failed,open,2016-02-24T07:28:59Z,,bug
+Coffeeboys/RenewPass,30,Auto-Renew won't be rescheduled on play store app update,closed,2016-02-22T06:40:14Z,2017-02-02T22:48:50Z,bug
+Coffeeboys/RenewPass,25,Auto-renewal gets cancelled and doesn't finish if it takes too long,closed,2016-02-19T09:07:28Z,2016-02-21T17:48:08Z,bug
+Coffeeboys/RenewPass,22,App crashes on start,closed,2016-02-03T05:49:02Z,2016-02-21T06:53:47Z,bug
+Coffeeboys/RenewPass,13,Square border around Renew button on Android 4.x,closed,2016-01-22T07:56:13Z,2016-02-02T15:54:17Z,bug
+Coffeeboys/RenewPass,10,Changing username could result in failed key lookup,closed,2016-01-21T22:58:03Z,2016-01-23T00:34:43Z,bug
+The1andONLYdave/fireinstaller,6,"Process Dialog shows ""finished"" too early",open,2015-10-13T11:57:58Z,,bug

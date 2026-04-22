@@ -1,0 +1,5 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+johnsto/mailcircle,2,Broadcast receivers still fires even when notifications are disabled,open,2014-12-04T07:33:16Z,,bug
+johnsto/mailcircle,1,GMail Intent doesn't open correct account/label,open,2014-12-04T07:31:32Z,,bug
+contentful/gallery-app-android,2,Crash in pre lollipop,closed,2015-08-12T07:45:29Z,2015-08-12T08:06:42Z,bug
+plastygrove/BlueSerial,3,Add buffering to the display console and clear beyond that,closed,2013-07-11T13:20:03Z,2013-07-12T05:11:42Z,bug

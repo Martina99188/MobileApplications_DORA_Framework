@@ -1,0 +1,20 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+nirabpudasaini/Mero-Bhada-Meter,11,Tracking sometimes automatically stops,open,2014-05-21T08:15:56Z,,bug
+nirabpudasaini/Mero-Bhada-Meter,8,Fare display at the top not functioning as intended,closed,2014-05-13T06:29:11Z,2014-05-21T08:09:32Z,bug
+nirabpudasaini/Mero-Bhada-Meter,1,GPS setting can be off while tracking,closed,2013-12-10T08:18:30Z,2013-12-13T08:22:02Z,bug
+zhuqianqian/wordchain,2,History word list not reset if the game over dialog is canceled.,closed,2014-04-08T03:30:25Z,2014-04-09T14:12:14Z,bug
+zhuqianqian/wordchain,1,Achievement progress not reset after gameover/newgame,closed,2014-04-08T03:25:34Z,2014-04-09T14:11:35Z,bug
+steinbachr/spitly-android,29,Text doesn't send when message body is large,closed,2014-08-30T21:24:30Z,2014-08-31T20:54:19Z,bug
+steinbachr/spitly-android,24,Fix issue with pulling in contact entries that dont have numbers,closed,2014-08-17T21:41:00Z,2014-08-18T02:55:44Z,bug
+steinbachr/spitly-android,23,show star filled in / not filled in as appropriate on autocomplete contacts ,closed,2014-08-17T21:25:38Z,2014-08-18T03:50:17Z,bug
+steinbachr/spitly-android,21,Message doesn't send when time to send is more then 1 minute in the future,closed,2014-08-17T21:22:40Z,2014-08-18T02:26:50Z,bug
+steinbachr/spitly-android,20,"handle case when user doesn't choose a contact by clicking, but just finishes typing their name",closed,2014-08-16T20:15:15Z,2014-08-16T23:18:25Z,bug
+clayfish/torch,11,Not working on Android 6,open,2016-12-13T22:26:47Z,,bug
+clayfish/torch,5,Runtime permissions,closed,2016-08-26T18:08:33Z,2016-12-13T22:27:47Z,bug
+crazyhitty/Rss-Manager,6,tag enclosure it cannot be read,open,2017-03-21T05:01:40Z,,"bug, enhancement"
+crazyhitty/Rss-Manager,4,getting error for material dialog library.,closed,2017-01-06T12:48:40Z,2017-02-16T18:21:06Z,bug
+Dvik/Taskzy,2,Sort the apps in alphabetical order,open,2017-05-11T12:23:03Z,,bug
+faywong/FFPlayer,4,crash occurs when SDL_Thread call a pthread_exit at line:48@SDL_systhread.c,open,2013-07-27T12:04:08Z,,bug
+gianasista/tldr-viewer,5,"""index.json"" is no longer kept up-to-date",closed,2015-12-31T10:27:11Z,2016-01-01T19:45:38Z,bug
+gianasista/tldr-viewer,2,Crash when open command in offline,closed,2015-12-29T14:57:45Z,2016-01-01T19:36:12Z,bug
+EddieRingle/PasswordMaker_X,6,Domain only compatibility broken,open,2017-07-19T14:14:52Z,,bug

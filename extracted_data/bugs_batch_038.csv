@@ -1,0 +1,58 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+patrickfav/Dali,21,Build/Release Issue: Bintray Plugin not working,open,2020-06-13T22:09:14Z,,buildbug
+patrickfav/Dali,20,Crash when using HARDWARE bitmap,open,2020-06-12T23:33:08Z,,"bug, help wanted"
+patrickfav/Dali,19,Color distorted for RGB_565 bitmaps with renderscript blur algorithms,open,2020-06-12T21:33:41Z,,"bug, help wanted"
+patrickfav/Dali,18,The application could not be installed: INSTALL_FAILED_NO_MATCHING_ABIS,open,2020-01-14T15:17:36Z,,bug
+patrickfav/Dali,16,Unable to publish app to playstore due to no 64-bit support,closed,2019-08-21T05:05:07Z,2019-08-23T06:36:48Z,bug
+patrickfav/Dali,15,Failed resolution of: Lcom/jakewharton/disklrucache/DiskLruCache;,open,2019-07-26T13:58:51Z,,"bug, help wanted"
+patrickfav/Dali,9,crashes as soon as I create a blur worker for live bluring,open,2017-10-12T03:14:41Z,,bug
+patrickfav/Dali,7,TwoLevelCache can leak Context,open,2017-03-02T10:10:10Z,,bug
+patrickfav/Dali,3,Error while updating the live blur,open,2016-09-27T10:41:16Z,,bug
+nick11roberts/Moka-Scanr,2,Dropbox upload skips authentication and upload process,closed,2014-07-16T00:49:45Z,2014-07-16T15:55:47Z,bug
+nick11roberts/Moka-Scanr,1,Cancelling the camera activity causes app to crash.,open,2014-05-31T07:35:13Z,,bug
+hanneseilers/Mensa-SH,14,Ratings not shown directly after activation,closed,2014-03-13T10:46:43Z,2014-03-14T07:52:28Z,bug
+hanneseilers/Mensa-SH,9,Restoring already implemented features,closed,2014-03-10T13:31:00Z,2014-03-12T14:34:33Z,bug
+barryoneill/pingly,2,Probe Runner starts probe multiple times on rotate,closed,2012-11-29T22:53:25Z,2012-11-30T22:29:43Z,bug
+barryoneill/pingly,1,Crash on Samsung Galaxy Tab,closed,2012-11-20T01:25:32Z,2012-11-30T22:29:12Z,bug
+dan-zx/twitt4droid,1,Bad file name,closed,2016-01-13T15:52:54Z,2025-06-03T18:05:15Z,bug
+hubbardgary/LondonTrails,1,NullPointerException on ShowMapActivity,closed,2017-10-24T13:25:51Z,2017-10-28T16:47:32Z,bug
+CroceRossaItaliana/gaia-android,26,0.4.8 neanche si apre,closed,2014-01-11T14:52:25Z,2014-01-28T17:39:27Z,bug
+CroceRossaItaliana/gaia-android,15,Crash dell'app su android 4.4 Kitcat su LG nexus 4,closed,2013-12-06T16:21:28Z,2013-12-12T08:54:00Z,bug
+codeforgreenville/trolley-tracker-android-client,48,Flickering during route preview,closed,2017-11-27T03:35:56Z,2023-06-30T14:59:57Z,bug
+codeforgreenville/trolley-tracker-android-client,41,Null pointer exception while previewing route,closed,2017-02-27T18:19:56Z,2023-06-30T14:59:56Z,bug
+codeforgreenville/trolley-tracker-android-client,40,Occasional null exception when user is dismissing permissions request dialog,closed,2017-02-21T03:44:47Z,2017-02-21T04:26:49Z,bug
+codeforgreenville/trolley-tracker-android-client,38,Trolley schedule not showing up,closed,2016-12-09T19:39:39Z,2017-02-21T03:07:19Z,bug
+codeforgreenville/trolley-tracker-android-client,37,"The ""my location"" feature not working after initial launch",closed,2016-09-23T22:38:48Z,2016-09-27T22:50:27Z,bug
+codeforgreenville/trolley-tracker-android-client,36,Add android.hardware.location.gps to manifest,closed,2016-09-20T18:44:11Z,2016-09-20T22:03:53Z,bug
+codeforgreenville/trolley-tracker-android-client,35,Map rendering IllegalStateException,closed,2016-09-13T11:59:12Z,2017-02-27T18:06:34Z,bug
+codeforgreenville/trolley-tracker-android-client,34,SplashScreen NullPointerException,closed,2016-07-26T19:32:47Z,2017-02-27T18:06:40Z,bug
+codeforgreenville/trolley-tracker-android-client,31,Window title is inconsistent with active fragment after rotating screen,closed,2016-05-16T14:13:57Z,2017-02-25T15:37:40Z,bug
+codeforgreenville/trolley-tracker-android-client,30,ScheduleFragment null array exception,closed,2016-04-18T14:03:41Z,2016-05-14T23:06:39Z,bug
+codeforgreenville/trolley-tracker-android-client,29,parseDateTime exception,closed,2016-04-18T14:02:29Z,2017-02-25T23:00:48Z,bug
+codeforgreenville/trolley-tracker-android-client,28,MainActivity fragment inflation exception,closed,2016-04-18T14:01:06Z,2016-05-14T23:05:38Z,"bug, wontfix"
+codeforgreenville/trolley-tracker-android-client,27,SplashScreen NullPointerException,closed,2016-04-18T13:57:49Z,2016-05-14T23:06:39Z,bug
+codeforgreenville/trolley-tracker-android-client,24,Does not show current location on marshmallow,closed,2016-03-13T01:33:12Z,2016-03-20T00:04:33Z,bug
+codeforgreenville/trolley-tracker-android-client,21,Lunch Route Issue,closed,2016-01-08T18:44:48Z,2016-01-10T21:29:39Z,bug
+codeforgreenville/trolley-tracker-android-client,20,Don't show stale location data,closed,2016-01-04T18:28:44Z,2016-01-09T16:50:08Z,bug
+codeforgreenville/trolley-tracker-android-client,19,App is wonky after screen rotated or another event causes activity to be recreated,closed,2015-12-31T14:05:02Z,2016-01-03T00:40:44Z,bug
+codeforgreenville/trolley-tracker-android-client,13,Do not zoom in on users location if no trolleys are in service,closed,2015-10-29T13:35:46Z,2015-12-04T02:23:38Z,bug
+codeforgreenville/trolley-tracker-android-client,7,Re-download route data after x period of time,closed,2015-08-30T15:11:15Z,2016-01-09T16:50:08Z,bug
+meefik/busybox,71,hwclock -w produces ioctl error,open,2018-11-15T06:50:24Z,,bug
+meefik/busybox,70,xargs falsely exits 0 on errors in 1.28.4 (worked correctly in 1.27.2),open,2018-11-14T22:59:48Z,,bug
+meefik/busybox,67,ssl_helper not found in F-Droid build,open,2018-07-23T15:16:32Z,,bug
+sytolk/TaxiAndroidOpen,10,Taxi position,open,2017-03-17T07:52:37Z,,bug
+sytolk/TaxiAndroidOpen,5,Button Exit not work,closed,2014-07-31T14:25:42Z,2014-08-27T09:05:21Z,bug
+Mnkai/PGPClipper,13,Clipboard detection does not work in some devices,closed,2016-04-24T11:13:48Z,2018-07-19T15:21:23Z,bug
+Mnkai/PGPClipper,8,Crash on 0.2 when tapping the decrypted data result field,closed,2015-11-12T12:23:03Z,2015-11-12T15:00:24Z,bug
+Mnkai/PGPClipper,7,Version displayed at Google Play and actual version of the app don't match,closed,2015-11-10T09:18:50Z,2015-11-10T09:30:54Z,bug
+Mnkai/PGPClipper,6,Crash on 0.12 while copying PGP data to the clipboard,closed,2015-11-09T10:25:11Z,2015-11-12T14:55:44Z,bug
+Mnkai/PGPClipper,2,There are no bug reports,closed,2015-10-10T14:31:11Z,2015-11-12T14:26:10Z,"bug, help wanted"
+eventigo/eventigo-app,23,Prevent duplicate navigation on fast taps,open,2017-05-04T22:00:44Z,,bug
+PawelBor/Year-4-Offer,1,Encryption needs fixing,closed,2017-02-28T20:09:38Z,2017-03-01T11:25:46Z,bug
+krcla/KnowYourRightsApp,5,"After changing the language setting, the hot line button changes to ""CANNOT USE PHONE""",closed,2017-05-12T03:55:55Z,2017-05-15T04:55:41Z,bug
+dhmncivichacks/isitrecyclingweek-android,27,Back button doesn't work,closed,2015-10-21T17:22:47Z,2016-08-02T01:44:20Z,bug
+dhmncivichacks/isitrecyclingweek-android,11,Set location and About activities need .finish(),closed,2015-06-01T14:02:04Z,2015-06-01T14:31:53Z,bug
+dhmncivichacks/isitrecyclingweek-android,10,"When upstream fixes their bug, handle it on our side.",closed,2015-06-01T13:10:03Z,2015-06-06T22:32:58Z,bug
+dhmncivichacks/isitrecyclingweek-android,8,Handle offline,open,2015-05-28T20:07:54Z,,"bug, help wanted"
+dhmncivichacks/isitrecyclingweek-android,7,Be multi-lingual. Currently English only. :(,open,2015-05-28T20:05:51Z,,"bug, help wanted"
+mcprog/ragnar,1,Player controls (android) after deathscreen,closed,2015-02-10T06:52:51Z,2015-02-12T05:58:22Z,bug

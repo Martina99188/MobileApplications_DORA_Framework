@@ -1,0 +1,139 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+ryanpconnors/art-thief,6,Toolbar hides bottom of ScrollView,open,2016-11-27T20:51:17Z,,"bug, wontfix"
+ryanpconnors/art-thief,4,SQLite out of memory on DB insert,open,2016-10-23T15:44:20Z,,bug
+ryanpconnors/art-thief,3,ProgressDialog not able to withstand orientation change,open,2016-10-09T21:44:25Z,,bug
+ryanpconnors/art-thief,1,Unable to create Share Intent for private images.,open,2016-04-03T22:56:07Z,,bug
+BullshitPingu/Guide7,82,Notice board: Events from and to the same date are invisible,closed,2019-04-25T06:56:10Z,2019-04-30T07:33:27Z,"bug, priority: high"
+BullshitPingu/Guide7,64,Cannot delete custom week plan events,closed,2019-02-01T10:59:38Z,2019-02-01T16:34:07Z,"bug, priority: high"
+BullshitPingu/Guide7,62,Cannot start app without internet connection,closed,2019-01-28T09:56:30Z,2019-02-01T16:46:57Z,"bug, priority: high"
+BullshitPingu/Guide7,60,Cannot open links when tapping on link in the notice board,closed,2019-01-17T11:59:13Z,2019-02-01T16:42:37Z,"bug, priority: high"
+BullshitPingu/Guide7,59,Appointment end date is always equal to the appointment start date,closed,2019-01-14T11:41:05Z,2019-01-15T18:59:31Z,bug
+BullshitPingu/Guide7,54,Not able to refresh notice board (personal and public).,closed,2019-01-11T11:28:29Z,2019-01-11T14:54:39Z,bug
+moravianlibrary/kramerius-for-android,233,audio přehrávač - oddělovač za poslední položkou se zobrazuje jen při přehrávání,closed,2015-12-03T13:00:40Z,2015-12-03T13:04:32Z,"bug, audio"
+moravianlibrary/kramerius-for-android,231,"Pokud je aplikace zabita, zůstane viset částečně nefunkční notifikace o přehrávání",closed,2015-12-02T20:15:50Z,2015-12-03T02:48:48Z,"bug, audio"
+moravianlibrary/kramerius-for-android,221,Po přechodu do aplikace přes notifikaci přehrávání někdy spadne.,closed,2015-10-26T20:57:23Z,2015-12-03T03:09:45Z,"bug, wontfix, audio"
+moravianlibrary/kramerius-for-android,199,Nechteny onTap v prohlizecce.,closed,2014-12-03T16:40:06Z,2014-12-09T14:52:12Z,"bug, ZoomifyViewer, High Priority"
+moravianlibrary/kramerius-for-android,186,U PDF dokumentu v prohlizecce se nenactou jednotlive stranky.,closed,2014-11-25T16:59:16Z,2014-11-26T15:27:09Z,"bug, High Priority"
+moravianlibrary/kramerius-for-android,184,"V hledani se aktualizuje spinner, ale pri novem nacteni hledani se neobnovi podle vyberu spinneru",closed,2014-11-25T15:57:16Z,2014-11-25T16:25:01Z,bug
+moravianlibrary/kramerius-for-android,176,pád aplikace po startu (chybějící resource) na Nexus S,closed,2014-11-24T17:30:35Z,2014-11-24T17:50:03Z,bug
+moravianlibrary/kramerius-for-android,172,Dialog pro vyber jazyka nerespektuje primaryColor.,closed,2014-11-24T09:21:16Z,2014-11-24T19:50:02Z,bug
+moravianlibrary/kramerius-for-android,167,V nove verzi zoomify prohlizecky jsou obrazky ve spatne kvalite.,closed,2014-11-16T22:21:03Z,2014-12-03T09:39:14Z,"bug, ZoomifyViewer, High Priority"
+moravianlibrary/kramerius-for-android,166,Aplikace spadne kdyz pri nacitani pdf opustim aktivitu.,closed,2014-11-16T22:18:38Z,2014-11-17T01:30:47Z,"bug, High Priority"
+moravianlibrary/kramerius-for-android,165,Nefunguje hledani podle data.,closed,2014-11-16T22:11:43Z,2014-11-17T01:30:47Z,"bug, High Priority"
+moravianlibrary/kramerius-for-android,164,velikost pismen u vyhledavani,closed,2014-11-13T21:11:04Z,2014-11-16T05:57:56Z,"bug, Kramerius API, Search"
+moravianlibrary/kramerius-for-android,161,Zmenit vybraneho Krameria pri otevreni aplikace pes link z jine aplikace.,closed,2014-11-10T15:20:04Z,2014-11-24T11:47:24Z,"bug, enhancement, High Priority"
+moravianlibrary/kramerius-for-android,159,Chybne obnoveni nekterych aktivit a fragmentu po systemovem killu,closed,2014-11-10T02:22:24Z,2015-04-05T21:26:23Z,"bug, High Priority"
+moravianlibrary/kramerius-for-android,156,Chybi tlacitko pro podrobnosti v prohlizecce.,closed,2014-11-09T23:34:39Z,2014-11-10T21:36:57Z,"bug, High Priority"
+moravianlibrary/kramerius-for-android,146,"Pokud se vysune klavesnice v hledani, tak EditText ztrati focus.",closed,2014-11-06T20:50:41Z,2014-11-09T15:28:57Z,bug
+moravianlibrary/kramerius-for-android,132,Prebarveni navigation arrow,closed,2014-11-03T01:03:33Z,2014-11-09T22:43:27Z,bug
+moravianlibrary/kramerius-for-android,131,"Pokud se obnovi fragment s nejnovejsima, tak scrollview poskoci dolu.",closed,2014-11-03T00:20:20Z,2015-12-19T16:21:24Z,"bug, High Priority"
+moravianlibrary/kramerius-for-android,128,"Na hlavni obrazovce zmizi tlacitko ""zobrazit vse"" pri obnoveni fragmentu.",closed,2014-10-30T20:43:31Z,2014-11-03T01:03:49Z,bug
+moravianlibrary/kramerius-for-android,125,vyhledavani - je mozno zapsat vice radku,closed,2014-10-17T01:10:20Z,2014-10-17T01:22:12Z,"bug, Search"
+moravianlibrary/kramerius-for-android,113,Na Androidu 4.1.2 (Nexus S) se nezobrazuje ikona navigation drawer na hlavni obrazovce.,closed,2014-10-13T13:44:14Z,2014-11-04T20:17:26Z,"bug, question"
+moravianlibrary/kramerius-for-android,109,Paralelni spousteni asyncTasku,closed,2014-10-07T12:23:56Z,2014-10-09T22:39:45Z,"bug, wontfix"
+moravianlibrary/kramerius-for-android,108,Timeout na request,closed,2014-10-07T12:22:29Z,2014-10-09T20:07:24Z,bug
+moravianlibrary/kramerius-for-android,100,Refresh naposledy otevrenych pri onResume,closed,2014-10-06T15:42:09Z,2014-10-08T20:01:26Z,bug
+moravianlibrary/kramerius-for-android,93,"Hledani s vyplnenym pouze ""do"" zahrnuje i dokumenty s nevyplnenym rokem.",closed,2014-09-30T15:34:57Z,2014-10-02T21:19:52Z,bug
+moravianlibrary/kramerius-for-android,90,"chybějící název, rok ročníku, název čísla",closed,2014-09-28T15:09:48Z,2014-09-29T15:42:54Z,"bug, Metadata"
+moravianlibrary/kramerius-for-android,89,"vyhledávání nenajde ""Mladá fronta""",closed,2014-09-28T15:08:37Z,2014-10-02T20:09:07Z,"bug, Search"
+moravianlibrary/kramerius-for-android,78,V pdf prohlizecce testovat jestli pdf stream nevraci status 403 a vypsat hlasku o nedostupnosti dokumentu.,closed,2014-09-23T14:02:59Z,2014-11-17T01:30:47Z,bug
+moravianlibrary/kramerius-for-android,72,Pri zmene Krameria vytvorit novy task - systemovym back se ted dostanu zpet do nastaveni.,closed,2014-09-19T14:33:54Z,2014-09-23T17:29:09Z,bug
+moravianlibrary/kramerius-for-android,61,"V seznamu roli chybi ""dte"" - co to je?",closed,2014-09-11T18:55:30Z,2014-09-17T23:17:29Z,bug
+moravianlibrary/kramerius-for-android,60,Autor muze byt v modsu rozdelen na prijmeni a krestni.,closed,2014-09-11T17:56:21Z,2014-09-11T19:03:18Z,bug
+moravianlibrary/kramerius-for-android,58,Zmatek v datovych modelech.,open,2014-09-11T17:51:37Z,,bug
+moravianlibrary/kramerius-for-android,56,Chyba pri hledani v periodikach.,closed,2014-09-11T17:17:48Z,2014-09-11T19:10:11Z,bug
+moravianlibrary/kramerius-for-android,44,Aplikace spadne pokud v prohlizecce zmenim orientaci zarizeni a zobrazim detail.,closed,2014-09-10T02:43:34Z,2014-10-08T22:14:17Z,bug
+moravianlibrary/kramerius-for-android,26,V prohlizecce se neda pres actionBar dostat o uroven vys.,closed,2014-09-05T04:31:22Z,2014-09-07T23:54:57Z,bug
+moravianlibrary/kramerius-for-android,5,onTap na fragment s prohlizeckou nefunguje uplne spravne,closed,2014-09-03T14:28:34Z,2014-12-03T16:39:03Z,"bug, ZoomifyViewer, High Priority"
+ronaldsmartin/APO-DZ-Android,5,Switching lists in alumni mode does not refresh SectionIndex,open,2014-07-19T11:39:29Z,,bug
+ronaldsmartin/APO-DZ-Android,2,Scrolling indicator origin is underneath the header view,closed,2014-03-17T02:22:05Z,2014-03-29T06:47:46Z,bug
+ronaldsmartin/APO-DZ-Android,1,App crashes when network reachability is down.,closed,2014-03-17T02:18:18Z,2014-07-08T01:07:42Z,bug
+aalto-trafficsense/trafficsense-android,1,Client does not properly recognize a full backup running in a new device,open,2017-07-05T19:02:35Z,,bug
+wordpress-mobile/WordCamp-Android,59,HTTPS connections - validate certificates and host names,closed,2015-11-07T12:02:08Z,2015-11-23T14:43:36Z,bug
+wordpress-mobile/WordCamp-Android,47,"Search (filter) WordCamps, refresh the view -> all WordCamps pop up",open,2015-06-29T15:03:16Z,,bug
+wordpress-mobile/WordCamp-Android,46,1.0-beta Crash report: IllegalStateException: attempt to re-open an already-closed object,open,2015-06-29T14:53:49Z,,bug
+wordpress-mobile/WordCamp-Android,41,Low resolution placeholder gravatar,closed,2015-06-24T15:08:06Z,2015-06-25T08:05:03Z,bug
+wordpress-mobile/WordCamp-Android,38,HTML entities in Session Detail action bar title,closed,2015-06-24T07:53:09Z,2015-06-25T07:23:44Z,bug
+wordpress-mobile/WordCamp-Android,31,Some views need metrics and keyline improvements,closed,2015-06-23T15:43:17Z,2015-06-23T18:44:03Z,"bug, design"
+wordpress-mobile/WordCamp-Android,29,Bug on some locale: ugly tabs ,closed,2015-06-23T15:07:33Z,2015-06-24T06:38:04Z,bug
+shts/NogiFeed,15,サムネイルダウンロード設定をOFFにしている場合、サムネイルのみの画像がダウンロードできない,open,2016-05-23T04:57:24Z,,bug
+shts/NogiFeed,3,throw exception at version 2.3.7,closed,2014-11-29T13:30:37Z,2015-01-11T15:30:04Z,bug
+shts/NogiFeed,1,webview inside fragment android opening outside of the app in a browser,closed,2014-09-10T16:28:40Z,2014-11-29T13:27:46Z,"bug, help wanted"
+SubstanceMobile/GEM,34,Playback is fully broken the last few commits...,closed,2015-12-14T12:55:08Z,2016-02-02T15:46:33Z,bug
+SubstanceMobile/GEM,32,Permissions,closed,2015-11-15T16:27:55Z,2015-12-14T12:52:11Z,bug
+SubstanceMobile/GEM,31,Drawable Tinting doesn't work on versions lower than Lollipop,closed,2015-11-15T15:30:16Z,2015-11-15T15:30:22Z,bug
+SubstanceMobile/GEM,30,Force close,closed,2015-11-14T11:30:05Z,2015-11-14T17:29:27Z,"bug, duplicate"
+SubstanceMobile/GEM,28,The color of text in drawer is too similar to get clearly.Please fix this bug. ,closed,2015-11-14T03:27:54Z,2015-11-15T15:47:29Z,bug
+SubstanceMobile/GEM,26,Color of Nav drawer text and icons in light theme,closed,2015-11-13T16:52:30Z,2015-11-15T15:46:17Z,"bug, missing details"
+SubstanceMobile/GEM,24,O GEM Player parou,closed,2015-11-08T13:15:39Z,2015-11-08T14:52:13Z,"bug, duplicate"
+SubstanceMobile/GEM,23,Bugs e travamentos,closed,2015-11-08T11:25:43Z,2015-11-08T14:51:21Z,"bug, duplicate"
+SubstanceMobile/GEM,20,No art crash,closed,2015-11-06T20:13:14Z,2015-11-15T15:38:08Z,bug
+SubstanceMobile/GEM,19,Can't click on song from album view && Switching albums causes crash.,closed,2015-11-06T13:34:23Z,2016-01-30T13:01:26Z,bug
+SubstanceMobile/GEM,16,Notification Reappearing,closed,2015-11-04T02:44:43Z,2015-11-05T13:00:25Z,bug
+chrsep/Kingfish,28,Subject Name and Time overlaps for Exams,closed,2017-11-01T15:07:28Z,2018-09-22T15:30:21Z,"bug, help wanted"
+chrsep/Kingfish,19,Nilai mata kuliah yang sama keluar lebih dari sekali,closed,2017-09-20T03:03:21Z,2017-11-06T06:08:07Z,"bug, help wanted"
+chrsep/Kingfish,14,Can't update grades,closed,2017-05-27T05:26:20Z,2017-09-22T02:15:42Z,"bug, help wanted"
+chrsep/Kingfish,13,Unable to sign in and update data,closed,2017-05-24T08:52:34Z,2017-06-02T01:42:02Z,"bug, help wanted"
+chrsep/Kingfish,6,New Binusmaya captcha disables Portal,closed,2016-09-27T11:41:24Z,2016-09-29T02:31:21Z,"bug, enhancement, help wanted"
+jrvansuita/PickImage,61,onActivityResult bug,closed,2018-02-18T17:49:57Z,2018-04-15T15:10:20Z,"bug, help wanted"
+jrvansuita/PickImage,60,In oreo camera is not working,closed,2018-02-04T21:21:36Z,2018-04-15T15:09:50Z,"bug, help wanted"
+jrvansuita/PickImage,57,NPE can be invoked on AsyncImageResult class,closed,2018-01-17T03:05:19Z,2018-04-15T17:57:11Z,bug
+jrvansuita/PickImage,23,Activity destroyed,closed,2017-03-06T20:55:53Z,2022-06-16T23:21:17Z,"bug, help wanted"
+jrvansuita/PickImage,19," java.lang.Error: FileProvider not declared or has wrong authority. (Must be ${applicationId}.com.vansuita.pickimage.provider, check AndroidManifest.xml)",closed,2017-02-19T14:04:06Z,2017-02-21T14:12:05Z,bug
+bl-lia/kktAPK,63,NotificationFragment.kt line 184,closed,2017-05-04T13:00:04Z,2017-05-05T22:31:23Z,bug
+bl-lia/kktAPK,60,Long bio is not shown fully,open,2017-05-04T10:36:43Z,,bug
+bl-lia/kktAPK,34,Cannot close application by pushing back button,closed,2017-05-01T08:11:48Z,2017-05-13T03:29:53Z,bug
+niqdev/ipcam-view,70,About mjpeg stream crash problem at VIVO 7+ phone,open,2018-09-04T06:33:02Z,,bug
+niqdev/ipcam-view,65,after camera messoa 640X480 Error the Malformed \uxxxx encoding,open,2018-06-21T15:31:24Z,,bug
+niqdev/ipcam-view,38,Crash mjpeg stream from DLINK 930 L,open,2017-06-05T16:53:01Z,,bug
+niqdev/ipcam-view,35,Resetting to invalid mark&java.lang.NegativeArraySizeException: -1,open,2017-05-04T11:39:13Z,,bug
+niqdev/ipcam-view,30,Prefix type attribute,open,2017-03-17T16:31:48Z,,bug
+niqdev/ipcam-view,20,Android 7 not supported,closed,2016-11-13T13:27:48Z,2017-01-22T08:15:55Z,bug
+niqdev/ipcam-view,18,NetworkOnMainThread Exception,closed,2016-09-28T13:09:00Z,2017-01-18T13:02:30Z,bug
+niqdev/ipcam-view,12,NPE on MjpegViewDefault,closed,2016-07-03T00:36:33Z,2016-07-04T12:08:51Z,bug
+niqdev/ipcam-view,9,Once in a while app crashes (emulator),closed,2016-06-07T06:13:19Z,2016-11-13T13:14:38Z,"bug, duplicate"
+niqdev/ipcam-view,2,Scrollview in very lag,closed,2016-05-02T06:30:39Z,2016-05-31T17:21:19Z,bug
+bewantbe/audio-analyzer-for-android,19,Spam(Spectrogram) Not working on Android Oreo.,closed,2018-01-08T01:33:05Z,2018-01-11T12:23:27Z,bug
+khertan/ForRunners,72,Menu missing after clicking on Equipment,closed,2018-04-01T20:58:19Z,2018-04-17T18:37:45Z,bug
+khertan/ForRunners,71,ForRunners-1.2.1beta1 crashes on start,open,2018-03-31T13:16:05Z,,bug
+khertan/ForRunners,58,Pace calculations off,open,2017-12-13T22:44:25Z,,"bug, enhancement"
+khertan/ForRunners,48,Deleted track still visible after startup,open,2017-04-25T15:42:29Z,,bug
+khertan/ForRunners,43,Interval training not working?,open,2017-04-13T06:55:26Z,,"bug, enhancement"
+khertan/ForRunners,39,Display Bugs ,open,2017-04-08T05:53:08Z,,bug
+khertan/ForRunners,23,Back button does nothing,open,2016-12-11T02:45:07Z,,bug
+khertan/ForRunners,15,Units typography,closed,2016-10-30T12:33:40Z,2018-04-17T15:29:16Z,bug
+donkirkby/vograbulary,75,Hyperghost doesn't pick new letters after timeout,open,2016-03-27T04:44:35Z,,bug
+donkirkby/vograbulary,74,Pause button resets solution,open,2016-03-27T04:38:16Z,,bug
+donkirkby/vograbulary,72,Threading exception against computer,closed,2016-03-19T23:30:24Z,2016-03-25T16:44:49Z,bug
+donkirkby/vograbulary,63,Save state when Android rotates,closed,2015-08-09T17:08:07Z,2015-09-05T06:23:08Z,bug
+donkirkby/vograbulary,59,Field highlight with keyboard,closed,2015-07-06T05:44:36Z,2015-07-14T05:59:34Z,bug
+donkirkby/vograbulary,56,HTML navigation,closed,2015-05-03T13:49:42Z,2015-08-08T05:24:21Z,bug
+donkirkby/vograbulary,51,Enter key on hardware keyboard,closed,2015-03-06T05:51:30Z,2015-04-26T05:27:53Z,bug
+donkirkby/vograbulary,32,Selecting one or zero students confuses Ultraghost,closed,2014-06-19T03:43:04Z,2015-01-26T00:55:46Z,bug
+donkirkby/vograbulary,25,Computer solves old puzzle,closed,2014-04-18T16:01:01Z,2014-04-18T21:26:53Z,bug
+donkirkby/vograbulary,14,Menu button should reset state and view,closed,2014-02-08T06:57:45Z,2014-02-08T21:41:58Z,bug
+donkirkby/vograbulary,12,Cursor still isn't right,closed,2014-02-08T06:53:27Z,2014-02-08T19:52:10Z,bug
+joielechong/CountryCodePicker,66,Error in Inflating view in some device,open,2019-09-20T06:43:58Z,,bug
+joielechong/CountryCodePicker,28,Error setting registered Phone Number TextView,closed,2018-06-27T12:02:52Z,2018-08-22T09:15:18Z,bug
+Skarafaz/mercury,30,Android TV,closed,2020-04-07T15:18:37Z,2023-09-03T17:36:57Z,bug
+Skarafaz/mercury,13,Issues with special chars in password and sudo commands,closed,2016-04-24T17:12:42Z,2019-01-05T13:27:06Z,bug
+Skarafaz/mercury,6,Problem with special characters,closed,2015-05-05T00:07:49Z,2016-02-21T15:04:05Z,bug
+jpeddicord/speedofsound,26,"Bluetooth devices and ""music enabled"" Bluetooth devices",closed,2017-08-19T10:38:00Z,2018-03-23T23:25:56Z,bug
+jpeddicord/speedofsound,11,Speed ranges for km/h aren't all that great.,closed,2012-09-06T23:51:17Z,2013-06-05T16:20:50Z,bug
+jpeddicord/speedofsound,9,Speed values lose precision when switching between units,closed,2012-08-07T02:33:20Z,2013-06-05T02:19:35Z,bug
+jpeddicord/speedofsound,7,Headphone/bluetooth activation collision,closed,2012-08-04T23:51:11Z,2012-08-07T01:50:37Z,bug
+jpeddicord/speedofsound,4,Superflous previousTime in SoundService,closed,2012-06-07T01:06:00Z,2012-07-26T00:09:58Z,bug
+rootio/rootio_handset,41,SIP not transitioning to playlist,open,2019-05-22T14:16:56Z,,"bug, 3 - Review"
+rootio/rootio_handset,40,Media plays over existing call - SIP,open,2019-05-22T13:56:47Z,,"bug, 3 - Review"
+rootio/rootio_handset,39,SIP calls being rejected,open,2019-05-22T12:24:53Z,,"bug, 4 - Done"
+rootio/rootio_handset,38,Fix Jude's Phone,open,2019-05-22T11:58:56Z,,bug
+rootio/rootio_handset,37,Local media doesn't play on the apk v27,open,2019-05-22T11:50:29Z,,"bug, 4 - Done"
+rootio/rootio_handset,35,"App answers all callers, not only whitelisted or hosts",closed,2019-05-21T15:21:31Z,2019-05-22T06:42:55Z,"bug, 4 - Done"
+rootio/rootio_handset,34,App doesn't pick up GSM calls,open,2019-05-21T15:07:06Z,,"bug, 4 - Done"
+rootio/rootio_handset,33,Music fade out interrupts playback for a split second,open,2019-05-21T15:06:05Z,,"bug, 4 - Done"
+rootio/rootio_handset,32,Music overlapping last segment of a media program,open,2019-05-21T15:04:34Z,,"bug, 3 - Review"
+rootio/rootio_handset,31,Cannot modify the current day's schedule,open,2019-05-21T11:46:21Z,,"bug, 4 - Done"
+rootio/rootio_handset,30,Music fade out (playlists) cuts the start of media tracks coming in through SIP,open,2019-05-21T09:06:36Z,,"bug, 4 - Done"
+rootio/rootio_handset,29,Playlist contents are not (entirely) respected,closed,2019-05-21T09:01:38Z,2019-05-21T15:02:05Z,bug
+rootio/rootio_handset,27,SIP registrations showing up with local addresses rarther than web routable addresses,open,2019-05-11T13:19:07Z,,"bug, enhancement, High Priority, 4 - Done"
+rootio/rootio_handset,21,Revisit sync operation on initial installation,closed,2019-01-30T16:06:15Z,2019-01-30T17:16:09Z,"bug, High Priority"

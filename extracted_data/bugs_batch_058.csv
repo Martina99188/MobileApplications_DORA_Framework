@@ -1,0 +1,24 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+MMAUG/Kanaung,1,Nothing shows when tapping floating button,open,2015-04-10T15:29:35Z,,bug
+aajn88/wakemeapp,43,Alarm keeps playing when activity finishes or user has quitted,closed,2016-09-03T14:24:55Z,2016-09-07T06:12:46Z,bug
+iamovrhere/MorseFlash,5,Soft keyboard does not always appear in some versions (Android 2.3.3),closed,2014-08-21T22:15:19Z,2014-08-24T01:47:35Z,bug
+iamovrhere/MorseFlash,4,Add ability to pause message transcription and sending,open,2014-07-20T13:00:13Z,,"bug, enhancement"
+iamovrhere/MorseFlash,3,Fullscreen flag incompatible with screen brightness + keep screen on flags on some devices,open,2014-07-07T18:23:59Z,,bug
+iamovrhere/MorseFlash,1,Transcriber timing accuracy,open,2014-07-07T16:29:06Z,,"bug, enhancement"
+SecUSo/privacy-friendly-torchlight,19,Further NullPointerExceptions,open,2017-10-05T14:39:57Z,,bug
+SecUSo/privacy-friendly-torchlight,14,NullPointerException,open,2017-07-05T15:14:07Z,,bug
+SecUSo/privacy-friendly-torchlight,13,java.lang.RuntimeException,open,2017-06-29T14:53:16Z,,bug
+SecUSo/privacy-friendly-torchlight,12,android.os.ServiceSpecificException,open,2017-06-29T14:52:22Z,,bug
+furkantektas/braingames,6,CountDown timer start before clicking start,open,2014-12-17T11:27:03Z,,bug
+nbenm/ImapNote2,10,[Bug] Incorrect handling of German umlauts,closed,2015-11-25T12:46:34Z,2016-01-04T10:56:53Z,bug
+cmurtheepic/Mizer,15,sometimes would not update UI buttons,open,2015-10-16T05:22:11Z,,"bug, help wanted"
+cmurtheepic/Mizer,14,will sometimes generate decimal answers when undesired,open,2015-10-16T05:21:33Z,,"bug, help wanted"
+cmurtheepic/Mizer,10,The Settings button does nothing,closed,2015-10-07T01:47:06Z,2015-10-16T01:51:46Z,bug
+cmurtheepic/Mizer,9,selecting a button with a number to equal to the answer is wrong,open,2015-10-06T15:47:30Z,,"bug, help wanted"
+cmurtheepic/Mizer,8,generating decimal answers for subtraction problems,closed,2015-10-04T02:23:28Z,2015-10-16T01:52:45Z,"bug, help wanted"
+cmurtheepic/Mizer,7,subtraction answers give decimal places,closed,2015-10-01T16:52:16Z,2015-10-01T16:52:31Z,bug
+cmurtheepic/Mizer,5,requesting variables from other java classes turns false,open,2015-09-30T00:46:13Z,,"bug, help wanted"
+cmurtheepic/Mizer,4,The Application does not work,closed,2015-09-29T23:55:06Z,2015-09-30T00:43:27Z,bug
+cmurtheepic/Mizer,3,The Application crashes on clicking anything other than Addition difficulty,closed,2015-09-28T15:36:35Z,2015-09-30T00:43:27Z,bug
+cmurtheepic/Mizer,2,Only generates 0 no matter the problem,closed,2015-09-28T15:35:13Z,2015-09-29T23:55:49Z,bug
+cmurtheepic/Mizer,1,Android suspending threads,closed,2015-09-28T15:26:04Z,2015-09-28T15:48:03Z,bug

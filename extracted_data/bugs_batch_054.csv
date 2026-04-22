@@ -1,0 +1,56 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+thermatk/HSEWifi,10,HSE Wifi needs access data now,open,2018-03-06T11:17:37Z,,"bug, enhancement"
+thermatk/HSEWifi,9,Android 7.0+ doesn't work,open,2017-11-14T11:33:09Z,,bug
+thermatk/HSEWifi,5,Galaxy Tab 3 8.0 + KitKat,closed,2015-02-01T10:59:15Z,2015-02-14T14:17:30Z,bug
+thermatk/HSEWifi,4,Android 5.0,closed,2014-12-09T14:08:32Z,2015-02-02T09:22:49Z,bug
+camilotejeiro/android_quotes_display_apps,5,App gets stuck on empty quote notes,closed,2017-06-28T11:47:51Z,2017-08-01T08:19:03Z,bug
+jendakol/pidifrky,49,Ocassional error in DB updating on backend,open,2016-03-18T17:37:04Z,,bug
+jendakol/pidifrky,41,Clicking on tab header causes freeze of whole app,open,2016-02-28T12:42:18Z,,bug
+jendakol/pidifrky,40,Weird behavior when changing locations,open,2016-02-28T09:53:02Z,,bug
+PowerInside/syncplayer,14,Issues reported between android participants only,open,2018-07-01T04:56:58Z,,bug
+PowerInside/syncplayer,8,Crashes on Nvidia shield tv,open,2018-06-25T15:52:55Z,,bug
+PowerInside/syncplayer,6,NumberFormatException,open,2017-10-30T21:15:23Z,,bug
+PowerInside/syncplayer,5,Syncplayer overrides Syncplay,closed,2017-09-24T08:22:33Z,2017-10-02T10:58:36Z,bug
+PowerInside/syncplayer,4,"SyncPlayer crashes with two connected Android instances. When one linux and one android SyncPlayer are connected, it Resets seek to 0 when linux seeks.",closed,2017-09-24T03:06:43Z,2017-10-02T10:58:02Z,bug
+dhis2/dhis2-android-trackercapture,74,PeriodicSynchronizer doesn't correctly synch in background if app is not started,open,2016-04-22T08:35:36Z,,bug
+dhis2/dhis2-android-trackercapture,73,Synched scheduled event is not correctly synching the event date when added later.,open,2016-04-21T15:47:36Z,,bug
+dhis2/dhis2-android-trackercapture,68,Update enrollment from server before pushing if lastUpdated on server is newer than client,open,2016-01-06T14:02:00Z,,"bug, enhancement"
+dhis2/dhis2-android-trackercapture,66,Sending a TEI & enrollment appears as successfully sent even if there are missing mandatory TEI attributes for the enrolling program,closed,2016-01-06T10:11:36Z,2016-08-08T19:18:35Z,"bug, enhancement"
+dhis2/dhis2-android-trackercapture,61,Empty values on device are overwriting and deleting values on server if individual updating is initiated,open,2015-09-09T14:14:11Z,,"bug, enhancement"
+dhis2/dhis2-android-trackercapture,59,First row in QueryTrackedEntityInstances in detailed search is not clickable ,closed,2015-09-04T10:02:32Z,2016-08-08T19:19:06Z,bug
+dhis2/dhis2-android-trackercapture,58,QueryTrackedEntityInstancesDialog doesn't appear every time,closed,2015-09-04T09:59:09Z,2015-09-22T14:57:14Z,bug
+dhis2/dhis2-android-trackercapture,53,Remove possibility to download a TEI which already is downloaded in QueryTrackedEntityInstanceDialog,open,2015-08-21T10:02:06Z,,"bug, enhancement"
+dhis2/dhis2-android-trackercapture,51,Trigger updating local copies of TEIs when synchronizing other data,closed,2015-07-31T10:20:03Z,2016-08-08T19:24:28Z,"bug, enhancement"
+dhis2/dhis2-android-trackercapture,49,Only allow completing event or enrollment if validation succeeds,closed,2015-07-31T09:20:01Z,2016-08-08T19:23:39Z,"bug, enhancement"
+dhis2/dhis2-android-trackercapture,48,Save and close option sometimes doesn't save,closed,2015-07-29T10:17:34Z,2015-07-31T09:16:55Z,bug
+dhis2/dhis2-android-trackercapture,47,Don't allow duplicate relationship entries,closed,2015-07-29T10:15:24Z,2015-07-30T13:44:51Z,"bug, enhancement"
+dhis2/dhis2-android-trackercapture,46,Search filter always returns zero results when adding relationship,closed,2015-07-29T09:54:55Z,2015-07-29T14:18:48Z,bug
+dhis2/dhis2-android-trackercapture,44,Events without org unit fail to synchronize to server,closed,2015-07-22T15:05:20Z,2015-07-29T09:47:55Z,"bug, enhancement"
+dhis2/dhis2-android-trackercapture,31,Events doesn't appear in ProgramOverviewFragment on first login after install,closed,2015-06-05T15:53:11Z,2015-07-29T14:21:22Z,bug
+dhis2/dhis2-android-trackercapture,28,Changing program in ProgramOverview doesnt change properly,closed,2015-06-03T10:35:16Z,2015-07-31T09:45:55Z,bug
+dhis2/dhis2-android-trackercapture,27,The check for internet connection fails when using a intranet database,closed,2015-06-03T08:50:14Z,2015-06-24T10:08:25Z,bug
+dhis2/dhis2-android-trackercapture,25,Sort list of TEI with newest at the top,closed,2015-06-03T08:36:02Z,2015-06-03T08:49:16Z,bug
+dhis2/dhis2-android-trackercapture,24,New event button in Program Overview appears or disappears at wrong times bc of recycling of views,closed,2015-05-27T14:30:41Z,2015-05-28T13:42:02Z,bug
+dhis2/dhis2-android-trackercapture,21,"Nullpointer: TrackedEntityInstances appear in UpcomingEventsFragment, but not in SelectProgramFragment. ",closed,2015-05-26T09:46:32Z,2015-08-26T15:17:28Z,bug
+dhis2/dhis2-android-trackercapture,19,ProgramOverview crashes seemingly randomly when starting,closed,2015-05-20T14:12:56Z,2015-08-26T15:12:16Z,bug
+dhis2/dhis2-android-trackercapture,13,Deadlock occurs if saving data synchronously while autosyncing is taking place,closed,2015-04-24T09:22:02Z,2015-05-20T14:05:09Z,bug
+dhis2/dhis2-android-trackercapture,8,Change of value of dataelements with Option Set type on server is not reflected in app,closed,2015-04-16T11:48:27Z,2015-04-22T13:50:04Z,bug
+dhis2/dhis2-android-trackercapture,3,"Implement support for updating ProgramOverview UI when local database changes for example with new Event etc. The problem is that because of asynchronous saving to local db, race conditions occur so that the view shows up before a new event is saved (ask simen for explanation if confusing)",closed,2015-03-26T15:50:59Z,2015-05-07T09:32:04Z,"bug, enhancement"
+krishnaraj/oneclipboard,1,Completely insecure communication,closed,2014-07-16T15:23:49Z,2015-12-17T08:11:17Z,"bug, enhancement"
+yigitest/tetri-battle,10,There is a glitch in the enemy-board-ui.,open,2015-07-19T10:01:00Z,,bug
+kost/NetworkMapper,15,Android architecture: arm64-v8,closed,2016-04-22T18:25:10Z,2016-10-01T15:33:23Z,bug
+hhua/product-hunt-android,18,Unavailable in my country,closed,2016-01-12T16:25:35Z,2016-01-13T02:03:23Z,bug
+hhua/product-hunt-android,13,"Bug when clicking on a notification ""Somebody started following you""",closed,2016-01-08T05:01:12Z,2016-01-09T05:27:14Z,bug
+hhua/product-hunt-android,8,Toolbar color not correct when on task management mode,closed,2016-01-01T06:27:08Z,2016-01-01T23:28:13Z,bug
+hhua/product-hunt-android,6,Collections endpoint always return 1st page,open,2016-01-01T06:23:56Z,,"bug, help wanted"
+ndahlquist/raytracer,3,NullPointerException at RaytracerTouchHandler.onTouch(),open,2015-02-17T14:31:15Z,,bug
+jonatantierno/scrumdailytimer,46,"If the screen is blocked, the app seems to restart",open,2014-10-14T13:09:05Z,,bug
+jonatantierno/scrumdailytimer,45,The Total meeting time timer  gets locked in 00:00 after finish a meeting,open,2014-10-14T13:04:28Z,,bug
+jonatantierno/scrumdailytimer,42,"If timeout happens while in report screen, no sound plays, .",open,2013-09-05T20:40:49Z,,bug
+jonatantierno/scrumdailytimer,36,Error during pause if screen orientation changes.,closed,2013-09-05T07:56:49Z,2013-09-05T20:29:23Z,bug
+jonatantierno/scrumdailytimer,34,Sound is delayed a couple of seconds after timeout,open,2013-09-05T07:55:12Z,,bug
+jonatantierno/scrumdailytimer,15,"If last participant causes timeout, when you click the screen remains red.",closed,2013-08-08T07:51:59Z,2013-08-29T22:57:48Z,bug
+jonatantierno/scrumdailytimer,14,"When going to settings and back, we exit and don´t return to meeting activity.",closed,2013-08-07T07:18:42Z,2013-08-29T22:57:48Z,bug
+jonatantierno/scrumdailytimer,7,"on back, ask for confirmation to exit",closed,2013-08-06T07:57:25Z,2013-09-02T10:44:45Z,bug
+jonatantierno/scrumdailytimer,6,Sound does not work most of the times.,closed,2013-08-06T07:56:31Z,2013-08-06T19:37:55Z,bug
+vishalvijay/vtu-life-android,2,Set max line for description in share fragments ,open,2014-04-17T20:54:49Z,,bug

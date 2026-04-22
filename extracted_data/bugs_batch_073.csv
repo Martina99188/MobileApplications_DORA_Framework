@@ -1,0 +1,24 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+rmack/TwistedHomeManager,4,1.0.1.8 - IndexOutOfBoundsException - QuickSelectActivity.java:131,open,2014-04-11T23:06:53Z,,bug
+rmack/TwistedHomeManager,3,1.0.1.8 - RuntimeException - Unable to instantiate activity,open,2014-04-11T23:04:41Z,,bug
+rmack/TwistedHomeManager,2,1.0.1.8 - IllegalStateException - Can not perform this action after onSaveInstanceState,open,2014-04-11T23:03:03Z,,bug
+rmack/TwistedHomeManager,1,1.0.1.8 - IllegalStateException - adapter has changed but ListView did not receive a notification,open,2014-04-11T23:01:26Z,,bug
+dbaelz/OnOff-Tracker,7,Fix several bugs in version 1.1,closed,2016-03-02T19:05:46Z,2016-03-02T19:27:36Z,bug
+rom4ek/ArcNavigationView,7,View not visible in ArcNavigationView,open,2017-05-10T20:42:57Z,,bug
+rom4ek/ArcNavigationView,3,Unexpected behaviours in statusbar ,closed,2017-03-09T21:38:29Z,2017-04-04T20:20:49Z,bug
+rom4ek/ArcNavigationView,2,Transparent status/navigation bar,closed,2017-02-15T20:45:19Z,2017-04-04T20:19:02Z,bug
+diegocarloslima/ByakuGallery,1,OutOfMemoryError,closed,2014-02-05T08:53:32Z,2014-03-23T22:31:10Z,bug
+rmceoin/cidrcalculator,1,Converter IP Decimal field only allows one period,open,2015-02-09T20:35:25Z,,bug
+borfast/arrispwgen-android,1,Password list for multiple days is not ordered,closed,2017-01-21T23:49:31Z,2017-01-23T14:21:40Z,bug
+raydac/AndroidPirateDice,1,Can't change the dice background to the pro version,closed,2015-04-10T16:48:21Z,2015-04-10T21:22:58Z,bug
+ajhodges/WifiCallingControls,16,"Not compatible with vanilla Android devices (Nexus 6,5x,6p)",open,2016-02-21T01:58:45Z,,bug
+ajhodges/WifiCallingControls,15,Not compatible with Samsung S6,closed,2015-04-16T15:57:14Z,2016-02-20T23:49:12Z,bug
+ajhodges/WifiCallingControls,14,Not compatible with the HTC M8,open,2015-01-23T20:39:25Z,,bug
+ajhodges/WifiCallingControls,13,Widget not properly updating [LG G2],closed,2014-06-05T19:46:22Z,2016-02-19T13:36:01Z,bug
+ajhodges/WifiCallingControls,12,Not compatible with Sprint Wifi Calling,open,2014-04-21T22:30:15Z,,"bug, wontfix"
+ajhodges/WifiCallingControls,10,Widget not showing up in app drawer for some devices,closed,2014-04-08T02:48:33Z,2014-04-08T03:05:06Z,bug
+ajhodges/WifiCallingControls,9,Not compatible with Kineto UMA (Older devices),closed,2014-03-30T17:55:51Z,2016-02-19T13:36:48Z,"bug, wontfix"
+ajhodges/WifiCallingControls,8,Not compatible with Samsung IMS (Note 3),closed,2014-03-30T03:47:33Z,2014-04-15T06:41:04Z,bug
+ajhodges/WifiCallingControls,7,Widget responsiveness,closed,2014-03-28T01:14:00Z,2014-04-18T03:59:45Z,bug
+ajhodges/WifiCallingControls,6,Widget state listener stops working after a period of time,closed,2014-03-15T13:04:08Z,2014-03-25T20:32:13Z,bug
+ajhodges/WifiCallingControls,2,No locale blurb,closed,2014-03-13T17:19:46Z,2014-03-26T05:16:45Z,bug

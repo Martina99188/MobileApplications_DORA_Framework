@@ -1,0 +1,32 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+BeamNG/remotecontrol,9,Bug with startup screen,closed,2016-01-05T18:59:00Z,2016-01-05T19:04:33Z,bug
+BeamNG/remotecontrol,7,Bug when rotating the phone during connecting,closed,2015-12-19T17:03:48Z,2016-02-22T14:17:39Z,bug
+BeamNG/remotecontrol,6,Permanently holding throttle stops accelerating sometimes,open,2015-12-19T16:54:42Z,,bug
+BeamNG/remotecontrol,4,Display glitches on Android 4.2,open,2015-12-18T14:07:11Z,,bug
+BeamNG/remotecontrol,3,Tachometer says mph but shows kmh,closed,2015-12-18T09:50:15Z,2016-08-24T17:47:58Z,bug
+BeamNG/remotecontrol,2,HUD doesn't work sometimes,closed,2015-12-17T21:28:43Z,2016-08-24T17:48:19Z,bug
+butzist/ActivityLauncher,413,[BUG] only main activity shows until one opens it and goes back,closed,2025-08-09T01:58:27Z,2025-08-16T11:59:21Z,bug
+butzist/ActivityLauncher,408,[BUG] wifi calling,closed,2025-07-19T04:21:14Z,2025-07-21T19:08:09Z,bug
+butzist/ActivityLauncher,397,[BUG] French application title in PlayStore contains a slash,closed,2025-06-22T20:24:49Z,2025-07-17T01:10:09Z,bug
+butzist/ActivityLauncher,384,[BUG] Application crashes,open,2025-06-12T13:32:13Z,,bug
+butzist/ActivityLauncher,251,Going back clears the search box,open,2024-03-29T11:55:23Z,,"bug, doing"
+butzist/ActivityLauncher,66,Runtime Exception on AllTasksListAdapter.java due to Package manager has died,closed,2021-03-16T01:05:10Z,2021-03-17T03:25:40Z,"bug, need help"
+NFCdroid/nfcapp,2,Check for android beam,closed,2015-12-14T14:56:31Z,2015-12-15T10:27:35Z,bug
+NFCdroid/nfcapp,1,Fix crash on add NDEF data,closed,2015-12-05T16:11:02Z,2015-12-15T12:59:11Z,bug
+flyingrub/SpeedMeter,27,0 process and 1 service ,open,2017-08-12T13:28:09Z,,bug
+flyingrub/SpeedMeter,15,"Stuck on ""waiting for gps fix""",open,2015-09-22T08:47:49Z,,bug
+wmi-students/wmi-timetable-android,39,IndexOutOfBoundsException,open,2017-03-03T17:33:57Z,,bug
+wmi-students/wmi-timetable-android,38,Screen rotation doesn't work,open,2017-01-29T12:55:41Z,,bug
+wmi-students/wmi-timetable-android,36,Reopening app after date change,open,2017-01-22T23:29:52Z,,bug
+wmi-students/wmi-timetable-android,32,Only one room is visible,closed,2016-11-21T20:04:09Z,2016-11-21T22:55:55Z,bug
+wmi-students/wmi-timetable-android,27,Update current schedule,closed,2016-10-16T12:44:11Z,2016-11-21T19:15:31Z,bug
+wmi-students/wmi-timetable-android,17,Application crashed where change orientation to landscape,closed,2016-10-09T10:31:32Z,2016-10-09T13:56:54Z,bug
+wmi-students/wmi-timetable-android,14,Page titles not updating on date change,closed,2016-10-09T05:57:57Z,2016-10-09T09:22:47Z,bug
+wmi-students/wmi-timetable-android,13,Wrong meeting week display on Sunday,closed,2016-10-09T05:41:49Z,2016-10-09T09:22:22Z,bug
+f00f/TrainingApp,10,App crashes after including Firebase,closed,2015-10-27T15:10:36Z,2015-10-27T20:27:23Z,bug
+f00f/TrainingApp,5,"Sometimes, the comments field is not cleared",closed,2015-02-22T17:00:07Z,2015-03-19T09:28:24Z,bug
+f00f/TrainingApp,3,"Temperatur nicht anzeigen, falls nicht verfügbar ",closed,2014-09-05T07:24:00Z,2014-09-08T14:10:27Z,bug
+f00f/TrainingApp,2,Umlaute im Kommentar (und Namen) sind falsch codiert.,closed,2014-09-03T12:36:13Z,2014-09-22T22:29:14Z,bug
+yeleman/SNISI-droid,4,Database Migration for malaria Project. ,closed,2015-03-03T16:58:11Z,2015-03-06T12:35:36Z,bug
+42SK/TVKILL,52,Additional Patterns preference does not take effect instantly,open,2021-06-11T14:53:18Z,,bug
+42SK/TVKILL,8,Patterns are misinterpreted by TV when using the universal-mode (HTC One M8 - CM 12.1),closed,2015-10-27T17:28:08Z,2015-10-28T17:29:24Z,bug

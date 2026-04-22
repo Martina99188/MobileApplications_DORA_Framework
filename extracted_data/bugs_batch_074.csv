@@ -1,0 +1,10 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+Chetic/Phishpic,2,Pictures taken in portrait mode are rotated 90 degrees,open,2015-04-04T07:53:38Z,,bug
+wbates/SierpinskiGenerator,7,Tablets don't show menu button,closed,2012-07-26T01:48:26Z,2012-07-26T12:58:33Z,"bug, Resolved"
+wbates/SierpinskiGenerator,5,"Change ""Save as PNG"" to use timestamp-based naming",closed,2012-07-25T12:42:01Z,2012-07-26T12:58:33Z,"bug, Resolved"
+uptechteam/MotionViews-Android,14,Gestures Not working inside scrollview,open,2017-04-21T14:11:17Z,,"bug, question"
+mpsonic/Evolve-Workout-Logger,7,Expand ButtonEditTexts in CreateExercise activity,open,2016-09-16T14:52:38Z,,"bug, ui"
+rycus86/TriangularWatchFace,11,Wearable: Disabled configuration option display,closed,2015-03-29T09:45:33Z,2015-03-29T13:04:23Z,"bug, enhancement"
+rycus86/TriangularWatchFace,3,Battery icon remains half-visible on change to ambient mode sometimes,closed,2015-01-12T20:10:48Z,2015-01-12T22:05:38Z,bug
+rycus86/TriangularWatchFace,2,System icon indicators,closed,2014-12-21T18:50:54Z,2015-01-13T21:01:53Z,"bug, wontfix"
+rycus86/TriangularWatchFace,1,IntentReceiver leaked,closed,2014-12-21T18:45:40Z,2015-01-12T22:05:20Z,bug

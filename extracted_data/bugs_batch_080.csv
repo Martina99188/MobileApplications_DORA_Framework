@@ -1,0 +1,2 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+k3b/ContentProviderHelper,4,Error info is not copied to clipboard if adding a new provider fails (i.e. due to missing permissions),closed,2016-11-02T07:00:45Z,2016-11-07T20:30:02Z,bug

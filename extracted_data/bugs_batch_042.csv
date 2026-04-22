@@ -1,0 +1,168 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+kenumir/Pinger,9,Fatal Exception: java.lang.IllegalStateException: Can not perform this action after onSaveInstanceState,closed,2017-03-26T09:09:27Z,2017-03-26T10:19:51Z,bug
+jt19056/Notey,98,Find better alternative for setSmallIcon,open,2016-05-15T23:00:04Z,,bug
+jt19056/Notey,97,Broken alarm,closed,2016-05-15T20:37:49Z,2016-05-15T23:50:47Z,bug
+jt19056/Notey,94,Greenifying Notey removes notifications ,open,2016-03-15T11:19:59Z,,bug
+jt19056/Notey,85,[Non-Fatal] CursorIndexOutOfBoundsException,closed,2015-10-06T23:38:26Z,2015-10-06T23:40:55Z,bug
+jt19056/Notey,84,Crash after phone reboots,closed,2015-10-03T15:15:37Z,2015-10-03T15:51:35Z,bug
+jt19056/Notey,82,Share to Notey.. Title does not work,closed,2015-09-19T19:36:44Z,2016-03-12T22:08:02Z,bug
+jt19056/Notey,80,Sharing note with only title results in nothing being shared,closed,2015-09-06T21:54:17Z,2016-03-12T22:37:48Z,bug
+jt19056/Notey,79,Check mark disappears on color picker dialog,closed,2015-09-06T21:50:51Z,2016-03-12T23:04:06Z,bug
+jt19056/Notey,77,Info screen layout overlap,closed,2015-09-05T20:31:35Z,2015-09-06T01:50:18Z,bug
+jt19056/Notey,76,NotificationBuild null exception,closed,2015-09-04T16:01:47Z,2015-09-04T16:06:26Z,bug
+jt19056/Notey,75,AlarmActivity crash,closed,2015-09-04T15:38:20Z,2015-09-04T15:51:09Z,bug
+jt19056/Notey,72,Rotation issues,closed,2015-08-29T13:15:56Z,2015-08-29T14:45:36Z,bug
+jt19056/Notey,69,Update logo color wrong,closed,2015-08-23T18:43:16Z,2015-08-29T14:59:35Z,bug
+jt19056/Notey,68,Notification tray goes up after click Undo notification,open,2015-08-22T21:50:59Z,,bug
+jt19056/Notey,67,Undo-ing multiple notes,closed,2015-08-22T21:33:29Z,2015-08-29T15:32:28Z,bug
+jt19056/Notey,60,Clean up UI,closed,2015-06-21T23:36:29Z,2015-06-22T04:45:00Z,bug
+jt19056/Notey,56,Use Colored Icons not applying after reboot ,closed,2015-06-14T03:37:50Z,2015-06-14T17:03:43Z,bug
+jt19056/Notey,55,White icon lollipop ,closed,2015-06-09T21:14:16Z,2015-06-14T17:02:25Z,bug
+jt19056/Notey,53,Xperia devices on Lollipop not showing notification icon,closed,2015-06-05T18:28:24Z,2015-06-14T03:36:43Z,bug
+jt19056/Notey,52,Alarm time picker one hour off,closed,2015-06-04T01:02:39Z,2015-06-15T17:15:29Z,bug
+jt19056/Notey,49,Title not copied to clipboard with no note ,closed,2015-05-27T05:09:32Z,2015-06-15T17:30:25Z,bug
+jt19056/Notey,46,Cannot access Pro features if device has no data/wifi connection,closed,2015-05-23T16:03:06Z,2015-06-03T22:10:10Z,bug
+jt19056/Notey,42,Proper Lollipop notification icons ,closed,2015-05-21T23:02:24Z,2015-05-23T21:28:39Z,bug
+jt19056/Notey,38,Mic input goes to Title text box,closed,2015-05-09T17:13:03Z,2015-05-09T17:19:23Z,bug
+jt19056/Notey,34,Expandable Notifications unchecked causes title to take over note text after reboot,closed,2015-05-05T23:45:21Z,2015-05-07T14:11:11Z,bug
+jt19056/Notey,33,Expandable Notifications unchecked causes white icons in notification tray,closed,2015-05-05T23:43:51Z,2015-05-07T14:39:00Z,bug
+jt19056/Notey,31,Remove pro features if payment is cancelled,closed,2015-04-09T02:38:59Z,2015-05-07T16:14:30Z,bug
+jt19056/Notey,29,Switch proVersionEnabled from sharedPref to using Google iap check ,closed,2015-03-06T14:26:43Z,2015-05-07T14:39:01Z,bug
+jt19056/Notey,28,"Unable to set note if alarm has past, but it is a repeating alarm ",closed,2015-03-04T18:25:33Z,2015-03-04T23:51:12Z,bug
+jt19056/Notey,27,Honor Priority Mode ,closed,2015-03-04T18:18:09Z,2015-05-10T02:08:20Z,bug
+jt19056/Notey,26,Alarm goes off immediately upon reboot,closed,2015-02-28T18:03:09Z,2015-02-28T22:38:19Z,bug
+jt19056/Notey,25,Database memory leaks,closed,2015-02-28T15:44:38Z,2015-02-28T15:46:58Z,bug
+jt19056/Notey,24,java.lang.RuntimeException crash,closed,2015-02-28T02:17:23Z,2015-02-28T02:26:32Z,bug
+jt19056/Notey,23,Spinner icons not showing all 10 directly after purchasing Pro,closed,2015-02-27T23:12:44Z,2015-02-27T23:15:13Z,bug
+jt19056/Notey,22,Do not call doinappbillingstuff() if already Pro,closed,2015-02-26T14:09:45Z,2015-02-27T23:15:03Z,bug
+jt19056/Notey,21,Repeat time not always showing ,closed,2015-02-26T14:01:54Z,2015-02-28T02:44:25Z,bug
+jt19056/Notey,14,Upgrade to pro causes force close ,closed,2015-02-18T18:50:55Z,2015-02-21T02:52:48Z,bug
+jt19056/Notey,2,Icons for Dashclock are missing for Pro,closed,2015-02-18T03:02:46Z,2015-05-09T23:13:01Z,bug
+jt19056/Notey,1,Ticker icon too big,closed,2015-02-18T03:01:10Z,2015-05-10T02:45:09Z,bug
+honza-kasik/OlomouckyBazen,36,Occupancy sometimes won't refresh when socket times out in service,closed,2016-12-14T14:26:44Z,2016-12-30T10:26:43Z,bug
+honza-kasik/OlomouckyBazen,32,Use wakelock in intent service to keep CPU on,closed,2016-12-02T18:11:53Z,2016-12-03T08:00:08Z,bug
+honza-kasik/OlomouckyBazen,18,Do not create new objects in onDraw method,closed,2016-11-28T18:55:40Z,2016-11-29T12:13:55Z,bug
+honza-kasik/OlomouckyBazen,16,Update pool view for nearest time when user returns to app,closed,2016-11-28T09:27:13Z,2016-11-28T18:22:36Z,"bug, enhancement"
+honza-kasik/OlomouckyBazen,14,Set timezone to where the swimming pool lies,closed,2016-11-27T20:23:13Z,2016-11-29T12:19:02Z,"bug, enhancement, wontfix"
+honza-kasik/OlomouckyBazen,5,Back arrow is not disabled when it would go in past,closed,2016-11-26T22:04:47Z,2016-11-28T19:38:05Z,bug
+tangalbert919/nds4droid,15,The mysterious app crashing bug,closed,2017-09-19T23:06:53Z,2017-12-04T14:21:27Z,bug
+teamblueridge/PasteIt,3,url text view is not clickable,closed,2013-05-22T10:30:01Z,2013-05-23T01:54:06Z,"bug, enhancement"
+teamblueridge/PasteIt,1,Network connection on main thread,closed,2013-05-12T16:16:47Z,2013-05-22T10:15:55Z,"bug, enhancement"
+MettaCenter/DailyMettaApp,73,App unresponsive after 12 hours and waking the device manually,open,2015-09-21T08:41:41Z,,debugging
+MettaCenter/DailyMettaApp,71,Gives manual download when there's no nw access,open,2015-09-20T18:58:28Z,,"debugging, _priority, in progress"
+MettaCenter/DailyMettaApp,69,CursorLeakDetecter,open,2015-09-17T12:35:40Z,,"debugging, ready"
+MettaCenter/DailyMettaApp,59,Error inserting time_dayofmonth=11,closed,2015-09-08T22:09:24Z,2015-09-11T22:56:07Z,debugging
+MettaCenter/DailyMettaApp,55,Unparseable date,closed,2015-09-07T15:08:17Z,2015-09-17T17:00:48Z,debugging
+MettaCenter/DailyMettaApp,46,cannot commit no transaction is active android,closed,2015-08-25T21:16:50Z,2015-09-19T18:25:07Z,debugging
+MettaCenter/DailyMettaApp,42,Avoid line break between period and quotation mark,closed,2015-08-15T18:36:05Z,2015-08-28T11:53:00Z,"debugging, _won't_fix"
+MettaCenter/DailyMettaApp,11,Attempted to finish an input event but the input event receiver has already been disposed,open,2015-06-20T18:48:45Z,,"debugging, ready"
+diegoponciano/biblia-ccb,6,Busca usando palavras separadas ,open,2015-01-09T20:52:30Z,,bug
+diegoponciano/biblia-ccb,5,Resultados da busca mostrando tags html ,closed,2015-01-09T20:52:07Z,2015-06-05T14:31:22Z,bug
+diegoponciano/biblia-ccb,3,Rodapé com o copyright da SBB,open,2015-01-05T12:24:23Z,,bug
+diegoponciano/biblia-ccb,1,Preencher cabeçalhos e subcabeçalhos,closed,2014-12-26T16:16:03Z,2015-01-09T17:33:57Z,bug
+cornedor/mayhem,26,eerste keer opstarten app oneindig laden,open,2015-03-09T09:47:42Z,,bug
+cornedor/mayhem,19,Infinite progress bar if user didn't choose a class.,open,2015-01-28T10:52:35Z,,bug
+cornedor/mayhem,17,Pressing back in SettingsActivity doesn't work correctly,open,2015-01-26T10:38:51Z,,bug
+cornedor/mayhem,14,NullPointerException on runUiThread,closed,2015-01-19T09:05:40Z,2015-01-19T11:21:01Z,bug
+cornedor/mayhem,11,NullPointerException on fragment,closed,2015-01-19T08:54:58Z,2015-01-19T11:20:18Z,bug
+cornedor/mayhem,10,NavigationDrawerFragment might not be attached to the Activity,closed,2015-01-19T08:49:09Z,2015-01-19T11:17:40Z,bug
+cornedor/mayhem,6,Incorrect data can make the app unusable.,closed,2014-09-15T11:03:12Z,2014-10-05T13:39:36Z,bug
+cornedor/mayhem,5,dataListener could be null in Data.java,closed,2014-07-03T10:15:54Z,2014-10-03T10:27:42Z,bug
+akechi/project-l,20,会話文のURL判定が積極的すぎる,open,2015-12-06T06:52:02Z,,bug
+akechi/project-l,10,過去をさかのぼろうとすると表示順序がおかしい。,closed,2015-08-29T04:19:46Z,2015-11-29T04:17:22Z,bug
+akechi/project-l,9,裏で動かしているAndroidサービスが、Lingrからのレスポンスによって無限にエラーを吐き続ける,closed,2015-08-13T00:37:57Z,2015-08-21T00:57:06Z,bug
+akechi/project-l,2,キーボード出現時の発言ログ,closed,2015-08-11T01:50:39Z,2015-11-29T04:12:09Z,bug
+spirosbond/CallerFlashlight,49,java.lang.RuntimeException: Can't create handler inside thread that has not called Looper.prepare(),closed,2014-09-18T03:08:55Z,2023-02-25T21:20:26Z,"Android, BugSense, App versions: 1.0 - 1.1 - 1.2"
+spirosbond/CallerFlashlight,48,java.lang.NullPointerException,closed,2014-09-11T17:20:36Z,2023-02-25T21:20:26Z,"Android, BugSense, App versions: 1.0 - 1.1 - 1.2"
+spirosbond/CallerFlashlight,47,java.lang.RuntimeException: setParameters failed,closed,2014-09-03T20:33:49Z,2023-02-25T21:20:25Z,"Android, BugSense, App versions: 3.8 - 3.8.1"
+spirosbond/CallerFlashlight,46,java.lang.RuntimeException: Can't create handler inside thread that has not called Looper.prepare(),closed,2014-08-29T10:59:40Z,2023-02-25T21:20:25Z,"Android, BugSense, App versions: 1.5 - 1.6 - 1.8 - 1.7"
+spirosbond/CallerFlashlight,45,java.lang.RuntimeException: startPreview failed,closed,2014-08-19T15:13:25Z,2023-02-25T21:20:25Z,"Android, BugSense, App versions: 1.0 - 1.1 - 1.2"
+spirosbond/CallerFlashlight,44,java.lang.NullPointerException,closed,2014-08-15T13:10:01Z,2023-02-25T21:20:24Z,"Android, BugSense, App versions: 1.1 - 1.2"
+spirosbond/CallerFlashlight,43,java.lang.RuntimeException: setParameters failed,closed,2014-07-04T16:06:29Z,2023-02-25T21:20:24Z,"Android, BugSense, App versions: 1.0 - 1.1 - 1.2"
+spirosbond/CallerFlashlight,42,java.lang.RuntimeException: Can't create handler inside thread that has not called Looper.prepare(),closed,2014-06-10T20:06:42Z,2023-02-25T21:20:23Z,"Android, BugSense, App versions: 1.0 - 1.1 - 1.2"
+spirosbond/CallerFlashlight,41,java.lang.RuntimeException: startPreview failed,closed,2014-05-11T16:18:14Z,2023-02-25T21:20:23Z,"Android, BugSense, App versions: 1.5 - 1.6 - 1.7 - 1.8"
+spirosbond/CallerFlashlight,40,java.lang.NullPointerException,closed,2014-05-05T00:34:03Z,2023-02-25T21:20:22Z,"Android, BugSense, App versions: 1.0 - 1.1 - 1.2"
+spirosbond/CallerFlashlight,39,java.io.IOException: setPreviewDisplay failed,closed,2014-04-28T03:09:54Z,2023-02-25T21:20:21Z,"Android, BugSense, App versions: 1.5 - 1.6 - 1.7 - 1.8"
+spirosbond/CallerFlashlight,38,java.lang.NullPointerException,closed,2014-04-14T05:51:03Z,2023-02-25T21:20:21Z,"Android, BugSense, App versions: 1.5 - 1.6 - 1.7 - 1.8"
+spirosbond/CallerFlashlight,37,java.lang.RuntimeException: Can't create handler inside thread that has not called Looper.prepare(),closed,2014-04-12T08:51:17Z,2023-02-25T21:20:20Z,"Android, BugSense, App versions: 1.5 - 1.6 - 1.7 - 1.8"
+spirosbond/CallerFlashlight,36,java.lang.RuntimeException: setParameters failed,closed,2014-04-07T10:47:46Z,2023-02-25T21:20:20Z,"Android, BugSense, App versions: 1.5 - 1.6 - 1.7 - 1.8"
+spirosbond/CallerFlashlight,35,java.lang.RuntimeException: setParameters failed,closed,2014-04-06T14:18:14Z,2023-02-25T21:20:19Z,"Android, BugSense, App versions: 1.5 - 1.6 - 1.7 - 1.8"
+spirosbond/CallerFlashlight,34,java.lang.RuntimeException: setParameters failed,closed,2014-03-02T07:03:24Z,2023-02-25T21:20:19Z,"Android, BugSense, App versions: 1.5 - 1.6 - 1.7 - 1.8"
+spirosbond/CallerFlashlight,33,java.lang.RuntimeException: setParameters failed,closed,2014-02-20T11:48:40Z,2023-02-25T21:20:19Z,"Android, BugSense, App versions: 1.1 - 1.2"
+spirosbond/CallerFlashlight,32,java.io.IOException: setPreviewDisplay failed,closed,2014-01-24T12:05:15Z,2023-02-25T21:20:18Z,"Android, BugSense, App versions: 1.1 - 1.2"
+spirosbond/CallerFlashlight,31,java.lang.RuntimeException: setParameters failed,closed,2014-01-16T12:05:24Z,2023-02-25T21:20:18Z,"Android, BugSense, App versions: 1.1 - 1.2"
+spirosbond/CallerFlashlight,30,java.lang.RuntimeException: setParameters failed,closed,2014-01-04T17:36:42Z,2023-02-25T21:20:17Z,"Android, BugSense, App versions: 1.0 - 1.1 - 1.2"
+spirosbond/CallerFlashlight,29,java.lang.NullPointerException,closed,2013-11-18T20:45:05Z,2013-11-22T15:31:29Z,"Android, BugSense, App versions: 2.3.1 - 2.4.3"
+spirosbond/CallerFlashlight,28,java.lang.RuntimeException: getParameters failed (empty parameters),closed,2013-11-18T18:19:46Z,2013-11-22T15:31:29Z,"Android, BugSense, App versions: 2.3.1 - 2.4.3"
+spirosbond/CallerFlashlight,27,java.lang.RuntimeException: setParameters failed,closed,2013-11-18T07:44:14Z,2013-11-22T15:31:29Z,"Android, BugSense, App versions: 2.4.3"
+spirosbond/CallerFlashlight,26,java.lang.RuntimeException: setParameters failed,closed,2013-11-18T05:02:23Z,2013-11-22T15:31:28Z,"Android, BugSense, App versions: 2.4.3"
+spirosbond/CallerFlashlight,25,java.lang.SecurityException: Not allowed to bind to service Intent { cmp=drippler.samsung.galaxy.noteii/com.drippler.android.updates.utils.openudid.OpenUDIDService },closed,2013-11-17T19:44:52Z,2013-11-22T15:31:28Z,"Android, BugSense, App versions: 2.0.1 - 2.0.3.1 - 2.4.3"
+spirosbond/CallerFlashlight,24,java.lang.RuntimeException: setParameters failed,closed,2013-11-17T14:15:28Z,2013-11-22T15:31:28Z,"Android, BugSense, App versions: 2.4.3"
+spirosbond/CallerFlashlight,23,java.lang.RuntimeException: setParameters failed,closed,2013-11-16T17:48:07Z,2013-11-22T15:31:28Z,"Android, BugSense, App versions: 2.4.3"
+spirosbond/CallerFlashlight,22,java.lang.RuntimeException: getParameters failed (empty parameters),closed,2013-11-16T05:14:41Z,2013-11-22T15:31:28Z,"Android, BugSense, App versions: 2.2 - 2.3.1 - 2.4.3"
+spirosbond/CallerFlashlight,21,java.lang.RuntimeException: setParameters failed,closed,2013-11-14T22:44:57Z,2013-11-22T15:31:28Z,"Android, BugSense, App versions: 2.3.1"
+spirosbond/CallerFlashlight,20,java.lang.RuntimeException: setParameters failed,closed,2013-11-14T13:51:46Z,2013-11-22T15:31:28Z,"Android, BugSense, App versions: 2.3.1"
+spirosbond/CallerFlashlight,19,java.lang.RuntimeException: getParameters failed (empty parameters),closed,2013-11-13T18:46:21Z,2013-11-22T15:31:28Z,"Android, BugSense, App versions: 2.3.1"
+spirosbond/CallerFlashlight,18,java.lang.RuntimeException: Can't create handler inside thread that has not called Looper.prepare(),closed,2013-11-13T17:16:02Z,2013-11-22T15:31:28Z,"Android, BugSense, App versions: 2.3.1"
+spirosbond/CallerFlashlight,17,java.lang.RuntimeException: getParameters failed (empty parameters),closed,2013-11-12T23:49:52Z,2013-11-22T15:31:28Z,"Android, BugSense, App versions: 2.3-BETA - 2.3.1"
+spirosbond/CallerFlashlight,16,java.lang.RuntimeException: setParameters failed,closed,2013-11-12T17:36:49Z,2013-11-22T15:31:28Z,"Android, BugSense, App versions: 2.3.1"
+spirosbond/CallerFlashlight,15,java.lang.RuntimeException: setParameters failed,closed,2013-11-12T17:36:48Z,2013-11-22T15:31:28Z,"Android, BugSense, App versions: 2.3.1"
+spirosbond/CallerFlashlight,14,java.lang.RuntimeException: setParameters failed,closed,2013-11-11T14:29:08Z,2013-11-22T15:31:28Z,"Android, BugSense, App versions: 2.3.1"
+spirosbond/CallerFlashlight,13,java.lang.RuntimeException: setParameters failed,closed,2013-11-11T14:29:06Z,2013-11-22T15:31:28Z,"Android, BugSense, App versions: 2.3.1"
+spirosbond/CallerFlashlight,12,java.lang.RuntimeException: getParameters failed (empty parameters),closed,2013-11-09T14:18:19Z,2013-11-22T15:31:28Z,"Android, BugSense, App versions: 2.2 - 2.3.1"
+spirosbond/CallerFlashlight,11,java.lang.RuntimeException: startPreview failed,closed,2013-11-07T22:37:53Z,2013-11-22T15:31:28Z,"Android, BugSense, App versions: 2.2"
+spirosbond/CallerFlashlight,10,java.io.IOException: setPreviewDisplay failed,closed,2013-11-07T22:37:33Z,2013-11-22T15:31:28Z,"Android, BugSense, App versions: 2.1 - 2.2 - 2.3.1"
+spirosbond/CallerFlashlight,9,java.lang.RuntimeException: setParameters failed,closed,2013-11-07T19:17:58Z,2013-11-22T15:31:28Z,"Android, BugSense, App versions: 2.2"
+spirosbond/CallerFlashlight,8,java.lang.RuntimeException: setParameters failed,closed,2013-11-07T16:05:19Z,2013-11-22T15:31:28Z,"Android, BugSense, App versions: 2.2"
+spirosbond/CallerFlashlight,7,java.lang.RuntimeException: setParameters failed,closed,2013-11-07T03:02:13Z,2013-11-22T15:31:28Z,"Android, BugSense, App versions: 2.2"
+spirosbond/CallerFlashlight,6,java.lang.RuntimeException: setParameters failed,closed,2013-11-07T03:02:10Z,2013-11-22T15:31:28Z,"Android, BugSense, App versions: 2.2"
+spirosbond/CallerFlashlight,5,java.lang.RuntimeException: setParameters failed,closed,2013-11-07T02:41:19Z,2013-11-22T15:31:28Z,"Android, BugSense, App versions: 2.1 - 2.0.3.1"
+spirosbond/CallerFlashlight,4,java.lang.RuntimeException: setParameters failed,closed,2013-11-02T14:40:06Z,2013-11-04T19:29:26Z,"Android, BugSense, App versions: 2.0.3.1"
+spirosbond/CallerFlashlight,3,java.lang.RuntimeException: setParameters failed,closed,2013-10-31T20:33:05Z,2013-11-04T19:29:26Z,"Android, BugSense, App versions: 2.0.3.1"
+spirosbond/CallerFlashlight,2,java.lang.RuntimeException: setParameters failed,closed,2013-10-30T20:49:01Z,2013-11-04T19:29:26Z,"Android, BugSense, App versions: 2.0.3.1"
+spirosbond/CallerFlashlight,1,"java.lang.NumberFormatException: Invalid int: """"",closed,2013-10-25T12:05:01Z,2013-11-04T19:29:26Z,"Android, BugSense, App versions: 2.0.3"
+Meisterschueler/ogn-viewer-android,25,NPE (MapsActivity.java:1126),closed,2019-06-04T18:25:57Z,2019-06-09T20:43:40Z,bug
+Meisterschueler/ogn-viewer-android,20,Bad APRS filter handling,closed,2019-05-01T10:05:29Z,2019-05-01T10:06:41Z,bug
+Meisterschueler/ogn-viewer-android,14,Reject deprecated positions,closed,2018-08-26T22:10:38Z,2018-09-11T15:02:52Z,bug
+Meisterschueler/ogn-viewer-android,11,NullPointerException,closed,2018-04-29T21:01:23Z,2018-09-11T15:04:50Z,bug
+Meisterschueler/ogn-viewer-android,10,BadTokenException,closed,2018-04-24T09:16:08Z,2018-09-11T15:04:26Z,bug
+Meisterschueler/ogn-viewer-android,6,RemoteServiceException,closed,2018-02-15T10:21:35Z,2018-02-15T18:43:49Z,bug
+Meisterschueler/ogn-viewer-android,3,NPE,closed,2017-11-15T17:14:00Z,2017-11-17T07:29:19Z,bug
+Meisterschueler/ogn-viewer-android,1,NPE,closed,2016-04-13T19:33:32Z,2016-04-13T19:38:01Z,bug
+Any1s/RBTV-Sendeplan,40,Distorted list element layout on Android < 5.0,closed,2015-03-11T11:58:43Z,2015-03-11T15:38:28Z,bug
+Any1s/RBTV-Sendeplan,38,"Different Toast ""W-Lan nicht verbunden"" implementation",closed,2015-03-09T08:17:59Z,2015-03-09T12:23:22Z,bug
+Any1s/RBTV-Sendeplan,35,Crash in DataFragment.groupEvents(),closed,2015-02-26T08:01:50Z,2015-02-26T09:27:53Z,bug
+Any1s/RBTV-Sendeplan,32,Crash possible when handling a reminder,closed,2015-02-25T10:50:00Z,2015-03-12T20:57:58Z,bug
+Any1s/RBTV-Sendeplan,29,appcompat-v7 v21.0.0 causing crash on Samsung devices with Android v4.2.2,closed,2015-02-23T20:37:36Z,2015-02-24T14:03:54Z,bug
+Any1s/RBTV-Sendeplan,27,AsyncTask in DataFragment crashes if the context object is null,closed,2015-02-22T13:12:32Z,2015-02-22T13:42:51Z,bug
+Any1s/RBTV-Sendeplan,25,VIBRATE permission seems to be needed on some devices,closed,2015-02-13T12:58:53Z,2015-02-13T23:10:06Z,bug
+Any1s/RBTV-Sendeplan,24,Reminder restoration does not account for passed events,closed,2015-02-13T12:43:08Z,2015-02-13T23:10:06Z,bug
+Any1s/RBTV-Sendeplan,23,WIFI constraint not respected on fresh installs until the settings have been viewed for the first time,closed,2015-02-12T11:55:19Z,2015-02-12T12:00:22Z,bug
+Any1s/RBTV-Sendeplan,22,Sound in notification triggers vibration despite it being disabled in the preferences,closed,2015-02-10T10:13:44Z,2015-02-10T12:12:07Z,bug
+Any1s/RBTV-Sendeplan,20,Collapsed/Expanded symbols differ on some devices,closed,2015-02-07T16:12:29Z,2015-02-07T22:19:29Z,bug
+Any1s/RBTV-Sendeplan,10,Time column too narrow on devices with font size larger than normal,closed,2015-02-06T18:47:15Z,2015-03-01T13:38:11Z,bug
+Any1s/RBTV-Sendeplan,8,List overloads with recurring events,closed,2015-01-27T14:49:47Z,2015-01-27T15:01:07Z,bug
+Any1s/RBTV-Sendeplan,7,Reminder not (re)moved if the start time of a show changes,closed,2015-01-27T13:50:42Z,2015-01-27T14:48:48Z,bug
+Any1s/RBTV-Sendeplan,4,The year is displayed with 5 digits instead of 4 in the group headers,closed,2015-01-25T21:40:15Z,2015-01-25T21:44:14Z,bug
+FabriceMk/android-mycv,2,Contact and Career Fragments cut in the bottom,open,2015-10-18T04:02:38Z,,bug
+FabriceMk/android-mycv,1,Problem with scrollable Fragments and scrollable Toolbar ,closed,2015-08-15T08:04:58Z,2015-08-30T16:41:45Z,bug
+jackpf/BlockchainSearch,76,Dropping socket connection,open,2014-05-13T00:24:06Z,,bug
+jackpf/BlockchainSearch,73,Wrong menu highlighted,open,2014-05-03T09:50:49Z,,"bug, test"
+jackpf/BlockchainSearch,70,resume crash on fragments,closed,2014-04-24T09:06:04Z,2014-05-13T00:23:29Z,"bug, test"
+jackpf/BlockchainSearch,68,refresh on rotate,open,2014-03-20T17:14:09Z,,bug
+jackpf/BlockchainSearch,61,Random battery drain ,closed,2014-03-11T23:25:57Z,2014-03-18T16:25:00Z,"bug, test"
+jackpf/BlockchainSearch,59,Crash,closed,2014-03-11T01:10:38Z,2014-03-11T11:34:02Z,bug
+jackpf/BlockchainSearch,56,Address not being selected in listview (at least on 2.3),closed,2014-03-10T14:50:56Z,2014-03-11T10:21:55Z,bug
+jackpf/BlockchainSearch,54,Nav drawer status sometimes not right when pressing back,closed,2014-03-10T10:48:07Z,2014-03-14T10:26:15Z,bug
+jackpf/BlockchainSearch,52,Saved addresses crash,closed,2014-03-09T21:21:04Z,2014-03-11T10:22:02Z,bug
+jackpf/BlockchainSearch,49,"""0 minute ago""",closed,2014-02-28T09:32:54Z,2014-03-04T10:59:03Z,bug
+jackpf/BlockchainSearch,46,ongoing notification doesnt open settings :(,closed,2014-02-27T16:40:14Z,2014-02-27T18:35:51Z,bug
+jackpf/BlockchainSearch,29,Refreshing tx duplicates io,closed,2014-02-25T08:52:47Z,2014-02-25T09:50:27Z,bug
+jackpf/BlockchainSearch,3,Swiping tabs doesn't update ui,closed,2014-02-20T18:35:08Z,2014-02-21T00:30:25Z,bug
+jackpf/BlockchainSearch,2,First tx is 0 skewing results,closed,2014-02-20T18:34:46Z,2014-02-24T23:41:00Z,bug
+MariusVolkhart/lyrics,58,Zigeunerleben is missing a verse,closed,2016-12-22T16:10:52Z,2019-11-29T11:39:13Z,bug
+MariusVolkhart/lyrics,45,Vern -> fern,closed,2016-12-22T06:18:32Z,2016-12-22T16:32:57Z,bug
+MariusVolkhart/lyrics,31,Landsknecht lied needs spaces,closed,2016-12-22T05:26:27Z,2016-12-22T16:32:57Z,bug
+MariusVolkhart/lyrics,29,Search view is overly eager,closed,2016-12-19T02:44:40Z,2016-12-19T03:52:56Z,bug
+brentn/TomatoHub,15,Sometimes clicking on device brings up the wrong device,open,2016-02-10T02:21:35Z,,bug
+brentn/TomatoHub,5,3rd wifi network doesn't scroll fully into view,closed,2016-01-11T15:18:25Z,2016-01-11T21:53:53Z,bug

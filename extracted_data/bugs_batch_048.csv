@@ -1,0 +1,35 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+chrisjluc/Onesearch,5,Fix multiple instances of the same word in wordsearch,open,2015-02-23T03:57:43Z,,bug
+hoang8f/android-flat-button,7,Error:Could not find property 'allJava' on source set main.,closed,2014-06-11T09:08:44Z,2014-06-11T09:10:58Z,bug
+hoang8f/android-flat-button,5,Sluggish animation,closed,2014-06-06T23:48:05Z,2014-07-04T06:14:42Z,bug
+plusCubed/anticipate,9,Slide in animations not working with bubbles,open,2016-02-23T18:02:59Z,,bug
+plusCubed/anticipate,5,Icons in toolbar don't change color ,closed,2016-01-18T22:09:41Z,2016-02-03T08:44:04Z,bug
+Vn0m/Sociadee,1,Modification UI,closed,2015-12-30T21:15:32Z,2016-01-30T13:26:52Z,bug
+Devlight/NavigationTabBar,58,"When using the setViewPager () method, while click the Tab, there will be some shake animation.",closed,2016-08-26T09:11:41Z,2016-09-01T19:00:51Z,bug
+Devlight/NavigationTabBar,49,setIconSizeFraction() missing in NavigationTabBar.java,closed,2016-08-01T22:47:07Z,2016-08-13T18:08:11Z,bug
+Devlight/NavigationTabBar,37,random crash,closed,2016-07-09T17:46:29Z,2016-07-09T20:17:59Z,"bug, help wanted"
+Devlight/NavigationTabBar,32,null object reference,closed,2016-07-04T07:43:20Z,2016-07-05T09:45:23Z,"bug, help wanted, question"
+Devlight/NavigationTabBar,24,pagerview not working properly when we r implementing on fragment,closed,2016-06-17T13:56:28Z,2016-06-27T17:59:57Z,"bug, help wanted"
+Devlight/NavigationTabBar,23,Error android 6.0.1 on nexus 5,closed,2016-06-16T02:48:36Z,2016-06-18T20:08:13Z,bug
+Devlight/NavigationTabBar,17,Orientation change ,closed,2016-05-09T08:44:26Z,2016-05-14T10:22:29Z,"bug, duplicate, wontfix"
+Devlight/NavigationTabBar,8,onConfigurationChanged ui bug,closed,2016-04-17T09:41:45Z,2016-04-18T08:13:45Z,"bug, help wanted, wontfix"
+Devlight/NavigationTabBar,6,I can't make it show title,closed,2016-04-15T11:20:10Z,2016-04-15T13:03:49Z,"bug, help wanted, question, wontfix"
+TrekDev/Xamarin.Android.Skobbler,11,Calculating route error,closed,2016-05-13T11:35:11Z,2016-05-13T12:46:08Z,bug
+TrekDev/Xamarin.Android.Skobbler,2,Orientation Sensor,closed,2015-02-22T03:28:03Z,2015-02-23T09:29:09Z,bug
+bright-tools/androidphotobackup,15,handleFiles does not correctly handle directory creation failure,open,2015-06-10T19:33:52Z,,bug
+bright-tools/androidphotobackup,14,Wifi Sleep,open,2015-05-27T20:37:48Z,,bug
+bright-tools/androidphotobackup,11,Photos re-uploaded after time-zone or DST change,open,2015-04-18T10:58:24Z,,bug
+bright-tools/androidphotobackup,10,File checking does not work with >1000 photos,closed,2015-04-17T09:45:42Z,2015-04-18T12:12:29Z,bug
+bright-tools/androidphotobackup,8,Backup service can be unexpectedly killed in low memory situation,open,2015-03-21T15:58:20Z,,bug
+digifant/multidisplay-app,3,update QWT for Qt 5.15,open,2020-05-30T08:38:34Z,,bug
+GrinnellAppDev/Grinnell-Events-Android,18,Close app on second back button click,open,2015-09-13T19:41:19Z,,bug
+drmercer/Ponderizer,34,Fix test results dialog,closed,2015-11-10T02:38:54Z,2015-11-10T05:07:04Z,bug
+drmercer/Ponderizer,33,Fix case sensitivity in MemorizeTestActivity,closed,2015-11-09T19:43:58Z,2015-11-10T05:07:04Z,bug
+drmercer/Ponderizer,30,Make scriptures list backwards compatible,closed,2015-11-09T15:29:40Z,2015-11-09T16:20:15Z,bug
+drmercer/Ponderizer,29,"Fix ""Practice Memorization"" button",closed,2015-11-08T15:21:35Z,2015-11-09T16:19:32Z,bug
+drmercer/Ponderizer,25,Fix bug with scripture ListView height,closed,2015-11-05T21:05:44Z,2015-11-05T21:54:09Z,bug
+drmercer/Ponderizer,14,Adjust or delete widgets upon scripture deletion,closed,2015-10-28T19:46:09Z,2015-10-28T20:28:59Z,bug
+drmercer/Ponderizer,11,"Fix ""Note saved"" toast when leaving AddNoteAct",closed,2015-10-27T13:25:05Z,2015-10-27T17:36:14Z,bug
+drmercer/Ponderizer,10,Add confirmation dialog before scripture deletion,closed,2015-10-27T04:37:32Z,2015-10-28T20:41:23Z,bug
+drmercer/Ponderizer,5,Delete notes files when scripture is deleted,closed,2015-10-25T00:47:21Z,2015-10-25T03:03:25Z,bug
+drmercer/Ponderizer,2,Add click highlight to list view items.,closed,2015-10-20T19:39:45Z,2015-10-24T16:32:33Z,bug

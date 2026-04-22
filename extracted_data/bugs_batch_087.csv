@@ -1,0 +1,14 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+priyeshpatel/habhub-chase-car-tracker,17,Listener_telemetry documents will require speed in m/s ,closed,2012-12-29T20:29:28Z,2013-01-17T17:59:02Z,bug
+priyeshpatel/habhub-chase-car-tracker,15,Update for new Habitat schema,closed,2012-09-23T13:19:38Z,2012-09-23T14:07:27Z,bug
+priyeshpatel/habhub-chase-car-tracker,10,Location updates too frequent,closed,2012-04-04T19:19:26Z,2012-04-19T21:31:09Z,bug
+priyeshpatel/habhub-chase-car-tracker,9,DecimalFormat in different locales fails,closed,2012-04-03T18:56:33Z,2012-04-03T22:17:51Z,bug
+dynamitetuning/com.dynamite.heaterrc,8,"Android 8 shows warning ""This app was developed for an older android version""",open,2018-03-06T13:26:10Z,,bug
+dynamitetuning/com.dynamite.heaterrc,6,Multiple SMS are sent,open,2017-04-23T15:15:57Z,,bug
+Frainbow/sharecam.frb-android,13,settings option without function,open,2014-01-16T14:42:19Z,,bug
+Frainbow/sharecam.frb-android,11,App crash if socket is blocked in connecting,open,2014-01-02T05:59:54Z,,bug
+Frainbow/sharecam.frb-android,9,function error when wake up from sleep,closed,2013-12-26T08:27:27Z,2014-01-08T10:25:48Z,bug
+Frainbow/sharecam.frb-android,2,Socket will reconnect when change orientation,closed,2013-12-20T02:49:31Z,2014-01-08T10:25:48Z,bug
+Frainbow/sharecam.frb-android,1,Camera orientation is not correct,closed,2013-12-20T02:30:04Z,2014-01-08T10:25:48Z,bug
+slvn/android-aosp-mms,4,MMS JPEGs above a certain size do not display in-app,open,2014-06-22T17:35:52Z,,bug
+slvn/android-aosp-mms,2,CRITICAL BUG,open,2014-03-25T12:13:38Z,,bug

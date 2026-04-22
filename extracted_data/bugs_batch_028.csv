@@ -1,0 +1,169 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+smuldr/xtime-android,10,Cannot add new time sheet entries in API 15,closed,2016-02-05T09:42:25Z,2016-02-08T18:25:19Z,bug
+smuldr/xtime-android,8,"Float action button covers ""Grand Total"" hours",closed,2016-02-05T09:04:41Z,2016-02-08T18:25:19Z,bug
+smuldr/xtime-android,5,HttpsUrlConnection does not check certificates,closed,2014-01-04T13:52:10Z,2014-01-14T13:50:36Z,bug
+smuldr/xtime-android,4,App cannot handle session timeouts,closed,2014-01-04T13:45:10Z,2016-02-05T09:03:16Z,bug
+ac-pm/Inspeckage,56,NPE on fresh install,open,2017-06-09T09:58:02Z,,bug
+ac-pm/Inspeckage,55,Hooks keeps going on Loading (wont load all the classes),open,2017-05-22T16:13:53Z,,bug
+ac-pm/Inspeckage,35,Application crashes on start when targeted by Inspeckage on LG G4 MM,closed,2016-07-22T13:06:42Z,2016-09-19T01:15:14Z,bug
+ac-pm/Inspeckage,29,"Module Disabled due to ""Instant Run""",closed,2016-07-06T15:10:28Z,2016-07-06T20:55:50Z,bug
+ac-pm/Inspeckage,5,SERVER INTERNAL ERROR: Serve() returned a null response.,closed,2016-03-08T11:24:06Z,2016-09-19T01:20:13Z,bug
+ac-pm/Inspeckage,4,Activity crash,closed,2016-03-03T21:31:18Z,2016-03-06T21:39:34Z,bug
+ac-pm/Inspeckage,1,"Crashes on ""Launch App"" for an app without a main/launcher activity",closed,2016-03-01T18:13:29Z,2016-03-04T06:24:17Z,"bug, enhancement"
+matejdro/PebbleDialer-Android,33,SMS does not work when outgoing call popup is disabled.,open,2016-11-03T18:23:25Z,,bug
+matejdro/PebbleDialer-Android,26,Better information to people on how to enable answering.,closed,2015-12-05T18:21:06Z,2016-08-13T08:57:49Z,bug
+Velleman/WFS210-App,14,Screenshot is flipped,open,2014-09-30T09:33:25Z,,"bug, UI"
+Velleman/WFS210-App,8,SampleBuffer bounds violated,closed,2014-08-27T09:52:27Z,2014-08-28T10:43:58Z,bug
+Velleman/WFS210-App,6,Caching the frame dimensions breaks resizing,closed,2014-08-27T09:44:40Z,2014-08-28T10:44:55Z,bug
+richardthe3rd/BeerFestApp,65,"test (34, pixel_tablet) failing on main",closed,2025-11-21T14:08:55Z,2025-11-21T16:38:19Z,Bug
+richardthe3rd/BeerFestApp,3,Swiping right to left doesn't remove star rating,closed,2017-05-02T19:59:25Z,2017-05-04T20:33:50Z,Bug
+ryosua/SpeechWriter,1,Crash Report 1,open,2014-12-17T20:41:22Z,,bug
+evernote/evernote-sdk-android,50,Invoke authorization when evernote client doesn't login could lead to crash.,closed,2015-08-14T09:35:05Z,2015-08-24T11:36:08Z,bug
+PuffOpenSource/Puff-Android,14,How to add new category?,open,2017-07-19T20:06:27Z,,bug
+PuffOpenSource/Puff-Android,3,Gesture lock crash when changed master password,closed,2016-10-09T06:33:17Z,2016-10-10T07:58:15Z,bug
+PuffOpenSource/Puff-Android,2,Will open APP when chosen account from keyboard,closed,2016-10-09T06:32:34Z,2016-10-09T13:57:45Z,bug
+michaelbarlow7/dungeon-crawl-android,57,Strange behaviour with mobs and stairs,closed,2015-05-04T00:15:41Z,2015-10-27T13:14:16Z,bug
+michaelbarlow7/dungeon-crawl-android,55,Crash when the orientation changes,closed,2015-04-16T07:35:45Z,2015-04-26T07:13:45Z,bug
+michaelbarlow7/dungeon-crawl-android,53,"Fix ""Native typeface"" issue that seems to occur sometimes",closed,2015-04-03T06:47:18Z,2015-04-26T07:13:52Z,bug
+DanielMartinus/Stepper-Touch,25,Unable to change text size,closed,2018-09-30T18:01:46Z,2019-01-12T18:12:03Z,bug
+DanielMartinus/Stepper-Touch,17,Not able to change the color of stepper touch,closed,2018-06-28T10:09:06Z,2019-01-12T18:11:45Z,bug
+DanielMartinus/Stepper-Touch,12,Bug: default value hidden inside fragment,closed,2017-08-10T08:28:55Z,2019-01-13T15:31:31Z,bug
+DanielMartinus/Stepper-Touch,5,Button not visible,closed,2017-04-27T16:56:31Z,2017-05-15T20:46:18Z,bug
+vijai1996/screenrecorder,60,I am trying add SettingsPrefrenceFragment to activity not asking runtime permission,closed,2018-06-05T19:31:14Z,2018-06-06T09:16:06Z,"question, Not a bug"
+vijai1996/screenrecorder,57,Crash on select save location,open,2018-06-04T07:17:22Z,,"bug, Low Priority"
+vijai1996/screenrecorder,45,Fatal exception error occurred while trying to end screen recording,open,2018-03-12T15:45:18Z,,bug
+vijai1996/screenrecorder,32,crash when editing video,closed,2017-11-19T12:10:04Z,2017-12-10T07:35:10Z,bug
+vijai1996/screenrecorder,31,what version of android studio is required for working?,closed,2017-11-16T06:43:13Z,2017-11-16T13:16:05Z,Not a bug
+vijai1996/screenrecorder,22,REMOVE ANALYTICS SERVICES,closed,2017-04-26T09:14:53Z,2017-04-26T09:52:37Z,"wontfix, Not a bug"
+vijai1996/screenrecorder,14,Floating bar,closed,2016-12-15T22:23:44Z,2017-01-16T11:56:07Z,bug
+vijai1996/screenrecorder,9,App crashes,closed,2016-11-20T22:41:42Z,2016-12-01T07:50:44Z,bug
+pilot51/voicenotify,174,Blacklist ignored for work profile applications,open,2025-09-15T07:49:12Z,,bug
+pilot51/voicenotify,172,"Voice notifications are interrupted by shaking, although this option is turned off",closed,2025-09-11T14:33:42Z,2025-09-11T14:57:15Z,bug
+pilot51/voicenotify,168,Impact of debug log on eMMC/flash longevity,open,2025-07-30T12:41:32Z,,bug
+pilot51/voicenotify,166,App is still processing notifications when suspended => CPU and I/O usage,open,2025-07-13T08:09:56Z,,bug
+pilot51/voicenotify,165,Run in background,open,2025-06-17T16:34:19Z,,bug
+pilot51/voicenotify,162,Shake to mute on Pixel 6 Pro,closed,2025-05-14T12:08:45Z,2025-05-14T14:10:04Z,"bug, duplicate"
+pilot51/voicenotify,161,Cannot disable shake-to-silence.  Setting 0 or blank is not honored.,closed,2025-04-25T15:47:31Z,2025-05-07T05:09:19Z,bug
+pilot51/voicenotify,154,Wrong regex example string,closed,2025-02-10T14:25:56Z,2025-03-09T22:33:08Z,bug
+pilot51/voicenotify,152,"""Pause/dim media"" no longer works",closed,2025-01-07T12:36:33Z,2025-01-09T23:49:34Z,bug
+pilot51/voicenotify,149,Device not compatible after the Update..,closed,2025-01-02T18:38:02Z,2025-01-03T03:51:43Z,bug
+pilot51/voicenotify,148,Settings are not saving after the latest update.,closed,2025-01-02T13:07:47Z,2025-01-02T15:33:15Z,bug
+pilot51/voicenotify,144,Finish reading message before going to new message,open,2024-10-20T16:33:58Z,,bug
+pilot51/voicenotify,129,Treat individual conversations as seperate notifications,open,2024-02-22T13:57:51Z,,bug
+pilot51/voicenotify,128,keyboard covering menu,open,2024-02-18T15:53:18Z,,bug
+pilot51/voicenotify,123,A question about the ‘Ignore Empty’ option,closed,2024-01-14T16:56:14Z,2024-12-04T05:09:51Z,"bug, question, change"
+pilot51/voicenotify,118,App list remains filtered after leaving the search option,closed,2024-01-07T19:31:43Z,2024-01-07T20:42:54Z,bug
+pilot51/voicenotify,111,Voice notifications not disabled during Signal calls,closed,2023-09-14T09:52:17Z,2024-12-02T06:18:05Z,bug
+pilot51/voicenotify,100,App Crashes,closed,2023-04-12T16:14:34Z,2023-05-30T02:47:58Z,"bug, regression"
+pilot51/voicenotify,97,Quiet Time sometimes not respected,open,2023-02-07T01:53:32Z,,"bug, can't reproduce"
+pilot51/voicenotify,96,Voice notify turns itself on by itself,closed,2023-01-17T16:43:25Z,2023-02-02T05:00:41Z,bug
+pilot51/voicenotify,94,Since 1.2.0 connected headphones are not recognized anymore,closed,2022-12-16T09:44:41Z,2024-01-01T03:53:21Z,"bug, regression"
+pilot51/voicenotify,89,Ignore menu does not show all apps,closed,2022-08-14T11:34:10Z,2022-08-15T02:10:02Z,"bug, regression"
+pilot51/voicenotify,85,Crash on start on Android 12,closed,2022-08-07T14:41:38Z,2022-08-07T22:50:05Z,"bug, duplicate, regression"
+pilot51/voicenotify,84,Crash on start,closed,2022-08-04T07:21:27Z,2022-08-07T01:24:21Z,bug
+pilot51/voicenotify,80,Text to speech doesn't seem to function at all,closed,2021-11-22T04:54:48Z,2024-01-01T04:25:23Z,bug
+pilot51/voicenotify,79,Text replacement not occuring.,closed,2020-11-03T20:30:40Z,2023-12-31T22:50:21Z,bug
+pilot51/voicenotify,78,Correct method to ignore specific google voice notification,closed,2019-12-25T01:35:38Z,2023-12-31T23:06:48Z,"bug, question"
+pilot51/voicenotify,63,"Empty messages spoken as ""dot dot""",closed,2018-01-17T21:50:03Z,2024-01-01T22:45:10Z,bug
+pilot51/voicenotify,61,Rereading entire updated notifications,closed,2018-01-09T14:38:38Z,2018-01-20T04:50:56Z,bug
+pilot51/voicenotify,55,Doesn't work on Marshmallow and up,closed,2016-10-13T23:03:42Z,2017-11-12T04:27:23Z,bug
+pilot51/voicenotify,54,Dialog Disappears on Device Rotation,closed,2016-06-20T20:32:05Z,2017-11-14T00:30:28Z,bug
+pilot51/voicenotify,49,Doesn't work after Lollipop upgrade,closed,2015-04-15T09:40:31Z,2017-11-12T04:45:15Z,bug
+pilot51/voicenotify,46,VN causes audio issue with Life Reminders app,open,2015-01-25T03:03:43Z,,bug
+pilot51/voicenotify,43,Keep Screen Off when VN read notifications,closed,2014-12-12T20:02:23Z,2017-11-14T02:14:33Z,"bug, can't reproduce, need info"
+pilot51/voicenotify,31,Not working on some KitKat devices,closed,2014-04-20T17:59:20Z,2017-11-12T04:43:59Z,bug
+pilot51/voicenotify,30,Heavy Sensor Usage,closed,2014-04-16T14:29:42Z,2014-04-26T17:08:54Z,bug
+pilot51/voicenotify,29,Heavy Battery Usage on Audio Stream Media,open,2014-04-16T14:05:31Z,,bug
+pilot51/voicenotify,24,Shake-to-silence silences VoiceNotify until service restart,closed,2014-04-08T19:42:25Z,2014-04-26T16:58:19Z,bug
+pilot51/voicenotify,23,"the current desktop/apps page is reported, although it shouldn't",closed,2014-03-21T00:57:36Z,2017-11-12T05:27:32Z,"bug, invalid"
+pilot51/voicenotify,22,VN service disables 'Ok Google' hotword detection,closed,2014-03-08T01:39:30Z,2014-03-08T03:32:52Z,bug
+pilot51/voicenotify,7,NP Service Shown Disable but Still Running ,closed,2013-06-05T15:41:48Z,2017-11-12T05:01:01Z,"bug, invalid"
+pilot51/voicenotify,6,Some applications speak links etc.,closed,2013-05-23T19:44:28Z,2013-06-07T00:01:57Z,"bug, invalid"
+pilot51/voicenotify,4,notify log empty always.,closed,2013-01-30T15:12:06Z,2013-01-31T12:29:54Z,bug
+pilot51/voicenotify,1,Svox Voice font not started automaticly after reboot,open,2013-01-08T09:45:37Z,,bug
+casimir/simpleDeadlines,35,[Bug] Group is overwritten when Deadline is checked,closed,2014-10-09T04:24:56Z,2014-10-18T20:08:34Z,Bug
+casimir/simpleDeadlines,34,Drawer doesn't toggle with actionbar icon,closed,2014-08-23T13:43:06Z,2014-08-23T17:31:25Z,Bug
+casimir/simpleDeadlines,29,bug app closes with on error message on group list view,closed,2013-12-16T07:02:11Z,2014-02-02T20:35:35Z,Bug
+casimir/simpleDeadlines,15,Calendar view doesn't use system's locale,closed,2013-04-05T14:08:19Z,2013-04-17T13:02:14Z,Bug
+casimir/simpleDeadlines,10,Notification with 0 deadline,closed,2013-03-25T16:50:53Z,2013-03-25T17:49:29Z,Bug
+casimir/simpleDeadlines,1,Group completion doesn't work,closed,2013-01-17T20:46:32Z,2013-04-25T14:52:11Z,Bug
+worker8/TourGuide,40,Crash on setting tooltip,open,2015-09-24T13:19:34Z,,bug
+worker8/TourGuide,39,calling cleanUp() on an overlay that has disableClick = true,open,2015-09-23T16:35:26Z,,bug
+worker8/TourGuide,33,OutOfMemoryError,open,2015-08-26T07:21:58Z,,bug
+worker8/TourGuide,26,playOn method doesn't work,open,2015-08-12T13:55:42Z,,"bug, fixed-on-next-update"
+worker8/TourGuide,20,Doesn't work with DialogFragments,open,2015-08-04T09:35:16Z,,bug
+worker8/TourGuide,13,TourGuide in ListView,open,2015-07-27T11:54:30Z,,"bug, fixed-on-next-update"
+scottyab/rootbeer,168,RootBeer sample fail on SElinux check,closed,2021-05-09T09:37:33Z,2024-09-18T10:17:14Z,bug
+scottyab/rootbeer,167,Checking for Root apps on Android 11+ is ineffectual due to package-visibility changes,open,2021-05-06T10:35:49Z,,bug
+scottyab/rootbeer,159,Native crash for some devices,open,2021-02-26T12:48:45Z,,bug
+scottyab/rootbeer,124,Could not find com.scottyab:rootbeer-lib:0.0.8.,closed,2020-02-08T19:47:40Z,2020-02-08T21:59:01Z,bug
+scottyab/rootbeer,123,printstackTrace used in this library. ,closed,2020-02-07T06:14:16Z,2020-02-07T14:44:30Z,bug
+scottyab/rootbeer,107,"Root check stucks on Android 10 (security patch level: November 5, 2019)",closed,2019-11-19T14:16:11Z,2019-11-29T17:15:20Z,bug
+scottyab/rootbeer,106,Fix CI setup,closed,2019-11-18T14:28:26Z,2020-01-28T14:23:58Z,bug
+scottyab/rootbeer,102,support android Q?,closed,2019-10-04T05:42:15Z,2019-11-18T13:46:46Z,bug
+scottyab/rootbeer,92,Application crashed with signal SIGSEGV,closed,2019-03-07T13:51:01Z,2020-02-03T21:34:15Z,bug
+scottyab/rootbeer,71,Nullpointer Exception in checkForRWPaths,closed,2018-05-11T09:39:45Z,2018-06-15T12:33:15Z,bug
+scottyab/rootbeer,65,Fatal Exception: java.lang.NullPointerException,closed,2018-03-13T09:29:02Z,2018-06-15T12:33:27Z,bug
+scottyab/rootbeer,35,UnsatisfiedLinkError,closed,2017-02-03T13:34:23Z,2017-04-04T10:32:40Z,bug
+scottyab/rootbeer,13,Nexus 6p evaluated as rooted,closed,2016-03-15T05:30:15Z,2016-05-17T15:20:16Z,bug
+NordicID/nur_sample_android,4,Device list,closed,2016-09-14T12:07:37Z,2016-09-16T07:35:22Z,bug
+NordicID/nur_sample_android,3,burger menu icon doesn't show the menu,closed,2016-09-05T10:18:09Z,2016-09-15T09:21:59Z,bug
+NordicID/nur_sample_android,2,App menu contains duplicates,closed,2016-09-05T10:02:45Z,2016-09-14T11:55:41Z,bug
+NordicID/nur_sample_android,1,Close button in top bar disappears ,closed,2016-09-05T10:00:36Z,2016-09-15T09:21:28Z,bug
+Myzhar/RoboController,14,Video Server hangs out under Linux,closed,2014-04-02T09:20:52Z,2014-04-21T15:53:21Z,bug
+Myzhar/RoboController,13,Bug stopping motors,closed,2014-04-02T07:56:06Z,2014-04-21T16:03:34Z,bug
+Myzhar/RoboController,12,Watchdog to be corrected,closed,2014-03-30T12:26:47Z,2014-07-31T20:53:32Z,bug
+Myzhar/RoboController,7,Graph visualization fail,open,2014-02-08T14:42:14Z,,bug
+Myzhar/RoboController,4,Antiwindup fails if step too high,open,2014-02-07T21:42:17Z,,bug
+Z3r0byte/Magistify,78,Timestamps not correct in homework details,open,2018-08-23T08:15:50Z,,"bug, Medium Priority"
+Z3r0byte/Magistify,76,Duplicate Homework entries,closed,2018-05-05T14:35:52Z,2018-05-05T16:16:42Z,"bug, High Priority"
+Z3r0byte/Magistify,75,No notifications in Android O,closed,2018-04-09T16:52:18Z,2018-05-05T16:16:42Z,"bug, High Priority"
+Z3r0byte/Magistify,70,SQL injection,closed,2018-02-16T20:57:49Z,2018-02-19T15:56:43Z,"bug, High Priority"
+Z3r0byte/Magistify,68,Notifications for appointments not always shown,open,2018-02-08T18:06:09Z,,"bug, High Priority"
+Z3r0byte/Magistify,67,Exception java.lang.NullPointerException: Attempt to invoke virtual method 'com.google.gson.JsonArray com.google.gson.JsonElement.getAsJsonArray()' on a null object reference,closed,2018-02-08T16:02:19Z,2018-02-16T16:21:59Z,"bug, Medium Priority"
+Z3r0byte/Magistify,66,Exception com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: This is not a JSON Array.,closed,2018-02-08T16:01:03Z,2018-02-16T16:21:59Z,"bug, Medium Priority"
+Z3r0byte/Magistify,65,Exception java.lang.NullPointerException: Attempt to invoke virtual method 'void android.support.v4.app.FragmentActivity.runOnUiThread(java.lang.Runnable)' on a null object reference,closed,2018-02-08T16:00:16Z,2018-02-16T16:22:00Z,"bug, Medium Priority"
+Z3r0byte/Magistify,64,Exception java.lang.NullPointerException: Attempt to read from field 'int [REDACTED_DOMAIN_NAME]' on a null object reference,closed,2018-02-08T15:59:37Z,2018-02-16T16:21:59Z,"bug, Medium Priority"
+Z3r0byte/Magistify,62,Auto-silent previous ringer mode not working,closed,2018-02-01T11:54:29Z,2018-02-16T16:21:59Z,"bug, High Priority"
+Z3r0byte/Magistify,59,Desktop schedule changes not displaying properly,closed,2017-12-05T19:32:38Z,2017-12-09T19:17:56Z,"bug, High Priority"
+Z3r0byte/Magistify,58,Autosilent activity crashes on opening,closed,2017-12-05T19:31:47Z,2017-12-09T19:17:13Z,"bug, High Priority"
+Z3r0byte/Magistify,57,Background service is instable,closed,2017-11-08T16:09:12Z,2018-01-31T15:02:19Z,"bug, High Priority"
+Z3r0byte/Magistify,54,Zijmenu werkt niet,closed,2017-09-22T07:21:14Z,2017-09-25T17:01:58Z,"bug, High Priority"
+Z3r0byte/Magistify,53,Wrong title auto-silent,closed,2017-09-20T06:12:39Z,2017-09-25T17:01:58Z,"bug, Medium Priority"
+Z3r0byte/Magistify,49,Incorrect Activity Names,closed,2017-06-15T14:58:26Z,2017-09-01T10:25:39Z,"bug, Medium Priority"
+Z3r0byte/Magistify,48,"Als je je telefoon roteert, gaat de agenda weer terug naar vandaag",closed,2017-06-12T16:54:48Z,2017-09-01T10:26:12Z,"bug, Medium Priority"
+Z3r0byte/Magistify,41,Grades don't switch to seen state,closed,2017-04-03T14:48:26Z,2017-04-03T15:12:10Z,"bug, High Priority"
+Z3r0byte/Magistify,37,Autosilent doesn't set ringer mode back,closed,2017-03-09T15:25:30Z,2017-03-09T17:47:48Z,"bug, High Priority"
+Z3r0byte/Magistify,35,Services don't work in background,closed,2017-02-21T18:02:10Z,2017-03-06T18:25:37Z,"bug, High Priority"
+Z3r0byte/Magistify,34,Database doesn't save all grades,closed,2017-02-05T16:43:20Z,2017-03-06T18:25:37Z,"bug, High Priority"
+Z3r0byte/Magistify,28,Force Close,closed,2017-01-26T18:53:39Z,2017-01-31T08:40:00Z,"bug, Medium Priority"
+Z3r0byte/Magistify,26,Tabblad-Animatie,closed,2017-01-14T11:43:15Z,2017-05-30T06:20:33Z,"bug, Low Priority"
+Z3r0byte/Magistify,25,Nieuwste Cijfer Bug,closed,2017-01-13T14:58:00Z,2017-01-31T18:34:44Z,"bug, Medium Priority"
+Z3r0byte/Magistify,5,Buttons and EditTexts don't re-enable,closed,2017-01-08T10:49:48Z,2017-01-08T11:46:08Z,"bug, Medium Priority"
+Z3r0byte/Magistify,3,Wrong string at settings,closed,2017-01-05T08:02:32Z,2017-01-05T13:11:05Z,bug
+Z3r0byte/Magistify,2,Dubble DashboardActivity,closed,2017-01-04T17:49:36Z,2017-01-05T08:01:14Z,bug
+LukeStonehm/LogicalDefence,60,Misleading Vividness Typo,closed,2017-06-05T22:57:39Z,2024-09-19T09:31:33Z,bug
+LukeStonehm/LogicalDefence,58,Typo,closed,2017-05-19T06:49:59Z,2024-09-19T09:30:50Z,bug
+LukeStonehm/LogicalDefence,12,Changing the orientation of the screen change the current category back to first category (Appeal to the mind),closed,2015-03-16T07:34:37Z,2015-03-21T19:55:08Z,bug
+LukeStonehm/LogicalDefence,5,"Typo at ""Denying the Antecedent""",closed,2015-03-08T00:30:25Z,2015-03-08T11:14:28Z,bug
+LukeStonehm/LogicalDefence,4,"Typo at ""Spotlight""",closed,2015-03-08T00:26:16Z,2015-03-08T11:15:46Z,bug
+LukeStonehm/LogicalDefence,1,Typo,closed,2015-03-04T18:50:42Z,2015-03-07T16:45:48Z,bug
+apotapov/tafl,129,Minor Bugs for release 1.3.3,open,2014-03-19T03:44:10Z,,"bug, BETA"
+apotapov/tafl,128,Minor Bugs for release 1.3.2 (12),open,2014-03-18T19:50:09Z,,"bug, BETA"
+apotapov/tafl,125,"On 9x9, King is captured if sandwiched against hostile square",closed,2014-03-17T12:50:25Z,2014-03-18T18:48:08Z,"bug, BETA"
+apotapov/tafl,122,"label ""intermediate"" doesn't fit on button for difficulty setting",closed,2014-03-16T06:50:11Z,2014-03-17T01:13:01Z,"bug, BETA"
+apotapov/tafl,118,App icon still old one after app update,closed,2014-03-16T06:27:30Z,2014-03-18T17:06:03Z,"bug, BETA, iOS"
+apotapov/tafl,117,Clicking on icons not responsive,closed,2014-03-16T06:25:47Z,2014-03-18T18:48:08Z,"bug, BETA, iOS"
+apotapov/tafl,116,Always play game at current AI Setting,closed,2014-03-16T06:23:20Z,2014-03-16T18:23:50Z,"bug, BETA"
+apotapov/tafl,109,App Freezes after Undo,closed,2014-03-11T23:12:52Z,2014-03-13T15:57:07Z,"bug, BETA, Android, iOS"
+apotapov/tafl,107,Redo instruction screens to fit in 4:3 (iPad),closed,2014-03-11T22:59:17Z,2014-03-14T02:18:50Z,"bug, BETA"
+apotapov/tafl,106,Menu elements do not size correctly to different screens,closed,2014-03-11T19:58:51Z,2014-03-13T21:07:22Z,"bug, BETA"
+apotapov/tafl,93,Handling pieces is clumsy,closed,2014-02-26T20:49:11Z,2014-03-13T17:12:19Z,"bug, BETA"
+apotapov/tafl,88,Text Resource Changes,closed,2014-02-24T17:07:25Z,2014-02-27T05:27:20Z,bug
+apotapov/tafl,67,Android: Support version 10 of Android,closed,2014-02-17T07:37:43Z,2014-02-20T00:07:07Z,bug
+apotapov/tafl,66,"Android: Nexus 4, music settings do not get persisted",closed,2014-02-17T07:35:03Z,2014-02-20T15:45:36Z,bug
+apotapov/tafl,65,Android: Lock phone to portrait mode,closed,2014-02-17T07:32:49Z,2014-02-20T00:04:48Z,bug
+apotapov/tafl,64,Android: Font is corrupted after OpenGL reload,closed,2014-02-17T07:00:11Z,2014-02-20T03:06:30Z,bug
+apotapov/tafl,60,com.badlogic.gdx.utils.GdxRuntimeException: #iterator() cannot be used nested.,closed,2014-02-16T21:42:54Z,2014-02-21T01:41:31Z,bug
+apotapov/tafl,50,Game: Timer is broken on Android,closed,2014-02-16T16:52:27Z,2014-02-16T21:44:38Z,bug
+apotapov/tafl,40,AI: AI doesn't recognize winning move,closed,2014-02-12T01:51:55Z,2014-03-13T17:14:29Z,"bug, BETA, AI"

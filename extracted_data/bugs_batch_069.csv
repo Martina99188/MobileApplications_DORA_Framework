@@ -1,0 +1,48 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+testica/text-scanner,1,App get crash in some devices when upload an image from camera,closed,2016-11-15T18:47:02Z,2016-12-01T02:58:29Z,bug
+ReyKoxha/nodebb-webview,10,force close,closed,2019-03-02T14:01:09Z,2020-04-07T00:47:25Z,"bug, help wanted"
+lispascal/WifiTransfer,16,SD cards (not external storage) not accessible,open,2015-04-29T01:40:25Z,,"bug, enhancement"
+Nutomic/movecerts,4,FC on Lollipop when opening,open,2014-12-28T21:25:49Z,,bug
+Nutomic/movecerts,3,Lollipop,closed,2014-10-22T11:12:12Z,2014-10-22T11:50:39Z,bug
+dhis2/dhis2-android-dashboard,14,Tracking changes in underlying data.,closed,2015-07-29T06:56:42Z,2016-03-15T16:06:19Z,bug
+dhis2/dhis2-android-dashboard,13,Polish UI layout issues.,open,2015-07-29T06:50:56Z,,"bug, enhancement, stale"
+dhis2/dhis2-android-dashboard,3,ViewPager has to observe changes in underlying data.,open,2015-05-22T10:38:35Z,,"bug, stale"
+dhis2/dhis2-android-dashboard,1,Handle DashboardViewPagerFragment's state properly.,open,2015-05-22T10:33:57Z,,"bug, stale"
+noboru-i/ReadItNow,20,widget一覧に表示されない端末がある,closed,2013-05-13T15:19:21Z,2013-05-13T15:21:07Z,bug
+noboru-i/ReadItNow,19,初回widget貼り付け時に例外が発生する,closed,2013-05-11T09:36:54Z,2013-05-11T09:43:32Z,bug
+noboru-i/ReadItNow,18,定期的に例外が発生している,closed,2013-04-23T04:02:55Z,2013-05-11T09:11:11Z,bug
+noboru-i/ReadItNow,17,日本語タグによる検索が出来ない,closed,2013-04-23T04:00:18Z,2013-05-13T15:45:13Z,bug
+noboru-i/ReadItNow,16,widgetにて表示が崩れる,closed,2013-04-03T16:53:24Z,2013-05-13T15:55:19Z,bug
+noboru-i/ReadItNow,15,"再起動後に表示が""-""になり、タップが効かない",open,2013-02-14T09:31:26Z,,bug
+noboru-i/ReadItNow,14,放置していると、強制終了になる場合がある,open,2013-02-14T09:30:53Z,,bug
+noboru-i/ReadItNow,10,widget追加時に初期値以外の設定値が表示される場合がある,closed,2013-01-26T18:43:07Z,2013-01-26T18:50:43Z,bug
+noboru-i/ReadItNow,7,認証完了時に戻るボタン押下でブラウザに戻ってしまう,open,2013-01-26T09:38:46Z,,bug
+s-gv/rnicu,5,Access Control Security breach,closed,2013-08-07T06:23:13Z,2013-08-07T09:50:18Z,bug
+linklux/android-schedules,28,Changed classes are not removed,closed,2018-02-02T14:28:00Z,2018-02-05T22:25:43Z,"bug, prio high"
+linklux/android-schedules,27,"BadParcableExceptions, loads of them!",closed,2018-01-31T12:26:01Z,2018-05-30T19:52:01Z,"bug, prio high"
+linklux/android-schedules,26,Schedule manager breaks when schedules exceed the modal size,closed,2018-01-08T16:34:28Z,2018-01-10T22:37:11Z,"bug, prio high"
+linklux/android-schedules,25,Won't skip weekends properly,open,2017-11-05T13:04:17Z,,"bug, wontfix"
+linklux/android-schedules,23,Visibility checkbox does not render when dragging,open,2017-10-04T08:54:23Z,,"bug, prio medium"
+linklux/android-schedules,22,Missing app bar in settings activity,closed,2017-10-04T07:57:35Z,2017-10-04T08:24:31Z,"bug, prio high"
+linklux/android-schedules,21,Drag 'n drop is not intuitive,closed,2017-10-04T07:54:00Z,2017-10-04T08:50:37Z,"bug, prio high"
+linklux/android-schedules,17,App crashes on first startup,closed,2017-09-25T20:20:47Z,2017-09-25T20:33:36Z,"bug, prio high"
+linklux/android-schedules,10,Spinner icon does not disappear when phone has no internet connection,closed,2017-04-01T08:47:37Z,2017-09-11T22:13:40Z,bug
+linklux/android-schedules,8,Refreshing without schedules will keep the spinner spinning,closed,2017-03-19T10:03:00Z,2017-03-19T11:17:13Z,bug
+linklux/android-schedules,6,Developer details are not correctly displayed on some versions of Android,closed,2017-03-19T09:11:26Z,2017-09-25T20:41:24Z,"bug, prio medium"
+linklux/android-schedules,5,Refresh gesture is too sensitive,closed,2017-03-19T09:08:18Z,2017-03-19T11:02:42Z,bug
+linklux/android-schedules,4,Adding multiple schedules does not trigger sync,closed,2017-03-19T08:59:53Z,2017-03-19T13:13:34Z,bug
+ftisunpar/juklak,1,Web version (gh-pages) is not responsive to screen size,closed,2015-08-12T03:43:42Z,2016-04-01T01:49:47Z,bug
+florent37/MaterialTextField,13,"doesn't work on ~10"" Sony Tablet S (Android 4.0.3)",closed,2016-05-17T06:57:57Z,2016-05-20T08:44:18Z,bug
+lukaspili/Reactive-Billing,3,java.lang.IllegalStateException: Doesn't have any subscription,open,2016-05-21T13:35:45Z,,bug
+lukaspili/Reactive-Billing,2,Possible to test with reserved product ID?,open,2016-05-18T16:40:03Z,,bug
+mediavrog/integrated-rating-request,8,Click on Accept Nudge Button triggers onDismiss,closed,2016-05-29T16:47:05Z,2016-08-11T02:16:56Z,bug
+mediavrog/integrated-rating-request,5,IndexOUtOfBounds exception if list items are loaded async,closed,2016-02-26T10:44:40Z,2016-02-26T10:50:39Z,bug
+allegro/fogger,10, java.lang.NullPointerException: Attempt to invoke virtual method 'android.content.Context android.view.View.getContext()' on a null object reference                                                                at pl.allegro.fogger.utils.ScreenShooter.createViewScreenshot,closed,2016-08-17T06:10:36Z,2019-04-08T07:59:13Z,bug
+adamwg/tracks-android,17,Tracks for Android doesn't handle special characters,open,2012-02-13T22:15:49Z,,bug
+adamwg/tracks-android,10,Better orientation change handling,closed,2011-01-24T20:29:05Z,2011-02-01T04:42:03Z,bug
+adamwg/tracks-android,9,Show From applies only after refresh,closed,2011-01-20T23:31:09Z,2011-01-20T23:41:54Z,bug
+adamwg/tracks-android,7,"Project doesn't have a ""none"" option",closed,2011-01-19T20:42:36Z,2011-01-20T23:29:30Z,bug
+adamwg/tracks-android,4,Notes don't scroll,open,2011-01-14T16:47:00Z,,bug
+adamwg/tracks-android,3,"Contexts are sorted by ID, not order",closed,2011-01-14T16:44:57Z,2011-01-19T04:50:39Z,bug
+adamwg/tracks-android,2,Due date colors are sometimes off-by-one,closed,2011-01-14T04:47:35Z,2011-01-19T05:38:12Z,bug
+adamwg/tracks-android,1,Clear data when changing accounts,closed,2011-01-14T04:46:32Z,2011-01-19T04:52:08Z,bug

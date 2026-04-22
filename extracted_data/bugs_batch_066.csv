@@ -1,0 +1,17 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+allsoft777/MVP-with-Firebase,1,RxMvpPresenter에서 NPE 발생.,closed,2017-04-19T01:46:53Z,2017-04-19T16:30:32Z,bug
+caarmen/youreawinner,3,Sound/share icons,closed,2013-01-10T00:28:12Z,2014-11-30T16:42:56Z,bug
+caarmen/youreawinner,1,The app plays audio when in silent mode,closed,2013-01-08T10:43:05Z,2013-01-10T00:27:26Z,bug
+felixb/no-cloud-share,10,adding a second file does not work,closed,2015-05-30T10:06:21Z,2015-06-13T14:31:44Z,bug
+micolous/frogjump,5,Back button behaviour not correct,open,2015-11-25T00:00:21Z,,bug
+micolous/frogjump,1,Refactor Activities to be properly MVP,open,2015-11-24T23:35:52Z,,bug
+louistsaitszho/Erg-Alpha,12,A complete description,open,2015-06-24T16:18:00Z,,"bug, enhancement, ready"
+louistsaitszho/Erg-Alpha,8,Unable to save a valid startDateTime,closed,2015-06-05T00:56:48Z,2015-06-08T04:04:49Z,bug
+louistsaitszho/Erg-Alpha,4,Shadow on FAB is missing,open,2015-05-30T14:15:26Z,,"bug, enhancement"
+louistsaitszho/Erg-Alpha,3,Create AlertDialog when user input is wrong,closed,2015-05-30T14:11:18Z,2015-06-13T16:09:19Z,"bug, enhancement"
+flide/TouchBoard,2,Rouge strokes ,closed,2014-05-07T13:24:34Z,2015-09-21T06:24:41Z,bug
+flide/TouchBoard,1,Reorienting the device causes image rotation ,closed,2014-05-05T07:59:17Z,2014-05-05T18:20:19Z,bug
+TheFinestArtist/MovingButton,1,Improve OnTouchListener Algorithm,closed,2015-02-14T19:08:57Z,2015-02-17T08:59:31Z,bug
+mitch-b/whoisit-android,6,matches don't auto-refresh,closed,2013-12-18T04:44:56Z,2014-01-06T13:55:33Z,bug
+mitch-b/whoisit-android,4,Handle multiple calls at same time,open,2013-12-13T04:38:48Z,,bug
+mitch-b/whoisit-android,3,Alarm volume is not restored to its original value,closed,2013-12-11T04:34:59Z,2013-12-11T05:11:43Z,bug

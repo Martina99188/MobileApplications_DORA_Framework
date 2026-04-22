@@ -1,0 +1,44 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+NijzinkM/ListLock,29,Could not request playlist %1$s,closed,2017-02-04T13:27:50Z,2017-02-05T20:24:38Z,bug
+NijzinkM/ListLock,28,Log-in is not clear,closed,2017-02-04T11:05:33Z,2017-02-05T20:26:07Z,bug
+NijzinkM/ListLock,24,Progress bar returns to starting point when restarting activity,open,2017-01-22T16:04:01Z,,bug
+NijzinkM/ListLock,12,Username can be null,closed,2016-12-28T22:05:30Z,2017-02-13T21:19:14Z,bug
+NijzinkM/ListLock,5,Play doens't work,closed,2016-08-28T15:07:47Z,2016-08-29T12:55:30Z,bug
+NijzinkM/ListLock,2,App crashes when rotating screen in PlaylistActivity,closed,2016-08-28T13:08:22Z,2016-08-28T14:09:31Z,bug
+ypresto/android-transcoder,3,Vertical video will be distorted in Android 5.0 (lollipop),closed,2014-11-26T13:04:24Z,2014-11-26T13:19:21Z,bug
+ypresto/android-transcoder,2,Avoid non-multiple-of-16 resolution,closed,2014-11-14T05:35:48Z,2015-01-19T11:11:12Z,bug
+blaztriglav/did-i,2,Fragment UI doesn't refresh after deleting habits in EditHabits Activity,closed,2012-10-13T21:41:05Z,2013-08-04T19:19:14Z,bug
+blaztriglav/did-i,1,"Automatic ""no"" for unanswered days new year issue",closed,2012-10-13T21:24:11Z,2012-12-16T13:51:04Z,bug
+trikita/slide,4,Texts in the editor and in the preview window unsynced when clearing all,open,2016-03-22T05:40:02Z,,bug
+trikita/slide,3,Full-screen is not always enabled while reviewing a presentation,closed,2016-03-22T05:31:37Z,2016-03-22T13:16:22Z,bug
+trikita/slide,2,Hard to edit presentations on a white background,closed,2016-03-22T05:26:05Z,2016-03-22T13:16:22Z,bug
+deepaktwr/BitFrames,8,Get random crash when scroll,open,2017-06-12T15:39:29Z,,bug
+deepaktwr/BitFrames,6,Weak reference problem in RV loading in FrameHandler,open,2017-06-09T22:33:03Z,,bug
+deepaktwr/BitFrames,3,Not work in RecyclerView ,closed,2017-06-06T14:14:17Z,2017-06-08T10:04:26Z,bug
+hacktx/electron,8,Crashes on pre-Lollipop devices,closed,2015-09-28T22:25:03Z,2015-09-28T22:33:35Z,bug
+torkildr/Trommelyd,1,Crash on uninitialized service,closed,2011-10-28T14:00:53Z,2011-10-29T12:08:57Z,bug
+pchretien/APOD,44,Remove unnecessary security rights ...,open,2012-12-17T19:13:58Z,,bug
+pchretien/APOD,42,Crashes on startup when not connected,open,2012-10-05T12:23:03Z,,bug
+pchretien/APOD,41,Default page and timezone,closed,2012-08-16T01:58:31Z,2012-08-16T04:27:43Z,bug
+pchretien/APOD,40,Devices Compatibility,closed,2012-08-14T01:24:13Z,2012-08-27T18:24:48Z,bug
+pchretien/APOD,39,Some pages not lading,open,2012-08-14T01:19:49Z,,bug
+pchretien/APOD,38,Encoding errors,open,2012-08-14T01:18:26Z,,bug
+pchretien/APOD,35,Full size image view problem in JellyBean,closed,2012-08-11T00:57:59Z,2012-08-14T01:06:23Z,bug
+pchretien/APOD,33,Make the menu accessible from all activities,closed,2012-08-09T18:57:14Z,2012-08-10T00:09:49Z,"bug, enhancement"
+pchretien/APOD,31,Handle no-connection in search,closed,2012-08-09T01:09:14Z,2012-08-09T14:11:13Z,bug
+pchretien/APOD,30,Start a new search from the APODSearchActivity,closed,2012-08-09T01:06:46Z,2012-08-09T18:55:58Z,bug
+pchretien/APOD,29,Improve Search performances,closed,2012-08-08T15:25:12Z,2012-08-09T01:04:22Z,bug
+pchretien/APOD,27,Crashes when no results are returned from search ...,closed,2012-08-08T03:00:27Z,2012-08-08T15:21:57Z,bug
+pchretien/APOD,26,Fail to display after error message,closed,2012-08-08T02:01:47Z,2012-08-08T02:11:12Z,bug
+pchretien/APOD,25,Add search results to the cache,closed,2012-08-08T00:16:10Z,2012-08-09T01:58:44Z,bug
+pchretien/APOD,24,Styling of the search results,closed,2012-08-08T00:07:23Z,2012-08-09T02:29:46Z,bug
+pchretien/APOD,23,Remove the finish() from the APODAsyncLoader,closed,2012-08-08T00:06:34Z,2012-08-08T01:26:41Z,bug
+pchretien/APOD,22,Add search spinner,closed,2012-08-08T00:05:12Z,2012-08-08T02:00:21Z,bug
+pchretien/APOD,21,Use the IWebDataConnectorFormatter for the getBitmap function,closed,2012-08-05T20:06:29Z,2012-08-05T20:10:29Z,bug
+pchretien/APOD,20,Add Icons to menu,closed,2012-07-18T02:10:52Z,2012-08-14T01:07:48Z,"bug, enhancement"
+pchretien/APOD,18,Replace ApodContentType.NONE by ERROR,closed,2012-07-18T00:31:34Z,2012-07-20T03:06:29Z,bug
+pchretien/APOD,17,Connection error msg for date > today.,closed,2012-07-17T03:47:08Z,2012-07-17T19:39:27Z,bug
+pchretien/APOD,14,Some spaces in the text are missing,open,2012-07-16T14:38:48Z,,bug
+pchretien/APOD,12,Crash with no connection,closed,2012-07-16T03:28:26Z,2012-07-17T03:46:03Z,bug
+pchretien/APOD,11,Text View disabled still taking space,closed,2012-07-15T03:20:07Z,2012-07-15T03:20:18Z,bug
+pchretien/APOD,10,Set Date Dialog onDismiss always called?,closed,2012-07-15T03:09:02Z,2012-07-17T19:49:38Z,bug

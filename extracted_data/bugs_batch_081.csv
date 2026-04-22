@@ -1,0 +1,47 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+konifar/droidkaigi2016,337,Version code bug,open,2016-03-01T11:24:32Z,,bug
+konifar/droidkaigi2016,325,Session cannot be registered in MySchedule by pressing Star button in each session activity,open,2016-02-25T16:48:53Z,,bug
+konifar/droidkaigi2016,321,SettingFragment loses its elevation setting,closed,2016-02-24T02:20:29Z,2016-02-26T01:05:21Z,"bug, if possible, welcomecontribute"
+konifar/droidkaigi2016,305,RTL layout shown with japanese text sometimes.,open,2016-02-19T05:09:48Z,,"bug, if possible, ready, welcomecontribute"
+konifar/droidkaigi2016,304,Notification content text is not Arabic language.,open,2016-02-19T03:50:34Z,,"bug, if possible, ready, welcomecontribute"
+konifar/droidkaigi2016,287,UnsupportedOperationException: Can't convert to color: type=0x2,closed,2016-02-17T15:54:58Z,2016-02-18T01:56:22Z,bug
+konifar/droidkaigi2016,264,Session star mark cleared after changing language setting,closed,2016-02-16T06:36:28Z,2016-02-16T07:49:49Z,"bug, welcomecontribute"
+konifar/droidkaigi2016,246,Fatal Exception: java.lang.IllegalStateException: Failure saving state: active SupportMapFragment{31730d3b} has cleared index: -1,closed,2016-02-15T12:32:01Z,2016-02-16T05:05:30Z,"bug, if possible, welcomecontribute"
+konifar/droidkaigi2016,243,Fix tag margin in session detail page in the case of Arabic,closed,2016-02-15T12:20:34Z,2016-02-15T18:46:14Z,"bug, if possible, welcomecontribute"
+konifar/droidkaigi2016,239,Progress dialog does not dismiss,closed,2016-02-15T12:12:12Z,2016-02-16T03:50:27Z,"bug, if possible, welcomecontribute"
+konifar/droidkaigi2016,238,Toolbar shadow does not switch,closed,2016-02-15T12:08:22Z,2016-02-15T17:22:20Z,"bug, if possible, welcomecontribute"
+konifar/droidkaigi2016,213,Drawer cover is not shown,closed,2016-02-14T04:43:10Z,2016-02-15T08:45:17Z,"bug, welcomecontribute"
+konifar/droidkaigi2016,206,Favorite button doesn't return original scale,closed,2016-02-13T18:40:33Z,2016-02-15T02:52:17Z,"bug, if possible, welcomecontribute"
+konifar/droidkaigi2016,204,Restore toolbar title after the activity was destroyed.,closed,2016-02-13T18:05:55Z,2016-02-14T12:48:48Z,"bug, if possible, welcomecontribute"
+konifar/droidkaigi2016,191,Fix feedback send bug,closed,2016-02-13T16:47:12Z,2016-02-13T17:20:25Z,bug
+konifar/droidkaigi2016,179,App crashes just after launch if upgraded from  PlayStore 1.0.1 to DeployGate 13,closed,2016-02-13T08:36:30Z,2016-02-13T09:26:02Z,bug
+konifar/droidkaigi2016,171,Map is not shown on the release build,closed,2016-02-13T01:31:10Z,2016-02-13T01:47:03Z,bug
+konifar/droidkaigi2016,149,Misalignment of toolbar text on RTL language (AR),open,2016-02-11T18:44:31Z,,"bug, if possible, ready, welcomecontribute"
+konifar/droidkaigi2016,133,Crash occurred when launching with no internet connection,closed,2016-02-11T07:52:16Z,2016-02-12T04:43:24Z,"bug, priorityhigh"
+konifar/droidkaigi2016,119,マイスケジュールで「全てのセッションを見る」を連打すると落ちる,closed,2016-02-10T09:15:47Z,2016-02-11T09:36:38Z,bug
+konifar/droidkaigi2016,103,Improve readability of colored strings,closed,2016-02-09T10:11:48Z,2016-02-09T15:47:38Z,bug
+konifar/droidkaigi2016,99,wrong session language information,closed,2016-02-09T05:26:05Z,2016-02-09T09:12:40Z,bug
+konifar/droidkaigi2016,95,IndexOutOfBoundsException occurs when open a detail screen and back to the home screen,closed,2016-02-09T03:48:55Z,2016-02-09T11:06:12Z,bug
+konifar/droidkaigi2016,84,License Android-Orma author link is wrong,closed,2016-02-08T11:50:35Z,2016-02-09T11:16:48Z,"bug, priorityhigh"
+konifar/droidkaigi2016,83,[Bug Report] Yahoo Japan's link doesn't work,closed,2016-02-08T11:48:29Z,2016-02-09T04:58:17Z,"bug, priorityhigh"
+konifar/droidkaigi2016,79,Fix language select dialog.,closed,2016-02-08T04:42:02Z,2016-02-09T13:34:41Z,bug
+konifar/droidkaigi2016,63,Add empty view in my schedule page,closed,2016-02-04T04:02:07Z,2016-02-05T12:40:28Z,bug
+konifar/droidkaigi2016,62,No session shown after clean installation,closed,2016-02-04T01:31:55Z,2016-02-04T22:30:29Z,"bug, priorityhigh"
+konifar/droidkaigi2016,50,Fix my schedule page tab,closed,2016-02-03T12:25:39Z,2016-02-07T08:16:00Z,"bug, if possible"
+konifar/droidkaigi2016,45,Select drawer first time,closed,2016-02-03T12:14:48Z,2016-02-03T20:01:57Z,bug
+konifar/droidkaigi2016,44,Fix empty speaker icon,closed,2016-02-03T12:12:22Z,2016-02-03T20:01:57Z,bug
+konifar/droidkaigi2016,40,Singleline CollapsingToolbar title to multiline.,closed,2016-02-03T12:04:01Z,2016-02-03T19:18:14Z,bug
+konifar/droidkaigi2016,38,Favorite button refresh in my schedule page,closed,2016-02-03T11:56:09Z,2016-02-03T20:36:24Z,bug
+konifar/droidkaigi2016,23,Add ripple effect to menu button,closed,2016-02-03T11:08:45Z,2016-02-03T16:19:01Z,bug
+wisedog/WhoochooAdvSms,6,Item selection bug,closed,2014-02-24T13:44:48Z,2014-02-24T15:02:56Z,bug
+wisedog/WhoochooAdvSms,4,Market crash log,closed,2014-02-18T01:48:04Z,2014-02-24T13:29:45Z,bug
+wisedog/WhoochooAdvSms,2,폰트크기 조정 및 토스트 메시지,closed,2014-02-15T05:34:17Z,2014-02-17T13:08:35Z,bug
+yankovskiy/SilentNight,5,timezone does not auto change,closed,2014-03-11T02:54:52Z,2014-04-24T04:52:34Z,bug
+yankovskiy/SilentNight,1,"Приложение падает при активации режима в ""самолете""",closed,2013-12-15T02:10:09Z,2014-02-12T11:40:07Z,bug
+michalmazur/orphaned-texts,10,App crashes on startup on ZTE N800,closed,2014-01-14T02:44:35Z,2014-03-02T04:42:44Z,bug
+michalmazur/orphaned-texts,8,App crashes on startup on Samsung GT-S5830 Galaxy Cooper,closed,2013-11-27T12:23:54Z,2013-11-27T13:23:24Z,bug
+michalmazur/orphaned-texts,7,App crashes on startup on LG VS920 4G,closed,2013-08-22T18:19:03Z,2013-08-23T17:08:41Z,bug
+michalmazur/orphaned-texts,6,Clicking the Email button triggers both Email and Delete All,closed,2013-06-03T05:50:44Z,2013-06-04T17:11:25Z,bug
+mr-glt/OpenScout,10,App crashes while in team stat screen while trying to log out,closed,2017-03-01T14:17:15Z,2017-03-01T18:06:18Z,bug
+mr-glt/OpenScout,6,Back Button on Settings Screen is non-functioning,open,2017-03-01T13:57:53Z,,bug
+mr-glt/OpenScout,5,Entering an invalid team number causes a crash,closed,2017-03-01T13:50:46Z,2017-03-01T18:14:16Z,bug

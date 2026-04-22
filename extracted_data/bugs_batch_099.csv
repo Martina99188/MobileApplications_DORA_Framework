@@ -1,0 +1,7 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+mridang/dashclock-hotspot,4,java.lang.NullPointerException,closed,2013-11-08T18:12:57Z,2015-05-10T12:22:14Z,"Android, BugSense, App versions: 0.6 - 0.7"
+mridang/dashclock-hotspot,3,java.lang.NullPointerException,closed,2013-11-03T20:35:31Z,2015-05-10T12:22:14Z,"Android, BugSense, App versions: 0.6"
+mridang/dashclock-hotspot,2,java.lang.NoSuchMethodException: isWifiApEnabled [],closed,2013-10-27T17:17:32Z,2015-05-10T12:22:14Z,"Android, BugSense, App versions: 0.5 - 0.6"
+mridang/dashclock-hotspot,1,java.lang.NoSuchMethodException: isWifiApEnabled [],closed,2013-10-19T13:04:46Z,2015-05-10T12:22:14Z,"Android, BugSense, App versions: 0.5"
+mridang/dashclock-bluetooth,1,java.lang.NullPointerException,open,2013-11-01T18:35:15Z,,"Android, BugSense, App versions: 0.6"
+mridang/dashclock-storage,2,java.lang.NullPointerException,open,2013-11-04T00:16:26Z,,"Android, BugSense, App versions: 0.6"

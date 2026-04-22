@@ -1,0 +1,4 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+EdwardvanRaak/MaterialBarcodeScanner,11,Eventually a memory Leak,closed,2016-06-05T19:57:44Z,2018-02-05T23:04:37Z,bug
+EdwardvanRaak/MaterialBarcodeScanner,9,Not working with Samsung Devices.,open,2016-06-04T07:49:30Z,,bug
+EdwardvanRaak/MaterialBarcodeScanner,1,App Crash (Force Closed) When Opening Scan Layout Activity,closed,2016-04-15T08:42:35Z,2016-04-15T22:08:04Z,bug

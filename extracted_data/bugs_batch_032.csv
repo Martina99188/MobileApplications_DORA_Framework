@@ -1,0 +1,569 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+MicMun/MiWoTreff,2,charset encoding bug,closed,2012-08-22T11:40:36Z,2012-08-22T11:45:58Z,bug
+hashikuchi/TexchangeApp,28,テスト用環境でのソーシャルログインが成功しない,open,2015-01-13T01:31:38Z,,bug
+hashikuchi/TexchangeApp,27,"facebook, twitterでログインした後出品しようとするとログインしていないことになっている",closed,2014-12-17T06:48:12Z,2015-01-13T01:29:46Z,bug
+hashikuchi/TexchangeApp,26,アプリから二重出品されることがある,open,2014-12-15T05:06:02Z,,bug
+hashikuchi/TexchangeApp,25,アプリから二重出品されることがある,closed,2014-12-15T04:21:31Z,2014-12-25T14:15:56Z,bug
+hashikuchi/TexchangeApp,17,バーコードを読み取った瞬間にエラー,closed,2014-11-19T09:13:55Z,2015-04-05T11:17:44Z,bug
+hashikuchi/TexchangeApp,14,ログアウト機能を実装する,open,2014-10-17T08:32:41Z,,bug
+hashikuchi/TexchangeApp,13,再度ログインしたときに起動画面から先に進まない,closed,2014-10-17T08:19:52Z,2014-11-09T09:56:42Z,bug
+hashikuchi/TexchangeApp,12,ウェブブラウザのリロードボタンを押すと、画面が真っ白になる,closed,2014-10-08T10:58:38Z,2014-11-09T09:56:49Z,bug
+hashikuchi/TexchangeApp,2,有効なバーコードと無効なバーコードを短時間に連続して読み取るとアラートが何度も表示されてしまう,closed,2014-07-14T22:11:12Z,2015-04-05T11:18:23Z,bug
+hashikuchi/TexchangeApp,1,何度もバーコードを読み取っていると「invalid type passed to function」エラーになる,closed,2014-07-14T22:10:16Z,2014-07-15T02:56:48Z,bug
+CytoDev/FrequencyCalculator,9,NumberFormatException,closed,2019-10-21T14:41:33Z,2019-10-21T19:04:23Z,"bug, next-release"
+CytoDev/FrequencyCalculator,4,"Activating the ""Themed icon"" option deletes the shortcut on the home screen",closed,2016-06-13T18:59:16Z,2016-06-15T17:54:02Z,"bug, wontfix"
+CytoDev/FrequencyCalculator,3,"I got the ""Thanks for using this app for over a week!"" the day I installed the app",closed,2016-06-13T18:52:17Z,2016-06-15T17:48:33Z,bug
+javiersantos/MaterialStyledDialogs,51,MaterialStyledDialog isShowing() always false,open,2017-07-12T09:23:04Z,,possible bug
+javiersantos/MaterialStyledDialogs,38,In Android version 7 the header icon is not working correctly .,open,2017-01-10T14:58:27Z,,possible bug
+javiersantos/MaterialStyledDialogs,30,Description text does not appear correctly,closed,2016-09-23T01:58:09Z,2017-12-17T20:07:14Z,bug
+javiersantos/MaterialStyledDialogs,29,Icon animation only plays once,closed,2016-09-23T01:54:41Z,2016-09-25T15:08:56Z,bug
+javiersantos/MaterialStyledDialogs,28,Text alignment,closed,2016-08-12T11:25:59Z,2016-08-12T12:13:15Z,bug
+javiersantos/MaterialStyledDialogs,12,Binary XML file line #8: You must supply a layout_height attribute,closed,2016-03-05T19:42:57Z,2016-03-06T16:28:31Z,"bug, help wanted"
+javiersantos/MaterialStyledDialogs,10,error with the new support library tations:23.2.0,closed,2016-02-25T13:47:37Z,2016-02-25T21:06:32Z,bug
+javiersantos/MaterialStyledDialogs,5,[Bug] The color of the description is also white and it isn't readable,closed,2016-02-15T18:08:16Z,2016-02-15T18:22:29Z,bug
+javiersantos/MaterialStyledDialogs,1,customize header color not work,closed,2016-02-09T10:22:48Z,2016-02-09T11:02:17Z,bug
+GrinnellAppDev/KDIC-Radio-Android,10,Fix 'loading' State Bug,closed,2012-10-24T22:22:00Z,2012-11-10T19:21:05Z,bug
+melkonyan/Timetable,77,Fix bug with incorrect time,open,2014-10-03T18:03:25Z,,Bug
+melkonyan/Timetable,74,"false date is opened, when user clicks alarm notification",closed,2014-09-23T20:09:56Z,2014-09-27T16:25:28Z,Bug
+melkonyan/Timetable,67,Select current displaying date in datepicker(EventDayViewActivity),closed,2014-09-13T17:44:53Z,2014-09-17T15:35:06Z,Bug
+melkonyan/Timetable,65,Fix EventView ,closed,2014-09-13T17:22:55Z,2014-09-17T15:27:13Z,Bug
+melkonyan/Timetable,63,Check if event is in database when alarm  is fired,closed,2014-08-20T10:39:51Z,2014-08-20T17:43:26Z,Bug
+melkonyan/Timetable,61,EventAddActivity set incorrect init values to start and end times,closed,2014-08-10T17:18:12Z,2014-08-20T18:29:02Z,Bug
+melkonyan/Timetable,46,Restore previous state after unmuting device,closed,2014-08-07T18:35:06Z,2014-08-20T19:18:54Z,Bug
+melkonyan/Timetable,36,alarm is not always exactly at specified time ,closed,2014-07-30T11:11:22Z,2014-08-13T09:42:24Z,Bug
+melkonyan/Timetable,34,Alarm is notification showed in a wrong way,closed,2014-07-30T11:10:10Z,2014-08-03T09:56:51Z,Bug
+melkonyan/Timetable,29,Fix AlarmService,closed,2014-07-15T21:13:02Z,2014-07-30T09:32:33Z,Bug
+melkonyan/Timetable,28,Bug when changing screen orientation,closed,2014-07-15T12:18:14Z,2014-07-30T10:22:24Z,Bug
+melkonyan/Timetable,26,Change color of notification icon,closed,2014-07-06T14:36:00Z,2014-07-07T10:01:31Z,Bug
+melkonyan/Timetable,25,"If event period is weekly, it should have occurrence on it's date.",closed,2014-05-07T18:16:22Z,2014-08-03T09:55:16Z,Bug
+melkonyan/Timetable,24,Add alarm icon for dark theme,closed,2014-05-07T17:08:44Z,2014-07-07T10:02:49Z,Bug
+melkonyan/Timetable,14,remove auto-focuse on the event name(ActivityEventAdd),closed,2014-02-16T10:46:10Z,2014-02-16T11:09:48Z,Bug
+tvbarthel/BlurDialogFragment,78,Blur is not work when set ndk,open,2017-04-11T09:15:52Z,,bug
+tvbarthel/BlurDialogFragment,63,Blank (white) AppBarLayout after scroll,open,2016-06-30T18:46:40Z,,bug
+tvbarthel/BlurDialogFragment,62,NPE press back button on BlurDialogFragment,closed,2016-06-21T12:41:16Z,2016-07-11T10:54:53Z,bug
+tvbarthel/BlurDialogFragment,59,Runtime Error for `onDismiss` Listener ,closed,2016-05-03T23:47:04Z,2016-06-21T06:15:30Z,bug
+tvbarthel/BlurDialogFragment,56,On orientation change dialogFragment with setRetainInstance(true) the blur background disappear,closed,2016-02-23T23:12:18Z,2016-05-12T06:51:48Z,bug
+tvbarthel/BlurDialogFragment,53,Canvas: trying to use a recycled bitmap,open,2016-01-28T12:09:25Z,,bug
+tvbarthel/BlurDialogFragment,49,NullPointerException while opening the Dialog that extends from BlurDialogFragment,open,2015-11-17T15:00:39Z,,bug
+tvbarthel/BlurDialogFragment,31,[v2.1.0] KitKat - Verify Error,closed,2015-05-09T22:16:53Z,2015-05-10T10:20:09Z,bug
+tvbarthel/BlurDialogFragment,30,isStatusBarTranslucent doesn't work well,closed,2015-05-08T12:12:08Z,2015-08-09T05:37:51Z,bug
+tvbarthel/BlurDialogFragment,23,Can't use without inheritance since BlurDialogEngine is now package-private,closed,2015-04-01T19:11:39Z,2015-04-01T21:01:22Z,bug
+tvbarthel/BlurDialogFragment,20,NPE getActionBarHeight(),closed,2015-02-10T10:27:58Z,2016-03-04T00:32:19Z,bug
+tvbarthel/BlurDialogFragment,16,Bottom offset,closed,2015-01-23T17:41:29Z,2015-02-05T21:39:48Z,bug
+tvbarthel/BlurDialogFragment,4,AppCompat dependency shouldn't be mandatory,closed,2014-11-05T07:49:48Z,2014-11-06T21:20:15Z,bug
+tvbarthel/BlurDialogFragment,3,NPE at BlurDialogEngine#blur() during doInBackground,closed,2014-11-04T22:17:47Z,2015-05-29T18:38:55Z,bug
+tvbarthel/BlurDialogFragment,1,[Android L] navigation bar issue,closed,2014-10-29T22:06:02Z,2014-11-01T17:45:14Z,bug
+charlieroberts/Control,13,"Interface text invisible after adding custom interface, ipad v1.3",open,2011-06-08T23:53:41Z,,bug
+charlieroberts/Control,3,Bug with refresh when host is not found...,open,2011-03-10T11:06:44Z,,bug
+rastating/DroidBeard,537,Error Report: Connect failed,closed,2016-05-24T00:03:42Z,2016-05-26T00:05:53Z,"bug, in-app error report"
+rastating/DroidBeard,536,Error Report: Connect failed,closed,2016-05-24T00:03:40Z,2016-05-26T00:05:53Z,"bug, in-app error report"
+rastating/DroidBeard,535,Error Report: Connect failed,closed,2016-05-24T00:03:37Z,2016-05-26T00:05:53Z,"bug, in-app error report"
+rastating/DroidBeard,534,Error Report: Connect failed,closed,2016-05-24T00:03:32Z,2016-05-26T00:05:53Z,"bug, in-app error report"
+rastating/DroidBeard,533,Error Report: recvfrom failed: ECONNRESET (Connection reset by peer),closed,2016-05-22T20:02:26Z,2016-05-26T00:05:53Z,"bug, in-app error report"
+rastating/DroidBeard,532,Error Report: Connect failed,closed,2016-05-22T09:51:53Z,2016-05-26T00:05:53Z,"bug, in-app error report"
+rastating/DroidBeard,531,Error Report: recvfrom failed: ECONNRESET (Connection reset by peer),closed,2016-05-21T17:59:56Z,2016-05-21T23:58:11Z,"bug, in-app error report"
+rastating/DroidBeard,530,Error Report: Cannot verify hostname: tv.corp-invest.net,closed,2016-05-11T02:04:19Z,2016-05-16T22:09:12Z,"bug, in-app error report"
+rastating/DroidBeard,529,Error Report: Service Unavailable,closed,2016-05-09T22:40:13Z,2016-05-16T22:09:12Z,"bug, in-app error report"
+rastating/DroidBeard,528,Error Report: recvfrom failed: ECONNRESET (Connection reset by peer),closed,2016-05-09T07:05:14Z,2016-05-16T22:09:12Z,"bug, in-app error report"
+rastating/DroidBeard,527,Error Report: recvfrom failed: ECONNRESET (Connection reset by peer),closed,2016-05-06T10:30:47Z,2016-05-08T22:09:22Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,526,Error Report: Unauthorized,closed,2016-05-03T03:42:37Z,2016-05-08T22:09:22Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,525,Error Report: recvfrom failed: ECONNRESET (Connection reset by peer),closed,2016-05-02T13:10:25Z,2016-05-08T22:09:22Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,524,Error Report: Bad Request,closed,2016-04-25T18:10:21Z,2016-04-28T19:51:41Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,523,Error Report: Bad Request,closed,2016-04-25T18:09:44Z,2016-04-28T19:51:51Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,522,Error Report: recvfrom failed: ECONNRESET (Connection reset by peer),closed,2016-04-23T12:52:45Z,2016-04-23T17:17:18Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,521,"Error Report: Unable to resolve host ""sarvsex"": Unknown error",closed,2016-04-10T22:26:03Z,2016-04-22T21:45:21Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,520,Error Report: Value <html><head><meta of type java.lang.String cannot be converted to JSONObject,closed,2016-04-09T18:23:34Z,2016-04-22T21:45:21Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,519,Error Report: Unauthorized,closed,2016-04-07T14:13:08Z,2016-04-22T21:45:21Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,518,Error Report: Unauthorized,closed,2016-04-07T14:12:04Z,2016-04-22T21:45:21Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,517,Error Report: Bad Request,closed,2016-04-07T14:09:13Z,2016-04-22T21:45:21Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,516,Error Report: recvfrom failed: ECONNRESET (Connection reset by peer),closed,2016-03-25T12:25:24Z,2016-04-22T21:45:21Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,515,Error Report: Not Serving Client 192.168.2.78,closed,2016-03-15T08:12:19Z,2016-04-22T21:45:21Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,514,Error Report: recvfrom failed: ECONNRESET (Connection reset by peer),closed,2016-03-15T01:42:10Z,2016-04-22T21:45:21Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,513,Error Report: Bad Request,closed,2016-03-10T20:14:31Z,2016-04-22T21:45:21Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,512,Error Report: recvfrom failed: ECONNRESET (Connection reset by peer),closed,2016-03-10T18:18:10Z,2016-04-22T21:45:21Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,511,Error Report: You are not allowed to access this service,closed,2016-03-06T21:04:30Z,2016-04-22T21:45:21Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,510,Error Report: Request Timeout,closed,2016-03-05T09:39:53Z,2016-04-22T21:45:21Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,509,Error Report: recvfrom failed: ECONNRESET (Connection reset by peer),closed,2016-03-03T19:07:28Z,2016-04-22T21:45:21Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,508,Error Report: Unauthorized,closed,2016-03-01T01:56:02Z,2016-04-22T21:45:21Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,507,Error Report: Cannot verify hostname: 192.168.1.26,closed,2016-02-28T20:46:38Z,2016-04-22T21:45:21Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,506,Error Report: recvfrom failed: ECONNRESET (Connection reset by peer),closed,2016-02-22T06:34:56Z,2016-04-22T21:45:21Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,505,Error Report: recvfrom failed: ECONNRESET (Connection reset by peer),closed,2016-02-17T17:30:13Z,2016-04-22T21:45:21Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,504,Error Report: Unauthorized,closed,2016-02-17T04:56:19Z,2016-04-22T21:45:21Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,503,Error Report: Value <!doctype of type java.lang.String cannot be converted to JSONObject,closed,2016-02-15T14:42:30Z,2016-04-22T21:45:21Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,502,Error Report: Request Timeout,closed,2016-02-14T22:58:17Z,2016-04-22T21:45:21Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,501,"Error Report: Illegal character in path at index 41: https://192.168.1.41:8083/api/Description
+
+96eaf6f646010787cd83d1212c198bb97954e2f7ed34fb59/?cmd=shows",closed,2016-02-14T00:12:15Z,2016-04-22T21:45:21Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,500,Error Report: recvfrom failed: ECONNRESET (Connection reset by peer),closed,2016-02-10T22:12:11Z,2016-04-22T21:45:21Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,499,Error Report: recvfrom failed: ECONNRESET (Connection reset by peer),closed,2016-02-10T16:23:59Z,2016-04-22T21:45:20Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,498,Error Report: Bad Request,closed,2016-02-09T16:23:26Z,2016-04-22T21:45:20Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,497,Error Report: recvfrom failed: ECONNRESET (Connection reset by peer),closed,2016-02-08T11:56:21Z,2016-04-22T21:45:20Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,496,"Error Report: Unterminated object at character 70 of {""result"": ""error"", ""message"": ""error while composing output: error(""can't start new thread"",) is not JSON serializable""}",closed,2016-01-03T19:57:07Z,2016-04-22T21:43:32Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,495,Error Report: recvfrom failed: ETIMEDOUT (Connection timed out),closed,2016-01-03T18:56:33Z,2016-04-22T21:43:32Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,494,"Error Report: Unterminated object at character 70 of {""result"": ""error"", ""message"": ""error while composing output: error(""can't start new thread"",) is not JSON serializable""}",closed,2016-01-02T23:10:13Z,2016-04-22T21:43:32Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,493,"Error Report: Unterminated object at character 70 of {""result"": ""error"", ""message"": ""error while composing output: error(""can't start new thread"",) is not JSON serializable""}",closed,2016-01-02T13:37:00Z,2016-04-22T21:43:32Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,492,"Error Report: Unterminated object at character 70 of {""result"": ""error"", ""message"": ""error while composing output: error(""can't start new thread"",) is not JSON serializable""}",closed,2016-01-02T07:16:19Z,2016-04-22T21:43:32Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,491,"Error Report: Unterminated object at character 70 of {""result"": ""error"", ""message"": ""error while composing output: error(""can't start new thread"",) is not JSON serializable""}",closed,2016-01-02T00:43:21Z,2016-04-22T21:43:32Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,490,"Error Report: Unterminated object at character 70 of {""result"": ""error"", ""message"": ""error while composing output: error(""can't start new thread"",) is not JSON serializable""}",closed,2015-12-30T21:22:54Z,2016-04-22T21:43:32Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,489,"Error Report: Unterminated object at character 70 of {""result"": ""error"", ""message"": ""error while composing output: error(""can't start new thread"",) is not JSON serializable""}",closed,2015-12-28T09:30:56Z,2015-12-30T19:55:50Z,"bug, in-app error report"
+rastating/DroidBeard,488,"Error Report: Unterminated object at character 70 of {""result"": ""error"", ""message"": ""error while composing output: error(""can't start new thread"",) is not JSON serializable""}",closed,2015-12-28T05:22:00Z,2015-12-30T19:55:50Z,"bug, in-app error report"
+rastating/DroidBeard,487,Error Report: ,closed,2015-12-25T20:36:44Z,2016-04-22T21:45:36Z,"bug, in-app error report"
+rastating/DroidBeard,486,"Error Report: Unterminated object at character 70 of {""result"": ""error"", ""message"": ""error while composing output: error(""can't start new thread"",) is not JSON serializable""}",closed,2015-12-25T19:39:42Z,2015-12-30T19:55:50Z,"bug, in-app error report"
+rastating/DroidBeard,485,"Error Report: Unterminated object at character 70 of {""result"": ""error"", ""message"": ""error while composing output: error(""can't start new thread"",) is not JSON serializable""}",closed,2015-12-23T20:12:52Z,2015-12-30T19:55:50Z,"bug, in-app error report"
+rastating/DroidBeard,484,Error Report: Cannot verify hostname: sickbeard.yabox.org,closed,2015-12-23T19:31:11Z,2015-12-30T19:55:50Z,"bug, in-app error report"
+rastating/DroidBeard,483,Error Report: Cannot verify hostname: sickbeard.yabox.org,closed,2015-12-23T19:31:08Z,2015-12-30T19:55:50Z,"bug, in-app error report"
+rastating/DroidBeard,482,"Error Report: Unterminated object at character 70 of {""result"": ""error"", ""message"": ""error while composing output: error(""can't start new thread"",) is not JSON serializable""}",closed,2015-12-22T10:51:01Z,2015-12-30T19:55:50Z,"bug, in-app error report"
+rastating/DroidBeard,481,Error Report: Request Timeout,closed,2015-12-22T03:07:15Z,2015-12-30T19:55:50Z,"bug, in-app error report"
+rastating/DroidBeard,480,"Error Report: Unterminated object at character 70 of {""result"": ""error"", ""message"": ""error while composing output: error(""can't start new thread"",) is not JSON serializable""}",closed,2015-12-20T19:24:59Z,2015-12-30T19:55:50Z,"bug, in-app error report"
+rastating/DroidBeard,479,"Error Report: Unterminated object at character 70 of {""result"": ""error"", ""message"": ""error while composing output: error(""can't start new thread"",) is not JSON serializable""}",closed,2015-12-20T17:15:50Z,2015-12-30T19:55:50Z,"bug, in-app error report"
+rastating/DroidBeard,478,"Error Report: Unterminated object at character 70 of {""result"": ""error"", ""message"": ""error while composing output: error(""can't start new thread"",) is not JSON serializable""}",closed,2015-12-20T02:15:36Z,2015-12-30T19:55:50Z,"bug, in-app error report"
+rastating/DroidBeard,477,Error Report: Request Timeout,closed,2015-12-12T07:08:20Z,2015-12-30T19:55:50Z,"bug, in-app error report"
+rastating/DroidBeard,476,"Error Report: Read error: ssl=0xad650c00: I/O error during system call, Connection reset by peer",closed,2015-12-08T15:38:59Z,2015-12-30T19:55:50Z,"bug, in-app error report"
+rastating/DroidBeard,475,Error Report: Bad Request,closed,2015-12-08T07:51:41Z,2016-04-22T21:45:35Z,"bug, in-app error report"
+rastating/DroidBeard,474,Error Report: Bad Request,closed,2015-12-08T07:49:52Z,2016-04-22T21:45:35Z,"bug, in-app error report"
+rastating/DroidBeard,473,Error Report: Bad Request,closed,2015-12-04T09:22:03Z,2015-12-06T19:57:48Z,"bug, in-app error report"
+rastating/DroidBeard,472,Error Report: Cannot verify hostname: sickbeard.yabox.org,closed,2015-12-04T09:13:25Z,2015-12-06T19:57:48Z,"bug, in-app error report"
+rastating/DroidBeard,471,Error Report: Cannot verify hostname: sickbeard.yabox.org,closed,2015-12-04T09:12:56Z,2015-12-06T19:57:48Z,"bug, in-app error report"
+rastating/DroidBeard,470,Error Report: Bad Gateway,closed,2015-12-03T21:54:43Z,2015-12-06T19:57:48Z,"bug, in-app error report"
+rastating/DroidBeard,469,Error Report: recvfrom failed: ETIMEDOUT (Connection timed out),closed,2015-11-30T22:10:04Z,2015-12-06T19:57:48Z,"bug, in-app error report"
+rastating/DroidBeard,468,Error Report: Unauthorized,closed,2015-11-30T13:18:04Z,2015-12-06T19:57:48Z,"bug, in-app error report"
+rastating/DroidBeard,467,Error Report: Bad Request,closed,2015-11-24T00:45:04Z,2015-12-06T19:58:06Z,"bug, in-app error report"
+rastating/DroidBeard,466,Error Report: Bad Request,closed,2015-11-24T00:43:25Z,2015-12-06T19:58:13Z,"bug, in-app error report"
+rastating/DroidBeard,465,Error Report: Bad Request,closed,2015-11-24T00:43:23Z,2015-12-06T19:58:17Z,"bug, in-app error report"
+rastating/DroidBeard,464,Error Report: Request Timeout,closed,2015-11-21T18:44:49Z,2015-12-06T19:57:48Z,"bug, in-app error report"
+rastating/DroidBeard,463,Error Report: Value API of type java.lang.String cannot be converted to JSONObject,closed,2015-11-21T14:23:25Z,2015-12-06T19:58:25Z,"bug, in-app error report"
+rastating/DroidBeard,462,Error Report: Bad Request,closed,2015-11-19T05:07:52Z,2015-12-06T19:58:29Z,"bug, in-app error report"
+rastating/DroidBeard,461,Error Report: Bad Request,closed,2015-11-19T04:58:44Z,2015-12-06T19:58:33Z,"bug, in-app error report"
+rastating/DroidBeard,460,Error Report: recvfrom failed: ECONNRESET (Connection reset by peer),closed,2015-11-17T15:39:57Z,2015-12-06T19:57:48Z,"bug, in-app error report"
+rastating/DroidBeard,459,Error Report: Value [] at args of type org.json.JSONArray cannot be converted to JSONObject,closed,2015-11-15T12:39:02Z,2015-12-06T19:58:51Z,"bug, in-app error report"
+rastating/DroidBeard,458,Error Report: Unauthorized,closed,2015-11-11T20:25:33Z,2015-12-06T19:57:48Z,"bug, in-app error report"
+rastating/DroidBeard,457,Error Report: Value <body><script of type java.lang.String cannot be converted to JSONObject,closed,2015-11-09T09:00:33Z,2015-12-06T19:59:01Z,"bug, in-app error report"
+rastating/DroidBeard,456,Error Report: Unauthorized,closed,2015-11-02T15:54:48Z,2015-12-06T19:57:48Z,"bug, in-app error report"
+rastating/DroidBeard,455,Error Report: Value <html> of type java.lang.String cannot be converted to JSONObject,closed,2015-11-01T21:49:10Z,2015-12-06T19:59:12Z,"bug, in-app error report"
+rastating/DroidBeard,454,Error Report: Service Unavailable,closed,2015-10-31T04:40:59Z,2015-12-06T19:59:18Z,"bug, in-app error report"
+rastating/DroidBeard,451,Error Report: Default,closed,2015-10-17T06:44:50Z,2015-10-19T21:38:36Z,"bug, in-app error report"
+rastating/DroidBeard,450,Error Report: Default,closed,2015-10-17T06:42:27Z,2015-10-19T21:38:42Z,"bug, in-app error report"
+rastating/DroidBeard,449,Error Report: Default,closed,2015-10-17T06:40:03Z,2015-10-19T21:38:48Z,"bug, in-app error report"
+rastating/DroidBeard,446,Error Report: Socket closed,closed,2015-10-16T08:04:25Z,2015-10-16T23:18:06Z,"bug, in-app error report"
+rastating/DroidBeard,445,Error Report: Socket closed,closed,2015-10-16T07:49:46Z,2015-10-16T23:18:19Z,"bug, in-app error report"
+rastating/DroidBeard,444,Error Report: Adapter is detached.,closed,2015-10-16T07:49:42Z,2015-10-16T23:18:13Z,"bug, in-app error report"
+rastating/DroidBeard,441,Error Report: Unauthorized,closed,2015-10-14T18:28:35Z,2015-10-15T21:04:30Z,"bug, in-app error report"
+rastating/DroidBeard,440,Error Report: Service Unavailable,closed,2015-10-14T13:43:40Z,2015-10-15T21:04:37Z,"bug, in-app error report"
+rastating/DroidBeard,439,Error Report: Bad Gateway,closed,2015-10-14T07:21:40Z,2015-10-15T21:04:42Z,"bug, in-app error report"
+rastating/DroidBeard,438,Error Report: Service Unavailable,closed,2015-10-13T12:34:20Z,2015-10-13T22:27:45Z,"bug, in-app error report"
+rastating/DroidBeard,437,Error Report: Service Unavailable,closed,2015-10-13T12:34:09Z,2015-10-13T22:27:41Z,"bug, in-app error report"
+rastating/DroidBeard,436,Error Report: recvfrom failed: ECONNRESET (Connection reset by peer),closed,2015-10-12T20:28:48Z,2015-10-13T22:27:32Z,"bug, in-app error report"
+rastating/DroidBeard,435,Error Report: Socket closed,closed,2015-10-10T21:52:04Z,2015-10-11T11:01:52Z,"bug, in-app error report"
+rastating/DroidBeard,434,Error Report: Socket closed,closed,2015-10-10T15:10:49Z,2015-10-11T11:01:47Z,"bug, in-app error report"
+rastating/DroidBeard,433,Error Report: Socket closed,closed,2015-10-10T05:31:41Z,2015-10-10T10:45:50Z,"bug, in-app error report"
+rastating/DroidBeard,432,Error Report: recvfrom failed: ECONNRESET (Connection reset by peer),closed,2015-10-09T21:09:18Z,2015-10-10T10:45:59Z,"bug, in-app error report"
+rastating/DroidBeard,431,Error Report: Socket closed,closed,2015-10-08T10:12:53Z,2015-10-08T18:24:53Z,"bug, in-app error report"
+rastating/DroidBeard,430,Error Report: Adapter is detached.,closed,2015-10-08T10:07:13Z,2015-10-15T21:21:47Z,"bug, in-app error report, fixed in beta"
+rastating/DroidBeard,428,Error Report: Cannot verify hostname: 192.168.1.204,closed,2015-10-06T17:54:38Z,2015-10-07T19:57:03Z,"bug, in-app error report"
+rastating/DroidBeard,427,Error Report: Request aborted,closed,2015-10-06T03:42:57Z,2015-10-08T18:24:31Z,"bug, in-app error report"
+rastating/DroidBeard,426,Error Report: Adapter is detached.,closed,2015-10-02T20:56:52Z,2015-10-15T21:21:47Z,"bug, in-app error report, fixed in beta"
+rastating/DroidBeard,425,Error Report: Bad Request,closed,2015-10-02T07:58:52Z,2015-10-11T11:01:43Z,"bug, in-app error report"
+rastating/DroidBeard,424,Error Report: recvfrom failed: ETIMEDOUT (Connection timed out),closed,2015-09-28T10:11:17Z,2015-10-07T19:57:03Z,"bug, in-app error report"
+rastating/DroidBeard,423,Error Report: Request aborted,closed,2015-09-27T00:00:13Z,2015-10-11T11:01:37Z,"bug, in-app error report"
+rastating/DroidBeard,421,Error Report: Request Timeout,closed,2015-09-25T16:51:15Z,2015-09-25T20:55:27Z,"bug, in-app error report"
+rastating/DroidBeard,420,Error Report: Internal Server Error,closed,2015-09-25T02:29:28Z,2015-09-25T20:55:27Z,"bug, in-app error report"
+rastating/DroidBeard,419,Error Report: Default,closed,2015-09-23T06:08:19Z,2015-09-25T20:55:27Z,"bug, in-app error report"
+rastating/DroidBeard,418,Error Report: Connect to /37.187.120.111:8081 timed out,closed,2015-09-22T19:07:08Z,2015-09-25T20:55:27Z,"bug, in-app error report"
+rastating/DroidBeard,417,Error Report: Gateway Time-out,closed,2015-09-21T15:33:23Z,2015-09-25T20:55:27Z,"bug, in-app error report"
+rastating/DroidBeard,416,Error Report: recvfrom failed: ETIMEDOUT (Connection timed out),closed,2015-09-21T13:27:07Z,2015-09-25T20:55:27Z,"bug, in-app error report"
+rastating/DroidBeard,413,Error Report: Socket closed,closed,2015-09-19T11:28:58Z,2015-09-25T20:55:27Z,"bug, in-app error report"
+rastating/DroidBeard,410,Error Report: Cannot verify hostname: vey.nohost.me,closed,2015-09-18T11:17:31Z,2015-09-18T17:47:38Z,"bug, in-app error report"
+rastating/DroidBeard,409,Error Report: Unauthorized,closed,2015-09-14T14:13:26Z,2015-09-18T17:47:38Z,"bug, in-app error report"
+rastating/DroidBeard,408,Error Report: recvfrom failed: ETIMEDOUT (Connection timed out),closed,2015-09-13T15:39:47Z,2015-09-18T17:47:38Z,"bug, in-app error report"
+rastating/DroidBeard,407,Error Report: Socket closed,closed,2015-09-12T15:08:43Z,2015-09-18T17:47:38Z,"bug, in-app error report"
+rastating/DroidBeard,403,Error Report: Socket closed,closed,2015-09-08T09:59:11Z,2015-09-18T17:47:37Z,"bug, in-app error report"
+rastating/DroidBeard,402,Error Report: Socket closed,closed,2015-09-07T19:50:42Z,2015-09-18T17:47:37Z,"bug, in-app error report"
+rastating/DroidBeard,401,Error Report: recvfrom failed: ETIMEDOUT (Connection timed out),closed,2015-09-07T14:34:10Z,2015-09-18T17:47:37Z,"bug, in-app error report"
+rastating/DroidBeard,400,Error Report: Cannot verify hostname: 192.168.1.101,closed,2015-09-06T16:53:32Z,2015-09-18T17:47:37Z,"bug, in-app error report"
+rastating/DroidBeard,399,Error Report: recvfrom failed: ETIMEDOUT (Connection timed out),closed,2015-09-06T16:46:32Z,2015-09-18T17:47:37Z,"bug, in-app error report"
+rastating/DroidBeard,397,Error Report: Socket closed,closed,2015-09-02T05:56:20Z,2015-09-18T17:47:37Z,"bug, in-app error report"
+rastating/DroidBeard,396,Error Report: Proxy Error,closed,2015-08-27T17:42:27Z,2015-08-27T18:24:04Z,"bug, in-app error report"
+rastating/DroidBeard,395,Error Report: Request aborted,closed,2015-08-27T14:24:45Z,2015-08-27T18:23:58Z,"bug, in-app error report"
+rastating/DroidBeard,394,Error Report: Request aborted,closed,2015-08-27T14:22:56Z,2015-08-27T18:23:55Z,"bug, in-app error report"
+rastating/DroidBeard,393,Error Report: Value ?      ??M??0???? of type java.lang.String cannot be converted to JSONObject,closed,2015-08-27T00:30:03Z,2015-08-27T18:23:49Z,"bug, in-app error report"
+rastating/DroidBeard,392,Error Report: Gateway Time-out,closed,2015-08-23T10:23:11Z,2015-08-23T23:14:42Z,"bug, in-app error report"
+rastating/DroidBeard,391,Error Report: Socket closed,closed,2015-08-22T12:23:50Z,2015-08-23T23:14:47Z,"bug, in-app error report"
+rastating/DroidBeard,390,Error Report: Socket closed,closed,2015-08-19T09:37:27Z,2015-08-20T19:55:19Z,"bug, in-app error report"
+rastating/DroidBeard,389,Error Report: Socket closed,closed,2015-08-18T05:40:18Z,2015-08-18T20:20:35Z,"bug, in-app error report"
+rastating/DroidBeard,388,Error Report: Cannot verify hostname: vey.nohost.me,closed,2015-08-17T22:28:17Z,2015-08-18T23:17:40Z,"bug, in-app error report"
+rastating/DroidBeard,387,Error Report: Cannot verify hostname: vey.nohost.me,closed,2015-08-17T22:28:14Z,2015-08-18T23:17:47Z,"bug, in-app error report"
+rastating/DroidBeard,386,Error Report: Server Error,closed,2015-08-16T14:08:48Z,2015-08-16T18:28:02Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,385,Error Report: Request aborted,closed,2015-08-15T14:18:20Z,2015-08-15T18:17:06Z,"bug, in-app error report"
+rastating/DroidBeard,384,Error Report: Server Error,closed,2015-08-15T08:40:34Z,2015-08-15T18:17:15Z,"bug, in-app error report"
+rastating/DroidBeard,383,Error Report: Socket closed,closed,2015-08-15T08:39:55Z,2015-08-15T18:17:06Z,"bug, in-app error report"
+rastating/DroidBeard,382,Error Report: Attempt to invoke virtual method 'void org.apache.http.impl.conn.SingleClientConnManager$ConnAdapter.detach()' on a null object reference,closed,2015-08-12T05:27:26Z,2015-08-15T18:17:06Z,"bug, in-app error report"
+rastating/DroidBeard,381,Error Report: recvfrom failed: ETIMEDOUT (Connection timed out),closed,2015-08-12T01:06:14Z,2015-08-15T18:17:06Z,"bug, in-app error report"
+rastating/DroidBeard,380,Error Report: Request aborted,closed,2015-08-08T07:56:52Z,2015-08-10T20:44:42Z,"bug, in-app error report"
+rastating/DroidBeard,379,Error Report: Socket closed,closed,2015-08-06T22:13:19Z,2015-08-06T23:00:49Z,"bug, in-app error report"
+rastating/DroidBeard,378,Error Report: Request aborted,closed,2015-08-05T11:47:33Z,2015-08-06T23:01:13Z,"bug, in-app error report"
+rastating/DroidBeard,377,Error Report: Socket closed,closed,2015-08-04T04:42:38Z,2015-08-06T23:01:13Z,"bug, in-app error report"
+rastating/DroidBeard,376,Error Report: Socket closed,closed,2015-08-03T21:20:59Z,2015-08-03T21:48:18Z,"bug, in-app error report"
+rastating/DroidBeard,375,Error Report: No wrapped connection.,closed,2015-08-03T19:12:07Z,2015-08-03T21:48:03Z,"bug, in-app error report, third-party problem"
+rastating/DroidBeard,374,Error Report: Request aborted,closed,2015-08-02T17:59:18Z,2015-08-03T21:48:18Z,"bug, in-app error report"
+rastating/DroidBeard,373,Error Report: recvfrom failed: ETIMEDOUT (Connection timed out),closed,2015-08-02T07:36:12Z,2015-08-03T21:48:18Z,"bug, in-app error report"
+rastating/DroidBeard,372,Error Report: Value API of type java.lang.String cannot be converted to JSONObject,closed,2015-08-01T23:54:48Z,2015-08-03T21:48:42Z,"bug, in-app error report, incompatible sickbeard fork, third-party problem"
+rastating/DroidBeard,371,Error Report: Socket closed,closed,2015-08-01T21:28:16Z,2015-08-03T21:48:18Z,"bug, in-app error report"
+rastating/DroidBeard,370,Error Report: recvfrom failed: ETIMEDOUT (Connection timed out),closed,2015-07-25T15:33:42Z,2015-07-26T20:56:36Z,"bug, in-app error report"
+rastating/DroidBeard,369,Error Report: Socket closed,closed,2015-07-22T20:09:35Z,2015-07-26T20:56:36Z,"bug, in-app error report"
+rastating/DroidBeard,368,Error Report: Request aborted,closed,2015-07-20T16:36:05Z,2015-07-26T20:56:36Z,"bug, in-app error report"
+rastating/DroidBeard,367,Error Report: Bad Request,closed,2015-07-18T18:50:21Z,2015-07-26T20:56:36Z,"bug, in-app error report"
+rastating/DroidBeard,366,Error Report: Cannot verify hostname: 192.168.123.103,closed,2015-07-18T16:35:07Z,2015-07-26T20:56:36Z,"bug, in-app error report"
+rastating/DroidBeard,365,Error Report: Request Timeout,closed,2015-07-15T13:44:21Z,2015-07-26T20:56:36Z,"bug, in-app error report"
+rastating/DroidBeard,364,Error Report: Socket closed,closed,2015-07-11T09:40:52Z,2015-07-26T20:56:36Z,"bug, in-app error report"
+rastating/DroidBeard,363,Error Report: Unauthorized,closed,2015-07-09T17:23:44Z,2015-07-10T20:27:38Z,"bug, in-app error report"
+rastating/DroidBeard,362,Error Report: Unauthorized,closed,2015-07-09T17:22:36Z,2015-07-10T20:27:38Z,"bug, in-app error report"
+rastating/DroidBeard,361,Error Report: Unauthorized,closed,2015-07-09T17:00:05Z,2015-07-10T20:27:38Z,"bug, in-app error report"
+rastating/DroidBeard,360,Error Report: recvfrom failed: ETIMEDOUT (Connection timed out),closed,2015-07-09T05:20:20Z,2015-07-10T20:27:38Z,"bug, in-app error report"
+rastating/DroidBeard,359,Error Report: Bad Request,closed,2015-07-08T08:12:01Z,2015-07-10T20:27:38Z,"bug, in-app error report"
+rastating/DroidBeard,358,Error Report: Socket closed,closed,2015-07-08T02:55:02Z,2015-07-10T20:27:38Z,"bug, in-app error report"
+rastating/DroidBeard,357,Error Report: Socket closed,closed,2015-07-06T09:11:05Z,2015-07-10T20:27:38Z,"bug, in-app error report"
+rastating/DroidBeard,356,Error Report: Request aborted,closed,2015-07-06T08:21:16Z,2015-07-10T20:27:38Z,"bug, in-app error report"
+rastating/DroidBeard,355,Error Report: Request aborted,closed,2015-07-03T23:54:36Z,2015-07-05T21:46:50Z,"bug, in-app error report"
+rastating/DroidBeard,354,Error Report: Socket closed,closed,2015-07-03T09:16:28Z,2015-07-05T21:46:50Z,"bug, in-app error report"
+rastating/DroidBeard,352,Error Report: Bad Request,closed,2015-06-26T16:08:04Z,2015-06-27T17:10:15Z,"bug, in-app error report"
+rastating/DroidBeard,351,Error Report: Request Timeout,closed,2015-06-25T03:33:25Z,2015-06-27T17:10:15Z,"bug, in-app error report"
+rastating/DroidBeard,350,Error Report: Request aborted,closed,2015-06-24T14:05:18Z,2015-06-24T22:34:21Z,"bug, in-app error report"
+rastating/DroidBeard,349,Error Report: Socket closed,closed,2015-06-22T18:10:30Z,2015-06-24T22:34:21Z,"bug, in-app error report"
+rastating/DroidBeard,347,Error Report: Request Time-out,closed,2015-06-22T06:41:58Z,2015-06-24T22:34:20Z,"bug, in-app error report"
+rastating/DroidBeard,346,Error Report: Illegal character in path at index 31: http://192.168.0.105:8081/api/: e9f4e025cb298324d94434890fbbb0de/?cmd=shows,closed,2015-06-22T03:58:51Z,2015-06-24T22:34:20Z,"bug, in-app error report"
+rastating/DroidBeard,345,Error Report: recvfrom failed: ECONNRESET (Connection reset by peer),closed,2015-06-22T03:50:30Z,2015-06-24T22:34:20Z,"bug, in-app error report"
+rastating/DroidBeard,344,Error Report: Socket closed,closed,2015-06-22T02:37:17Z,2015-06-24T22:34:20Z,"bug, in-app error report"
+rastating/DroidBeard,343,Error Report: Bad Gateway,closed,2015-06-21T11:09:57Z,2015-06-24T22:34:51Z,"bug, in-app error report"
+rastating/DroidBeard,342,Error Report: Bad Gateway,closed,2015-06-21T11:04:26Z,2015-06-24T22:34:20Z,"bug, in-app error report"
+rastating/DroidBeard,341,Error Report: Socket closed,closed,2015-06-18T17:46:07Z,2015-06-24T22:34:20Z,"bug, in-app error report"
+rastating/DroidBeard,340,Error Report: recvfrom failed: ECONNRESET (Connection reset by peer),closed,2015-06-17T06:44:02Z,2015-06-24T22:34:20Z,"bug, in-app error report"
+rastating/DroidBeard,339,Error Report: Unauthorized,closed,2015-06-17T00:02:33Z,2015-06-24T22:34:20Z,"bug, in-app error report"
+rastating/DroidBeard,338,Error Report: Bad Request,closed,2015-06-16T19:09:27Z,2015-06-24T22:34:20Z,"bug, in-app error report"
+rastating/DroidBeard,337,Error Report: Socket closed,closed,2015-06-16T02:16:45Z,2015-06-24T22:34:20Z,"bug, in-app error report"
+rastating/DroidBeard,336,Error Report: Connection refused,closed,2015-06-13T16:36:33Z,2015-06-24T22:34:20Z,"bug, in-app error report"
+rastating/DroidBeard,335,Error Report: Connection refused,closed,2015-06-13T16:35:50Z,2015-06-24T22:34:20Z,"bug, in-app error report"
+rastating/DroidBeard,334,Error Report: Connection refused,closed,2015-06-13T16:35:45Z,2015-06-24T22:34:20Z,"bug, in-app error report"
+rastating/DroidBeard,333,Error Report: Request aborted,closed,2015-06-13T09:02:42Z,2015-06-24T22:34:20Z,"bug, in-app error report"
+rastating/DroidBeard,332,Error Report: Socket closed,closed,2015-06-13T02:20:31Z,2015-06-24T22:34:20Z,"bug, in-app error report"
+rastating/DroidBeard,331,Error Report: Request Timeout,closed,2015-06-11T22:33:00Z,2015-06-24T22:34:20Z,"bug, in-app error report"
+rastating/DroidBeard,330,Error Report: Default,closed,2015-06-11T13:27:41Z,2015-06-24T22:34:20Z,"bug, in-app error report"
+rastating/DroidBeard,329,Error Report: Gateway Time-out,closed,2015-06-11T11:44:36Z,2015-06-24T22:34:20Z,"bug, in-app error report"
+rastating/DroidBeard,328,Error Report: Request Timeout,closed,2015-06-10T19:42:38Z,2015-06-24T22:34:20Z,"bug, in-app error report"
+rastating/DroidBeard,312,Error Report: Handshake failed,closed,2015-05-26T05:47:12Z,2015-05-26T22:11:21Z,"bug, in-app error report"
+rastating/DroidBeard,311,Error Report: Handshake failed,closed,2015-05-26T03:58:08Z,2015-05-26T22:11:21Z,"bug, in-app error report"
+rastating/DroidBeard,310,Error Report: Default,closed,2015-05-25T22:43:57Z,2015-05-26T22:11:06Z,"bug, in-app error report"
+rastating/DroidBeard,309,Error Report: Default,closed,2015-05-25T22:40:32Z,2015-05-26T22:11:05Z,"bug, in-app error report"
+rastating/DroidBeard,308,Error Report: Default,closed,2015-05-25T22:32:50Z,2015-05-26T22:11:05Z,"bug, in-app error report"
+rastating/DroidBeard,307,Error Report: Handshake failed,closed,2015-05-24T16:32:30Z,2015-05-26T22:11:21Z,"bug, in-app error report"
+rastating/DroidBeard,306,Error Report: Handshake failed,closed,2015-05-24T16:12:29Z,2015-05-26T22:11:21Z,"bug, in-app error report"
+rastating/DroidBeard,305,Error Report: Unauthorized,closed,2015-05-23T21:45:08Z,2015-05-24T01:53:57Z,"bug, in-app error report"
+rastating/DroidBeard,304,Error Report: Bad Gateway,closed,2015-05-23T20:27:40Z,2015-05-24T01:53:57Z,"bug, in-app error report"
+rastating/DroidBeard,303,Error Report: Handshake failed,closed,2015-05-22T23:18:36Z,2015-05-24T01:53:56Z,"bug, in-app error report"
+rastating/DroidBeard,302,Error Report: Handshake failed,closed,2015-05-22T19:43:07Z,2015-05-24T01:53:56Z,"bug, in-app error report"
+rastating/DroidBeard,301,Error Report: Connect to /65.27.136.125:8081 timed out,closed,2015-05-21T22:30:51Z,2015-05-24T01:53:56Z,"bug, in-app error report"
+rastating/DroidBeard,300,Error Report: Default,closed,2015-05-20T20:24:53Z,2015-05-24T01:53:56Z,"bug, in-app error report"
+rastating/DroidBeard,299,Error Report: Bad Request,closed,2015-05-19T21:47:37Z,2015-05-24T01:53:56Z,"bug, in-app error report"
+rastating/DroidBeard,298,Error Report: recvfrom failed: ETIMEDOUT (Connection timed out),closed,2015-05-13T19:33:54Z,2015-05-24T01:53:56Z,"bug, in-app error report"
+rastating/DroidBeard,297,Error Report: Default,closed,2015-05-13T09:45:52Z,2015-05-24T01:53:56Z,"bug, in-app error report"
+rastating/DroidBeard,296,Error Report: Default,closed,2015-05-12T15:45:43Z,2015-05-24T01:53:56Z,"bug, in-app error report"
+rastating/DroidBeard,295,"Error Report: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x77c5fd28: Failure in SSL library, usually a protocol error
+error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol (external/openssl/ssl/s23_clnt.c:769 0x724667e8:0x00000000)",closed,2015-05-11T23:42:19Z,2015-05-24T01:53:56Z,"bug, in-app error report"
+rastating/DroidBeard,294,"Error Report: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x78a1b8a8: Failure in SSL library, usually a protocol error
+error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol (external/openssl/ssl/s23_clnt.c:769 0x724667e8:0x00000000)",closed,2015-05-11T23:38:15Z,2015-05-24T01:53:56Z,"bug, in-app error report"
+rastating/DroidBeard,293,"Error Report: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x5ede3060: Failure in SSL library, usually a protocol error
+error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol (external/openssl/ssl/s23_clnt.c:766 0x58c9276a:0x00000000)",closed,2015-05-10T18:35:31Z,2015-05-24T01:53:56Z,"bug, in-app error report"
+rastating/DroidBeard,292,"Error Report: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x5ede3060: Failure in SSL library, usually a protocol error
+error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol (external/openssl/ssl/s23_clnt.c:766 0x58c9276a:0x00000000)",closed,2015-05-10T18:35:27Z,2015-05-24T01:53:56Z,"bug, in-app error report"
+rastating/DroidBeard,291,Error Report: ERROR,closed,2015-05-09T04:40:22Z,2015-05-24T01:53:56Z,"bug, in-app error report"
+rastating/DroidBeard,290,Error Report: Handshake failed,closed,2015-05-09T03:55:15Z,2015-05-24T01:53:56Z,"bug, in-app error report"
+rastating/DroidBeard,289,Error Report: Handshake failed,closed,2015-05-07T02:14:38Z,2015-05-24T01:53:56Z,"bug, in-app error report"
+rastating/DroidBeard,288,Error Report: Handshake failed,closed,2015-05-05T16:34:13Z,2015-05-24T01:53:56Z,"bug, in-app error report"
+rastating/DroidBeard,287,Error Report: Handshake failed,closed,2015-05-05T16:33:45Z,2015-05-24T01:53:56Z,"bug, in-app error report"
+rastating/DroidBeard,286,Error Report: Request aborted,closed,2015-05-04T19:45:05Z,2015-05-24T01:53:56Z,"bug, in-app error report"
+rastating/DroidBeard,284,Error Report: ,closed,2015-05-03T17:20:39Z,2015-05-24T01:53:56Z,"bug, in-app error report"
+rastating/DroidBeard,283,Error Report: Request Timeout,closed,2015-05-03T08:04:27Z,2015-05-24T01:53:56Z,"bug, in-app error report"
+rastating/DroidBeard,282,Error Report: Attempt to invoke virtual method 'void org.apache.http.impl.conn.SingleClientConnManager$ConnAdapter.detach()' on a null object reference,closed,2015-05-02T18:02:23Z,2015-05-24T01:53:56Z,"bug, in-app error report"
+rastating/DroidBeard,281,Error Report: Unauthorized,closed,2015-05-02T11:34:09Z,2015-05-24T01:53:56Z,"bug, in-app error report"
+rastating/DroidBeard,278,Error Report: Forbidden,closed,2015-04-29T16:19:39Z,2015-04-29T18:27:31Z,"bug, in-app error report"
+rastating/DroidBeard,277,Error Report: Default,closed,2015-04-29T14:26:24Z,2015-04-29T18:27:31Z,"bug, in-app error report"
+rastating/DroidBeard,276,Error Report: recvfrom failed: ETIMEDOUT (Connection timed out),closed,2015-04-28T20:06:16Z,2015-04-29T18:44:45Z,"bug, in-app error report"
+rastating/DroidBeard,275,Error Report: recvfrom failed: ETIMEDOUT (Connection timed out),closed,2015-04-27T15:09:04Z,2015-04-29T18:44:45Z,"bug, in-app error report"
+rastating/DroidBeard,274,Error Report: recvfrom failed: ECONNRESET (Connection reset by peer),closed,2015-04-26T19:45:26Z,2015-04-29T18:44:44Z,"bug, in-app error report"
+rastating/DroidBeard,273,Error Report: No peer certificate,closed,2015-04-26T15:43:17Z,2015-04-29T18:44:51Z,"bug, in-app error report"
+rastating/DroidBeard,272,Error Report: Handshake failed,closed,2015-04-25T00:18:20Z,2015-04-25T16:40:17Z,"bug, in-app error report"
+rastating/DroidBeard,271,Error Report: Handshake failed,closed,2015-04-24T11:49:50Z,2015-04-25T16:40:17Z,"bug, in-app error report"
+rastating/DroidBeard,270,"Error Report: Read error: ssl=0x47037c00: I/O error during system call, Connection reset by peer",closed,2015-04-24T08:37:25Z,2015-04-25T16:40:17Z,"bug, in-app error report"
+rastating/DroidBeard,269,Error Report: No peer certificate,closed,2015-04-24T08:06:28Z,2015-04-25T16:40:17Z,"bug, in-app error report"
+rastating/DroidBeard,268,"Error Report: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x7a319718: Failure in SSL library, usually a protocol error
+error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol (external/openssl/ssl/s23_clnt.c:766 0x72a81d74:0x00000000)",closed,2015-04-22T20:19:24Z,2015-04-25T16:40:17Z,"bug, in-app error report"
+rastating/DroidBeard,267,Error Report: Gateway Time-out,closed,2015-04-21T19:08:51Z,2015-04-25T16:40:17Z,"bug, in-app error report"
+rastating/DroidBeard,266,"Error Report: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x77d6d4b0: Failure in SSL library, usually a protocol error
+error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol (external/openssl/ssl/s23_clnt.c:769 0x74209d94:0x00000000)",closed,2015-04-20T07:48:55Z,2015-04-25T16:40:17Z,"bug, in-app error report"
+rastating/DroidBeard,265,Error Report: ERROR,closed,2015-04-17T12:45:17Z,2015-04-25T16:41:03Z,"bug, in-app error report"
+rastating/DroidBeard,264,Error Report: Illegal character in path at index 40: http://wiepajotte.dyndns.org:8081/api/Ff beurt h644567/?cmd=shows,closed,2015-04-16T11:45:12Z,2015-04-25T16:40:17Z,"bug, in-app error report"
+rastating/DroidBeard,263,Error Report: Default,closed,2015-04-15T05:23:31Z,2015-04-25T16:42:12Z,"bug, in-app error report"
+rastating/DroidBeard,262,Error Report: Handshake failed,closed,2015-04-15T01:40:17Z,2015-04-25T16:40:17Z,"bug, in-app error report"
+rastating/DroidBeard,261,Error Report: Bad Request,closed,2015-04-13T03:15:58Z,2015-04-25T16:42:05Z,"bug, in-app error report"
+rastating/DroidBeard,260,Error Report: Illegal character in path at index 30: http://192.168.0.24:8081/api/: 8af2718a81768013633a1b597a4a01e3/?cmd=shows,closed,2015-04-12T21:37:01Z,2015-04-25T16:40:17Z,"bug, in-app error report"
+rastating/DroidBeard,259,Error Report: Socket closed,closed,2015-04-10T22:54:00Z,2015-04-25T16:40:17Z,"bug, in-app error report"
+rastating/DroidBeard,258,Error Report: Connection closed by peer,closed,2015-04-07T08:30:27Z,2015-04-25T16:40:17Z,"bug, in-app error report"
+rastating/DroidBeard,257,"Error Report: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x79b5c3e8: Failure in SSL library, usually a protocol error
+error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol (external/openssl/ssl/s23_clnt.c:769 0x71a1bcf8:0x00000000)",closed,2015-04-06T20:47:57Z,2015-04-25T16:40:17Z,"bug, in-app error report"
+rastating/DroidBeard,256,Error Report: Connection closed by peer,closed,2015-04-06T18:02:15Z,2015-04-25T16:40:16Z,"bug, in-app error report"
+rastating/DroidBeard,255,Error Report: Value <!doctype of type java.lang.String cannot be converted to JSONObject,closed,2015-04-06T03:07:16Z,2015-04-25T16:41:52Z,"bug, in-app error report"
+rastating/DroidBeard,254,Error Report: Gateway Time-out,closed,2015-04-05T02:03:04Z,2015-04-25T16:40:16Z,"bug, in-app error report"
+rastating/DroidBeard,253,Error Report: No peer certificate,closed,2015-04-01T13:07:38Z,2015-04-25T16:40:16Z,"bug, in-app error report"
+rastating/DroidBeard,252,Error Report: No peer certificate,closed,2015-04-01T13:07:16Z,2015-04-25T16:40:16Z,"bug, in-app error report"
+rastating/DroidBeard,251,Error Report: No peer certificate,closed,2015-04-01T04:31:27Z,2015-04-25T16:40:16Z,"bug, in-app error report"
+rastating/DroidBeard,250,Error Report: Value [] at args of type org.json.JSONArray cannot be converted to JSONObject,closed,2015-03-30T14:51:59Z,2015-03-30T18:05:40Z,"bug, invalid, in-app error report, user-error"
+rastating/DroidBeard,249,Error Report: Internal Server Error,closed,2015-03-30T14:49:15Z,2015-04-25T16:40:16Z,"bug, in-app error report"
+rastating/DroidBeard,248,"Error Report: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x7b7caaa8: Failure in SSL library, usually a protocol error
+error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol (external/openssl/ssl/s23_clnt.c:766 0x72a91004:0x00000000)",closed,2015-03-30T08:39:33Z,2015-04-25T16:40:16Z,"bug, in-app error report"
+rastating/DroidBeard,247,Error Report: Value API of type java.lang.String cannot be converted to JSONObject,closed,2015-03-29T07:01:36Z,2015-04-25T16:40:48Z,"bug, in-app error report"
+rastating/DroidBeard,246,Error Report: Illegal character in path at index 32: http://192.168.1.15:8081/api/SR: aca4d104dc2e9a092d9dec83e78b32b8/?cmd=future,closed,2015-03-28T09:50:38Z,2015-04-25T16:42:19Z,"bug, in-app error report"
+rastating/DroidBeard,245,"Error Report: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x76a840b8: Failure in SSL library, usually a protocol error
+error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol (external/openssl/ssl/s23_clnt.c:766 0x743616ed:0x00000000)",closed,2015-03-26T19:39:30Z,2015-04-29T18:45:01Z,"bug, in-app error report"
+rastating/DroidBeard,244,Error Report: recvfrom failed: ETIMEDOUT (Connection timed out),closed,2015-03-23T07:54:38Z,2015-04-29T18:45:01Z,"bug, in-app error report"
+rastating/DroidBeard,243,Error Report: Value API of type java.lang.String cannot be converted to JSONObject,closed,2015-03-23T04:09:25Z,2015-04-25T16:42:31Z,"bug, in-app error report"
+rastating/DroidBeard,241,Error Report: Default,closed,2015-03-21T21:32:21Z,2015-03-22T10:25:42Z,"bug, in-app error report"
+rastating/DroidBeard,240,Error Report: Default,closed,2015-03-21T21:29:41Z,2015-03-22T10:25:42Z,"bug, in-app error report"
+rastating/DroidBeard,239,Error Report: Default,closed,2015-03-21T21:27:48Z,2015-03-22T10:25:42Z,"bug, in-app error report"
+rastating/DroidBeard,238,Error Report: Bad Request,closed,2015-03-20T22:39:04Z,2015-03-22T10:25:30Z,"bug, in-app error report"
+rastating/DroidBeard,237,Error Report: Connection closed by peer,closed,2015-03-17T08:38:08Z,2015-03-22T10:25:30Z,"bug, in-app error report"
+rastating/DroidBeard,236,Error Report: Connection closed by peer,closed,2015-03-17T08:37:59Z,2015-03-22T10:25:30Z,"bug, in-app error report"
+rastating/DroidBeard,235,"Error Report: Illegal character in authority at index 22: https://73:99:81:81:97
+    http//localhost:73:99:sabnzbd::8081/api/f72a4c2a0880697322123f98f08deb9d/?cmd=shows",closed,2015-03-16T22:14:44Z,2015-03-22T10:24:02Z,"bug, in-app error report, user-error"
+rastating/DroidBeard,234,"Error Report: Illegal character in authority at index 22: https://73:99:81:81:97
+    http//localhost:73:99:sabnzbd::8081/api/f72a4c2a0880697322123f98f08deb9d/?cmd=shows",closed,2015-03-16T22:14:37Z,2015-03-22T10:24:02Z,"bug, in-app error report, user-error"
+rastating/DroidBeard,233,"Error Report: Illegal character in authority at index 22: https://73:99:81:81:97
+    http//localhost:73:99:sabnzbd::8081/api/f72a4c2a0880697322123f98f08deb9d/?cmd=shows",closed,2015-03-16T22:14:34Z,2015-03-22T10:24:02Z,"bug, in-app error report, user-error"
+rastating/DroidBeard,231,Error Report: recvfrom failed: ECONNRESET (Connection reset by peer),closed,2015-03-16T18:35:21Z,2015-03-22T10:25:30Z,"bug, in-app error report"
+rastating/DroidBeard,230,Error Report: Request aborted,closed,2015-03-16T00:44:30Z,2015-03-22T10:25:30Z,"bug, in-app error report"
+rastating/DroidBeard,229,"Error Report: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x7c01ce50: Failure in SSL library, usually a protocol error
+error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol (external/openssl/ssl/s23_clnt.c:766 0x73d97718:0x00000000)",closed,2015-03-15T16:23:41Z,2015-03-22T10:25:30Z,"bug, in-app error report"
+rastating/DroidBeard,228,Error Report: No peer certificate,closed,2015-03-14T16:50:23Z,2015-03-22T10:25:30Z,"bug, in-app error report"
+rastating/DroidBeard,227,Error Report: Handshake failed,closed,2015-03-13T20:00:17Z,2015-03-22T10:25:29Z,"bug, in-app error report"
+rastating/DroidBeard,226,Error Report: Handshake failed,closed,2015-03-13T01:50:21Z,2015-03-22T10:25:29Z,"bug, in-app error report"
+rastating/DroidBeard,225,Error Report: Default,closed,2015-03-11T08:22:02Z,2015-03-22T10:25:42Z,"bug, in-app error report"
+rastating/DroidBeard,224,Error Report: Default,closed,2015-03-11T08:19:56Z,2015-03-22T10:25:42Z,"bug, in-app error report"
+rastating/DroidBeard,223,Error Report: recvfrom failed: ETIMEDOUT (Connection timed out),closed,2015-03-11T03:25:31Z,2015-03-22T10:25:29Z,"bug, in-app error report"
+rastating/DroidBeard,222,Error Report: hostname in certificate didn't match: <sickbeard.lertsenem.com> != <headphones web service> OR <headphones.lertsenem.com>,closed,2015-03-08T16:41:21Z,2015-03-22T10:25:29Z,"bug, in-app error report"
+rastating/DroidBeard,221,Error Report: Bad Request,closed,2015-03-07T16:40:51Z,2015-03-22T10:25:29Z,"bug, in-app error report"
+rastating/DroidBeard,220,Error Report: recvfrom failed: ECONNRESET (Connection reset by peer),closed,2015-03-07T00:27:03Z,2015-03-22T10:25:29Z,"bug, in-app error report"
+rastating/DroidBeard,219,Error Report: Bad Request,closed,2015-03-06T23:20:44Z,2015-03-22T10:25:29Z,"bug, in-app error report"
+rastating/DroidBeard,218,Error Report: Illegal character in authority at index 27: http://24.137.82.186:8091E:\Server Apps\SickBeard/api/ce262572438bfe3e6db3f317dcedb1/?cmd=shows,closed,2015-03-02T23:56:58Z,2015-03-03T19:53:02Z,"bug, in-app error report, user-error"
+rastating/DroidBeard,217,Error Report: Request Timeout,closed,2015-03-02T06:32:10Z,2015-03-22T10:25:29Z,"bug, in-app error report"
+rastating/DroidBeard,216,Add compatibility with TLS 1.1+,closed,2015-03-01T19:38:55Z,2015-05-30T13:22:50Z,"bug, enhancement, fixed in beta"
+rastating/DroidBeard,215,"Error Report: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x76f185d0: Failure in SSL library, usually a protocol error
+error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol (external/openssl/ssl/s23_clnt.c:769 0x73b7cd94:0x00000000)",closed,2015-02-28T04:37:36Z,2015-02-28T11:07:08Z,"bug, in-app error report"
+rastating/DroidBeard,214,"Error Report: Illegal character in authority at index 22: https://73:99:81:81:97
+    http//localhost:73:99:sabnzbd::9090/api/f72a4c2a0880697322123f98f08deb9d/?cmd=shows",closed,2015-02-26T12:20:47Z,2015-02-26T14:12:39Z,"bug, in-app error report"
+rastating/DroidBeard,213,Error Report: Illegal character in authority at index 22: https://73:99:81:81:97    http//localhost:73:99:sabnzbd::9090/api//?cmd=shows,closed,2015-02-26T12:20:44Z,2015-02-26T14:12:31Z,"bug, in-app error report, user-error"
+rastating/DroidBeard,212,Error Report: Unauthorized,closed,2015-02-25T21:52:52Z,2015-02-28T11:07:08Z,"bug, in-app error report"
+rastating/DroidBeard,211,"Error Report: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x7868ec18: Failure in SSL library, usually a protocol error
+error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol (external/openssl/ssl/s23_clnt.c:766 0x743017d0:0x00000000)",closed,2015-02-25T01:07:04Z,2015-02-28T11:07:08Z,"bug, in-app error report"
+rastating/DroidBeard,210,Error Report: Default,closed,2015-02-23T06:24:58Z,2015-02-28T11:07:08Z,"bug, in-app error report"
+rastating/DroidBeard,209,Error Report: Default,closed,2015-02-23T06:22:09Z,2015-02-28T11:07:08Z,"bug, in-app error report"
+rastating/DroidBeard,207,Error Report: Socket closed,closed,2015-02-21T14:30:50Z,2015-02-21T16:40:36Z,"bug, in-app error report"
+rastating/DroidBeard,206,Error Report: Socket closed,closed,2015-02-21T14:30:37Z,2015-02-21T16:39:55Z,"bug, in-app error report"
+rastating/DroidBeard,205,Error Report: No peer certificate,closed,2015-02-21T00:57:24Z,2015-02-21T16:39:40Z,"bug, in-app error report, user-error"
+rastating/DroidBeard,204,Error Report: Default,closed,2015-02-20T20:27:14Z,2015-02-21T16:40:17Z,"bug, in-app error report"
+rastating/DroidBeard,203,Error Report: Default,closed,2015-02-20T20:23:47Z,2015-02-21T16:40:46Z,"bug, in-app error report"
+rastating/DroidBeard,202,Error Report: Unauthorized,closed,2015-02-19T13:16:24Z,2015-02-28T11:07:08Z,"bug, in-app error report"
+rastating/DroidBeard,201,Error Report: Handshake failed,closed,2015-02-17T07:51:13Z,2015-02-17T21:46:59Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,200,Error Report: recvfrom failed: ECONNRESET (Connection reset by peer),closed,2015-02-15T11:36:02Z,2015-02-17T21:47:08Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,199,Error Report: Illegal character in authority at index 26: http://192.168.0.14:8081c:\kodi\sickbeard/api/*api key removed*/?cmd=shows,closed,2015-02-15T02:06:45Z,2015-02-15T11:11:55Z,"bug, in-app error report, user-error"
+rastating/DroidBeard,198,Error Report: Internal Server Error,closed,2015-02-14T22:50:06Z,2015-02-15T11:12:21Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,197,Error Report: Illegal character in authority at index 29: http://icarusmediaserver.ddns .net:8081localhost/api/*api key removed*/?cmd=shows,closed,2015-02-14T10:05:29Z,2015-02-14T18:47:46Z,"bug, in-app error report"
+rastating/DroidBeard,196,Error Report: Illegal character in authority at index 22: https://99-117-116-119    http//localhost:9090:sabnzbd:8080/api/*api key removed*/?cmd=shows,closed,2015-02-13T17:29:08Z,2015-02-14T18:47:46Z,"bug, in-app error report"
+rastating/DroidBeard,195,Error Report: Illegal character in authority at index 11: https://540 street:8134555/api/gooffr/?cmd=shows,closed,2015-02-13T05:05:33Z,2015-02-13T15:19:28Z,"bug, in-app error report"
+rastating/DroidBeard,194,Error Report: Illegal character in authority at index 11: https://540 street:8134555/api/gooffr/?cmd=shows,closed,2015-02-13T05:05:32Z,2015-02-13T15:19:28Z,"bug, in-app error report"
+rastating/DroidBeard,193,Error Report: Illegal character in authority at index 11: https://540 street:8134555/api/gooffr/?cmd=shows,closed,2015-02-13T05:05:29Z,2015-02-13T15:19:28Z,"bug, in-app error report"
+rastating/DroidBeard,192,Error Report: Value <html><head><meta of type java.lang.String cannot be converted to JSONObject,closed,2015-02-13T05:05:11Z,2015-02-13T15:20:27Z,"bug, in-app error report, user-error"
+rastating/DroidBeard,191,"Error Report: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x7aacada0: Failure in SSL library, usually a protocol error
+error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol (external/openssl/ssl/s23_clnt.c:766 0x73da3730:0x00000000)",closed,2015-02-12T03:53:40Z,2015-02-12T23:39:40Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,190,Error Report: Unauthorized,closed,2015-02-10T07:20:57Z,2015-02-12T23:39:51Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,188,Error Report: Internal Server Error,closed,2015-02-07T23:22:22Z,2015-02-09T23:21:00Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,187,"Error Report: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x774c6480: Failure in SSL library, usually a protocol error
+error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol (external/openssl/ssl/s23_clnt.c:769 0x73e5fd74:0x00000000)",closed,2015-02-07T09:39:00Z,2015-02-09T23:21:36Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,186,Error Report: ,closed,2015-02-07T09:21:45Z,2015-02-07T11:17:38Z,"bug, in-app error report, fixed in beta"
+rastating/DroidBeard,185,"Error Report: Illegal character in authority at index 24: https://192.168.1.2:7130""/""/api/4bcb45cb153e532f60a72a1d57164572/?cmd=future",closed,2015-02-06T16:35:52Z,2015-02-09T23:21:15Z,"bug, in-app error report, user-error"
+rastating/DroidBeard,184,"Error Report: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x54f9cd70: Failure in SSL library, usually a protocol error
+error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol (external/openssl/ssl/s23_clnt.c:766 0x54fd4df4:0x00000000)",closed,2015-02-06T10:46:54Z,2015-02-09T23:21:44Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,183,Show searches are not returning any results in Sick Rage installations,closed,2015-02-05T00:46:41Z,2015-02-13T12:20:14Z,"bug, enhancement, fixed in beta"
+rastating/DroidBeard,182,Error Report: ,closed,2015-02-05T00:33:21Z,2015-02-13T12:20:14Z,"bug, in-app error report, fixed in beta, pre-release issue"
+rastating/DroidBeard,181,Error Report: The target server failed to respond,closed,2015-02-03T16:46:27Z,2015-02-07T11:18:13Z,"bug, in-app error report, user-error"
+rastating/DroidBeard,180,Error Report: Illegal character in path at index 37: http://192.168.1.2:8082/media/Sync/TV Shows/api/2a8ed2f0a4ad4339d0af717ffd8f1d08/?cmd=shows,closed,2015-02-01T19:27:13Z,2015-02-09T23:22:47Z,"bug, in-app error report, user-error"
+rastating/DroidBeard,179,Error Report: ,closed,2015-02-01T17:07:43Z,2015-02-05T21:54:55Z,"bug, in-app error report"
+rastating/DroidBeard,178,Error Report: ,closed,2015-02-01T17:07:40Z,2015-02-05T21:55:13Z,"bug, in-app error report"
+rastating/DroidBeard,176,Error Report: ,closed,2015-01-31T13:51:50Z,2015-02-05T21:55:22Z,"bug, in-app error report"
+rastating/DroidBeard,175,Error Report: ,closed,2015-01-31T13:05:03Z,2015-02-05T21:55:44Z,"bug, in-app error report"
+rastating/DroidBeard,174,Error Report: Unauthorized,closed,2015-01-31T00:38:51Z,2015-02-07T11:18:38Z,"bug, in-app error report, user-error"
+rastating/DroidBeard,173,"Error Report: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x7a479430: Failure in SSL library, usually a protocol error
+error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol (external/openssl/ssl/s23_clnt.c:766 0x73cfe718:0x00000000)",closed,2015-01-30T12:18:49Z,2015-02-09T23:23:00Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,172,"Error Report: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x62378948: Failure in SSL library, usually a protocol error
+error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol (external/openssl/ssl/s23_clnt.c:766 0x5d29fd5c:0x00000000)",closed,2015-01-29T03:04:10Z,2015-02-09T23:23:10Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,171,Error Report: Bad Request,closed,2015-01-26T19:52:44Z,2015-02-09T23:23:21Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,170,Error Report: Unauthorized,closed,2015-01-26T03:54:29Z,2015-02-09T23:23:30Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,169,Error Report: Default,closed,2015-01-26T03:52:55Z,2015-02-09T23:23:55Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,168,Error Report: Default,closed,2015-01-26T03:50:06Z,2015-02-09T23:23:45Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,167,Error Report: ,closed,2015-01-25T20:58:22Z,2015-02-05T21:55:52Z,"bug, in-app error report"
+rastating/DroidBeard,166,"Error Report: Illegal character in authority at index 25: https://192.168.1.16:8081""/""/api/4df1ab0e08fd9c18ccdd038623732355/?cmd=shows",closed,2015-01-25T17:59:30Z,2015-02-09T23:24:21Z,"bug, in-app error report, user-error"
+rastating/DroidBeard,165,Error Report: Unauthorized,closed,2015-01-25T12:36:29Z,2015-02-09T23:24:05Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,164,Error Report: Illegal character in authority at index 26: http://192.168.1.55:8081C:\Sickrage\sickbeard.py/api/0f652bbce2f3ac8e61208ca708b3e929/?cmd=shows,closed,2015-01-25T10:02:08Z,2015-02-09T23:24:37Z,"bug, in-app error report, user-error"
+rastating/DroidBeard,163,Error Report: Illegal character in authority at index 23: http://192.168.1.5:8081\/api/f8caeee120ceab21faa7066ef7c83b6a/?cmd=shows,closed,2015-01-24T15:25:46Z,2015-02-09T23:25:18Z,"bug, in-app error report, user-error"
+rastating/DroidBeard,162,Error Report: Illegal character in authority at index 23: http://192.168.1.5:8081\/api/891fbd087d3b8f4a6e6c1ace841203cd/?cmd=shows,closed,2015-01-24T15:18:43Z,2015-02-09T23:26:02Z,"bug, in-app error report, user-error"
+rastating/DroidBeard,161,Error Report: Value API of type java.lang.String cannot be converted to JSONObject,closed,2015-01-24T08:11:50Z,2015-02-09T23:26:42Z,"bug, in-app error report, incompatible sickbeard fork"
+rastating/DroidBeard,160,Error Report: Value API of type java.lang.String cannot be converted to JSONObject,closed,2015-01-24T08:10:29Z,2015-02-09T23:26:54Z,"bug, in-app error report, incompatible sickbeard fork"
+rastating/DroidBeard,159,Error Report: Not Found,closed,2015-01-20T23:36:14Z,2015-01-21T22:38:26Z,"bug, in-app error report"
+rastating/DroidBeard,158,Error Report: Unauthorized,closed,2015-01-20T23:08:26Z,2015-01-21T22:38:26Z,"bug, in-app error report"
+rastating/DroidBeard,157,Error Report: Bad Request,closed,2015-01-20T13:05:58Z,2015-01-21T22:38:26Z,"bug, in-app error report"
+rastating/DroidBeard,156,"Error Report: Read error: ssl=0x791f9dc0: I/O error during system call, Connection timed out",closed,2015-01-19T19:17:02Z,2015-01-21T22:38:32Z,"bug, in-app error report"
+rastating/DroidBeard,155,Error Report: recvfrom failed: ECONNRESET (Connection reset by peer),closed,2015-01-18T12:44:53Z,2015-01-21T22:38:38Z,"bug, in-app error report"
+rastating/DroidBeard,153,Error Report: recvfrom failed: ECONNRESET (Connection reset by peer),closed,2015-01-17T17:00:18Z,2015-01-21T22:38:38Z,"bug, in-app error report"
+rastating/DroidBeard,152,Error Report: Illegal character in authority at index 11: http://192. 168.1.2:8081/api/366cb636e9ade54f731ef2926649beb7/?cmd=history,closed,2015-01-16T22:26:43Z,2015-01-16T22:41:36Z,"bug, in-app error report, user-error"
+rastating/DroidBeard,151,Error Report: recvfrom failed: ETIMEDOUT (Connection timed out),closed,2015-01-16T09:14:00Z,2015-01-16T22:42:13Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,150,"Error Report: Invalid long: ""kwargs""",closed,2015-01-16T00:01:08Z,2015-01-21T22:39:17Z,"bug, in-app error report"
+rastating/DroidBeard,149,Error Report: Not Found,closed,2015-01-15T04:45:54Z,2015-01-21T22:39:31Z,"bug, in-app error report"
+rastating/DroidBeard,148,"Error Report: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x6197c408: Failure in SSL library, usually a protocol error
+error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol (external/openssl/ssl/s23_clnt.c:766 0x41e8bd5c:0x00000000)",closed,2015-01-14T02:59:31Z,2015-01-14T18:53:43Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,147,Error Report: Not Found,closed,2015-01-13T03:56:52Z,2015-01-21T22:39:31Z,"bug, in-app error report"
+rastating/DroidBeard,146,Error Report: Value <html><head><meta of type java.lang.String cannot be converted to JSONObject,closed,2015-01-13T02:09:43Z,2015-01-21T22:39:40Z,"bug, in-app error report"
+rastating/DroidBeard,145,Error Report: Value <html><head><meta of type java.lang.String cannot be converted to JSONObject,closed,2015-01-13T02:09:33Z,2015-01-21T22:39:40Z,"bug, in-app error report"
+rastating/DroidBeard,143,Error Report: Host name may not be null,closed,2015-01-12T23:17:05Z,2015-01-13T00:00:25Z,"bug, in-app error report, user-error"
+rastating/DroidBeard,137,Error Report: Value <!doctype of type java.lang.String cannot be converted to JSONObject,closed,2014-12-31T12:02:46Z,2015-01-21T23:37:29Z,"bug, in-app error report"
+rastating/DroidBeard,136,Error Report: Not Found,closed,2014-12-31T10:55:32Z,2015-01-21T22:56:59Z,"bug, in-app error report"
+rastating/DroidBeard,135,Error Report: Host name may not be null,closed,2014-12-31T10:31:57Z,2015-01-13T00:04:32Z,"bug, in-app error report, user-error"
+rastating/DroidBeard,134,Error Report: Host name may not be null,closed,2014-12-30T22:29:33Z,2015-01-13T00:04:31Z,"bug, in-app error report, user-error"
+rastating/DroidBeard,133,Error Report: Value <!DOCTYPE of type java.lang.String cannot be converted to JSONObject,closed,2014-12-30T14:53:42Z,2014-12-30T15:45:21Z,"bug, in-app error report"
+rastating/DroidBeard,132,Error Report: Host name may not be null,closed,2014-12-30T09:21:30Z,2015-01-13T00:04:31Z,"bug, in-app error report, user-error"
+rastating/DroidBeard,131,"Error Report: Invalid long: ""kwargs""",closed,2014-12-30T05:55:50Z,2015-01-21T22:57:44Z,"bug, in-app error report"
+rastating/DroidBeard,130,Error Report: Host name may not be null,closed,2014-12-29T21:26:45Z,2015-01-13T00:04:31Z,"bug, in-app error report, user-error"
+rastating/DroidBeard,129,Error Report: Value <!DOCTYPE of type java.lang.String cannot be converted to JSONObject,closed,2014-12-29T17:25:55Z,2014-12-30T15:45:21Z,"bug, in-app error report"
+rastating/DroidBeard,128,Error Report: Value <!DOCTYPE of type java.lang.String cannot be converted to JSONObject,closed,2014-12-29T17:25:54Z,2014-12-30T15:45:21Z,"bug, in-app error report"
+rastating/DroidBeard,127,Error Report: Value <!DOCTYPE of type java.lang.String cannot be converted to JSONObject,closed,2014-12-29T17:25:52Z,2014-12-30T15:45:21Z,"bug, in-app error report"
+rastating/DroidBeard,126,Error Report: Value <!DOCTYPE of type java.lang.String cannot be converted to JSONObject,closed,2014-12-29T17:25:51Z,2014-12-30T15:45:21Z,"bug, in-app error report"
+rastating/DroidBeard,125,Error Report: Value <!DOCTYPE of type java.lang.String cannot be converted to JSONObject,closed,2014-12-29T17:25:49Z,2014-12-30T15:45:21Z,"bug, in-app error report"
+rastating/DroidBeard,124,Error Report: Value <!DOCTYPE of type java.lang.String cannot be converted to JSONObject,closed,2014-12-29T12:45:28Z,2014-12-30T15:45:21Z,"bug, in-app error report"
+rastating/DroidBeard,123,Error Report: File not found,closed,2014-12-28T22:48:13Z,2014-12-28T23:38:23Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,122,Error Report: Connection to http://mikes-macmini.local:8081 refused,closed,2014-12-28T18:24:16Z,2014-12-28T20:04:04Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,121,"Error Report: Unable to resolve host ""http"": No address associated with hostname",closed,2014-12-28T15:58:46Z,2014-12-28T20:04:04Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,120,"Error Report: Unable to resolve host ""http"": No address associated with hostname",closed,2014-12-28T15:58:20Z,2014-12-28T20:04:04Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,118,Error Report: Connection to http://10.0.0.5:8081 refused,closed,2014-12-27T19:08:35Z,2014-12-27T19:49:35Z,"bug, invalid, in-app error report, user-error"
+rastating/DroidBeard,117,"Error Report: Invalid long: ""kwargs""",closed,2014-12-27T19:01:37Z,2014-12-27T19:46:51Z,"bug, invalid, in-app error report, incompatible sickbeard fork"
+rastating/DroidBeard,116,Error Report: Default,closed,2014-12-27T18:59:52Z,2014-12-27T19:48:07Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,115,Error Report: Default,closed,2014-12-27T18:55:46Z,2014-12-27T19:48:07Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,114,"Error Report: Unable to resolve host ""http"": No address associated with hostname",closed,2014-12-27T17:41:27Z,2014-12-27T19:49:35Z,"bug, invalid, in-app error report, user-error"
+rastating/DroidBeard,113,"Error Report: Unable to resolve host ""http"": No address associated with hostname",closed,2014-12-27T17:38:04Z,2014-12-27T19:49:35Z,"bug, invalid, in-app error report, user-error"
+rastating/DroidBeard,112,"Error Report: Unable to resolve host ""http"": No address associated with hostname",closed,2014-12-27T17:36:23Z,2014-12-27T19:49:35Z,"bug, invalid, in-app error report, user-error"
+rastating/DroidBeard,111,"Error Report: Unable to resolve host ""http"": No address associated with hostname",closed,2014-12-27T17:35:44Z,2014-12-27T19:49:35Z,"bug, invalid, in-app error report, user-error"
+rastating/DroidBeard,110,Error Report: No value for missed,closed,2014-12-27T13:01:47Z,2014-12-27T19:51:00Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,109,Error Report: Value <!DOCTYPE of type java.lang.String cannot be converted to JSONObject,closed,2014-12-27T06:50:05Z,2014-12-27T19:49:35Z,"bug, invalid, in-app error report, user-error"
+rastating/DroidBeard,108,Error Report: Host name may not be null,closed,2014-12-27T04:05:27Z,2014-12-27T19:49:35Z,"bug, invalid, in-app error report, user-error"
+rastating/DroidBeard,107,Error Report: Host name may not be null,closed,2014-12-26T21:20:53Z,2014-12-27T19:49:35Z,"bug, invalid, in-app error report, user-error"
+rastating/DroidBeard,106,Error Report: Host name may not be null,closed,2014-12-26T20:35:57Z,2014-12-27T19:49:35Z,"bug, invalid, in-app error report, user-error"
+rastating/DroidBeard,105,Error Report: Connection to http://192.168.1.17:8081 refused,closed,2014-12-26T09:24:45Z,2014-12-27T19:49:35Z,"bug, invalid, in-app error report, user-error"
+rastating/DroidBeard,104,Error Report: Not Found,closed,2014-12-26T06:15:52Z,2014-12-27T19:53:12Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,103,Error Report: Value <!DOCTYPE of type java.lang.String cannot be converted to JSONObject,closed,2014-12-25T20:58:47Z,2014-12-30T15:45:21Z,"bug, in-app error report"
+rastating/DroidBeard,102,Error Report: Connection to http://50.31.135.203:8081 refused,closed,2014-12-25T19:55:19Z,2014-12-27T19:49:35Z,"bug, invalid, in-app error report, user-error"
+rastating/DroidBeard,101,Error Report: Value <!DOCTYPE of type java.lang.String cannot be converted to JSONObject,closed,2014-12-25T03:51:15Z,2014-12-25T19:37:51Z,"bug, invalid, in-app error report, user-error"
+rastating/DroidBeard,100,Error Report: Connection to http://192.168.1.19:9092 refused,closed,2014-12-25T03:15:02Z,2014-12-25T19:37:51Z,"bug, invalid, in-app error report, user-error"
+rastating/DroidBeard,99,Error Report: Connection to http://192.168.1.19:9092 refused,closed,2014-12-25T03:15:00Z,2014-12-25T19:37:51Z,"bug, invalid, in-app error report, user-error"
+rastating/DroidBeard,98,"Error Report: Unable to resolve host ""http"": No address associated with hostname",closed,2014-12-25T01:41:35Z,2014-12-27T19:49:35Z,"bug, invalid, in-app error report, user-error"
+rastating/DroidBeard,97,"Error Report: Unable to resolve host ""http"": No address associated with hostname",closed,2014-12-24T20:58:17Z,2014-12-27T19:49:35Z,"bug, invalid, in-app error report, user-error"
+rastating/DroidBeard,96,"Error Report: Unable to resolve host ""http"": No address associated with hostname",closed,2014-12-24T20:58:11Z,2014-12-27T19:49:35Z,"bug, invalid, in-app error report, user-error"
+rastating/DroidBeard,95,Error Report: Value <!DOCTYPE of type java.lang.String cannot be converted to JSONObject,closed,2014-12-23T22:22:40Z,2014-12-25T19:37:51Z,"bug, invalid, in-app error report, user-error"
+rastating/DroidBeard,94,Error Report: Connection to http://192.168.0.250:8081 refused,closed,2014-12-23T12:49:13Z,2014-12-23T21:34:25Z,"bug, invalid, in-app error report, user-error"
+rastating/DroidBeard,93,Error Report: Value <!DOCTYPE of type java.lang.String cannot be converted to JSONObject,closed,2014-12-22T20:50:27Z,2014-12-23T21:34:25Z,"bug, invalid, in-app error report, user-error"
+rastating/DroidBeard,91,Error Report: Connection to http://192.168.1.3:8081 refused,closed,2014-12-21T23:52:15Z,2014-12-23T21:34:25Z,"bug, invalid, in-app error report, user-error"
+rastating/DroidBeard,90,Error Report: Connection to http://192.168.1.12:8081 refused,closed,2014-12-21T22:17:08Z,2014-12-21T22:41:19Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,89,Error Report: Bad Request,closed,2014-12-21T19:23:32Z,2014-12-21T22:44:33Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,88,Error Report: Connection to http://asshoyle.ddns.net:8083 refused,closed,2014-12-21T19:08:57Z,2014-12-21T22:41:10Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,87,Error Report: Connection to http://192.168.178.90:8081 refused,closed,2014-12-21T19:08:29Z,2014-12-21T22:40:58Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,86,"Error Report: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x78822b88: Failure in SSL library, usually a protocol error
+error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol (external/openssl/ssl/s23_clnt.c:766 0x72a217e8:0x00000000)",closed,2014-12-21T14:56:56Z,2014-12-21T22:40:47Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,85,Error Report: Not Found,closed,2014-12-21T12:34:17Z,2014-12-21T22:43:55Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,84,Error Report: Value <!DOCTYPE of type java.lang.String cannot be converted to JSONObject,closed,2014-12-21T11:11:53Z,2014-12-21T22:40:36Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,83,"Error Report: javax.net.ssl.SSLProtocolException: SSL handshake aborted: ssl=0x5f1e8858: Failure in SSL library, usually a protocol error
+error:140770FC:SSL routines:SSL23_GET_SERVER_HELLO:unknown protocol (external/openssl/ssl/s23_clnt.c:766 0x40dd876a:0x00000000)",closed,2014-12-21T11:01:05Z,2014-12-21T22:40:18Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,82,Error Report: Connection to http://10.1.1.121:8081 refused,closed,2014-12-20T20:15:39Z,2014-12-21T22:39:56Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,81,Error Report: Connection to http://10.0.0.35:8081 refused,closed,2014-12-20T16:08:58Z,2014-12-21T22:39:48Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,80,Error Report: Host name may not be null,closed,2014-12-20T15:04:43Z,2014-12-27T19:49:35Z,"bug, invalid, in-app error report, user-error"
+rastating/DroidBeard,79,Error Report: Connection to http://192.168.1.1:8080 refused,closed,2014-12-20T14:46:14Z,2014-12-21T22:39:03Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,78,Error Report: Value <!DOCTYPE of type java.lang.String cannot be converted to JSONObject,closed,2014-12-20T12:36:18Z,2014-12-21T22:38:48Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,77,Error Report: Connection to http://hinbc.dlinkddns.com:8081 refused,closed,2014-12-20T04:11:18Z,2014-12-21T22:38:37Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,76,Error Report: Value <!DOCTYPE of type java.lang.String cannot be converted to JSONObject,closed,2014-12-20T02:12:20Z,2014-12-21T22:38:22Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,74,Error Report: Value <!DOCTYPE of type java.lang.String cannot be converted to JSONObject,closed,2014-12-19T21:17:45Z,2014-12-21T22:38:14Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,73,Error Report: Value <!DOCTYPE of type java.lang.String cannot be converted to JSONObject,closed,2014-12-19T19:10:35Z,2014-12-21T22:38:05Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,72,Error Report: No value for missed,closed,2014-12-19T16:18:34Z,2014-12-20T00:09:07Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,71,Play Store Error Report,closed,2014-12-19T13:43:55Z,2015-01-11T22:17:33Z,bug
+rastating/DroidBeard,70,Error Report: Value <!doctype of type java.lang.String cannot be converted to JSONObject,closed,2014-12-19T12:26:02Z,2014-12-21T22:37:55Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,69,Error Report: Not Found,closed,2014-12-19T10:24:01Z,2014-12-21T22:44:09Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,68,Error Report: Bad Gateway,closed,2014-12-19T05:45:32Z,2014-12-21T22:37:25Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,67,Error Report: Connection to http://192.168.0.116:8382 refused,closed,2014-12-19T01:59:33Z,2014-12-21T22:36:51Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,66,Error Report: Host name may not be null,closed,2014-12-18T22:28:19Z,2014-12-18T23:27:06Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,64,Error Report: Connection to http://192.168.1.16:8081 refused,closed,2014-12-18T20:37:28Z,2014-12-18T21:09:04Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,63,Error Report: No value for missed,closed,2014-12-18T20:09:35Z,2014-12-18T21:31:31Z,"bug, duplicate, in-app error report"
+rastating/DroidBeard,62,Error Report: Value <!DOCTYPE of type java.lang.String cannot be converted to JSONObject,closed,2014-12-18T19:06:55Z,2014-12-18T21:32:15Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,61,Error Report: Request Timeout,closed,2014-12-18T13:11:29Z,2014-12-18T21:31:13Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,60,Error Report: Request Timeout,closed,2014-12-18T13:11:20Z,2014-12-18T21:30:39Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,59,Error Report: Value {} at data of type org.json.JSONObject cannot be converted to JSONArray,closed,2014-12-18T08:58:01Z,2014-12-18T21:08:18Z,"bug, duplicate, in-app error report"
+rastating/DroidBeard,58,Error Report: No value for missed,closed,2014-12-18T06:36:52Z,2014-12-18T21:40:09Z,"bug, in-app error report"
+rastating/DroidBeard,57,Error Report: Connection to http://supergonkas.biz.tm:8081 refused,closed,2014-12-18T00:31:08Z,2014-12-18T21:07:55Z,"bug, invalid, in-app error report"
+rastating/DroidBeard,56,Error Report: Value {} at data of type org.json.JSONObject cannot be converted to JSONArray,closed,2014-12-17T23:10:42Z,2014-12-18T21:06:14Z,"bug, duplicate, in-app error report"
+rastating/DroidBeard,55,Error Report: Value {} at data of type org.json.JSONObject cannot be converted to JSONArray,closed,2014-12-17T23:10:39Z,2014-12-18T21:06:05Z,"bug, duplicate, in-app error report"
+rastating/DroidBeard,54,Error Report: Value {} at data of type org.json.JSONObject cannot be converted to JSONArray,closed,2014-12-17T23:10:37Z,2014-12-18T21:05:50Z,"bug, duplicate, in-app error report"
+rastating/DroidBeard,53,Error Report: Value {} at data of type org.json.JSONObject cannot be converted to JSONArray,closed,2014-12-17T23:10:36Z,2014-12-18T21:05:40Z,"bug, duplicate, in-app error report"
+rastating/DroidBeard,52,Error Report: Value {} at data of type org.json.JSONObject cannot be converted to JSONArray,closed,2014-12-17T23:10:35Z,2014-12-18T21:05:16Z,"bug, duplicate, in-app error report"
+rastating/DroidBeard,51,Error Report: Value {} at data of type org.json.JSONObject cannot be converted to JSONArray,closed,2014-12-17T23:10:33Z,2014-12-18T21:40:09Z,"bug, in-app error report"
+rastating/DroidBeard,49,"Error Report: Invalid int: ""kwargs""",closed,2014-12-16T21:21:43Z,2014-12-17T20:24:57Z,"bug, in-app error report, fixed in beta"
+rastating/DroidBeard,47,Error Report: Value invalid of type java.lang.String cannot be converted to JSONObject,closed,2014-12-12T22:13:47Z,2014-12-12T22:15:04Z,"bug, in-app error report"
+rastating/DroidBeard,46,Error Report: Unable to start activity ComponentInfo,closed,2014-12-09T14:18:32Z,2014-12-09T14:18:51Z,"bug, in-app error report"
+rastating/DroidBeard,45,Error Report: Unable to start activity ComponentInfo,closed,2014-12-09T14:15:09Z,2014-12-09T14:18:15Z,"bug, in-app error report"
+rastating/DroidBeard,44,Error Report: {{exception.description}},closed,2014-12-09T13:04:15Z,2014-12-09T13:04:47Z,"bug, in-app error report"
+rastating/DroidBeard,34,"When clicking the done button after selecting episodes, the checkboxes are not cleared ",closed,2014-11-08T02:29:18Z,2014-11-10T22:12:24Z,bug
+rastating/DroidBeard,29,Play Store Report: Unhandled NullPointerException,closed,2014-10-17T14:25:46Z,2014-11-02T23:02:31Z,bug
+rastating/DroidBeard,27,Restarting from DroidBeard fails after changing HTTPs settings in Sick Beard,closed,2014-10-04T23:16:05Z,2014-10-05T11:34:37Z,bug
+rastating/DroidBeard,23,Timeouts and errors cause shows screen to no longer load,closed,2014-10-02T21:11:06Z,2014-10-04T12:23:48Z,bug
+rastating/DroidBeard,22,Switching screen orientation causes refresh animation bug,open,2014-10-01T22:26:11Z,,bug
+rastating/DroidBeard,21,Tapping and holding on a season name displays the episode context menu,closed,2014-10-01T22:18:16Z,2014-10-03T22:34:30Z,bug
+rastating/DroidBeard,19,Refactor AsyncTask calls to allow parallel execution,closed,2014-09-23T21:53:49Z,2014-10-02T21:13:39Z,"bug, enhancement"
+rastating/DroidBeard,16,App crashes when opening a fragment whilst another is loading,closed,2014-09-02T14:14:10Z,2014-09-04T20:36:46Z,bug
+rk4an/ecos-controller,5,Check port number,closed,2013-03-10T19:41:22Z,2013-06-25T06:23:18Z,"bug, enhancement"
+rk4an/ecos-controller,2,Rewrite the network part,closed,2012-12-19T20:59:56Z,2013-06-23T10:56:36Z,"bug, enhancement"
+GrinnellAppDev/Grinnell-DB-Android-Old,29,crashes on search + rotate,closed,2014-02-23T20:39:00Z,2016-02-21T20:09:41Z,bug
+GrinnellAppDev/Grinnell-DB-Android-Old,19,department for faculty sometimes too large for text box,open,2014-01-30T06:41:50Z,,bug
+GrinnellAppDev/Grinnell-DB-Android-Old,15,Remove MainActivity since its not being used.,closed,2013-12-15T20:37:25Z,2013-12-15T21:35:22Z,bug
+vocefiscal/vocefiscal-android,20,"Remover Campinas, SP como cidade default",closed,2014-10-07T17:08:33Z,2014-10-08T19:37:38Z,bug
+vocefiscal/vocefiscal-android,19,"Garantir que fotos fiquem disponíveis depois na galeria do celular, independente de aparelho",closed,2014-10-07T16:59:52Z,2014-10-21T15:28:19Z,bug
+vocefiscal/vocefiscal-android,17,Bug: Crash ao voltar ao app com pouca memória,open,2014-10-06T02:24:46Z,,bug
+vocefiscal/vocefiscal-android,13,Foco da câmera para de funcionar no início ou após segunda foto,open,2014-10-05T23:37:50Z,,bug
+vocefiscal/vocefiscal-android,12,Bug report: crash ao tentar tirar foto com o flash em modo automático ou ligado,open,2014-10-03T15:28:13Z,,bug
+vocefiscal/vocefiscal-android,8,Crash em celular Samsung Galaxy Gran Duos GT-I9063T,closed,2014-09-23T21:27:41Z,2014-09-26T12:48:04Z,bug
+vocefiscal/vocefiscal-android,5,Bug: app capota quando usuário bota email no form,closed,2014-09-20T21:30:58Z,2014-09-22T16:39:21Z,bug
+seht/volumenotification,25,Wrong icons at notification bar on Huawei,closed,2019-05-14T10:54:06Z,2019-08-22T15:30:55Z,bug
+seht/volumenotification,20,Top Priority Issue,closed,2017-11-25T12:14:56Z,2019-08-19T20:06:19Z,bug
+seht/volumenotification,17,Quick Settings Buttons Stop Working,closed,2017-06-29T20:16:34Z,2019-08-22T15:34:43Z,bug
+seht/volumenotification,13,Low priority missing,closed,2017-02-09T05:30:30Z,2017-02-09T07:45:11Z,bug
+seht/volumenotification,6,Tiles lagging or unresponsive,closed,2017-02-05T15:17:49Z,2017-02-05T15:41:51Z,bug
+seht/volumenotification,2, Error opening Notification settings,closed,2017-02-01T14:26:44Z,2017-02-01T15:34:33Z,bug
+QVDev/BlendleSDK,38,Crashing on start application,closed,2016-11-07T11:00:29Z,2016-12-10T14:24:05Z,bug
+QVDev/BlendleSDK,37,Create user account,open,2016-06-15T20:21:21Z,,bug
+FallenRiteMonk/ludus,19,Resume game combination count not showing,closed,2015-10-16T17:58:24Z,2015-10-21T11:14:54Z,bug
+FallenRiteMonk/ludus,17,Remove hint on combination,closed,2015-10-13T07:22:54Z,2015-10-13T12:39:43Z,bug
+Leaking/WeGit,4,Can not run,open,2015-08-20T01:52:14Z,,bug
+yazeed44/MultiImagePicker,72,Text Color Changing Entire App,open,2015-09-05T07:58:11Z,,bug
+yazeed44/MultiImagePicker,68,Toolbar disappears when scrolling in album view,open,2015-08-25T19:00:37Z,,bug
+yazeed44/MultiImagePicker,54,"when taking picture,bug hanppens",closed,2015-08-07T05:56:47Z,2015-08-08T20:10:09Z,bug
+yazeed44/MultiImagePicker,51,Rotation error ..,closed,2015-08-04T13:42:30Z,2015-08-07T08:15:05Z,bug
+yazeed44/MultiImagePicker,50,getting no result,open,2015-08-03T14:07:09Z,,bug
+yazeed44/MultiImagePicker,49,"android:allowBackup=""false""",open,2015-08-03T12:50:48Z,,bug
+yazeed44/MultiImagePicker,31,Camera capture issue,closed,2015-07-22T08:27:50Z,2015-07-22T08:55:55Z,bug
+yazeed44/MultiImagePicker,28,Image is not loaded with full resolution in view pager,open,2015-07-17T22:54:16Z,,bug
+yazeed44/MultiImagePicker,27,Error taking picture ,open,2015-07-16T19:15:56Z,,bug
+yazeed44/MultiImagePicker,25,Floating action button not working ,closed,2015-07-14T14:16:02Z,2015-07-15T08:08:27Z,bug
+yazeed44/MultiImagePicker,19,Showing images which are not in gallery? ,closed,2015-07-12T09:42:22Z,2015-07-13T02:20:33Z,bug
+yazeed44/MultiImagePicker,17, java.lang.NoClassDefFoundError,open,2015-07-09T09:47:13Z,,bug
+yazeed44/MultiImagePicker,14,Picture taken not saving in gallery,open,2015-07-01T19:37:30Z,,bug
+yazeed44/MultiImagePicker,12,DarkActionBar,closed,2015-06-30T06:22:28Z,2015-07-16T00:43:18Z,bug
+yazeed44/MultiImagePicker,11,Not able to access gallery,closed,2015-06-25T13:15:58Z,2015-06-25T13:57:07Z,bug

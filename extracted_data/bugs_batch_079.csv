@@ -1,0 +1,19 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+TekkLabs/memoria-politica,4,Crash ao trocar o tamanho da fonte,open,2016-04-27T00:34:33Z,,bug
+TekkLabs/memoria-politica,3,Alguns políticos estão com nomes trocados,closed,2016-04-27T00:30:54Z,2016-05-01T01:55:59Z,bug
+TekkLabs/memoria-politica,2,Barra de rolagem branca no Galaxy Notes,closed,2016-04-27T00:24:01Z,2016-05-07T18:02:29Z,bug
+Digutsoft/dMetronome,1,Scrolling in preference screen,closed,2014-12-05T11:00:42Z,2014-12-06T02:01:01Z,bug
+kaozgamer/Find-My-Phone,1,Support new permissions manager on Android M,closed,2016-08-01T12:03:44Z,2017-02-21T08:25:55Z,"bug, enhancement"
+adamsp/DreamInTweets,4,Twitter stream does not close quickly on KitKat devices.,open,2014-01-14T20:10:21Z,,bug
+adamsp/DreamInTweets,3,Daydream does not handle no-connection case,closed,2014-01-14T20:04:37Z,2014-01-17T23:57:20Z,bug
+adamsp/DreamInTweets,2,User is not informed of issues with tweets,open,2013-10-30T07:05:18Z,,bug
+adamsp/DreamInTweets,1,Multi-line tweets are displayed incorrectly,open,2013-10-29T23:12:45Z,,bug
+berrnd/Time-Recording-Auto-Export-Tasker-Plugin,2,Currently broken on Android 5.0 (API 21),open,2015-04-22T18:09:48Z,,bug
+berrnd/Time-Recording-Auto-Export-Tasker-Plugin,1,"""Clear last export date"" should not not set the last export date to today",closed,2014-10-13T07:47:35Z,2014-10-21T19:06:52Z,bug
+yzacarias/geekjunior,1,Init,closed,2015-05-18T16:23:30Z,2015-05-18T16:23:48Z,bug
+elec-otago/agbase-weather-app,2,Rainfall weather alerts don't work correctly,closed,2016-09-08T22:27:09Z,2016-09-09T01:39:37Z,bug
+elec-otago/agbase-weather-app,1,App doesn't remember that a user is logged in.,closed,2016-06-22T05:03:11Z,2016-09-08T22:27:31Z,bug
+johnzweng/bankomatinfos,10,Crash when trying to go to 'Log' tab after an IO error,open,2015-01-21T19:54:00Z,,bug
+johnzweng/bankomatinfos,3,application crash in settings activity,closed,2014-01-13T06:05:34Z,2014-01-20T07:38:29Z,bug
+johnzweng/bankomatinfos,2,Transaction times get parsed incorrect,closed,2014-01-11T10:39:01Z,2014-01-13T06:04:04Z,bug
+johnzweng/bankomatinfos,1,App crashed unter Nexus 7 (2013) nach Scannen von Karte,closed,2014-01-08T21:21:10Z,2014-01-13T11:03:13Z,bug

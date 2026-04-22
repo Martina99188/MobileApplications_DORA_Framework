@@ -1,0 +1,90 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+konradreiche/security-cam,11,Fix authorization bug leading to crash after credential change,open,2013-07-04T00:59:53Z,,bug
+project-manatee/manatee-android,21,GPA does not calculate correctly when excluding classes,open,2016-11-07T16:34:38Z,,bug
+project-manatee/manatee-android,20,Assignments take excessively long to scrape,closed,2016-11-06T01:04:21Z,2016-11-25T04:06:49Z,bug
+project-manatee/manatee-android,17,Fix notification not being removed when tapped,closed,2015-11-13T18:49:25Z,2015-11-13T18:49:31Z,bug
+project-manatee/manatee-android,14,First time assignment load not taking place in background,closed,2015-02-05T03:29:24Z,2016-11-05T03:27:38Z,"bug, critical"
+project-manatee/manatee-android,13,Fix high data usage,closed,2015-01-09T14:59:49Z,2015-01-16T05:08:48Z,"bug, critical"
+project-manatee/manatee-android,10,Add timeout to login,closed,2015-01-02T04:55:43Z,2015-01-16T05:08:52Z,"bug, low"
+Bernie-2016/bernie-messenger-android,12,Exception when tapping send text button,closed,2016-05-17T21:20:53Z,2016-05-17T23:19:48Z,bug
+anselm94/Torchie-Android,26,Version 3.2 issues,open,2019-06-06T12:42:56Z,,bug
+anselm94/Torchie-Android,25,All the settings except vibrate are resetting immediately.,closed,2019-05-30T22:24:47Z,2019-06-08T05:45:51Z,"bug, enhancement"
+anselm94/Torchie-Android,22,"Bug found while, set torch time-out on torchie",open,2018-02-14T20:07:54Z,,bug
+anselm94/Torchie-Android,10,Nova Launcher gestures using two fingers are disabled when Torchie functionality is on,open,2016-10-11T11:43:07Z,,"bug, help wanted"
+zach-capalbo/Kromophone,16,Kromophone should work on a lot of android devices,closed,2013-11-03T13:05:09Z,2016-07-12T14:01:08Z,"bug, System"
+zach-capalbo/Kromophone,14,Closing File/Camera windows should stop sonifcation of those sources.,closed,2013-06-22T13:45:35Z,2013-06-22T14:05:38Z,"bug, Engine"
+zach-capalbo/Kromophone,13,Allow selection of different webcam,open,2013-06-22T13:43:54Z,,"bug, Engine"
+zach-capalbo/Kromophone,6,Proper Readme File,closed,2013-06-17T17:51:44Z,2013-06-20T12:09:34Z,"bug, Useability"
+belatrix/AndroidAllStars,260,'Are you sure you want to exit' message is not displayed in correct sections ,closed,2017-06-13T20:18:46Z,2017-06-15T20:40:22Z,bug
+belatrix/AndroidAllStars,248,Event disappears after to register it (Only Today's Event),open,2017-04-18T18:16:05Z,,bug
+belatrix/AndroidAllStars,247,Spinning icon got stuck on WiFi Interruption into Ranking Section,open,2017-04-13T20:37:43Z,,bug
+belatrix/AndroidAllStars,246,On Profile Page open profile picture and go back: page scrolled down automatically,closed,2017-04-13T20:17:11Z,2017-06-13T19:44:40Z,bug
+belatrix/AndroidAllStars,245,Profile Page - if there are more than 4 recommendations (thanks) I can not scroll down in order to see the last added,closed,2017-04-13T20:12:17Z,2017-06-13T19:44:14Z,bug
+belatrix/AndroidAllStars,244,It's not possible to change profile picture by taking a photo ,closed,2017-04-13T20:01:04Z,2017-06-14T18:50:09Z,bug
+belatrix/AndroidAllStars,243,Login page -> Enter username and rotate screen: username goes blank,closed,2017-04-13T19:53:01Z,2017-06-13T19:43:50Z,bug
+belatrix/AndroidAllStars,242,New Recommendation -> Write a comment: doesn’t validate blank values,closed,2017-04-13T19:45:33Z,2017-06-13T19:43:30Z,bug
+belatrix/AndroidAllStars,241,After to play around different section application crashed ,closed,2017-04-13T19:43:03Z,2017-06-15T19:38:37Z,bug
+belatrix/AndroidAllStars,240,Rotation issue – navigate to profile contact and rotate screen: contact name is changed,closed,2017-04-13T19:31:51Z,2017-06-13T19:43:03Z,bug
+belatrix/AndroidAllStars,239,Change password screen – app closes when going back on Change Password Screen,closed,2017-04-13T19:16:58Z,2017-06-13T19:39:50Z,bug
+belatrix/AndroidAllStars,238,Recommendation is not displayed on ranking page after to create a new recommendation,closed,2017-04-13T18:51:34Z,2017-06-13T19:38:15Z,bug
+belatrix/AndroidAllStars,237,Recommendation is not displayed on profile page -> Recomendation section after to send a new recommendation,closed,2017-04-13T18:45:51Z,2017-06-13T19:29:22Z,bug
+belatrix/AndroidAllStars,236,Edit profile – changes are not updated after to edit on profile page ,closed,2017-04-13T18:34:23Z,2017-06-13T19:38:48Z,bug
+belatrix/AndroidAllStars,235,Upcoming event doesn’t refresh page loading,closed,2017-04-13T18:06:59Z,2017-06-13T19:31:22Z,bug
+belatrix/AndroidAllStars,234,Delay on Profile Image loading only first loading,closed,2017-04-13T17:37:10Z,2017-06-15T20:25:50Z,bug
+belatrix/AndroidAllStars,233,Spanish Language is not supported,closed,2017-04-13T17:29:42Z,2017-06-15T21:02:10Z,bug
+belatrix/AndroidAllStars,210,Account Fragment scroll problem,open,2016-11-23T21:00:41Z,,bug
+belatrix/AndroidAllStars,205,Adding license to some files,closed,2016-08-17T14:40:34Z,2016-08-17T14:48:28Z,bug
+belatrix/AndroidAllStars,195,Notification doesn't open app,closed,2016-08-05T15:57:34Z,2016-08-05T17:29:40Z,bug
+belatrix/AndroidAllStars,187,Invalid token behavior,closed,2016-07-22T19:11:56Z,2016-07-27T21:14:43Z,bug
+belatrix/AndroidAllStars,184,Login with social networks-iOS,closed,2016-07-22T14:45:55Z,2016-07-22T16:07:50Z,bug
+belatrix/AndroidAllStars,183,Log out with facebook,closed,2016-07-20T20:12:32Z,2016-07-22T16:06:47Z,bug
+belatrix/AndroidAllStars,182,Login with twitter- Back Button ,closed,2016-07-20T19:31:50Z,2016-07-22T16:06:47Z,bug
+belatrix/AndroidAllStars,181,Login with twitter- having an account,closed,2016-07-20T19:15:26Z,2016-07-22T16:06:47Z,bug
+belatrix/AndroidAllStars,179,Notification sound ,closed,2016-07-20T15:48:24Z,2016-07-20T16:11:42Z,bug
+belatrix/AndroidAllStars,178,Notifications are being displayed even when there are disabled,closed,2016-07-19T21:22:11Z,2016-07-20T16:27:47Z,bug
+belatrix/AndroidAllStars,177,Navigation its incorrect,closed,2016-07-19T19:50:29Z,2016-07-22T15:16:38Z,bug
+belatrix/AndroidAllStars,175,Sign up Error- Profile Image,closed,2016-07-19T19:09:17Z,2016-07-19T19:42:10Z,bug
+belatrix/AndroidAllStars,166,Picture change position when select an user to recommend,closed,2016-07-08T22:28:39Z,2016-08-02T20:00:18Z,bug
+belatrix/AndroidAllStars,160,Left Menu-Landscape View: Profile image appears overlaped with the Profile name.,closed,2016-07-01T15:15:15Z,2016-07-06T20:00:32Z,bug
+belatrix/AndroidAllStars,158,Login-Editing a Profile a picture is required and no login is available.,closed,2016-06-22T18:25:23Z,2016-07-20T21:11:54Z,bug
+belatrix/AndroidAllStars,148,Logout: The message for confirm the logout dissapears before can complete the action,closed,2016-06-10T18:49:35Z,2016-06-13T14:09:17Z,bug
+belatrix/AndroidAllStars,147,Sign in: Unkown Error appears when the registration is completed,closed,2016-06-10T18:39:52Z,2016-06-13T14:09:17Z,bug
+belatrix/AndroidAllStars,139,Error message from Sign up activity is incorrect.,closed,2016-06-03T15:59:03Z,2016-06-04T00:19:15Z,bug
+belatrix/AndroidAllStars,129,Picture is not updated in the app after change it,closed,2016-05-31T16:52:46Z,2016-06-01T21:07:16Z,bug
+belatrix/AndroidAllStars,128,Cannot resize the picture with pictures from the gallery,closed,2016-05-31T16:51:28Z,2016-06-01T21:19:08Z,bug
+belatrix/AndroidAllStars,123,Not keeping session,closed,2016-05-30T19:02:33Z,2016-05-30T20:56:32Z,bug
+belatrix/AndroidAllStars,121,Null level is displayed on Top Tags screen ,closed,2016-05-27T21:45:50Z,2016-05-31T12:56:37Z,bug
+belatrix/AndroidAllStars,120,Loading icon remains active on Select Tag screen ,closed,2016-05-27T21:39:58Z,2016-05-30T20:56:32Z,bug
+belatrix/AndroidAllStars,119,Keyboard should be hidden when continue is tap on last input field,closed,2016-05-27T21:35:17Z,2016-05-30T19:47:03Z,bug
+belatrix/AndroidAllStars,110,Receiving an Exception after creating a new user,closed,2016-05-25T22:44:11Z,2016-05-26T21:43:52Z,bug
+belatrix/AndroidAllStars,78,Account view looks bad when user name is too big,closed,2016-05-11T20:40:28Z,2016-05-12T15:09:05Z,bug
+belatrix/AndroidAllStars,77,Star view is missplaced in Star List ,closed,2016-05-11T20:39:53Z,2016-05-19T15:34:13Z,bug
+belatrix/AndroidAllStars,68,App stopped on Give a Star screen,closed,2016-05-06T18:34:38Z,2016-05-07T17:15:40Z,bug
+belatrix/AndroidAllStars,44,Ranking list showing data incorrectly,closed,2016-04-29T21:35:05Z,2016-05-03T20:14:47Z,bug
+belatrix/AndroidAllStars,42,SnackBar is shown incorrectly on 6.0,closed,2016-04-29T21:33:20Z,2016-05-03T20:14:37Z,bug
+belatrix/AndroidAllStars,41,Orientation change on ranking makes the app crash,closed,2016-04-29T21:32:48Z,2016-05-02T15:37:26Z,bug
+belatrix/AndroidAllStars,29,Authorization header has wrong value,closed,2016-04-27T18:06:05Z,2016-04-28T02:36:19Z,bug
+belatrix/AndroidAllStars,23,App Layout not hiding when hiding keyboard,closed,2016-04-21T19:10:00Z,2016-04-21T19:22:55Z,bug
+belatrix/AndroidAllStars,13,java.lang.AbstractMethodError thrown when calling getContext(),closed,2016-04-18T16:26:59Z,2016-04-18T16:30:22Z,bug
+belatrix/AndroidAllStars,8,Login Activity has leaked window.,closed,2016-04-15T21:07:17Z,2016-04-16T00:53:16Z,bug
+Nxt3/IO_Classic_WatchFace,1,Night mode is incorrectly activated,closed,2017-06-27T23:02:12Z,2017-06-27T23:39:48Z,bug
+athimel/zoumtarot,8,Erreur lors du calcul des statistiques,closed,2016-10-29T22:34:21Z,2016-10-29T22:36:54Z,bug
+OpsLabJPL/MarsImagesAndroid,22,class not found bug,closed,2015-09-02T13:38:52Z,2015-09-13T00:28:50Z,bug
+SimplicityApks/ReminderDatePicker,25,Spinner XML background color,closed,2015-07-28T18:52:50Z,2015-08-03T12:29:13Z,bug
+SimplicityApks/ReminderDatePicker,20,"Android 5.1 problem on ""Pick A Time""",closed,2015-04-08T19:48:23Z,2015-04-11T20:20:26Z,bug
+SimplicityApks/ReminderDatePicker,16,"Text ""null"" in the TimeSpinner after rotation screen",closed,2015-02-15T18:48:40Z,2015-02-15T21:57:35Z,bug
+SimplicityApks/ReminderDatePicker,15,Wording DropDown - Next Friday,closed,2015-02-11T14:27:28Z,2015-03-07T16:17:05Z,"bug, enhancement"
+SimplicityApks/ReminderDatePicker,13,SetSelectedTime() doesn't work in onCreate(),closed,2015-01-10T18:11:22Z,2015-01-20T20:03:27Z,bug
+SimplicityApks/ReminderDatePicker,12,Wrong textcolor in dropdown view on Android 4.x devices,closed,2015-01-08T12:47:17Z,2015-01-20T20:05:32Z,bug
+SimplicityApks/ReminderDatePicker,11,Flag numbers is ignored if setTimeFormat is used,closed,2015-01-08T12:16:24Z,2015-01-20T20:04:00Z,bug
+SimplicityApks/ReminderDatePicker,9,How do I set a 24hours mode?,closed,2014-11-25T21:08:21Z,2014-12-12T11:22:46Z,"bug, enhancement"
+SimplicityApks/ReminderDatePicker,2,Ugly workaround in setShowNumbersInView,open,2014-07-30T17:11:39Z,,"bug, wontfix"
+SimplicityApks/ReminderDatePicker,1,Spinner selection removing items,closed,2014-07-29T18:46:49Z,2014-07-30T17:03:08Z,"bug, help wanted"
+Rouji/Hupl,12,"Repeated ""Link copied"" toast",closed,2017-05-21T01:22:27Z,2017-06-22T16:45:18Z,bug
+Rouji/Hupl,8,Copy to clipboard randomly fails,closed,2017-01-27T15:24:29Z,2017-03-26T02:17:58Z,bug
+firejake308/Show-And-Sell,4,Re-enable Donate,closed,2017-01-03T02:43:05Z,2017-01-17T14:46:41Z,bug
+firejake308/Show-And-Sell,3,Infinite loading,closed,2016-11-22T05:39:32Z,2016-11-24T04:14:27Z,bug
+firejake308/Show-And-Sell,2,Rotating while loading browse,closed,2016-11-20T04:28:00Z,2016-12-30T23:11:31Z,bug
+firejake308/Show-And-Sell,1,Logout is Broken,closed,2016-10-23T22:00:49Z,2016-11-10T05:03:51Z,bug
+dyne/ZShaolin,1,Git clone https not working,open,2014-02-16T09:42:17Z,,bug
+Tarostar/QMLGalaxyPortal,4,Galaxy does not like locale from the Android app,closed,2014-11-07T19:14:23Z,2014-11-08T18:18:05Z,bug

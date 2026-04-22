@@ -1,0 +1,40 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+JamesNikolaidis/Voxxed_Days_Greece,28,Colors error in some lenovo devices,open,2017-07-02T17:43:13Z,,bug
+JamesNikolaidis/Voxxed_Days_Greece,26,Memory heap out of bounds in MLS android API 25,open,2017-07-01T17:22:13Z,,bug
+PadaliaRushabh/remembertocall,1,cardview height small ,open,2016-04-22T04:49:53Z,,bug
+theangrydev/AERCalculator,9,Crashes when tabbing out when date picker is open,closed,2017-05-28T16:23:29Z,2017-05-31T14:26:25Z,bug
+theangrydev/AERCalculator,2,numberDecimal EditText repeats characters (API Level 10),open,2017-05-15T17:18:04Z,,"bug, API 10"
+AlbertoCejas/GermanLearningUCA,67,Revisar almacenamiento BD,open,2014-09-15T23:49:49Z,,bug
+AlbertoCejas/GermanLearningUCA,66,Revisar categorias de palabras propuestas para definir,open,2014-09-10T09:14:25Z,,bug
+AlbertoCejas/GermanLearningUCA,64,Cambio de idioma,closed,2014-06-25T09:50:27Z,2014-06-25T09:50:39Z,bug
+AlbertoCejas/GermanLearningUCA,62,Skip multiplayer stuff,closed,2014-06-23T18:50:04Z,2014-06-23T18:50:08Z,bug
+AlbertoCejas/GermanLearningUCA,28,palabras/definiciones null,closed,2014-05-16T10:53:11Z,2014-05-18T19:39:39Z,bug
+AlbertoCejas/GermanLearningUCA,27,Portar UCA app a Granada app,closed,2014-05-15T09:41:14Z,2014-05-16T10:52:02Z,bug
+AlbertoCejas/GermanLearningUCA,23,Corrección de enunciados,closed,2014-04-17T16:35:15Z,2014-05-18T19:39:53Z,bug
+AlbertoCejas/GermanLearningUCA,20,Interacción en el main thread,closed,2014-04-16T09:23:16Z,2014-04-16T09:58:41Z,bug
+AlbertoCejas/GermanLearningUCA,16,Nombres con espacios en registro,closed,2014-04-11T11:30:55Z,2014-04-11T11:31:07Z,bug
+AlbertoCejas/GermanLearningUCA,15,etiqueta die PL y su color,closed,2014-04-11T10:28:06Z,2014-04-16T10:17:31Z,bug
+AlbertoCejas/GermanLearningUCA,3,Remember! compatibility fix,closed,2014-04-11T10:23:32Z,2014-04-21T09:37:02Z,bug
+gowong/material-sheet-fab,21,Memory Leak in MaterialSheetFab,closed,2015-12-17T17:56:11Z,2015-12-31T04:38:45Z,bug
+gowong/material-sheet-fab,17,Sample App: Resource Not Found Exception,closed,2015-11-04T23:56:17Z,2015-11-08T04:16:07Z,bug
+gowong/material-sheet-fab,8,CardView radius style is not applied,closed,2015-09-20T15:32:00Z,2015-09-26T22:15:33Z,bug
+gowong/material-sheet-fab,6,FAB shift,closed,2015-08-27T19:15:23Z,2015-09-06T00:09:29Z,bug
+gowong/material-sheet-fab,5,FAB does not return the correct position on Android < 5.0,closed,2015-08-21T00:44:36Z,2015-08-24T05:11:08Z,bug
+icasdri/Mather,8,Response not visible,open,2016-08-16T11:51:49Z,,"bug, more info needed"
+icasdri/Mather,6,Keyboard switcher sometimes fills screen with both keyboards,open,2016-08-13T11:32:39Z,,bug
+icasdri/Mather,5,Empty calculation gives strange results,closed,2016-08-13T11:28:44Z,2016-08-13T16:52:08Z,bug
+icasdri/Mather,2,Floating Point Rounding,closed,2016-08-12T21:14:56Z,2017-01-05T02:56:06Z,bug
+adithya321/Companion-for-Band,6,Log in background not working,closed,2016-05-04T02:48:44Z,2016-05-04T13:50:41Z,bug
+Akusari/SD-Booster,5,java.lang.NullPointerException,closed,2014-01-22T08:35:04Z,2014-04-08T09:40:21Z,bug
+Akusari/SD-Booster,4,Unable to instantiate receiver ,closed,2014-01-22T08:33:38Z,2014-04-08T09:46:51Z,bug
+Akusari/SD-Booster,3,java.util.ConcurrentModificationException,closed,2014-01-22T08:31:36Z,2014-04-23T17:54:09Z,bug
+Akusari/SD-Booster,1,java.util.ConcurrentModificationException,closed,2013-05-20T10:30:51Z,2013-05-20T19:37:36Z,bug
+potray/Pacts,32,Can't create promises,closed,2015-09-06T16:54:43Z,2015-09-06T17:00:47Z,bug
+potray/Pacts,31,Non accepted pacts are shown in pacts fragment.,closed,2015-09-04T11:23:46Z,2015-09-04T11:35:38Z,bug
+potray/Pacts,30,Exception when managing several friend requests.,closed,2015-09-04T11:21:10Z,2015-09-04T11:49:11Z,bug
+potray/Pacts,26,Fragment already active in doInBackground,closed,2015-08-14T13:02:43Z,2015-08-23T19:16:08Z,bug
+potray/Pacts,19,Check empty Arraylists bugs.,closed,2015-08-11T11:26:45Z,2015-08-11T12:46:37Z,bug
+potray/Pacts,18,The back button opens the drawer.,closed,2015-08-10T17:54:46Z,2015-08-11T01:07:40Z,bug
+potray/Pacts,17,An user shouldn't be able to send friend requests to friend.,closed,2015-08-10T17:38:29Z,2015-08-10T17:57:29Z,bug
+shamanland/fonticon,9,Crash during inflation of FontIconDrawable from xml,closed,2014-07-11T20:55:09Z,2014-09-26T10:22:46Z,bug
+robert7k/sipswitch,7,SipSwitch doesn't work on Android 5.0 Lollipop,closed,2014-11-15T12:40:23Z,2015-07-12T23:15:40Z,bug

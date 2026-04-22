@@ -1,0 +1,13 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+danirod/jumpdontdie,1,La cámara avanza un poco más rápido que el personaje,open,2016-08-03T17:06:39Z,,bug
+hotchemi/redpen-android,6,Japanese results are corrupted,open,2015-02-16T07:34:30Z,,bug
+dooreelko/MeditationTracker,3,Illegal argument,open,2014-10-17T10:32:52Z,,bug
+dooreelko/MeditationTracker,2,Class not found,open,2014-10-17T10:32:11Z,,bug
+dooreelko/MeditationTracker,1,NPE,open,2014-10-17T10:30:34Z,,bug
+vn7n24fzkq/TSVS_Application,1,Handler class should be static ,closed,2017-11-02T07:30:15Z,2017-12-22T16:59:48Z,bug
+keefmarshall/fco-alerts-app,4,App crashes on first install,open,2016-02-18T18:42:59Z,,bug
+keefmarshall/fco-alerts-app,3,Country list can be present but empty,open,2016-02-18T18:40:39Z,,bug
+keefmarshall/fco-alerts-app,2,Settings change listener appears to fire multiple times,open,2014-02-22T23:13:06Z,,bug
+keefmarshall/fco-alerts-app,1,"When multiple notifications are sent/received at the same time, we only see one in the app",closed,2014-01-22T15:05:41Z,2014-02-01T12:45:02Z,bug
+Ozzyboshi/InternetBeatTimeWatchFace,5,credits.html body tag not closed,closed,2015-06-26T05:45:32Z,2015-06-29T12:28:30Z,bug
+kevinmeresse/fusionbook,10,Setting new profile picture is not updating ImageView,open,2016-02-19T08:33:58Z,,bug

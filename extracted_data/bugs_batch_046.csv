@@ -1,0 +1,223 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+learningtitans/paperclickers,5,Cannot generate PDFs while using Android M devices,closed,2016-03-12T14:37:34Z,2016-03-12T14:45:21Z,bug
+learningtitans/paperclickers,4,Application crashes when generating codes,closed,2016-03-02T21:25:22Z,2016-03-06T01:40:25Z,bug
+learningtitans/paperclickers,1,PDF Download not working - Download as txt,closed,2016-03-02T21:19:11Z,2016-03-06T01:40:25Z,bug
+mxn21/FlowingDrawer,19,Glitch while opening the Drawer,closed,2016-02-20T09:22:42Z,2016-12-26T08:48:04Z,bug
+mxn21/FlowingDrawer,10,Drawer Issue,closed,2015-11-30T10:17:23Z,2016-12-26T08:46:23Z,bug
+mxn21/FlowingDrawer,5,Bug: fragment content can be scrolled when nav-drawer is opened,closed,2015-10-25T21:40:21Z,2015-10-29T15:13:52Z,bug
+daimajia/EverMemo,15,2.3系统出现无法切换国际用户的情况,closed,2013-10-13T01:02:26Z,2014-01-23T02:06:29Z,bug
+mutualmobile/CardStackUI,19,"Cards open on touch down, change to touch up please",closed,2016-06-24T04:37:34Z,2016-07-18T07:53:45Z,bug
+mutualmobile/CardStackUI,11,Problem with adapter,closed,2016-04-03T19:27:14Z,2016-04-04T18:21:17Z,bug
+mutualmobile/CardStackUI,7,Problem with api under lollipop,closed,2016-02-13T13:29:27Z,2016-02-13T20:20:22Z,bug
+gandulf/DsaTab,221,Parierwaffenparade berechnet mit SF Parierwaffen II statt mit I,closed,2014-10-19T16:35:07Z,2016-01-19T09:43:31Z,bug
+gandulf/DsaTab,210,java.io.FileNotFoundException: /storage/emulated/0/dsatab/Gerald Om.xml,closed,2014-09-19T05:03:28Z,2016-12-21T10:36:01Z,"BugSense, Android, App versions: 4.3.3"
+gandulf/DsaTab,209,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Angst vor (seltener Auslöser) not recognized.,closed,2014-09-17T10:52:44Z,2016-12-21T10:24:25Z,"BugSense, Android, App versions: 4.3.1 - 4.3.2 - 4.3.3"
+gandulf/DsaTab,208,java.io.FileNotFoundException: /storage/emulated/0/dsatab/Tramadil Wolkenbruch.xml,closed,2014-09-15T20:33:41Z,2016-12-21T10:36:01Z,"BugSense, Android, App versions: 4.3.3"
+gandulf/DsaTab,207,java.lang.IllegalArgumentException: Given File /storage/emulated/0/dsatab/3707.xml is no valid xml file. Does not contain a held tag,closed,2014-09-12T11:07:26Z,2016-12-21T10:35:24Z,"BugSense, Android, App versions: 4.3.2 - 4.3.1 - 4.3.3"
+gandulf/DsaTab,206,java.io.FileNotFoundException: /storage/emulated/0/dsatab/Achmad al Shaik - Hambra.xml,closed,2014-09-07T14:06:05Z,2016-12-21T10:36:01Z,"BugSense, Android, App versions: 4.3.1 - 4.3.2 - 4.3.3"
+gandulf/DsaTab,205,com.dsatab.exception.InconsistentDataException: Unable to find an item with the name '(Lang-)Schwert' in slot '0':[Element: <heldenausruestung/>],closed,2014-09-04T12:58:00Z,2016-12-21T10:36:01Z,"BugSense, Android, App versions: 4.3.1 - 4.3.2 - 4.3.3"
+gandulf/DsaTab,204,"java.lang.NumberFormatException: Invalid int: ""**""",closed,2014-08-29T08:40:01Z,2016-12-21T10:31:19Z,"BugSense, Android, App versions: 4.3.1"
+gandulf/DsaTab,203,"java.lang.NumberFormatException: Invalid int: ""KL\IN\FF""",closed,2014-08-28T18:07:03Z,2016-12-21T10:28:59Z,"BugSense, Android, App versions: 4.2.1"
+gandulf/DsaTab,202,org.xmlpull.v1.XmlPullParserException: expected: /li read: ul (position:END_TAG </ul>@277:6 in java.io.InputStreamReader@420e8bb0),closed,2014-08-26T07:35:26Z,2016-12-21T10:36:01Z,"BugSense, Android, App versions: 4.2 - 4.2.1"
+gandulf/DsaTab,201,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Dschinngeboren (ohne VZ) not recognized.,closed,2014-08-23T14:34:14Z,2016-12-21T10:24:25Z,"BugSense, Android, App versions: 4.2 - 4.2.1"
+gandulf/DsaTab,200,libcore.io.ErrnoException: open failed: EACCES (Permission denied),closed,2014-08-20T12:23:52Z,2016-12-21T10:29:49Z,"BugSense, Android, App versions: 4.2.1"
+gandulf/DsaTab,199,com.dsatab.exception.InconsistentDataException: Unable to find an item with the name 'null' in slot 'null'.,closed,2014-08-10T22:56:09Z,2016-12-21T10:36:01Z,"BugSense, Android, App versions: 4.2 - 4.2.1"
+gandulf/DsaTab,198,"com.dsatab.exception.ArtUnknownException: Unknown Art:Bilderspiel, Grade:null",closed,2014-08-09T18:18:10Z,2016-12-21T10:28:45Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,197,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Komm not recognized.,closed,2014-08-09T14:14:42Z,2016-12-21T10:24:25Z,"BugSense, Android, App versions: 4.2 - 4.2.1"
+gandulf/DsaTab,195,"com.dsatab.exception.ArtUnknownException: Unknown Art:Leib, Grade:null",closed,2014-08-05T10:03:11Z,2016-12-21T10:28:45Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,194,"java.lang.NumberFormatException: Invalid int: ""-IN""",closed,2014-08-02T16:46:47Z,2014-08-16T09:16:59Z,"BugSense, Android, App versions: 4.2.1"
+gandulf/DsaTab,193,java.lang.NullPointerException: lock == null,closed,2014-07-30T19:00:23Z,2014-08-16T09:15:56Z,"BugSense, Android, App versions: 4.2.1"
+gandulf/DsaTab,192,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Angst vor (seltener Auslöser) not recognized.,closed,2014-07-27T15:55:41Z,2016-12-21T10:24:25Z,"BugSense, Android, App versions: 4.2-beta5 - 4.2 - 4.2.1"
+gandulf/DsaTab,191,java.lang.NullPointerException: lock == null,closed,2014-07-24T04:06:42Z,2014-08-16T09:15:30Z,"BugSense, Android, App versions: 4.2.1"
+gandulf/DsaTab,190,com.dsatab.exception.FeatureTypeUnknownException: FeatureType  not recognized.,closed,2014-07-23T07:55:40Z,2016-12-21T10:24:25Z,"BugSense, Android, App versions: 4.2 - 4.2.1"
+gandulf/DsaTab,189,org.xmlpull.v1.XmlPullParserException: expected: /li read: ul (position:END_TAG </ul>@277:6 in java.io.InputStreamReader@42123bd0),closed,2014-07-19T18:59:53Z,2016-12-21T10:36:01Z,"BugSense, Android, App versions: 4.2 - 4.2.1"
+gandulf/DsaTab,188,java.io.FileNotFoundException: com.dsatab.data.HeroFileInfo@14a8a64d,closed,2014-07-14T10:44:18Z,2014-08-16T09:17:27Z,"BugSense, Android, App versions: 4.2 - 4.2.1"
+gandulf/DsaTab,187,java.lang.IllegalArgumentException: Given File /storage/extSdCard/DSA/dsatab/Alarion Wandert-im-Wind_2011-12-28.xml is no valid xml file. Does not contain a held tag,closed,2014-07-11T19:03:58Z,2014-08-16T09:17:48Z,"BugSense, Android, App versions: 4.2 - 4.2.1"
+gandulf/DsaTab,186,"com.dsatab.exception.ArtUnknownException: Unknown Art:Melodie der Kunstfertigkeit, Grade:null",closed,2014-07-09T18:20:05Z,2016-12-21T10:28:45Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,185,com.dsatab.exception.SpellUnknownException: Unknown Spell:Kraft des Humus,closed,2014-07-06T11:39:17Z,2014-07-08T16:55:56Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,184,"java.lang.NumberFormatException: Invalid int: ""**""",closed,2014-07-06T09:52:02Z,2014-08-16T09:16:34Z,"BugSense, Android, App versions: 4.2.1"
+gandulf/DsaTab,183,com.dsatab.exception.InconsistentDataException: Unable to find an item with the name '(Lang-)Schwert' in slot '0'.,closed,2014-07-05T07:17:15Z,2016-12-21T10:36:01Z,"BugSense, Android, App versions: 4.2 - 4.2.1"
+gandulf/DsaTab,182,java.lang.IllegalArgumentException: Given File /storage/extSdCard/DSA/dsatab/Alarion Wandert-im-Wind_2011-12-28.xml is no valid xml file. Does not contain a held tag,closed,2014-07-02T15:17:46Z,2014-08-16T09:18:01Z,"BugSense, Android, App versions: 4.2"
+gandulf/DsaTab,181,"java.lang.NumberFormatException: Invalid int: ""475fix""",closed,2014-07-01T16:05:54Z,2016-12-21T10:36:01Z,"BugSense, Android, App versions: 4.2"
+gandulf/DsaTab,180,com.dsatab.exception.TalentTypeUnknownException: Unknown TalentType:Tierempathie (speziell),closed,2014-06-29T20:09:30Z,2014-07-08T16:56:44Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,179,com.dropbox.sync.android.NativeException: dropbox_list_dir: Path doesn't exist: sync.hpp:282: p(/h6) does not exist,closed,2014-06-28T23:31:05Z,2014-08-16T08:30:14Z,"BugSense, Android, App versions: 4.2"
+gandulf/DsaTab,178,"com.dsatab.exception.ArtUnknownException: Unknown Art:Wachs der Herrschaft, Grade:null",closed,2014-06-28T16:10:37Z,2014-07-08T16:58:17Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,177,"java.lang.NumberFormatException: Invalid int: ""**""",closed,2014-06-25T11:31:48Z,2014-07-08T16:41:01Z,"BugSense, Android"
+gandulf/DsaTab,176,java.lang.IllegalArgumentException: Kräutersuche is not a constant in com.dsatab.data.enums.TalentType,closed,2014-06-25T10:43:54Z,2014-07-08T16:44:45Z,"BugSense, Android"
+gandulf/DsaTab,175,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Rüstungsgewöhnung I (Kettenmantel) not recognized.,closed,2014-06-24T15:08:29Z,2014-07-08T17:08:37Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,174,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Göttergeschenk: Delfin not recognized.,closed,2014-06-22T10:54:50Z,2014-07-08T17:09:40Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,173,"com.dsatab.exception.ArtUnknownException: Unknown Art:Feuer und Eis, Grade:null",closed,2014-06-21T12:37:45Z,2014-07-08T17:11:06Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,172,"com.dsatab.exception.ArtUnknownException: Unknown Art:Lied des Trostes, Grade:null",closed,2014-06-20T19:43:39Z,2014-07-08T17:17:05Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,171,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Kulturkunde (Tulamidenlande) not recognized.,closed,2014-06-19T15:22:23Z,2014-07-08T17:18:01Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,170,"com.dsatab.exception.ArtUnknownException: Unknown Art:Weihe der Keule, Grade:null",closed,2014-06-07T21:25:34Z,2014-07-08T17:19:02Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,169,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Ortskenntnis (Wahl2) not recognized.,closed,2014-06-07T19:23:10Z,2016-12-21T10:24:24Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,168,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Besonderer Besitz Stufe 1 not recognized.,closed,2014-06-05T17:49:52Z,2016-12-21T10:24:24Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,167,"com.dsatab.exception.ArtUnknownException: Unknown Art:Blut des Odûn, Grade:null",closed,2014-06-03T16:57:50Z,2014-07-08T17:30:35Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,166,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Ortskenntnis (Wahl1) not recognized.,closed,2014-05-31T15:36:36Z,2016-12-21T10:24:24Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,165,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Dschinngeboren (ohne VZ) not recognized.,closed,2014-05-30T03:04:30Z,2016-12-21T10:24:24Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,164,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Elementares Gleichgewicht not recognized.,closed,2014-05-28T18:15:55Z,2016-12-21T10:25:19Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,163,java.lang.UnsatisfiedLinkError: Couldn't load DropboxSync: findLibrary returned null,closed,2014-05-27T15:11:08Z,2014-07-08T16:41:30Z,"BugSense, Android"
+gandulf/DsaTab,162,Waffenlose Kampftechniken,closed,2014-05-25T08:47:05Z,2014-06-20T16:39:43Z,bug
+gandulf/DsaTab,161,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Kulturkunde (Ambosszwerge) not recognized.,closed,2014-05-24T20:38:22Z,2014-07-08T17:19:26Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,160,"com.dsatab.exception.ArtUnknownException: Unknown Art:Schutz gegen Untote, Grade:null",closed,2014-05-22T18:25:10Z,2014-07-08T17:23:15Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,159,"com.dsatab.exception.ArtUnknownException: Unknown Art:Weg, Grade:null",closed,2014-05-21T12:13:32Z,2014-07-08T17:30:24Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,158,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Göttergeschenk: Schlange not recognized.,closed,2014-05-21T07:03:43Z,2014-07-08T17:20:11Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,157,"com.dsatab.exception.ArtUnknownException: Unknown Art:Lied der Lieder, Grade:null",closed,2014-05-11T18:14:28Z,2014-07-08T17:21:54Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,156,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Elementarist not recognized.,closed,2014-05-10T06:01:29Z,2016-12-21T10:25:19Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,155,"com.dsatab.exception.ArtUnknownException: Unknown Art:Weihe der Schlange, Grade:null",closed,2014-05-10T06:01:29Z,2014-07-08T17:21:30Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,152,"com.dsatab.exception.ArtUnknownException: Unknown Art:Kugel des Hellsehers, Grade:null",closed,2014-05-05T10:41:56Z,2014-07-08T17:23:00Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,151,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Berufsgeheimnis not recognized.,closed,2014-05-03T18:44:06Z,2016-12-21T10:25:19Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,150,com.dsatab.exception.TalentTypeUnknownException: Unknown TalentType:Kraftschub (Körperkraft),closed,2014-05-03T13:07:48Z,2014-07-08T17:35:41Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,149,"com.dsatab.exception.ArtUnknownException: Unknown Art:Sorgenlied, Grade:null",closed,2014-05-02T18:30:40Z,2014-07-08T17:23:46Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,148,"com.dsatab.exception.ArtUnknownException: Unknown Art:Lied der Reinheit, Grade:null",closed,2014-04-29T08:54:02Z,2014-07-08T17:25:04Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,147,"com.dsatab.exception.ArtUnknownException: Unknown Art:Marbos Geisterblick (Nemekaths Geisterblick), Grade:null",closed,2014-04-26T11:30:35Z,2014-07-08T17:24:41Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,146,com.dsatab.exception.TalentTypeUnknownException: Unknown TalentType:Empathie,closed,2014-04-20T23:38:06Z,2014-07-08T17:36:26Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,145,"com.dsatab.exception.ArtUnknownException: Unknown Art:Warzen sprießen, Grade:null",closed,2014-04-19T13:26:57Z,2014-07-08T17:26:08Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,144,"com.dsatab.exception.ArtUnknownException: Unknown Art:Schlaf rauben, Grade:null",closed,2014-04-12T17:05:58Z,2014-07-08T17:26:24Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,143,"com.dsatab.exception.ArtUnknownException: Unknown Art:Beute, Grade:null",closed,2014-04-07T20:22:36Z,2014-07-08T17:28:05Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,142,"com.dsatab.exception.ArtUnknownException: Unknown Art:Brennglas und Prisma, Grade:null",closed,2014-04-05T16:44:01Z,2014-07-08T17:25:45Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,141,java.io.IOException: Konnte keine Verbindung zum Austausch Server herstellen.,closed,2014-03-23T14:20:29Z,2016-12-21T07:48:33Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,140,"com.dsatab.exception.ArtUnknownException: Unknown Art:Hagelschlag, Grade:null",closed,2014-03-14T12:08:56Z,2014-07-08T17:28:51Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,139,"com.dsatab.exception.ArtUnknownException: Unknown Art:Leuchtendes Zeichen, Grade:null",closed,2014-03-10T19:43:24Z,2014-07-08T17:25:34Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,138,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Angst vor (seltener Auslöser) not recognized.,closed,2014-03-08T23:06:33Z,2016-12-21T10:25:19Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,137,"com.dsatab.exception.ArtUnknownException: Unknown Art:Lebenskraft, Grade:null",closed,2014-03-07T17:05:13Z,2014-07-08T17:28:29Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,136,"com.dsatab.exception.ArtUnknownException: Unknown Art:Warnendes Leuchten, Grade:null",closed,2014-03-04T19:03:17Z,2014-07-08T17:27:08Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,135,"com.dsatab.exception.ArtUnknownException: Unknown Art:Mit Blindheit schlagen, Grade:null",closed,2014-03-02T15:07:46Z,2014-07-08T17:26:36Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,134,"com.dsatab.exception.ArtUnknownException: Unknown Art:Felsenrune, Grade:null",closed,2014-03-01T16:49:20Z,2014-07-08T17:31:51Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,133,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Kulturkunde (Mittelreich) not recognized.,closed,2014-02-28T18:33:40Z,2016-12-21T10:25:54Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,132,"com.dsatab.exception.ArtUnknownException: Unknown Art:Haut des Odûn, Grade:null",closed,2014-02-27T18:03:13Z,2014-07-08T17:29:44Z,"BugSense, App versions: 4.1.6, Android"
+gandulf/DsaTab,131,"com.dsatab.exception.ArtUnknownException: Unknown Art:Bann- und Schutzkreis gegen gehörnte Dämonen, Grade:null",closed,2014-02-24T18:08:37Z,2014-02-24T19:38:39Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,130,"com.dsatab.exception.ArtUnknownException: Unknown Art:Friedenslied, Grade:null",closed,2014-02-23T17:18:04Z,2014-02-24T19:39:03Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,129,"com.dsatab.exception.ArtUnknownException: Unknown Art:Bannfluch des Heiligen Khalid, Grade:null",closed,2014-02-22T18:36:55Z,2014-02-24T19:41:35Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,128,"com.dsatab.exception.ArtUnknownException: Unknown Art:Blick an den klaren Himmel (Sterne funkeln immerfort), Grade:null",closed,2014-02-20T20:22:54Z,2014-02-24T19:41:27Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,126,"com.dsatab.exception.ArtUnknownException: Unknown Art:Ängste mehren, Grade:null",closed,2014-02-16T09:21:48Z,2014-02-24T19:44:54Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,125,org.xmlpull.v1.XmlPullParserException: Unexpected token (position:TEXT ����������������...@1:30814 in java.io.InputStreamReader@41c14190),closed,2014-02-14T17:04:31Z,2014-02-26T17:21:52Z,"invalid, BugSense, App versions: 4.1.6"
+gandulf/DsaTab,124,com.dsatab.exception.TalentTypeUnknownException: Unknown TalentType:Tierempathie (alle),closed,2014-02-10T04:15:03Z,2014-02-24T19:49:54Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,123,"com.dsatab.exception.ArtUnknownException: Unknown Art:Pech an den Hals, Grade:null",closed,2014-02-08T23:56:19Z,2014-02-24T19:44:54Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,122,"com.dsatab.exception.ArtUnknownException: Unknown Art:Hauch des Odûn, Grade:null",closed,2014-02-06T18:16:34Z,2014-02-24T19:44:54Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,121,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Ortskenntnis (Stadtteil/Kleinstadt) not recognized.,closed,2014-02-03T20:58:06Z,2014-02-25T17:54:49Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,120,"com.dsatab.exception.ArtUnknownException: Unknown Art:Pestilenz, Grade:null",closed,2014-02-02T21:20:46Z,2014-02-24T19:44:54Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,119,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Waffenmeister (Schild) not recognized.,closed,2014-02-02T18:02:05Z,2014-02-24T19:51:03Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,118,"com.dsatab.exception.ArtUnknownException: Unknown Art:Ernte, Grade:null",closed,2014-02-02T14:38:20Z,2014-02-24T19:44:54Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,117,"com.dsatab.exception.ArtUnknownException: Unknown Art:Licht, Grade:null",closed,2014-02-01T21:32:36Z,2014-02-24T19:44:54Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,116,"com.dsatab.exception.ArtUnknownException: Unknown Art:Bann- und Schutzkreis gegen niedere Dämonen, Grade:null",closed,2014-01-30T00:46:42Z,2014-02-24T19:44:54Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,115,"com.dsatab.exception.ArtUnknownException: Unknown Art:Bann- und Schutzkreis gegen Elementare, Grade:null",closed,2014-01-28T18:55:44Z,2014-02-24T19:44:54Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,114,"com.dsatab.exception.ArtUnknownException: Unknown Art:Zunge lähmen, Grade:null",closed,2014-01-28T18:48:35Z,2014-02-24T19:44:54Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,113,"com.dsatab.exception.ArtUnknownException: Unknown Art:Gespür, Grade:null",closed,2014-01-27T18:49:00Z,2014-02-24T19:44:54Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,112,"com.dsatab.exception.ArtUnknownException: Unknown Art:Das Schwarze Fell durch das Rote Blut, Grade:null",closed,2014-01-25T18:24:21Z,2014-02-24T19:44:54Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,111,"com.dsatab.exception.ArtUnknownException: Unknown Art:Chymische Hochzeit, Grade:null",closed,2014-01-24T19:16:44Z,2014-02-24T19:44:54Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,110,com.dsatab.cloud.AuthorizationException,closed,2014-01-22T20:01:51Z,2016-12-21T07:48:33Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,109,"com.dsatab.exception.ArtUnknownException: Unknown Art:Erinnerungsmelodie, Grade:null",closed,2014-01-21T19:28:16Z,2014-02-24T19:44:54Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,108,"com.dsatab.exception.ArtUnknownException: Unknown Art:Zaubermelodie, Grade:null",closed,2014-01-20T23:48:32Z,2014-02-24T19:44:54Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,107,"com.dsatab.exception.ArtUnknownException: Unknown Art:Bann- und Schutzkreis gegen Geisterwesen, Grade:null",closed,2014-01-20T19:51:17Z,2014-02-24T19:44:54Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,106,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Schlechte Eigenschaft not recognized.,closed,2014-01-19T22:03:08Z,2014-02-24T19:54:19Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,105,"com.dsatab.exception.ArtUnknownException: Unknown Art:Stabverlängerung, Grade:null",closed,2014-01-18T21:05:00Z,2014-02-24T19:44:54Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,104,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Dschinngeboren not recognized.,closed,2014-01-18T05:49:20Z,2014-02-24T19:54:55Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,103,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Göttergeschenk: Schwert not recognized.,closed,2014-01-18T02:53:40Z,2014-02-25T18:06:37Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,102,"com.dsatab.exception.ArtUnknownException: Unknown Art:Windgeflüster, Grade:null",closed,2014-01-13T19:28:31Z,2014-02-24T19:44:54Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,101,"com.dsatab.exception.ArtUnknownException: Unknown Art:Satinavs Siegel, Grade:null",closed,2014-01-13T18:54:43Z,2014-02-24T19:44:54Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,100,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Göttergeschenk: Greif not recognized.,closed,2014-01-13T16:48:18Z,2014-02-25T18:06:30Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,99,"com.dsatab.exception.ArtUnknownException: Unknown Art:Glyphe der Elementaren Attraktion, Grade:null",closed,2014-01-12T13:47:43Z,2014-02-24T19:44:54Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,98,"com.dsatab.exception.ArtUnknownException: Unknown Art:Modifikationsfokus, Grade:null",closed,2014-01-11T12:32:21Z,2014-02-24T19:44:54Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,97,"com.dsatab.exception.ArtUnknownException: Unknown Art:Allegorische Analyse, Grade:null",closed,2014-01-11T12:31:44Z,2014-02-24T19:47:35Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,96,"com.dsatab.exception.ArtUnknownException: Unknown Art:Merkmalsfokus, Grade:null",closed,2014-01-05T16:01:46Z,2014-02-24T19:47:35Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,95,java.lang.IllegalArgumentException: PirschAnsitzJagd is not a constant in class com.dsatab.data.enums.TalentType,closed,2014-01-04T13:18:30Z,2014-02-24T20:13:19Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,94,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Tragkraft not recognized.,closed,2013-12-30T17:06:58Z,2014-02-25T17:57:02Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,93,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Moralkodex not recognized.,closed,2013-12-29T23:07:20Z,2014-02-24T19:56:11Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,92,"com.dsatab.exception.ArtUnknownException: Unknown Art:Apport, Grade:null",closed,2013-12-29T09:38:47Z,2014-02-24T19:47:35Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,91,"com.dsatab.exception.ArtUnknownException: Unknown Art:Segnung der Stählernen Stirn, Grade:null",closed,2013-12-28T22:02:40Z,2014-02-24T19:47:35Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,90,"com.dsatab.exception.ArtUnknownException: Unknown Art:Weihe, Grade:null",closed,2013-12-28T21:02:45Z,2014-02-24T19:47:35Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,89,"com.dsatab.exception.ArtUnknownException: Unknown Art:Hexenschuss, Grade:null",closed,2013-12-26T21:32:13Z,2014-02-24T19:47:35Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,88,com.dsatab.exception.FeatureTypeUnknownException: FeatureType  not recognized.,closed,2013-12-26T19:20:59Z,2016-12-21T10:25:54Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,87,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Zugkraft not recognized.,closed,2013-12-25T21:13:37Z,2014-02-25T17:56:17Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,86,"com.dsatab.exception.ArtUnknownException: Unknown Art:Phexens Kunstverstand (Blick für das Handwerk), Grade:null",closed,2013-12-25T18:28:19Z,2014-02-24T19:46:32Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,85,"com.dsatab.exception.ArtUnknownException: Unknown Art:Bannschwert, Grade:null",closed,2013-12-25T10:03:59Z,2014-02-24T19:45:59Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,83,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Ausdauernd (Tier) not recognized.,closed,2013-12-15T16:57:13Z,2014-02-24T19:56:55Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,82,"com.dsatab.exception.ArtUnknownException: Unknown Art:Weihe der Schale, Grade:null",closed,2013-12-14T12:46:16Z,2014-02-24T19:45:59Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,81,"com.dsatab.exception.ArtUnknownException: Unknown Art:Zauberspeicher, Grade:null",closed,2013-12-14T10:19:28Z,2014-02-24T19:45:59Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,80,"com.dsatab.exception.ArtUnknownException: Unknown Art:Flammenschwert, Grade:null",closed,2013-12-12T03:45:30Z,2014-02-24T19:45:59Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,79,"com.dsatab.exception.ArtUnknownException: Unknown Art:Seil, Grade:null",closed,2013-12-12T02:00:46Z,2014-02-24T19:45:59Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,78,"com.dsatab.exception.ArtUnknownException: Unknown Art:Freundschaftslied, Grade:null",closed,2013-12-11T23:02:37Z,2014-02-24T19:45:59Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,77,"com.dsatab.exception.ArtUnknownException: Unknown Art:Hammer des Magus, Grade:null",closed,2013-12-10T21:37:44Z,2014-02-24T19:47:35Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,76,com.dsatab.exception.InconsistentDataException: Unable to find an item with the name '(Lang-)Schwert' in slot '0'.,closed,2013-12-08T18:45:38Z,2016-12-21T10:36:01Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,75,"com.dsatab.exception.ArtUnknownException: Unknown Art:Kraftfokus, Grade:null",closed,2013-12-08T00:47:19Z,2014-02-24T19:47:35Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,74,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Göttergeschenk: Schwert not recognized.,closed,2013-12-07T17:55:25Z,2014-02-25T18:06:20Z,BugSense
+gandulf/DsaTab,73,"com.dsatab.exception.ArtUnknownException: Unknown Art:Fackel, Grade:null",closed,2013-12-07T12:39:51Z,2014-02-24T19:47:35Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,72,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Weltfremd bzgl. not recognized.,closed,2013-12-06T18:19:06Z,2014-02-24T19:58:06Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,71,"com.dsatab.exception.ArtUnknownException: Unknown Art:Bindung, Grade:null",closed,2013-12-04T17:54:22Z,2014-02-24T19:47:35Z,"BugSense, App versions: 4.1.6"
+gandulf/DsaTab,70,com.dsatab.exception.InconsistentDataException: Unable to find an item with the name '(Lang-)Schwert' in slot '0'.,closed,2013-12-02T07:45:25Z,2014-02-25T18:07:08Z,"duplicate, BugSense"
+gandulf/DsaTab,69,com.dsatab.exception.TalentTypeUnknownException: Unknown TalentType:Magiegespür,closed,2013-11-20T19:53:11Z,2014-02-24T20:12:50Z,BugSense
+gandulf/DsaTab,68,java.lang.IllegalArgumentException: PirschAnsitzJagd is not a constant in class com.dsatab.data.enums.TalentType,closed,2013-11-15T23:23:10Z,2014-02-24T20:12:00Z,BugSense
+gandulf/DsaTab,67,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Weltfremd bzgl. not recognized.,closed,2013-10-22T19:38:21Z,2014-02-24T19:57:22Z,BugSense
+gandulf/DsaTab,66,com.dsatab.exception.FeatureTypeUnknownException: FeatureType Weltfremd bzgl. not recognized.,closed,2013-10-22T06:32:53Z,2014-02-24T19:57:22Z,BugSense
+gandulf/DsaTab,65,java.lang.OutOfMemoryError: bitmap size exceeds VM budget,closed,2013-10-21T09:52:08Z,2014-07-08T16:46:30Z,BugSense
+gandulf/DsaTab,64,java.lang.ClassNotFoundException: android.support.v7.widget.GridLayout,closed,2013-10-20T17:57:55Z,2014-02-24T20:15:09Z,BugSense
+gandulf/DsaTab,59,com.dsatab.exception.FeatureTypeUnknownExcpetion: FeatureType Meister der Wünsche not recognized.,closed,2013-09-03T16:56:45Z,2014-02-24T19:57:55Z,"BugSense, App versions: 4.1.2"
+gandulf/DsaTab,58,com.dsatab.exception.FeatureTypeUnknownExcpetion: FeatureType Miserable Eigenschaft: Charisma not recognized.,closed,2013-08-25T15:39:00Z,2013-10-20T12:11:26Z,"BugSense, App versions: 4.1.2"
+gandulf/DsaTab,57,com.dsatab.exception.FeatureTypeUnknownExcpetion: FeatureType Ortskenntnis (Stadtteil/Kleinstadt) not recognized.,closed,2013-08-09T22:21:36Z,2014-02-25T18:00:07Z,"BugSense, App versions: 4.1.2"
+gandulf/DsaTab,56,com.dsatab.exception.FeatureTypeUnknownExcpetion: FeatureType Kulturkunde (Waldelfen) not recognized.,closed,2013-08-09T22:21:25Z,2014-02-25T17:55:30Z,"BugSense, App versions: 4.1.2"
+gandulf/DsaTab,55,com.dsatab.exception.FeatureTypeUnknownExcpetion: FeatureType Wahrer Name: Dämon not recognized.,closed,2013-08-03T15:22:53Z,2014-02-25T18:00:51Z,"BugSense, App versions: 4.1.2"
+gandulf/DsaTab,54,java.lang.IllegalArgumentException: Körperkraft cannot be transformed into a TalentType enum,closed,2013-07-30T20:15:37Z,2014-07-08T16:40:22Z,"BugSense, App versions: 4.1.2"
+gandulf/DsaTab,53,com.dsatab.exception.FeatureTypeUnknownExcpetion: FeatureType Miserable Eigenschaft: Fingerfertigkeit not recognized.,closed,2013-07-30T10:07:49Z,2013-08-01T10:16:14Z,"BugSense, App versions: 4.1.2"
+gandulf/DsaTab,52,com.dsatab.exception.FeatureTypeUnknownExcpetion: FeatureType Wahrer Name: Dschinn not recognized.,closed,2013-07-26T18:06:32Z,2013-08-01T10:16:14Z,"BugSense, App versions: 4.1.2"
+gandulf/DsaTab,51,com.dsatab.exception.FeatureTypeUnknownExcpetion: FeatureType Ortskenntnis (Örtlichkeit 1) not recognized.,closed,2013-07-24T19:30:29Z,2013-08-01T10:24:50Z,"BugSense, App versions: 4.1.2"
+gandulf/DsaTab,50,com.dsatab.exception.InconsistentDataException: Unable to find an item with the name '(Lang-)Schwert' in slot '0'.,closed,2013-07-20T21:14:39Z,2013-10-20T12:21:02Z,BugSense
+gandulf/DsaTab,49,com.dsatab.exception.FeatureTypeUnknownExcpetion: FeatureType Wahrer Name: Dschinn not recognized.,closed,2013-07-19T12:48:27Z,2013-08-01T08:52:16Z,"duplicate, BugSense"
+gandulf/DsaTab,48,com.dsatab.exception.FeatureTypeUnknownExcpetion: FeatureType Göttergeschenk: Fuchs not recognized.,closed,2013-07-11T17:49:39Z,2013-08-01T10:16:14Z,"BugSense, App versions: 4.1.2"
+gandulf/DsaTab,46,com.dsatab.exception.FeatureTypeUnknownExcpetion: FeatureType Herausragende Eigenschaft: Klugheit not recognized.,closed,2013-07-05T08:41:27Z,2013-08-01T10:16:14Z,"BugSense, App versions: 4.1.2"
+gandulf/DsaTab,45,com.dsatab.exception.FeatureTypeUnknownExcpetion: FeatureType Herausragende Eigenschaft: Mut not recognized.,closed,2013-07-04T07:55:25Z,2013-08-01T10:16:14Z,"BugSense, App versions: 4.1.2"
+gandulf/DsaTab,44,com.dsatab.exception.FeatureTypeUnknownExcpetion: FeatureType Herausragende Eigenschaft: Charisma not recognized.,closed,2013-06-28T16:41:13Z,2013-08-01T10:16:14Z,"BugSense, App versions: 4.1.2"
+gandulf/DsaTab,43,com.dsatab.exception.FeatureTypeUnknownExcpetion: FeatureType Herausragende Eigenschaft: Intuition not recognized.,closed,2013-06-25T22:12:16Z,2013-08-01T10:16:14Z,"BugSense, App versions: 4.1.2"
+gandulf/DsaTab,42,com.dsatab.exception.FeatureTypeUnknownExcpetion: FeatureType Waffenmeister not recognized.,closed,2013-06-22T22:05:08Z,2013-08-01T10:16:14Z,"BugSense, App versions: 4.1.2"
+gandulf/DsaTab,41,com.dsatab.exception.FeatureTypeUnknownExcpetion: FeatureType Herausragende Eigenschaft: Gewandtheit not recognized.,closed,2013-06-20T10:45:50Z,2013-08-01T10:16:13Z,"BugSense, App versions: 4.1.2"
+gandulf/DsaTab,40,java.lang.IllegalArgumentException: Prophezeien cannot be transformed into a TalentType enum,closed,2013-06-19T18:46:48Z,2013-08-01T10:16:13Z,"BugSense, App versions: 4.1.2"
+gandulf/DsaTab,39,com.dsatab.exception.FeatureTypeUnknownExcpetion: FeatureType Herausragende Eigenschaft: Körperkraft not recognized.,closed,2013-06-17T18:53:13Z,2013-08-01T10:16:13Z,"BugSense, App versions: 4.1.2"
+gandulf/DsaTab,38,java.lang.IllegalArgumentException: Zauberzeichen: Schutzkreis gegen Traumgänger cannot be transformed into a FeatureType enum,closed,2013-06-10T18:04:21Z,2013-08-01T10:16:13Z,"BugSense, App versions: 4.1.2"
+gandulf/DsaTab,37,com.dsatab.exception.FeatureTypeUnknownExcpetion: FeatureType Vorurteile gegen (stark) not recognized.,closed,2013-06-09T13:33:33Z,2013-08-01T10:18:18Z,"BugSense, App versions: 4.1.2"
+gandulf/DsaTab,36,com.dsatab.exception.FeatureTypeUnknownExcpetion: FeatureType Affinität zu  not recognized.,closed,2013-06-03T20:55:49Z,2013-08-01T10:25:38Z,"BugSense, App versions: 4.1.2"
+gandulf/DsaTab,35,com.dsatab.exception.FeatureTypeUnknownExcpetion: FeatureType Affinität zu  not recognized.,closed,2013-05-29T18:26:17Z,2013-05-30T07:17:31Z,"bug, BugSense"
+gandulf/DsaTab,34,com.dsatab.exception.FeatureTypeUnknownExcpetion: FeatureType Weltfremd bzgl. not recognized.,closed,2013-05-26T14:22:43Z,2013-05-30T07:18:46Z,"bug, BugSense"
+gandulf/DsaTab,33,"""Fürbitten des Heiligen Therbun"" cannot be transformed into a FeatureTypenum",closed,2013-05-26T14:04:44Z,2013-05-30T07:49:09Z,bug
+gandulf/DsaTab,32,com.dsatab.exception.InconsistentDataException: Unable to find an item with the name '(Lang-)Schwert' in slot '0'.,closed,2013-05-26T13:00:37Z,2013-10-20T12:20:19Z,"BugSense, App versions: 4.1.2"
+gandulf/DsaTab,31,com.dsatab.exception.FeatureTypeUnknownExcpetion: FeatureType Vorurteile gegen not recognized.,closed,2013-05-25T18:40:38Z,2013-05-30T07:48:36Z,"bug, BugSense, App versions: 4.1.2"
+gandulf/DsaTab,30,java.lang.IllegalArgumentException: Kräutersuchen is not a constant in com.dsatab.data.enums.TalentType,closed,2013-05-25T12:03:01Z,2013-05-30T07:48:25Z,"bug, BugSense"
+gandulf/DsaTab,29,Körperkraft cannot be transformed into a TalentType enum,closed,2013-05-21T11:54:15Z,2013-06-01T09:01:07Z,bug
+gandulf/DsaTab,28,Talentspezialisierungen werden im Kampf-Tab nicht berücksichtigt,closed,2013-05-20T18:41:13Z,2013-06-01T09:01:39Z,bug
+gandulf/DsaTab,27,com.dsatab.exception.InconsistentDataException: Unable to find an item with the name '(Lang-)Schwert' in slot '0'.,closed,2013-05-18T10:50:01Z,2013-05-30T07:57:33Z,"duplicate, BugSense"
+gandulf/DsaTab,26,com.dsatab.exception.FeatureTypeUnknownExcpetion: FeatureType Vorurteile gegen not recognized.,closed,2013-05-16T16:34:41Z,2013-05-18T09:35:24Z,"bug, BugSense"
+gandulf/DsaTab,25,com.dsatab.exception.FeatureTypeUnknownExcpetion: FeatureType Weltfremd bzgl. not recognized.,closed,2013-05-15T16:13:50Z,2013-05-18T09:35:16Z,BugSense
+gandulf/DsaTab,24,java.lang.IllegalArgumentException: Wache is not a constant in com.dsatab.data.enums.TalentType,closed,2013-05-13T05:23:36Z,2013-05-18T09:35:09Z,BugSense
+gandulf/DsaTab,21,Problem mit Wundmodifikationen,closed,2013-05-09T19:21:02Z,2013-05-12T07:54:09Z,bug
+gandulf/DsaTab,20,java.lang.IllegalArgumentException: Wache is not a constant in com.dsatab.data.enums.TalentType,closed,2013-05-09T11:25:00Z,2013-05-12T07:50:28Z,"bug, BugSense"
+gandulf/DsaTab,19,Laden eines Helden im Kampf Tab führt zum Absturz,closed,2013-05-09T07:38:12Z,2016-12-21T10:41:03Z,bug
+gandulf/DsaTab,18,Modifikatoren haben am Kampf Tab keine Auswirkungen,closed,2013-05-09T07:36:38Z,2013-05-09T09:42:21Z,bug
+gandulf/DsaTab,17,Modifikatoren werden nicht gespeichert,closed,2013-05-09T07:35:55Z,2013-05-09T09:42:13Z,bug
+gandulf/DsaTab,16,Kommentare in Sonderfertigkeiten korrekt auslesen,closed,2013-05-09T07:34:23Z,2013-05-09T09:43:00Z,bug
+gandulf/DsaTab,15,WS wird abgeschnittn angezeigt,closed,2013-05-09T07:33:24Z,2013-05-12T08:17:21Z,bug
+gandulf/DsaTab,14,Astralenergie wird falsch berechnet,closed,2013-05-09T07:32:27Z,2013-05-09T07:45:52Z,bug
+gandulf/DsaTab,6,Anzeige wird nach unten aus dem Displaybereich geschoben,closed,2013-05-09T07:26:03Z,2014-02-26T17:20:44Z,bug
+pdmholden/bcclaarrest,12,Cursor retrieves null after DB upgrade,closed,2012-11-19T18:11:29Z,2012-12-07T00:53:12Z,"bug, release"
+pdmholden/bcclaarrest,6,Handle failed asset import,closed,2012-10-22T17:13:32Z,2012-10-23T15:33:55Z,bug
+pdmholden/bcclaarrest,5,Handle default ID in Intent,closed,2012-10-22T17:11:00Z,2012-10-24T02:33:11Z,bug
+GAlexMES/MusicArchivist,23,"When clicking the ""Create Album"" FAB nothing happens",closed,2016-01-04T20:58:45Z,2016-01-04T22:06:23Z,"bug, Logic"
+GAlexMES/MusicArchivist,21,Wrong Action Bar Icon,closed,2016-01-04T20:50:44Z,2016-01-04T21:50:37Z,"bug, GUI"
+GAlexMES/MusicArchivist,20,Wrong incoming JSON,closed,2016-01-03T15:30:30Z,2016-01-04T20:13:51Z,bug
+GAlexMES/MusicArchivist,14,Type Barcode does not work,closed,2015-12-11T12:18:44Z,2015-12-13T21:06:55Z,bug
+GAlexMES/MusicArchivist,13,"Null Pointe,  when finishing an EditAlbumDialog with empty fields",closed,2015-12-11T12:17:49Z,2015-12-13T21:06:55Z,bug
+GAlexMES/MusicArchivist,3,Database on first start,closed,2015-12-08T21:55:35Z,2015-12-09T19:27:51Z,"bug, function"
+GAlexMES/MusicArchivist,1,Add a Album multiple times,closed,2015-12-08T21:50:39Z,2015-12-09T19:27:51Z,bug
+philburk/android-midisuite,82,"MIDI+BTLE app X button does not respond when ""in use""",open,2024-03-07T01:44:31Z,,bug
+philburk/android-midisuite,76,Error when building project in android studio with gradle 8.0.2,open,2023-04-30T17:59:53Z,,bug
+philburk/android-midisuite,73,Midi Ble connect - Android 11 - Galaxy Tab S5e can't find Ble midi device,open,2022-05-15T16:07:38Z,,bug
+philburk/android-midisuite,64,"""Keep Screen on"" text got cropped in MIDIScope screen",open,2021-04-14T23:46:21Z,,bug
+philburk/android-midisuite,53,MidiPortSelector and rotating device,open,2019-01-29T11:47:54Z,,bug
+philburk/android-midisuite,51,SynthExample should default to low latency,closed,2019-01-10T23:38:26Z,2021-08-28T21:37:24Z,"bug, high priority"
+philburk/android-midisuite,45,Unreliable opening 2 ports from same device.,open,2018-01-23T21:46:55Z,,"bug, high priority"
+elixsr/FwdPortForwardingApp,2,"When two rules Forward from the same Port, Fab disappears",closed,2017-03-01T00:01:23Z,2017-03-07T15:34:30Z,bug
+greenfrvr/hashtag-view,24,"Dynamic Mode addData() not working , Throwing Null Pointer Exception",closed,2016-07-11T14:25:33Z,2017-08-04T10:55:34Z,bug
+greenfrvr/hashtag-view,7,Wrong attributes extraction from layout .xml,closed,2015-09-25T09:22:38Z,2015-09-28T08:41:28Z,bug
+greenfrvr/hashtag-view,4,Item is wider than widget,closed,2015-09-25T07:46:19Z,2015-09-28T08:41:28Z,bug
+greenfrvr/hashtag-view,3,Long hash tag cause the app to be unresponsive,closed,2015-09-24T23:54:07Z,2015-09-25T09:34:33Z,bug
+fadelakin/vortex,2,Toast message units in 7 days view,closed,2015-04-20T13:24:42Z,2015-04-23T08:52:28Z,bug
+fadelakin/vortex,1,I can't open the aplicaton,open,2015-04-18T16:17:27Z,,bug
+xxv/24hAnalogWidget,8,Delay up to 1 minute to clock update,open,2017-02-10T08:58:35Z,,bug

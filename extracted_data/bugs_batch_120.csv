@@ -1,0 +1,4 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+Andrano/Light,1,Light switching off when display locked,closed,2015-10-30T15:46:00Z,2015-11-02T10:43:29Z,"bug, enhancement"
+kuhnmi/jukefox,1,Android: Re-scan destroys map,open,2013-11-09T20:14:51Z,,"bug, android"
+maxfierke/sandwichroulette,1,Shake listener not disabling on request,open,2012-12-02T19:31:57Z,,bug

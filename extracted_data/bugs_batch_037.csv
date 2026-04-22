@@ -1,0 +1,43 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+justdave/MCStatus,14,Server name doesn't display if version info is too wide,closed,2020-06-01T05:12:23Z,2020-06-03T06:13:42Z,bug
+justdave/MCStatus,11,java.util.InputMismatchException: Int too big at MinecraftServer.readVarInt(MinecraftServer.java:339),closed,2017-01-15T08:25:08Z,2020-05-31T06:51:57Z,"bug, market-reported-crash"
+justdave/MCStatus,10,Crash if user enters an invalid port number for a server,closed,2017-01-15T08:21:51Z,2020-06-03T03:04:55Z,"bug, market-reported-crash"
+justdave/MCStatus,9,Server 1.9 sends the server description/motd as a JSON object,closed,2016-03-02T21:57:46Z,2016-03-05T18:13:55Z,bug
+justdave/MCStatus,7,Refesh icon animates forever if the list is empty,closed,2015-02-04T03:58:48Z,2015-02-04T04:01:14Z,bug
+justdave/MCStatus,2,The server MOTD/description area doesn't react when you tap it during multi-selection,closed,2014-11-30T01:28:32Z,2016-03-06T19:09:28Z,bug
+achromaticmetaphor/agram,5,Scrollable View changes position on Device Rotation,open,2016-06-20T14:36:05Z,,bug
+achromaticmetaphor/agram,4,Items appear in list on Orientation Change,open,2016-06-20T14:01:34Z,,bug
+achromaticmetaphor/agram,2,README lacks installation instructions.,closed,2016-03-08T18:37:34Z,2016-05-23T09:36:15Z,bug
+vanniktech/VNTNumberPickerPreference,46,Does not persist State across orientation change,closed,2017-01-16T20:32:34Z,2017-09-30T14:11:40Z,"bug, pr welcome"
+sw926/ImageFileSelector,14,ImageCaptureHelper lose mRequestCode on screen rotation,closed,2016-12-19T09:07:46Z,2017-02-15T03:55:15Z,bug
+sw926/ImageFileSelector,3,FileUriExposedException,closed,2016-08-30T10:31:37Z,2016-11-03T14:28:18Z,bug
+chrispbailey/ToDo-List-Widget,2,Onscreen keyboard obscures input controls,closed,2010-12-29T18:04:57Z,2011-03-31T07:59:02Z,possible bug
+ColtanLabs/TapNote,2,Black toast appears in light theme when note is copied to clipboard,closed,2015-11-24T05:37:33Z,2015-11-24T07:27:07Z,bug
+apotter96/PowerOfGod,1,BibPlan Lag Out,closed,2014-08-21T21:34:48Z,2014-09-09T02:09:06Z,bug
+CarloRodriguez/AlarmOn,1,Activate alarm even when we force close the app,open,2016-09-25T22:00:46Z,,bug
+ozbek/al-muazzin,2,User report: java.lang.AssertionError,closed,2014-04-03T15:47:59Z,2014-04-03T15:54:40Z,bug
+ozbek/al-muazzin,1,User report: IllegalArgumentException,closed,2013-10-10T16:36:59Z,2013-10-10T17:06:59Z,bug
+doerfli/leavemealone,55,Hangup of call does not work on >= Oreo,open,2017-12-09T18:04:20Z,,bug
+doerfli/leavemealone,54,fix notifications for android oreo,closed,2017-12-08T10:12:54Z,2017-12-09T18:04:47Z,bug
+doerfli/leavemealone,52,Number entry with prefix +225 does not work properly,closed,2017-02-06T19:27:32Z,2017-02-09T20:56:21Z,bug
+doerfli/leavemealone,49,"Show floating action button + only on ""My blocked numbers"" fragment",closed,2016-03-23T22:07:40Z,2016-04-03T12:36:58Z,bug
+doerfli/leavemealone,41,PhoneNumberSource.update does not update,open,2016-01-16T21:25:54Z,,bug
+doerfli/leavemealone,34,Notifications use hardcoded Strings instead of string resources,closed,2016-01-13T21:03:18Z,2016-01-24T15:55:10Z,bug
+doerfli/leavemealone,33,Application crashes on 4.4.2,closed,2016-01-13T20:54:27Z,2016-01-14T20:45:26Z,"bug, Blocker"
+doerfli/leavemealone,28,Request permissions on application startup when API >= 23,closed,2016-01-05T20:48:48Z,2016-01-13T22:11:36Z,bug
+doerfli/leavemealone,26,Navigation drawer contains static text that makes no sense,closed,2016-01-04T21:10:28Z,2016-01-12T19:22:59Z,bug
+doerfli/leavemealone,23,Disable multiselect when back button is pressed,closed,2015-12-18T13:17:19Z,2015-12-20T15:27:56Z,bug
+doerfli/leavemealone,21,On/Off menu items is no longer shown,closed,2015-12-15T23:31:52Z,2015-12-16T21:54:45Z,bug
+doerfli/leavemealone,18,Migrate numbers on db upgrade,open,2015-12-04T22:10:57Z,,bug
+Qualeams/Android-Face-Recognition-with-Deep-Learning-Test-Framework,4,Could not find method compile() ,closed,2016-10-23T11:21:39Z,2016-10-23T12:16:27Z,bug
+Qualeams/Android-Face-Recognition-with-Deep-Learning-Test-Framework,3,en:,closed,2016-10-23T11:11:49Z,2016-10-23T12:16:36Z,bug
+Qualeams/Android-Face-Recognition-with-Deep-Learning-Test-Framework,2,Error:Configuration with name 'default' not found.,closed,2016-10-23T11:04:51Z,2016-10-23T12:18:58Z,bug
+Qualeams/Android-Face-Recognition-with-Deep-Learning-Test-Framework,1,Build project have error:,closed,2016-10-23T10:36:23Z,2016-10-23T11:36:30Z,bug
+brolam/OpenHomeAnalysis,11,EnergyUseLogger - Erro na exclusão dos registros temporários de utilização de energia.,closed,2017-06-29T23:38:38Z,2017-07-17T13:38:55Z,bug
+brolam/OpenHomeAnalysis,10,EnergyUseLogger - Lentidão na gravação dos registros de utilização de energia.  ,closed,2017-06-29T23:32:44Z,2017-07-01T22:22:11Z,bug
+brolam/OpenHomeAnalysis,7,EnergyUseLogger - Arduino Travamento ,closed,2017-06-04T19:08:27Z,2017-06-09T20:26:00Z,bug
+Mindgreppers/lifemaker,15,Double thanks bug,closed,2015-12-01T11:30:10Z,2015-12-10T10:57:31Z,"bug, android"
+Mindgreppers/lifemaker,1,User Profile: Woods are not getting updated on thanks/nothanks,closed,2015-12-01T10:29:37Z,2015-12-10T10:58:44Z,"bug, android"
+oux/PhotoCaption,3,Outofmemory issue,open,2014-03-07T08:22:20Z,,bug
+EveningMoon/Balance,7,Handle duplicates of activity  and reward with its default,closed,2016-05-30T16:05:46Z,2016-05-30T20:26:07Z,bug
+EveningMoon/Balance,6,Cant add costs on new activity/reward,closed,2016-05-29T21:45:05Z,2016-05-30T21:05:36Z,bug

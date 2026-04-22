@@ -1,0 +1,24 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+pjuu/droidotter,14,App isn't compatible with my device,open,2023-03-21T02:59:27Z,,bug
+pjuu/droidotter,7,Maintenance page,closed,2015-07-28T18:56:18Z,2015-07-28T20:12:13Z,bug
+pjuu/droidotter,6,droidotter crashing on image selection (for upload),closed,2015-07-01T07:35:58Z,2016-03-18T11:36:16Z,bug
+pjuu/droidotter,4,Back button leaves app,closed,2015-02-02T04:30:23Z,2015-02-02T19:57:34Z,bug
+pjuu/droidotter,3,Javascript confirmation on delete,closed,2015-02-02T02:36:20Z,2015-02-02T19:57:34Z,bug
+pjuu/droidotter,2,Input type=file doesn't work,closed,2015-01-31T11:34:20Z,2015-06-28T20:11:33Z,bug
+pjuu/droidotter,1,External links,closed,2014-11-22T12:08:37Z,2015-02-04T08:06:43Z,bug
+kodsnack/kodsnack-android,8,Activitet startas flera gånger från notifiering,closed,2014-12-05T09:11:25Z,2014-12-05T09:13:01Z,bug
+kodsnack/kodsnack-android,7,JSON-status hämtas efter appen avslutats,closed,2014-12-05T08:02:13Z,2014-12-05T08:05:44Z,bug
+arhughes/droidchatty,9,highlighting current post doesn't work sometimes,open,2011-08-21T03:40:04Z,,bug
+arhughes/droidchatty,6,clicking news post links cause crash,closed,2011-08-04T14:45:03Z,2011-08-06T15:15:54Z,bug
+arhughes/droidchatty,4,strikethrough tag is ignored,closed,2011-06-26T13:39:23Z,2011-07-31T18:26:56Z,bug
+arhughes/droidchatty,1,thread stays selected even after refresh,closed,2011-06-26T13:35:23Z,2011-07-31T18:26:56Z,bug
+auxua/MensaApp,3,Nutrition Info Settings not reachable in XBOX,closed,2018-01-15T07:39:49Z,2018-04-07T20:54:23Z,"bug, xbox"
+auxua/MensaApp,2,Dishes get assigned wrong day,closed,2017-11-14T09:08:24Z,2018-01-15T07:37:38Z,"bug, Regex, on hold"
+auxua/MensaApp,1,"After STW Web update, no side dishes are shown in App",closed,2017-11-14T09:03:54Z,2017-11-19T08:39:03Z,"bug, Regex"
+mzlogin/CleanExpert,11,Getting force close in Android 4.1.2 version,open,2017-05-13T09:44:39Z,,bug
+mzlogin/CleanExpert,4,progress bar and total size not clear after clean,closed,2016-01-18T04:04:12Z,2016-01-18T05:40:20Z,bug
+andrewromanenco/git.android,10,File list in browse activity is empty when app is restarted,open,2013-07-29T01:24:21Z,,bug
+andrewromanenco/git.android,8,Remote branch visibility,closed,2013-07-23T13:47:14Z,2013-08-21T01:39:54Z,"bug, enhancement"
+andrewromanenco/git.android,2,Http timeout,closed,2013-07-05T16:06:38Z,2013-07-15T18:34:53Z,bug
+zawadz88/material-activity-chooser,3,XML error -> You must supply a layout_width attribute,closed,2017-07-31T10:23:18Z,2017-08-28T20:00:10Z,bug
+dmashuda/networkScanner,5,Not finding a laptops,open,2016-02-26T09:37:13Z,,bug

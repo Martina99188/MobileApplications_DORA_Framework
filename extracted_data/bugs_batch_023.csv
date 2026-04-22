@@ -1,0 +1,158 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+2fast2fourier/something.apk,18,Cannot reply to PMs,closed,2015-12-30T05:43:03Z,2016-04-21T00:52:10Z,bug
+2fast2fourier/something.apk,17,Refresh on bookmark 2nd page after removing bookmarks to get under one page,open,2015-12-11T19:46:01Z,,bug
+hhroc/yellr-android,204,Resize video before upload,open,2015-09-02T16:26:08Z,,bug
+hhroc/yellr-android,203,Video/Audio controls are displayed when viewing text post,closed,2015-09-01T23:09:44Z,2015-09-18T00:34:27Z,bug
+hhroc/yellr-android,197,Hook up report post button,closed,2015-08-09T23:43:56Z,2015-08-13T04:06:16Z,"bug, enhancement, task"
+hhroc/yellr-android,194,Formatting is broken on fragment_post.xml ,closed,2015-08-09T18:51:26Z,2015-08-13T05:23:03Z,bug
+hhroc/yellr-android,193,NullPointerException in AssignmentsFragment,open,2015-08-09T17:52:00Z,,bug
+hhroc/yellr-android,192,NullPointerException in PostFragment,open,2015-08-09T17:50:28Z,,bug
+hhroc/yellr-android,185,Only display new assignment once per unit time,closed,2015-04-12T13:22:23Z,2015-06-26T17:38:24Z,"bug, enhancement"
+hhroc/yellr-android,184,postText.setBackground(null); caused java.lang.NoSuchMethodError error.,open,2015-03-27T13:59:39Z,,bug
+hhroc/yellr-android,183,handle spoofed locations better,open,2015-03-27T13:57:43Z,,bug
+hhroc/yellr-android,182,NullPointerException on swipeRefreshLayout in Stories Fragment,open,2015-03-26T12:05:41Z,,bug
+hhroc/yellr-android,177,Change notification icon to black and white,closed,2015-03-22T13:31:13Z,2015-08-13T05:19:16Z,"bug, enhancement"
+hhroc/yellr-android,176,Image squashing ,closed,2015-03-22T13:26:36Z,2015-06-26T17:39:27Z,bug
+hhroc/yellr-android,175,Appears to be a race condition (null Exception) with the SwipeRefreshLayout on the stories fragment,open,2015-03-22T13:21:29Z,,bug
+hhroc/yellr-android,161,Change 'post' fragment to look more like twitter 'post' fragment.,closed,2015-03-11T11:50:21Z,2015-03-16T11:47:46Z,"bug, enhancement"
+hhroc/yellr-android,153,Long questions don't fit within assignment list row,closed,2015-03-08T01:35:31Z,2015-03-16T11:48:29Z,bug
+hhroc/yellr-android,148,Remove title bar from post activity,closed,2015-03-06T03:39:17Z,2015-03-16T11:48:53Z,bug
+hhroc/yellr-android,147,"remove zipcode inquiry, and require location services to be turned on",closed,2015-03-05T16:49:06Z,2015-03-09T15:45:29Z,"bug, enhancement"
+hhroc/yellr-android,143,Background service not running?,closed,2015-02-27T14:28:47Z,2015-03-09T20:38:43Z,"bug, question"
+hhroc/yellr-android,139,Hitting enter on a post should submit,closed,2015-02-26T17:16:20Z,2015-03-09T15:46:22Z,"bug, enhancement"
+hhroc/yellr-android,129,prevent new-line in zipcode textedit,closed,2015-02-23T14:19:56Z,2015-02-23T18:05:30Z,bug
+hhroc/yellr-android,127,remove set location activity from back history,closed,2015-02-22T19:21:02Z,2015-02-23T18:47:38Z,bug
+hhroc/yellr-android,124,"After posting,  hitting the back key brings the user back to the post activity/fragment ",closed,2015-02-21T04:51:40Z,2015-02-23T18:47:49Z,bug
+hhroc/yellr-android,122,Formatting for organization name needs to be truncated on assignments,closed,2015-02-20T15:18:02Z,2015-02-23T19:14:41Z,bug
+hhroc/yellr-android,119,Time decode for stories doesn't appear to be working ,closed,2015-02-20T12:57:08Z,2015-02-23T19:04:31Z,bug
+hhroc/yellr-android,117,Remove Toast on Image Capture,closed,2015-02-19T18:36:24Z,2015-02-23T02:37:21Z,"bug, task"
+hhroc/yellr-android,115,media caption is 'caption' not 'media_caption',closed,2015-02-19T18:06:07Z,2015-02-23T02:38:50Z,bug
+hhroc/yellr-android,114,remove noticiation and messages icons from action bar until they do something,closed,2015-02-19T18:02:04Z,2015-02-19T18:46:41Z,"bug, task"
+hhroc/yellr-android,112,LocationManager is not reporting location,closed,2015-02-19T17:59:51Z,2015-02-23T02:38:05Z,bug
+hhroc/yellr-android,110,Verizon LGG2 doesn't launch StoryActivity on Notification,open,2015-02-19T13:31:05Z,,bug
+hhroc/yellr-android,103,Fix image preview,open,2015-02-18T18:29:41Z,,bug
+hhroc/yellr-android,99,"Gson = """" or null crash",closed,2015-02-18T14:47:40Z,2015-02-18T19:31:28Z,bug
+hhroc/yellr-android,93,Hook up GPS,closed,2015-02-17T18:38:34Z,2015-02-18T14:50:53Z,bug
+hhroc/yellr-android,85,Remove 'Options' Menu items from several fragments,closed,2015-02-15T17:54:22Z,2015-02-18T14:33:54Z,bug
+hhroc/yellr-android,83,Blank New Posts,closed,2015-02-15T00:49:10Z,2015-02-18T14:35:07Z,bug
+hhroc/yellr-android,81,"Preview image on post from disk, rather than preview byte array",closed,2015-02-14T21:13:47Z,2015-02-16T01:55:47Z,bug
+hhroc/yellr-android,70,Edit Text Highlight Color is Wrong,open,2015-02-13T15:03:47Z,,bug
+hhroc/yellr-android,65,Require Camera?,closed,2015-02-11T16:49:11Z,2015-02-12T15:04:40Z,"bug, question"
+hhroc/yellr-android,57,Author on stories in story list is incorrect,closed,2015-02-10T03:52:23Z,2015-02-11T16:22:37Z,bug
+hhroc/yellr-android,56,Rotation crashes app,closed,2015-02-10T03:50:04Z,2015-02-11T15:19:42Z,bug
+hhroc/yellr-android,53,StartActivityForResult problems,closed,2015-02-09T16:10:46Z,2015-02-09T16:40:40Z,bug
+hhroc/yellr-android,48,Assignment_ID is not being set properly from AssignmentsListFragment,closed,2015-02-08T17:31:46Z,2015-02-08T18:21:16Z,bug
+hhroc/yellr-android,46,New Post app flow,closed,2015-02-08T16:53:57Z,2015-02-09T16:44:42Z,bug
+hhroc/yellr-android,45,ViewAssignmentFragment Button,closed,2015-02-08T16:39:25Z,2015-02-09T16:44:54Z,bug
+hhroc/yellr-android,43,Fix PostFragment to PublishPostIntentService problem,closed,2015-02-08T03:18:21Z,2015-02-08T16:58:04Z,bug
+hhroc/yellr-android,42,PublishPostIntentService GSON Issue,closed,2015-02-08T03:01:34Z,2015-02-08T16:57:17Z,"bug, enhancement"
+hhroc/yellr-android,39,App creates two icons when installed,closed,2015-02-06T20:48:48Z,2015-02-07T01:10:10Z,bug
+hhroc/yellr-android,37,Fix incorrect vocabulary 'Story' ==> 'Post',closed,2015-02-06T19:43:01Z,2015-02-06T20:48:04Z,bug
+hhroc/yellr-android,29,rename main activity,closed,2015-02-05T19:11:22Z,2015-02-05T20:48:39Z,bug
+rahulkumar66/Performance-Tweaker,3,java.lang.NullPointerException,closed,2014-04-29T04:33:03Z,2014-07-22T18:58:33Z,"Android, BugSense"
+rahulkumar66/Performance-Tweaker,2,java.lang.NullPointerException,closed,2014-03-09T15:18:50Z,2014-03-11T16:24:56Z,"Android, BugSense"
+rahulkumar66/Performance-Tweaker,1,app crash,closed,2014-02-16T10:29:30Z,2014-02-19T06:31:08Z,bug
+milindur/MdkControlApp,8,Start-Button in Panorama mode not visible on small devices,closed,2016-05-22T14:33:56Z,2016-05-22T14:35:23Z,bug
+milindur/MdkControlApp,7,OverflowException beim Starten eines SMS-Programms,closed,2016-01-24T19:38:40Z,2016-01-24T20:25:28Z,bug
+milindur/MdkControlApp,6,DivideByZeroException beim Setzen der Laufzeit (ModeSmsViewModel),closed,2015-11-18T19:29:57Z,2016-01-01T14:40:10Z,bug
+milindur/MdkControlApp,5,DivideByZeroException beim Setzen einer Intervallzeit (ModeSmsViewModel),closed,2015-11-18T19:27:30Z,2016-01-01T14:40:02Z,bug
+milindur/MdkControlApp,3,NullReferenceException beim Parsen einer Status-Response,open,2015-09-14T19:06:37Z,,bug
+milindur/MdkControlApp,1,Joystick reagiert manchmal träge,closed,2015-07-14T15:04:10Z,2016-04-02T08:48:05Z,bug
+krtkush/MarsExplorer,23,Memory leaks on Credits and About Activities. ,open,2016-10-25T18:11:37Z,,bug
+krtkush/MarsExplorer,22,Fix shared element transaction animations. ,closed,2016-10-25T06:37:18Z,2016-11-01T08:21:42Z,bug
+krtkush/MarsExplorer,1,Manage App's memory consumption,closed,2016-09-08T09:19:53Z,2016-09-24T06:16:22Z,"bug, task"
+ChaosLeong/FxcnBeta,15,NPE at android.view.GhostView.calculateMatrix(GhostView.java:89),closed,2017-02-27T06:18:49Z,2017-02-27T07:04:09Z,bug
+ChaosLeong/FxcnBeta,12,cnBeta 网站大改版，2.0 计划,closed,2017-02-23T10:02:33Z,2017-03-01T10:12:39Z,"bug, enhancement"
+mail929/Lister,40,Deleting last list creates null pointer,open,2017-04-11T23:26:51Z,,bug
+mail929/Lister,38,Complex auto lists kinda suck,closed,2017-03-28T20:54:00Z,2017-04-18T23:46:24Z,"bug, enhancement"
+mail929/Lister,37,Sort by done and date settings not holding,closed,2017-03-28T19:32:38Z,2017-03-29T15:13:10Z,bug
+mail929/Lister,28,Date tags don't show right away,closed,2016-09-12T16:01:35Z,2016-09-14T14:38:39Z,bug
+mail929/Lister,27,Holding on tags doesn't allow editing,closed,2016-09-12T15:59:37Z,2016-09-14T14:13:32Z,bug
+mail929/Lister,16,App breaks when there are multiple tags,closed,2015-12-02T01:20:26Z,2015-12-03T02:21:20Z,bug
+mail929/Lister,8,Dates aren't always sorting right,closed,2015-11-03T00:01:48Z,2015-11-03T04:33:53Z,bug
+mail929/Lister,7,Items not deleting,closed,2015-11-03T00:00:35Z,2015-11-03T04:33:53Z,bug
+mail929/Lister,6,Editing items edits the wrong item,closed,2015-11-01T23:43:33Z,2015-11-02T20:14:29Z,bug
+mail929/Lister,2,"Lists duplicate when rotated, reopened, etc",closed,2015-11-01T23:40:38Z,2015-11-04T16:25:37Z,bug
+EarthstormSoftware/controllerformote-android,4,App Crash - IllegalArgumentException,open,2016-12-12T20:20:48Z,,bug
+PrivacyApps/birthday-calendar,137,Birthdays without year are being added one day earlier in calender,closed,2025-12-29T18:42:06Z,2026-01-01T20:09:33Z,bug
+PrivacyApps/birthday-calendar,69,Installed on 2.1?,closed,2013-09-06T12:50:39Z,2016-11-06T00:00:24Z,bug
+PrivacyApps/birthday-calendar,65,Still have duplicate birthdays,closed,2013-07-03T21:55:08Z,2013-08-18T17:45:45Z,"bug, Priority-High"
+PrivacyApps/birthday-calendar,64,Don't sync prefs & account filter when disabled,closed,2013-07-01T14:57:07Z,2025-11-23T07:07:05Z,bug
+PrivacyApps/birthday-calendar,63,java.lang.IllegalArgumentException: the name must not be empty: null,closed,2013-06-19T19:07:45Z,2013-06-30T22:38:25Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,62,merge identical events,closed,2013-06-19T19:07:42Z,2013-07-01T11:20:05Z,"bug, imported, Priority-High"
+PrivacyApps/birthday-calendar,61,birthday adapter has to be restarted manually on samsung s4 s3 note 2,closed,2013-06-19T19:07:35Z,2013-06-19T19:07:41Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,57,Update reminders sometimes fails,closed,2013-06-19T19:07:27Z,2013-06-19T19:07:29Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,55,"After reboot, sync has to be enabled again.",closed,2013-06-19T19:07:19Z,2013-06-19T19:07:24Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,54,Android 4.1.1 nach Rebot erscheint birthday app nicht,closed,2013-06-19T19:07:15Z,2013-06-19T19:07:18Z,"bug, invalid, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,53,Color problem,closed,2013-06-19T19:07:13Z,2013-07-01T15:09:43Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,52,Birthday without age shows 43,closed,2013-06-19T19:07:05Z,2017-11-08T13:18:48Z,"bug, imported, Priority-High"
+PrivacyApps/birthday-calendar,51,NullPointerException in BackgroundStatusHandler,closed,2013-06-19T19:07:01Z,2013-06-19T19:07:04Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,50,Other Reminder times,closed,2013-06-19T19:06:55Z,2013-06-19T19:07:00Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,49,Syncing deletes local calendars?,closed,2013-06-19T19:06:53Z,2013-06-19T19:06:55Z,"bug, invalid, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,48,Reminders Not Working on Android 2.3.5,closed,2013-06-19T19:06:48Z,2016-11-06T00:00:48Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,47,code improvements,closed,2013-06-19T19:06:45Z,2013-06-19T19:06:47Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,46,Reminders don't work on Android 2.3.5,closed,2013-06-19T19:06:41Z,2013-06-19T19:06:44Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,45,Calendar opens on start on birthday calendar,closed,2013-06-19T19:06:38Z,2013-06-19T19:06:40Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,44,Backlist / Choose contacts / list of contacts to import from,closed,2013-06-19T19:06:33Z,2013-06-19T19:06:37Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,43,Several times Birthday Adapter has just stopped syncing,closed,2013-06-19T19:06:29Z,2013-06-19T19:06:32Z,"bug, wontfix, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,42,Use ACCOUNT_TYPE_LOCAL for Android >= 4.1,closed,2013-06-19T19:06:24Z,2013-06-19T19:06:28Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,41,Facebook date format problem,closed,2013-06-19T19:06:20Z,2013-06-19T19:06:23Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,40,Show dialog if workaround for jb is needed,closed,2013-06-19T19:06:17Z,2013-07-01T14:11:46Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,39,Display more information on click (For Android 4.1),closed,2013-06-19T19:06:13Z,2013-06-19T19:06:16Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,38,"birthday event as ""busy""",closed,2013-06-19T19:06:03Z,2013-06-19T19:06:12Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,37,B-A crashes when syncing,closed,2013-06-19T19:05:59Z,2013-06-19T19:06:03Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,36,German genitiv,closed,2013-06-19T19:05:55Z,2013-06-19T19:05:58Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,35,Number of birthday events too high,closed,2013-06-19T19:05:49Z,2013-06-19T19:05:54Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,34,Dates are parsed incorrectly (Motorola Defy),closed,2013-06-19T19:05:41Z,2013-06-19T19:05:48Z,"bug, imported, Priority-High"
+PrivacyApps/birthday-calendar,33,Birthdays aren't shown in the calendar widget at birthday,closed,2013-06-19T19:05:33Z,2013-06-19T19:05:39Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,32,calander goes to off when habdset is power cycled,closed,2013-06-19T19:05:29Z,2013-06-19T19:05:32Z,"bug, wontfix, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,31,event starting at 00:00 created,closed,2013-06-19T19:05:21Z,2013-06-19T19:05:28Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,30,exception on pref change,closed,2013-06-19T19:05:13Z,2013-06-19T19:05:19Z,"bug, invalid, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,29,"Reminders are set to ""-1000minutes before"", although deactivated",closed,2013-06-19T19:05:05Z,2013-06-19T19:05:13Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,28,Custom reminders,closed,2013-06-19T19:04:59Z,2013-06-19T19:05:05Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,27,Make free version,closed,2013-06-19T19:04:56Z,2013-06-19T19:04:58Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,26,Reminders don't work on Android 2.3,closed,2013-06-19T19:04:52Z,2013-06-19T19:04:55Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,25,Reminders added from calendar are deleted on resync,closed,2013-06-19T19:04:49Z,2013-06-19T19:04:51Z,"bug, wontfix, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,24,Wrong date for events coming from SmoothSync,closed,2013-06-19T19:04:45Z,2013-06-19T19:04:49Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,23,Default reminder,closed,2013-06-19T19:04:42Z,2013-06-19T19:04:44Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,22,No events field on local contacts in JB emulator,closed,2013-06-19T19:04:39Z,2013-06-19T19:04:41Z,"bug, wontfix, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,21,Translation issues,closed,2013-06-19T19:04:36Z,2013-06-19T19:04:37Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,20,«birthday after task stopped»,closed,2013-06-19T19:04:30Z,2013-06-19T19:04:35Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,19,Jelly Bean Hack necessary,closed,2013-06-19T19:04:25Z,2013-06-19T19:04:29Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,18,Multiple reminders for the event,closed,2013-06-19T19:04:22Z,2013-06-19T19:04:24Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,17,Show age in birthday event title,closed,2013-06-19T19:04:16Z,2013-06-19T19:04:22Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,16,Add to Help: Known problem with widget,closed,2013-06-19T19:04:14Z,2013-06-19T19:04:16Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,15,Birthdays with Years,closed,2013-06-19T19:04:06Z,2013-06-19T19:04:13Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,14,make the customized option to name birthdays or anniversaries.,closed,2013-06-19T19:03:57Z,2013-06-19T19:04:05Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,13,Some birthdays are showed one dayl early,closed,2013-06-19T19:03:49Z,2013-06-19T19:03:56Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,12,All my birthdays are duplicated,closed,2013-06-19T19:03:44Z,2013-06-19T19:03:48Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,11,Birthdays are added to default calendar instead of creating a new one.,closed,2013-06-19T19:03:37Z,2013-06-19T19:03:43Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,10,No Birthday-Calendar shows up,closed,2013-06-19T19:03:31Z,2013-06-19T19:03:35Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,9,Event alarms at the day the birthday happens,closed,2013-06-19T19:03:28Z,2013-06-19T19:03:29Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,8,Add alarm at the birthday,closed,2013-06-19T19:03:25Z,2013-06-19T19:03:27Z,"bug, invalid, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,7,When synchronization is disabled in system nothing happens,closed,2013-06-19T19:03:21Z,2013-06-19T19:03:23Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,6,Toggle switch instead of checkbox,closed,2013-06-19T19:03:18Z,2013-06-19T19:03:21Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,5,Birthdays without a year are not showing up,closed,2013-06-19T19:03:15Z,2013-06-19T19:03:17Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,4,Feature request: add an option to specify an existing calendar,closed,2013-06-19T19:03:04Z,2013-06-19T19:03:14Z,"bug, imported, Priority-Medium"
+PrivacyApps/birthday-calendar,3,crash report,closed,2013-06-19T19:03:02Z,2013-06-19T19:03:03Z,"bug, imported, Priority-Medium"
+DecentralizedAmateurPagingNetwork/DAPNETApp,59,Zurück-Button,closed,2018-03-05T15:30:12Z,2018-05-07T12:08:54Z,bug
+DecentralizedAmateurPagingNetwork/DAPNETApp,45,Bei Calls gibt es 400 Fehler wenn man nicht einen Eintrag aus der Liste auswählt,closed,2017-09-26T09:21:50Z,2017-11-03T12:30:59Z,bug
+DecentralizedAmateurPagingNetwork/DAPNETApp,43,App crash after update ,closed,2017-08-05T15:58:56Z,2017-11-22T15:33:49Z,bug
+DecentralizedAmateurPagingNetwork/DAPNETApp,35,Nicht-Admins Rufe zurück Button führt zu Logout,closed,2017-05-19T07:54:20Z,2017-05-26T11:59:44Z,bug
+DecentralizedAmateurPagingNetwork/DAPNETApp,23,Nicht-Admins Rufe bringen die APP zum abstürzen,closed,2017-05-13T11:25:26Z,2017-05-19T14:00:01Z,bug
+DecentralizedAmateurPagingNetwork/DAPNETApp,18,Nicht-Admins Rufe liefern 403,closed,2017-05-11T09:37:41Z,2017-05-11T11:31:00Z,bug
+DecentralizedAmateurPagingNetwork/DAPNETApp,13,"App crash, wenn man nicht eingeloggt ist und trotzdem auf Callls tippt",closed,2017-05-10T10:28:59Z,2017-05-11T08:41:52Z,bug
+DecentralizedAmateurPagingNetwork/DAPNETApp,8,Genau 80 Zeichen liefern trotzdem Fehler,closed,2017-05-10T10:19:57Z,2017-05-11T06:45:06Z,bug
+MakinGiants/banjen,46,Tests are broken on circle-ci,closed,2017-08-07T22:26:27Z,2020-05-09T15:36:31Z,bug
+Routelandia/routelandia-android,65,Bar chart colors labeled incorrectly,closed,2015-03-09T05:41:32Z,2015-03-10T02:52:39Z,bug
+Routelandia/routelandia-android,32,No error when disconnected to back end.,closed,2015-02-07T00:02:31Z,2015-03-10T06:15:26Z,bug
+Routelandia/routelandia-android,30,"""Time and Date"" button does not respond after rapid inputs.",closed,2015-02-06T23:14:02Z,2015-02-09T19:00:13Z,bug
+Routelandia/routelandia-android,29,"After placing the green marker and hitting the ""Clear Markers"" button, the first marker placed is the red marker, no other markers will be placed, and the ""Clear Markers"" and ""Time and Date"" buttons will not respond.",closed,2015-02-06T23:10:15Z,2015-02-09T17:02:00Z,bug
+markormesher/android-fab,44,Request: More reliable speed dial animation handling,open,2018-11-01T20:21:32Z,,bug
+markormesher/android-fab,26,Crash when FloatingActionButton.setOnSpeedDialMenuCloseListener() get's null as parameter,closed,2018-03-13T08:36:47Z,2018-03-13T09:39:25Z,bug
+markormesher/android-fab,25,Disappearing menu items when using v2 of library,closed,2018-02-07T21:49:08Z,2018-02-09T20:17:03Z,bug
+markormesher/android-fab,12,Speed dial menu items stay drawn if rebuildSpeedDialMenu() is called when FAB is opened,closed,2017-08-08T11:52:45Z,2017-08-20T18:11:07Z,bug
+rmceoin/cominghome,10,Application is setting nest to Away arbitrarily,open,2015-11-25T12:57:31Z,,bug
+rmceoin/cominghome,7,Better handling of multiple structures in backend,open,2015-10-14T00:38:19Z,,bug
+rmceoin/cominghome,1,Odd history message,closed,2015-01-24T19:42:47Z,2015-02-05T01:33:15Z,bug
+phw/PicardBarcodeScanner,20,"Layout problem in ""SCAN BARCODE"" page and ""About"" page",closed,2021-08-07T11:21:02Z,2021-08-07T14:47:44Z,bug

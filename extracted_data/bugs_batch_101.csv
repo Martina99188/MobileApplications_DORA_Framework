@@ -1,0 +1,8 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+relrod/tryidris-android,3,Output box doesn't scroll automatically,closed,2014-04-22T07:11:08Z,2014-04-22T20:57:40Z,bug
+relrod/tryidris-android,1,Screen rotation loses all state,open,2014-04-22T07:09:03Z,,bug
+slyfoxza/muzei-androidwallpapers,6,IllegalArgumentException when selecting random wallpaper,closed,2014-03-01T09:09:44Z,2014-03-03T21:37:22Z,bug
+slyfoxza/muzei-androidwallpapers,2,"""End of the Day"" wallpaper causes exception in Muzei core",closed,2014-02-17T17:32:17Z,2014-02-17T18:49:12Z,bug
+slyfoxza/muzei-androidwallpapers,1,"Sometimes title/byline updates, but wallpaper doesn't",closed,2014-02-17T06:53:07Z,2014-05-11T20:24:26Z,bug
+Myzhar/SimpleTrainingTimer,2,Keep the screen active,open,2015-01-17T08:24:18Z,,"bug, enhancement"
+Myzhar/SimpleTrainingTimer,1,Label too large in Android,closed,2014-03-21T11:34:45Z,2014-04-03T10:44:55Z,bug

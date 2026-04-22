@@ -1,0 +1,145 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+SafeSlingerProject/SafeSlinger-Android,145,SQLiteDatabaseCorruptException,open,2016-02-09T15:42:29Z,,bug
+SafeSlingerProject/SafeSlinger-Android,141,searching for backup toast,open,2016-01-14T15:06:12Z,,bug
+SafeSlingerProject/SafeSlinger-Android,137,NullPointerException in SlingerFragment,open,2015-09-30T13:33:37Z,,bug
+SafeSlingerProject/SafeSlinger-Android,135,annoying toast notifications,closed,2015-08-27T14:20:51Z,2015-09-03T19:39:20Z,bug
+SafeSlingerProject/SafeSlinger-Android,134,NullPointerException during getMessageNoncesByToken,closed,2015-07-28T18:31:46Z,2015-09-09T20:10:45Z,bug
+SafeSlingerProject/SafeSlinger-Android,132,NullPointerException in ExchangeActivity,open,2015-07-01T14:23:10Z,,bug
+SafeSlingerProject/SafeSlinger-Android,130,IllegalStateException in SSUtil.addAttachmentFromUri,closed,2015-05-19T14:16:59Z,2015-05-26T21:00:56Z,bug
+SafeSlingerProject/SafeSlinger-Android,129,draft edit timestamp inaccurate,closed,2015-05-07T18:40:00Z,2015-06-01T21:11:47Z,bug
+SafeSlingerProject/SafeSlinger-Android,128,NullPointerException in SSUtil.addAttachmentFromPath,closed,2015-05-06T13:29:54Z,2015-05-07T19:54:11Z,bug
+SafeSlingerProject/SafeSlinger-Android,127,Slings Keys imports with null key id,open,2015-04-28T15:46:47Z,,bug
+SafeSlingerProject/SafeSlinger-Android,123,InstantiationException in HomeActivity,closed,2015-04-06T13:52:53Z,2015-05-07T19:54:11Z,bug
+SafeSlingerProject/SafeSlinger-Android,122,long recipient name cuts off message count,closed,2015-04-03T16:24:00Z,2015-05-28T18:14:52Z,bug
+SafeSlingerProject/SafeSlinger-Android,121,setup passphrase IDE action inconsistent,closed,2015-04-02T21:33:22Z,2015-06-04T21:04:56Z,bug
+SafeSlingerProject/SafeSlinger-Android,120,multiple launches of showExchange,closed,2015-04-02T21:28:26Z,2015-06-11T20:56:37Z,bug
+SafeSlingerProject/SafeSlinger-Android,118,logout action may relaunch passphrase activity,closed,2015-04-02T17:15:24Z,2015-06-01T21:11:47Z,bug
+SafeSlingerProject/SafeSlinger-Android,117,conversation list position not always at bottom,closed,2015-04-02T17:12:41Z,2015-05-28T18:14:52Z,bug
+SafeSlingerProject/SafeSlinger-Android,116,onboarding should default to sling keys,closed,2015-04-02T16:16:44Z,2015-06-03T10:53:20Z,bug
+SafeSlingerProject/SafeSlinger-Android,115,recipient in/active state inaccurate,closed,2015-04-02T16:11:51Z,2015-05-08T20:18:36Z,bug
+SafeSlingerProject/SafeSlinger-Android,114,notification logout action missing,closed,2015-04-02T15:40:05Z,2015-06-01T21:11:47Z,bug
+SafeSlingerProject/SafeSlinger-Android,110,IllegalStateException in RecipientDbAdapter,closed,2015-03-09T16:01:28Z,2015-09-09T19:27:27Z,bug
+SafeSlingerProject/SafeSlinger-Android,108,languages menu flickers on setup view,closed,2015-03-06T17:22:52Z,2015-06-03T21:00:39Z,bug
+SafeSlingerProject/SafeSlinger-Android,107,NullPointerException in BaseActivity,closed,2015-03-06T17:19:53Z,2015-03-31T18:47:13Z,bug
+SafeSlingerProject/SafeSlinger-Android,106,NullPointerException in DraftData,closed,2015-03-03T16:01:05Z,2015-03-31T19:10:54Z,bug
+SafeSlingerProject/SafeSlinger-Android,103,Compose tab not loaded in rare case,closed,2015-02-25T20:23:13Z,2015-03-09T21:33:58Z,bug
+SafeSlingerProject/SafeSlinger-Android,102,New message count slow to update,closed,2015-02-25T20:13:53Z,2015-03-31T18:11:21Z,bug
+SafeSlingerProject/SafeSlinger-Android,101,NullPointerException in SettingsActivity,closed,2015-02-13T13:58:07Z,2015-02-14T21:44:51Z,bug
+SafeSlingerProject/SafeSlinger-Android,100,NetworkOnMainThreadException in ExchangeActivity,closed,2015-02-11T15:32:48Z,2015-02-12T20:29:08Z,bug
+SafeSlingerProject/SafeSlinger-Android,99,force stop error on startup,closed,2015-02-02T18:37:41Z,2015-03-31T17:26:26Z,bug
+SafeSlingerProject/SafeSlinger-Android,96,WindowManager$BadTokenException in ExchangeActivity,closed,2015-01-22T18:13:33Z,2015-02-12T20:29:08Z,bug
+SafeSlingerProject/SafeSlinger-Android,95,IllegalArgumentException selecting menu items API 9-19,closed,2015-01-22T18:09:41Z,2015-01-22T19:56:28Z,bug
+SafeSlingerProject/SafeSlinger-Android,94,"""pending"" still seen after server error",closed,2015-01-16T18:38:46Z,2015-06-11T20:56:37Z,bug
+SafeSlingerProject/SafeSlinger-Android,92,Action Bar Menus All Black,closed,2015-01-14T13:44:13Z,2015-01-21T21:02:57Z,bug
+SafeSlingerProject/SafeSlinger-Android,90,automated test message machine translations,closed,2015-01-09T20:26:13Z,2015-01-28T21:53:13Z,bug
+SafeSlingerProject/SafeSlinger-Android,89, Newly exchanged key unavailable immediately,closed,2015-01-09T15:55:17Z,2015-01-29T21:41:54Z,bug
+SafeSlingerProject/SafeSlinger-Android,88,RuntimeException in HomeActivity,closed,2015-01-05T13:45:27Z,2015-01-08T21:23:30Z,bug
+SafeSlingerProject/SafeSlinger-Android,87,push registration update scenarios,closed,2014-12-20T17:21:29Z,2014-12-23T06:30:14Z,bug
+SafeSlingerProject/SafeSlinger-Android,86,IllegalStateException in RecipientDbAdapter,closed,2014-12-16T20:51:41Z,2015-02-12T20:29:08Z,bug
+SafeSlingerProject/SafeSlinger-Android,80,IndexOutOfBoundsException in RecipientAdapter,closed,2014-11-11T15:41:31Z,2014-11-20T20:04:43Z,bug
+SafeSlingerProject/SafeSlinger-Android,79,IllegalStateException in RecipientAdapter,closed,2014-11-11T15:40:32Z,2014-11-20T20:04:43Z,bug
+SafeSlingerProject/SafeSlinger-Android,78,"restore notification for ""other"" thread in view",closed,2014-11-06T18:34:51Z,2014-11-06T21:03:07Z,bug
+SafeSlingerProject/SafeSlinger-Android,76,cumbersome message opening flow,closed,2014-10-24T14:04:03Z,2014-12-19T21:13:50Z,bug
+SafeSlingerProject/SafeSlinger-Android,65,recovery of recipients out of sync,open,2014-10-10T18:09:09Z,,bug
+SafeSlingerProject/SafeSlinger-Android,64,passphrase showing too frequently,closed,2014-10-05T19:32:38Z,2014-12-04T21:07:45Z,bug
+SafeSlingerProject/SafeSlinger-Android,63,image opening is slow,closed,2014-10-05T19:22:25Z,2014-11-10T16:07:01Z,"bug, duplicate"
+SafeSlingerProject/SafeSlinger-Android,62,number pad should show on API 8,closed,2014-10-01T12:25:21Z,2014-11-06T21:03:07Z,bug
+SafeSlingerProject/SafeSlinger-Android,61,share web page not working,closed,2014-09-27T20:09:17Z,2014-11-10T20:59:01Z,bug
+SafeSlingerProject/SafeSlinger-Android,57,Android 2.3 progress not closing,closed,2014-09-18T19:52:04Z,2014-10-01T12:55:06Z,bug
+SafeSlingerProject/SafeSlinger-Android,53,backup check unnecessary before setup complete,closed,2014-09-12T21:13:12Z,2014-11-07T22:37:54Z,bug
+SafeSlingerProject/SafeSlinger-Android,52,auto-link messages prevent copy/forward,closed,2014-09-12T15:33:52Z,2014-11-10T20:59:01Z,bug
+SafeSlingerProject/SafeSlinger-Android,49,Android blank messages,closed,2014-09-08T00:26:23Z,2014-11-06T21:03:08Z,bug
+SafeSlingerProject/SafeSlinger-Android,47,false updates of messages as sent,closed,2014-09-03T15:28:55Z,2015-04-07T19:13:48Z,bug
+SafeSlingerProject/SafeSlinger-Android,45,test foreground cache service efficiency,closed,2014-09-02T18:09:17Z,2014-12-04T21:07:45Z,bug
+SafeSlingerProject/SafeSlinger-Android,44,test edge cases for introduction import,closed,2014-09-02T18:07:00Z,2014-11-12T20:00:52Z,bug
+SafeSlingerProject/SafeSlinger-Android,43,photo size uneven Personal Contact options,closed,2014-09-02T17:38:09Z,2014-12-03T21:57:32Z,bug
+SafeSlingerProject/SafeSlinger-Android,42,inconsistant keypad/editbox focus,closed,2014-09-02T16:35:47Z,2014-11-10T20:59:01Z,bug
+SafeSlingerProject/SafeSlinger-Android,41,improve Intent interactions,closed,2014-09-02T16:33:02Z,2014-11-07T22:37:54Z,bug
+SafeSlingerProject/SafeSlinger-Android,34,landscape view of keypad loses transcript context,closed,2014-08-29T21:39:11Z,2014-10-31T18:58:33Z,bug
+SafeSlingerProject/SafeSlinger-Android,31,creation of draft before login,closed,2014-08-29T21:25:44Z,2014-11-07T22:37:54Z,bug
+SafeSlingerProject/SafeSlinger-Android,30,lost compose tab draft,closed,2014-08-29T21:20:50Z,2014-12-01T22:04:25Z,bug
+SafeSlingerProject/SafeSlinger-Android,28,inconsistent operation of activity back stack,closed,2014-08-28T17:54:45Z,2015-03-23T20:01:45Z,bug
+SafeSlingerProject/SafeSlinger-Android,27,send-only mode is confusing for users,closed,2014-08-28T17:08:38Z,2015-03-20T20:41:50Z,bug
+SafeSlingerProject/SafeSlinger-Android,21,all tab views slow to update on startup,closed,2014-08-27T19:01:45Z,2014-10-15T19:26:28Z,bug
+SafeSlingerProject/SafeSlinger-Android,20,adjust default tab views depending on state,closed,2014-08-27T18:57:34Z,2014-10-15T19:26:20Z,bug
+SafeSlingerProject/SafeSlinger-Android,16,incoming message on compose tab loses editbox focus,closed,2014-08-27T14:48:25Z,2014-11-10T20:59:01Z,bug
+SafeSlingerProject/SafeSlinger-Android,15,offline introduction attempts create false drafts,closed,2014-08-08T21:42:12Z,2014-11-13T21:18:23Z,bug
+SafeSlingerProject/SafeSlinger-Android,12,creating new personal contact ui refresh,closed,2014-08-08T20:23:52Z,2014-11-12T20:59:12Z,bug
+SafeSlingerProject/SafeSlinger-Android,11,crash on galaxy nexus/galaxy s when importing 8 contacts,closed,2014-08-08T20:14:17Z,2014-12-01T18:50:08Z,bug
+SafeSlingerProject/SafeSlinger-Android,6,Missing localization texts,closed,2014-07-18T01:18:16Z,2014-08-08T20:24:48Z,bug
+SafeSlingerProject/SafeSlinger-Android,3,sending attachment failed,closed,2014-05-18T13:19:36Z,2014-06-12T20:24:20Z,bug
+thehyve/transmart-android,3,Fix calculation of barchart,open,2016-11-04T20:45:29Z,,bug
+petalyaa/Launchpet2,6,Failed to parse pubDate from tumblr rss,closed,2014-12-08T03:23:00Z,2014-12-08T03:29:09Z,bug
+petalyaa/Launchpet2,1,Failed to delete feed source,closed,2014-12-07T05:22:05Z,2014-12-07T05:56:20Z,bug
+caarmen/PalidaMuerte,3,Fix layout on small screens ,closed,2014-04-23T22:18:56Z,2014-04-24T19:55:00Z,bug
+DHM47/Native-Clip-Board,12,Doesn't work in MIUI6,closed,2014-10-12T09:04:22Z,2015-02-02T19:44:50Z,bug
+zhuowei/PocketInvEditor,60,Minecraft PE 0.10.5 Support?,open,2015-01-22T16:41:03Z,,bug
+zhuowei/PocketInvEditor,29,double chest,open,2013-09-07T18:36:36Z,,bug
+zhuowei/PocketInvEditor,14,Stuck on Loading... bug,open,2013-01-09T06:01:20Z,,bug
+zhuowei/PocketInvEditor,12,Kindle Fire fails,open,2012-11-26T03:18:36Z,,bug
+zhuowei/PocketInvEditor,8,App does not properly observe Android app lifecycle,open,2012-05-25T22:29:35Z,,bug
+fvasco/pinpoi,28,Error message : Please Check the values,closed,2020-11-03T13:10:05Z,2020-11-09T13:32:52Z,bug
+willblaschko/AlexaAndroid,7,Getting auth issue form Amazon,closed,2016-05-30T09:58:06Z,2016-08-23T16:01:54Z,bug
+willblaschko/AlexaAndroid,6,Getting error from Amazon when I accepted the security profile term & condition.,closed,2016-05-30T05:47:06Z,2016-05-31T07:25:30Z,bug
+sialan-labs/kaqaz,4,Dropbox sync does not work,closed,2014-09-22T20:43:18Z,2014-09-29T15:22:43Z,bug
+sialan-labs/kaqaz,3,Keyboard predicative not working,closed,2014-08-26T04:09:01Z,2014-09-29T15:23:07Z,bug
+sialan-labs/kaqaz,1,Free android version: blinking keyboard icon ,closed,2014-08-25T06:06:34Z,2014-08-26T04:05:38Z,bug
+nbd9/UnityPlanner,36,Tutorial continue button gets cut off on smaller devices,closed,2017-09-15T17:17:09Z,2019-04-06T00:33:02Z,bug
+nbd9/UnityPlanner,32,Google Calendar intergration,closed,2017-09-01T20:24:40Z,2017-09-05T17:23:53Z,bug
+nbd9/UnityPlanner,28,Editing course results in app crash,closed,2017-09-01T04:05:08Z,2017-09-04T02:53:22Z,bug
+marco97pa/punti-burraco,67,Missing PendingIntent flag causes crash on creating the suspended game notification,closed,2022-05-05T19:33:52Z,2022-05-05T19:39:36Z,bug
+marco97pa/punti-burraco,64,In App Billing library needs to be updated to v3+,closed,2021-10-29T12:56:36Z,2021-10-31T15:54:53Z,bug
+marco97pa/punti-burraco,61,Shortcuts icons and dark mode,closed,2020-05-30T14:32:26Z,2020-05-30T14:34:02Z,bug
+marco97pa/punti-burraco,60,Untranslated text in Input Gioc Alert,closed,2020-05-30T14:30:43Z,2020-05-30T14:34:02Z,bug
+marco97pa/punti-burraco,56,Status bar color is wrong on certain Android 5 devices,closed,2020-05-02T21:43:06Z,2020-05-06T17:07:49Z,"bug, design"
+marco97pa/punti-burraco,55,Player name is oddly underlined,closed,2020-05-01T16:29:31Z,2020-05-06T17:07:49Z,"bug, design"
+marco97pa/punti-burraco,52,Scoped Storage Access,closed,2020-04-20T22:57:29Z,2020-05-06T17:07:49Z,"bug, user voice"
+marco97pa/punti-burraco,51,Losing EditTexts' content when Changing Configuration,closed,2020-04-20T22:49:10Z,2020-05-06T17:07:49Z,"bug, user voice"
+marco97pa/punti-burraco,44,Selecting images issues on low RAM and huge galleries,closed,2020-04-09T13:52:25Z,2020-05-06T17:07:49Z,"bug, help wanted, user voice"
+marco97pa/punti-burraco,36,Prevent inserting long player names,closed,2019-09-11T08:05:06Z,2020-03-23T17:15:26Z,bug
+marco97pa/punti-burraco,33,Prevent exceptions during onStart() method,closed,2019-09-01T15:46:20Z,2019-09-09T21:47:49Z,"bug, performance"
+marco97pa/punti-burraco,26,Bottom Sheet Dialog on History not fully open in landscape,closed,2019-06-17T19:59:57Z,2019-06-23T11:25:45Z,"bug, design"
+marco97pa/punti-burraco,25,BottomSheetDialog not fully open when in landscape on certain devices,closed,2019-06-15T20:56:49Z,2019-06-15T20:59:34Z,"bug, design"
+marco97pa/punti-burraco,23,Lock screen rotation during Sharing,closed,2019-06-15T12:56:07Z,2019-06-15T20:59:34Z,bug
+marco97pa/punti-burraco,16,Resources NotFoundException,closed,2019-02-15T10:14:03Z,2019-03-19T15:22:29Z,"bug, help wanted"
+marco97pa/punti-burraco,15,Wrong winner at certain conditions,closed,2019-01-31T22:52:56Z,2019-01-31T22:55:56Z,"bug, question"
+marco97pa/punti-burraco,11,Photo profile editor on Android 9.0,closed,2019-01-31T22:35:11Z,2019-01-31T22:36:23Z,"bug, performance"
+marco97pa/punti-burraco,1,Optimize layout on low dpi devices,closed,2017-04-13T21:57:17Z,2017-04-17T18:13:48Z,bug
+0x1bad1d3a/Kaku,25,"Fix commonly misrecognized kana, always provide ten-ten/small kana in swap quick action",open,2019-03-04T05:33:44Z,,bug
+0x1bad1d3a/Kaku,24,Hiragana-only words do not show up in the dictionary,open,2019-03-04T05:26:16Z,,bug
+0x1bad1d3a/Kaku,18,Full selected text not available for copying,closed,2019-03-04T04:53:52Z,2019-03-16T07:41:30Z,bug
+0x1bad1d3a/Kaku,17,Music/Media pauses or stops when Kaku first opens,closed,2019-03-04T04:51:56Z,2019-03-04T09:34:56Z,bug
+0x1bad1d3a/Kaku,16,Investigate out of bounds in EditWindow.setInfo(),open,2019-03-02T07:09:48Z,,bug
+0x1bad1d3a/Kaku,15,Rankings for certain kinds of words are wrong,open,2019-02-24T10:53:46Z,,bug
+0x1bad1d3a/Kaku,13,Shutting down Kaku's service does not completely kill the service,open,2019-02-17T03:37:33Z,,"bug, backlog"
+0x1bad1d3a/Kaku,11,Kaku pauses media when the service is started,closed,2019-02-15T07:36:50Z,2019-03-03T04:04:59Z,bug
+0x1bad1d3a/Kaku,4,Finding the OCR box isn't robust enough to handle all Android display modes,closed,2017-01-15T03:24:16Z,2017-02-11T07:02:36Z,"bug, enhancement"
+0x1bad1d3a/Kaku,3,Kaku crashes when no kanji is detected by the OCR engine,closed,2017-01-14T20:45:23Z,2017-01-25T22:31:35Z,bug
+laurentsebag/android-wifi-timer,62,Timer dialog button disabled state shown as if enabled on API 9,open,2016-05-27T07:17:31Z,,bug
+laurentsebag/android-wifi-timer,50,Avoid tracking crashes on debug builds ,closed,2016-05-23T10:43:57Z,2016-05-24T04:31:11Z,bug
+laurentsebag/android-wifi-timer,49,Timer dialog is not always showing on time from Android N,closed,2016-05-21T06:23:22Z,2019-02-09T17:15:16Z,bug
+laurentsebag/android-wifi-timer,47,Fix layout issue on 2.3 devices,closed,2016-05-19T06:31:36Z,2016-05-25T17:15:46Z,bug
+laurentsebag/android-wifi-timer,44,TimerActivity can take several seconds before appearing,closed,2016-05-12T07:17:30Z,2016-05-14T19:44:41Z,bug
+laurentsebag/android-wifi-timer,43,Fix Analytics Screen reporting,closed,2016-05-06T17:45:32Z,2016-05-08T21:04:51Z,bug
+laurentsebag/android-wifi-timer,31,Prevent setting timer in the past,closed,2016-04-28T06:25:51Z,2016-04-29T15:49:34Z,bug
+laurentsebag/android-wifi-timer,19,Wifi dialog is shown on boot,closed,2016-04-20T17:39:06Z,2016-04-20T17:51:55Z,bug
+laurentsebag/android-wifi-timer,14,App doesn't build on sdk 23,closed,2016-04-14T06:25:22Z,2016-04-15T05:56:04Z,bug
+laurentsebag/android-wifi-timer,6,Wifi dialog forces device to go portrait,closed,2016-04-14T05:44:05Z,2016-04-20T17:22:14Z,bug
+laurentsebag/android-wifi-timer,4,Not working on nexus 5/kitkat,closed,2013-12-07T16:56:39Z,2013-12-09T07:31:19Z,bug
+laurentsebag/android-wifi-timer,3,About dialog has no margins,closed,2013-03-10T10:12:51Z,2013-03-10T11:47:41Z,bug
+laurentsebag/android-wifi-timer,1,The application doesn't work on airplane mode,closed,2013-03-10T09:48:05Z,2013-03-10T11:48:00Z,bug
+cgreenhalgh/opensharingtoolkit-kiosk,13,kiosk images (urls) are broken in chooser app,closed,2014-10-28T13:51:11Z,2014-10-28T13:52:12Z,bug
+cgreenhalgh/opensharingtoolkit-kiosk,10,kiosk entry icon low quality,closed,2014-10-28T09:33:15Z,2014-10-28T10:40:23Z,bug
+cgreenhalgh/opensharingtoolkit-kiosk,9,kiosk preview and send local from cache fail for paths with %-escapes,closed,2014-10-27T17:10:47Z,2014-10-28T10:40:23Z,bug
+cgreenhalgh/opensharingtoolkit-kiosk,8,cache builder fails for wototo web app via external url,closed,2014-10-27T15:16:52Z,2014-10-28T10:17:07Z,bug
+cgreenhalgh/opensharingtoolkit-kiosk,4,kiosk send local option giving internet (not local) URL,open,2014-09-25T20:06:42Z,,bug
+cgreenhalgh/opensharingtoolkit-kiosk,3,hotspot captive portal not working with Nexus 10,open,2014-09-25T20:05:01Z,,bug
+cgreenhalgh/opensharingtoolkit-kiosk,2,chooser app has no way for user to terminate background service,closed,2014-09-25T20:03:37Z,2014-09-30T15:56:40Z,bug
+cgreenhalgh/opensharingtoolkit-kiosk,1,cache_builder does not signal many errors,open,2014-09-25T20:02:09Z,,bug
+chris-carneiro/Wi-Fi-Toggler,7,SavedWifiListActivityAbstract is leaking,closed,2016-06-30T17:21:15Z,2016-06-30T17:27:37Z,bug
+chris-carneiro/Wi-Fi-Toggler,6,System Settings activity layout is not updated on system settings changes,closed,2015-11-24T17:00:39Z,2015-11-24T17:50:51Z,bug
+chris-carneiro/Wi-Fi-Toggler,5,Undo banner isn't hidden rightaway after undo is clicked,closed,2015-11-18T21:56:58Z,2015-11-24T17:50:55Z,"bug, enhancement"
+chris-carneiro/Wi-Fi-Toggler,4,Wifi onDismiss undo banner hides too quickly,closed,2015-11-18T14:29:06Z,2015-11-18T14:49:56Z,bug
+chris-carneiro/Wi-Fi-Toggler,3,"In Startup Check Settings activity, Continue button sometimes does nothing",closed,2015-10-23T12:35:19Z,2016-06-19T12:49:34Z,bug
+chris-carneiro/Wi-Fi-Toggler,2,Wifi adapter remains enabled,closed,2015-10-22T12:19:41Z,2015-10-23T12:34:25Z,bug
+chris-carneiro/Wi-Fi-Toggler,1,NPE at startup settings check,closed,2015-10-11T18:03:22Z,2015-11-12T12:42:52Z,bug

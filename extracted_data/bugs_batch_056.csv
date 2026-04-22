@@ -1,0 +1,22 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+saint1991/GPSLogger,9,サービスやアクティビティがキルされた場合に対処,closed,2015-02-13T07:51:49Z,2015-04-04T18:10:05Z,bug
+bpear/Nexus-4-Modem-Flasher,3,Experiencing Odd issues on my Nexus 4 on T-Mobile with Radio Selector,open,2014-02-09T20:28:55Z,,bug
+Manabu-GT/EtsyBlur,9,Throw java.lang.IllegalArgumentException: width and height must be > 0,closed,2015-07-09T14:38:36Z,2015-08-23T16:54:53Z,bug
+Manabu-GT/EtsyBlur,4,throw NullPointerException if DialogFragment implements onCreateDialog,closed,2015-03-13T12:20:17Z,2015-03-27T14:49:20Z,bug
+h6ah4i/android-verticalseekbar,6,Seekbars disappear with RTL layout direction,closed,2017-03-10T18:29:29Z,2017-03-12T03:30:02Z,bug
+h6ah4i/android-verticalseekbar,5,Drag handle goes outside layout bounds,closed,2017-02-10T19:39:01Z,2017-02-25T03:36:30Z,bug
+h6ah4i/android-verticalseekbar,3,Strange behaviour of padding,closed,2016-04-01T15:50:39Z,2016-06-04T09:31:00Z,bug
+dsoulayrol/android-sholi,19,"After an item is removed, the top text field overlaps the list",closed,2015-01-06T21:24:32Z,2015-07-14T11:53:15Z,bug
+dsoulayrol/android-sholi,18,App crash when deleting item,closed,2015-01-05T20:37:50Z,2015-07-14T11:53:15Z,bug
+dsoulayrol/android-sholi,15,F-Droid compilation fails since 1.4.0,closed,2014-09-09T21:21:23Z,2015-01-03T16:01:29Z,bug
+dsoulayrol/android-sholi,13,Crash when setting a new gesture,closed,2014-08-18T20:07:54Z,2015-01-03T16:15:34Z,bug
+dsoulayrol/android-sholi,11,Force close on startup with 1.4,closed,2014-08-16T22:04:07Z,2014-08-18T20:01:21Z,bug
+dsoulayrol/android-sholi,5,Can't add items,closed,2014-04-19T20:13:02Z,2014-08-16T10:51:06Z,bug
+dsoulayrol/android-sholi,1,Multi selection in editing view is broken,closed,2014-01-26T16:20:18Z,2014-01-26T17:25:30Z,bug
+75py/My-pkgs,3,初回インストール日時、最終更新日時が1970年代になることがある,closed,2015-04-06T12:44:21Z,2015-04-12T04:51:09Z,bug
+75py/My-pkgs,1,検索で404,closed,2015-04-06T10:53:14Z,2015-04-12T04:50:21Z,bug
+Djiko/trolly,5,Untranslated preference string,closed,2016-08-06T13:54:08Z,2016-11-06T14:50:12Z,bug
+Djiko/trolly,2,List no refreshed when changing item state,closed,2016-08-06T10:35:22Z,2016-08-07T10:29:43Z,bug
+Djiko/trolly,1,Editing an item impossible,closed,2016-07-20T07:33:57Z,2016-11-06T14:50:12Z,bug
+praveendath92/PopTilesPlus,2,Mode change on app open fail,closed,2014-09-11T16:49:00Z,2014-09-11T22:00:32Z,bug
+praveendath92/PopTilesPlus,1,Fast play issue clicks miss,closed,2014-09-11T05:36:37Z,2014-09-11T16:46:27Z,"bug, enhancement"

@@ -1,0 +1,35 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+3pillarlabs/socialauth-android,7,Facebook return status not updated. Return Status code :403.,open,2014-02-05T12:18:40Z,,bug
+zahid-ali-shah/SignatureView,11,setBitmap may be is incorrect,closed,2018-01-25T18:50:10Z,2018-01-30T19:25:21Z,bug
+zahid-ali-shah/SignatureView,7,com.kyanogen.signatureview.SignatureView.newBitmapCanvas(,closed,2017-01-31T11:13:13Z,2017-08-04T17:38:05Z,bug
+zahid-ali-shah/SignatureView,6,Not changing color,closed,2016-07-22T15:44:12Z,2017-08-04T17:38:05Z,bug
+smart-fun/TabStacker,8,Rotation resets fragment backstack,closed,2017-05-12T07:59:29Z,2017-05-16T16:12:05Z,bug
+smart-fun/TabStacker,5,my UI hang / freeze when add new fragment with ScrollView inside,closed,2017-01-31T04:01:00Z,2017-02-01T10:14:45Z,bug
+smart-fun/TabStacker,1,fragment view doesnt recreate,closed,2017-01-10T11:04:56Z,2017-01-11T08:05:40Z,bug
+vanillastatus/VanillaStatusApp,29,Android Permission Issues,closed,2017-01-18T07:31:16Z,2017-01-18T08:26:58Z,"bug, Android"
+vanillastatus/VanillaStatusApp,18,Material Box footer titles & subtitles should truncate (ellipse) if they run out of room,closed,2017-01-17T02:00:43Z,2017-01-17T04:32:54Z,"bug, dev"
+andreyrd/ListLauncher,44,Crashing on start,open,2020-05-27T22:01:48Z,,bug
+andreyrd/ListLauncher,41,Support latest versions of Android,closed,2019-12-24T08:59:50Z,2020-04-14T04:12:55Z,bug
+andreyrd/ListLauncher,40,Still stupid slow,closed,2019-12-24T08:57:43Z,2020-04-14T04:13:02Z,bug
+andreyrd/ListLauncher,32,Icons load slowly,open,2017-05-27T02:08:14Z,,"bug, user-request"
+andreyrd/ListLauncher,29,Phone icon does not show up,open,2017-03-22T16:23:34Z,,bug
+andreyrd/ListLauncher,28,Annoying animation when going home,open,2016-01-27T06:27:07Z,,bug
+andreyrd/ListLauncher,22,ArrayIndexOutOfBoundsException on launch,closed,2015-09-12T17:39:37Z,2015-09-19T19:38:42Z,bug
+andreyrd/ListLauncher,16,Scrolling still jumpy,open,2015-07-25T22:54:19Z,,"bug, help wanted"
+andreyrd/ListLauncher,15,"Wallpaper doesn't show by default, even though checked",closed,2015-07-21T18:47:43Z,2015-11-29T04:04:08Z,bug
+andreyrd/ListLauncher,11,Scroll thumb goes past end of scroll bar,closed,2015-06-13T21:53:50Z,2015-07-13T22:29:37Z,bug
+andreyrd/ListLauncher,2,Camera App not showing up.,closed,2014-07-10T04:38:37Z,2015-09-07T23:37:18Z,bug
+andreyrd/ListLauncher,1,Debug properly handling broadcasts for added/removed packages.,closed,2014-07-10T04:38:07Z,2014-07-19T19:16:58Z,bug
+kyriog/rights-alert,16,Limit application icon width,closed,2012-05-01T23:04:25Z,2012-05-04T22:16:43Z,bug
+kyriog/rights-alert,1,Crash if screen rotates when the ProgressDialog is displayed,closed,2012-04-26T22:06:02Z,2012-04-28T11:57:38Z,bug
+tim-sueberkrueb/ourgus,7,AppImage doesn't work anymore,open,2018-04-21T15:10:35Z,,bug
+tim-sueberkrueb/ourgus,2,AppImage segfaults,closed,2017-06-13T13:19:56Z,2017-06-30T10:10:06Z,"bug, help wanted"
+forrestguice/thunder-stopwatch,22,start/stop button appearance,open,2015-04-28T01:40:19Z,,"bug, enhancement"
+forrestguice/thunder-stopwatch,20,copy timer text,closed,2015-04-26T20:29:36Z,2015-04-26T21:38:03Z,bug
+forrestguice/thunder-stopwatch,19,minify release apk,closed,2015-04-26T19:46:50Z,2015-04-26T21:38:02Z,bug
+forrestguice/thunder-stopwatch,13,double application icons,closed,2015-02-04T04:17:28Z,2015-02-07T04:54:53Z,bug
+forrestguice/thunder-stopwatch,12,SeekBarPreference closes immediately on touch,open,2015-02-04T04:13:46Z,,bug
+forrestguice/thunder-stopwatch,11,menu unreachable (tested on 4.4.2),closed,2015-02-04T04:05:51Z,2015-02-07T04:54:40Z,bug
+forrestguice/thunder-stopwatch,10,"""App has stopped"" after attempted delete of log entries",closed,2015-02-04T03:56:11Z,2015-02-07T04:54:31Z,bug
+forrestguice/thunder-stopwatch,9,missing xhdpi drawables,closed,2015-02-01T16:44:29Z,2015-02-04T04:33:18Z,bug
+ppamorim/Cult,5,SearchView fails to save toggle state on Configuration Change,open,2015-09-16T15:36:19Z,,"bug, enhancement"

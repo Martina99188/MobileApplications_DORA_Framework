@@ -1,0 +1,8 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+louisbloom/loananalyzer,3,Create the right distinction between annual rate and APR,closed,2016-06-30T05:31:40Z,2016-07-17T08:45:55Z,bug
+louisbloom/loananalyzer,2,Reverse calc on principal loans is broke,closed,2016-05-21T17:30:15Z,2016-05-22T15:58:36Z,bug
+David-Development/H-BRS-Android-Stundenplan,1,Fragment already added: TimetableDayFragment,closed,2015-04-23T15:11:48Z,2015-04-23T20:09:40Z,bug
+alaskalinuxuser/app_justnotes,16,Can't scroll till the bottom (keyboard) ,closed,2018-04-09T10:58:29Z,2018-04-09T18:49:07Z,bug
+alaskalinuxuser/app_justnotes,15,app crash,closed,2018-04-04T14:22:25Z,2018-04-09T18:50:07Z,bug
+alaskalinuxuser/app_justnotes,13,bug found when copiyng more than thausand word,open,2018-03-14T15:07:40Z,,bug
+alaskalinuxuser/app_justnotes,11,Justnotes app exports just before import.,open,2018-02-15T19:33:10Z,,bug

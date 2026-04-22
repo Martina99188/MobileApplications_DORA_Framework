@@ -1,0 +1,20 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+kahluagenie/muzei-gopro,1,Connectivity change broadcast receiver,closed,2015-12-01T09:37:51Z,2015-12-07T14:56:32Z,bug
+BlueHerons/StatTrackerApp,5,Add upload retry logic,open,2015-11-16T05:36:51Z,,"bug, enhancement"
+BlueHerons/StatTrackerApp,3,Sharing from Ingress on Marshmallow Fails,open,2015-11-09T09:03:38Z,,bug
+Pushjet/Pushjet-Android,27,Time not correct,open,2017-12-26T21:43:31Z,,bug
+Pushjet/Pushjet-Android,26,UUID in Settings not correctly formatted,open,2017-08-17T14:59:06Z,,bug
+Pushjet/Pushjet-Android,9,Crashing when opening app,open,2016-08-04T18:42:41Z,,bug
+Pushjet/Pushjet-Android,6,Https requests are always converted to http,open,2016-04-28T11:19:41Z,,bug
+Pushjet/Pushjet-Android,5,Invalid Requests,open,2016-04-02T16:49:05Z,,bug
+Pushjet/Pushjet-Android,1,Notifications on Android Wear show a solid color as background,closed,2015-04-29T18:52:39Z,2015-06-08T14:49:13Z,bug
+mkorcha/MediaButtonOverlay,1,Buttons won't press,closed,2017-11-08T06:59:06Z,2017-11-18T22:16:04Z,bug
+arnef/bewegungsmelder-android,2,Darstellungsprobleme bei Eintritt,open,2014-10-13T19:32:32Z,,bug
+ehsanmasdar/LASA-Schedules,2,Use MongoDB,open,2016-06-27T20:44:38Z,,bug
+Archheretic/ParkingLotTrackerMobileApp,3,Fails to generate a working release APK,closed,2017-05-20T14:18:54Z,2017-05-20T14:30:46Z,bug
+Archheretic/ParkingLotTrackerMobileApp,2,"Warning message: Each  child in an array or iterator should have a unique ""key"" prop.",closed,2017-05-19T08:20:52Z,2017-05-20T10:21:33Z,bug
+Archheretic/ParkingLotTrackerMobileApp,1,"The text on header button ""Innstillinger"" is wrapped.",closed,2017-05-19T08:18:02Z,2017-05-20T10:21:45Z,bug
+cesardmoro/brewapp,2,La pantalla es mas ancha que el ancho del telefono,open,2017-03-01T14:21:32Z,,Bug
+cesardmoro/brewapp,1,[BUG] Macerado y Hervido No muestran correctamente algunos datos.,closed,2017-03-01T14:21:22Z,2017-03-11T12:49:21Z,Bug
+dwaynehoy/OpenDialer,17,Crash on Android 6.0 when accepting permission inside the app,closed,2015-12-23T02:13:47Z,2015-12-31T13:52:55Z,bug
+dwaynehoy/OpenDialer,7,Recents adapter is not finding contact details for any entries,closed,2015-12-17T10:03:12Z,2015-12-17T10:07:06Z,bug

@@ -1,0 +1,49 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+indywidualny/Centrum.fm,2,Application not working!,closed,2016-03-19T20:08:07Z,2016-03-19T20:14:03Z,bug
+OnlyInAmerica/BART,7,Handle xml parsing errors,open,2012-05-15T20:14:13Z,,bug
+OnlyInAmerica/BART,4,[Rare] Stop Service label not removed on service exit,closed,2012-04-03T22:58:35Z,2012-05-15T20:08:27Z,bug
+OnlyInAmerica/BART,3,[Rare] Route Guidance: Negative ETAs,closed,2012-04-03T22:54:02Z,2012-05-15T20:08:18Z,bug
+Tywholland/KitchenSync,9,Fix data usage issues,open,2012-07-24T21:02:16Z,,"Critical/Bug in release, Backend"
+Tywholland/KitchenSync,5,Fix GoogleDocsSync,open,2012-07-24T19:56:34Z,,"Critical/Bug in release, Backend"
+TweetMap/TweetMapForAndroid,34,TwitterUtils.storeAccessToken の引数にnullを渡すとN.P.E,closed,2015-09-18T17:56:33Z,2015-09-18T18:09:39Z,bug
+TweetMap/TweetMapForAndroid,27,TwitterUtils.storeAccessTokenの引数AccessTokenにnullを指定するとN.P.E.,closed,2015-09-15T13:10:16Z,2015-09-18T17:26:09Z,bug
+TweetMap/TweetMapForAndroid,26,TwitterUtils.storeAccessTokenの引数contextにnullを指定するとN.P.E.,closed,2015-09-15T13:09:15Z,2015-09-18T17:23:44Z,bug
+TweetMap/TweetMapForAndroid,24,Lint: NewApi: Calling new methods on older versions,open,2015-09-15T11:50:52Z,,bug
+TweetMap/TweetMapForAndroid,12,TwitterAccessTokenが空の場合TwitterUtils.hasAccessTokenがtrueを返す,closed,2015-09-15T06:14:39Z,2015-09-19T04:46:26Z,bug
+TweetMap/TweetMapForAndroid,1,Follow Twitter Developer Display Requirements,open,2015-09-13T14:10:39Z,,bug
+robinos/Handalfabet,11,"Att ta bild med simulator fungerar, men inte mobilen",open,2012-10-22T20:05:31Z,,bug
+robinos/Handalfabet,10,Dubbel e,open,2012-10-22T20:03:57Z,,bug
+robinos/Handalfabet,9,Nerräkning vid interruption (telefonsamtal),open,2012-10-22T20:02:31Z,,bug
+robinos/Handalfabet,8,Fel i poäng på första spelrundan,closed,2012-10-20T20:35:55Z,2012-10-20T21:14:55Z,bug
+robinos/Handalfabet,6,Ticking ljud fortsätter efter bakåt knapp från Game,closed,2012-10-10T11:27:48Z,2012-10-10T14:34:58Z,bug
+robinos/Handalfabet,5,Om man ändra från portrait till landscape (eller tillbaka) startas spelet om,open,2012-10-07T22:17:06Z,,bug
+robinos/Handalfabet,4,Main Menu knappen i GameEnd går ingenstans.,closed,2012-10-05T08:56:31Z,2012-10-11T02:13:24Z,bug
+robinos/Handalfabet,2,Onödig visning av en yttreligare fråga när spelrundan är slut ,closed,2012-10-03T13:44:18Z,2012-10-11T02:15:14Z,bug
+robinos/Handalfabet,1,Användarnamn,open,2012-10-02T13:58:43Z,,bug
+shubhamchaudhary/wordpowermadeeasy,7,Initial popup goes missing if roataion changes while popup is on screen,closed,2015-05-18T02:10:38Z,2016-02-21T22:30:15Z,bug
+shubhamchaudhary/wordpowermadeeasy,2,Meaning lost after rotation,closed,2014-08-29T19:49:34Z,2014-08-30T21:11:17Z,"bug, easy"
+pryds/ve,16,Possible wrong word in string,closed,2014-02-24T12:52:08Z,2014-02-24T13:47:27Z,bug
+pryds/ve,9,String correction: not all fields filled in,closed,2014-01-15T11:40:50Z,2014-01-18T19:58:19Z,bug
+pryds/ve,8,"""fuzzy"" in header",closed,2014-01-15T11:10:16Z,2014-01-15T12:26:21Z,bug
+pryds/ve,7,Double quotes not escaped,closed,2014-01-15T11:08:42Z,2014-01-15T12:26:46Z,bug
+lambdasoup/blockvote,35,graph not always updated,open,2017-10-26T07:41:22Z,,"bug, app"
+lambdasoup/blockvote,27,typo on main screen,closed,2017-03-07T08:35:38Z,2017-03-07T09:31:07Z,"bug, app"
+lambdasoup/blockvote,19,Widget example image,closed,2017-02-13T18:00:39Z,2017-02-14T09:37:00Z,"bug, app"
+delight-im/Android-AdvancedWebView,279,shouldOverrideUrlLoading does not seem to get called properly + appreciation post,open,2020-10-17T22:01:13Z,,bug
+delight-im/Android-AdvancedWebView,231,"goBack() is loading the same page, when the page is redirected",open,2019-03-04T14:31:49Z,,"bug, backwards-incompatible"
+delight-im/Android-AdvancedWebView,122,admob,open,2017-03-10T14:01:04Z,,bug
+delight-im/Android-AdvancedWebView,83,error onUnhandledInputEvent on api 24,open,2016-09-28T07:08:33Z,,bug
+delight-im/Android-AdvancedWebView,61,The following classes could not be instantiated: - im.delight.android.webview.AdvancedWebView,closed,2016-06-25T17:53:20Z,2016-07-24T16:43:30Z,bug
+delight-im/Android-AdvancedWebView,27,Custom headers not sent with every request,closed,2015-10-14T12:07:02Z,2016-03-30T13:07:06Z,bug
+delight-im/Android-AdvancedWebView,12,Image names are altered.,closed,2015-02-16T18:13:09Z,2015-02-16T18:38:59Z,bug
+delight-im/Android-AdvancedWebView,5,Geolocation doesn't work,closed,2015-01-21T13:52:14Z,2015-01-22T15:37:04Z,bug
+delight-im/Android-AdvancedWebView,3,"onActivityResult (int requestCode, int resultCode, Intent intent) is not called inside fragments",closed,2015-01-16T09:32:39Z,2015-01-24T00:13:27Z,bug
+delight-im/Android-AdvancedWebView,2,java.lang.IllegalArgumentException: Can only use lower 16 bits for requestCode,closed,2015-01-15T18:58:11Z,2015-01-15T22:03:34Z,bug
+outadoc/SplatCompanion,4,Interface isn't always updated after the end of countdown,closed,2015-08-25T20:48:58Z,2015-08-26T20:02:13Z,bug
+artemnikitin/tts-test-app,7,Look at Google Play users issues,open,2017-09-30T15:18:00Z,,bug
+artemnikitin/tts-test-app,4,Keep selected language on orientation change,open,2017-02-05T15:35:38Z,,bug
+yancyn/ParcelTrack,46,Poslaju search fail,open,2014-04-26T08:54:25Z,,bug
+yancyn/ParcelTrack,30,Failed to open link for Citylink,open,2014-03-25T02:09:18Z,,bug
+yancyn/ParcelTrack,25,Lost annotation after refresh,closed,2014-03-21T10:12:48Z,2014-03-24T07:41:34Z,bug
+yancyn/ParcelTrack,13,getString for space character,closed,2014-03-19T02:51:02Z,2014-03-20T11:52:01Z,bug
+yancyn/ParcelTrack,6,Poslaju failed to retrieve track details,closed,2014-03-17T13:57:14Z,2014-03-17T16:28:01Z,bug

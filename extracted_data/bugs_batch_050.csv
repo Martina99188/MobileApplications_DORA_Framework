@@ -1,0 +1,54 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+shaobin0604/pocket-voa,16,[bug]crash when refresh lyric,closed,2010-07-15T11:39:16Z,2013-08-13T14:25:50Z,Bug
+pacebl/MunchLife,9,Crash when screen is rotated and a wakelock is active,open,2010-12-31T23:42:31Z,,Bug
+randombyte-developer/SGLVertretungsplan,47,"Motd: remove ""Abwesende Klassen""",closed,2015-09-23T05:03:09Z,2015-11-04T17:12:19Z,bug
+randombyte-developer/SGLVertretungsplan,41,Trim content of login edittexts,closed,2015-09-10T08:51:22Z,2015-09-10T19:07:33Z,bug
+chdir/aria2-android,11,webui + external IP,closed,2017-11-25T01:00:56Z,2020-02-15T02:11:19Z,"bug, urgent"
+chdir/aria2-android,8,Can't start on shield TV,closed,2017-11-03T16:07:24Z,2020-02-15T02:11:02Z,"bug, urgent"
+chdir/aria2-android,7,Torrents don't start downloading,closed,2017-01-11T15:42:53Z,2017-09-08T04:46:24Z,bug
+chdir/aria2-android,6,Available space doesn't change when I change directory,closed,2017-01-10T11:28:24Z,2017-09-07T02:57:21Z,bug
+chdir/aria2-android,1,Text relocations on x86,closed,2015-01-11T04:29:06Z,2016-05-21T17:38:43Z,bug
+tobykurien/BatteryFu,5,Battery Minder does not work on Android 4.4,closed,2014-03-07T14:20:02Z,2014-03-24T12:46:01Z,bug
+tobykurien/BatteryFu,4,Travel mode reverts to standard mode after night mode,closed,2014-03-07T14:19:42Z,2014-03-24T15:35:09Z,bug
+tobykurien/BatteryFu,1,Always on profile does not work,closed,2014-03-07T11:18:14Z,2014-03-24T15:35:43Z,bug
+leinardi/UbuntuCountdownWidget,36,Widget is not placed and does not work in huawei launcher,open,2023-12-23T22:50:00Z,,bug
+leinardi/UbuntuCountdownWidget,12,F-Droid build failed,closed,2021-06-12T08:38:36Z,2021-06-12T10:46:44Z,bug
+kamoljan/Nefete,13,Quick Scroll in Landscape in etsy,open,2014-05-14T07:35:49Z,,bug
+kamoljan/Nefete,7,Otto bus producing duplicate result,open,2014-05-05T15:20:12Z,,bug
+kamoljan/Nefete,3,INSERT AD: Doesn't work properly,open,2014-05-02T03:00:01Z,,bug
+indianpoptart/Parks-and-Recreation,4,App crashes on alert refresh,closed,2015-04-07T17:40:26Z,2015-07-10T02:26:55Z,bug
+renzon/autonomyway,3,Application crash on origin selection,closed,2017-04-21T00:39:28Z,2017-04-23T00:22:35Z,bug
+renzon/autonomyway,2,Transfer edit not updating wealth balance,closed,2017-04-21T00:35:55Z,2017-04-21T02:38:47Z,bug
+renzon/autonomyway,1, Values not working with cents,closed,2017-04-21T00:34:22Z,2017-04-21T01:17:38Z,bug
+Vilbrekin/tinc_gui,24,Null Pointer Exception,closed,2014-09-10T18:32:27Z,2014-09-23T22:57:23Z,bug
+Vilbrekin/tinc_gui,8,tincd failing on Atrix 4G,closed,2014-01-30T18:18:17Z,2014-03-12T22:16:01Z,bug
+Vilbrekin/tinc_gui,3,"On android 4.4, it doesn't ask neccesary permissions.",closed,2013-12-11T15:22:08Z,2013-12-15T00:51:23Z,bug
+wbrenna/GTFSOffline,23,Bug in location manager,open,2018-04-01T17:26:26Z,,bug
+wbrenna/GTFSOffline,15,Null Pointer Exception moving DB,closed,2015-07-22T15:41:36Z,2016-01-24T00:18:03Z,bug
+wbrenna/GTFSOffline,11,Erroneous Favourite Stops,closed,2014-05-15T20:11:48Z,2014-06-11T02:19:03Z,bug
+wbrenna/GTFSOffline,9,Time ordering breaks in Far Future,closed,2014-02-25T03:50:03Z,2015-04-24T15:34:27Z,bug
+wbrenna/GTFSOffline,8,"When no Location can be found, app crashes",closed,2014-01-31T21:31:25Z,2014-01-31T21:34:33Z,bug
+wbrenna/GTFSOffline,5,Leaked Databases,closed,2014-01-16T05:55:29Z,2014-01-16T15:28:01Z,bug
+wbrenna/GTFSOffline,2,DB Change is Messed Up,closed,2014-01-12T03:40:20Z,2014-01-16T15:28:15Z,bug
+affogatoman/SchoolParser,1,ScrollView bug,closed,2016-01-30T16:18:05Z,2016-02-02T10:11:51Z,bug
+RaD/ando-gettext-editor,39,Corrupt first message in a catalog on incoming call,open,2013-04-11T09:56:30Z,,bug
+RaD/ando-gettext-editor,38,rel4: java.lang.NullPointerException,closed,2012-12-01T17:29:50Z,2013-04-11T09:53:34Z,bug
+RaD/ando-gettext-editor,31,Index Unhandled Exception,closed,2012-03-29T19:56:28Z,2012-04-04T19:53:54Z,bug
+RaD/ando-gettext-editor,20,Copy & Save buttons kill app,closed,2012-03-15T19:20:59Z,2012-03-15T21:12:53Z,bug
+RaD/ando-gettext-editor,19,Lifecycle,closed,2012-03-14T19:55:25Z,2012-03-17T11:48:23Z,bug
+RaD/ando-gettext-editor,18,Open action broken,closed,2012-03-14T19:54:44Z,2012-03-14T20:54:29Z,bug
+RaD/ando-gettext-editor,11,Application loses a catalog when restoring after long pause,closed,2012-03-11T11:55:48Z,2012-03-13T03:05:21Z,bug
+RaD/ando-gettext-editor,9,Save button doesn't keep the current translated token,closed,2012-03-11T06:03:15Z,2012-03-12T18:17:30Z,bug
+RaD/ando-gettext-editor,8,Next 'Open' adds messages into catalog.,closed,2012-03-10T20:46:55Z,2012-03-11T02:59:12Z,bug
+RaD/ando-gettext-editor,1,"App fails on clicking ""previous"" button",closed,2012-03-10T19:02:57Z,2012-03-10T20:39:51Z,bug
+RuralRouteSoftware/ShareToIRC,1,Crash on background thread,closed,2014-08-08T02:31:48Z,2014-08-20T19:18:36Z,bug
+saqimtiaz/BibSearch,61,Bok vi har i samlingen vises som «i bestilling» hvis et nytt eks. er i bestilling,closed,2013-08-12T09:23:51Z,2013-08-12T12:34:05Z,bug
+saqimtiaz/BibSearch,51,Splash screen behaving weirdly (jumping down during loading) on Iphone 4,open,2013-07-03T08:06:53Z,,bug
+saqimtiaz/BibSearch,44,Some e-books not shown as e-books ,closed,2013-05-29T14:17:52Z,2013-06-25T12:24:29Z,"bug, release"
+saqimtiaz/BibSearch,40,"""Scan now"" button appears out of view on iPhone",closed,2013-05-28T18:05:37Z,2013-07-02T09:18:08Z,"bug, release"
+saqimtiaz/BibSearch,39,Use 9-patch image to avoid splashscreen stretching,open,2013-05-28T17:58:25Z,,"bug, enhancement"
+saqimtiaz/BibSearch,38,"App hangs if period ""."" is used in search field",closed,2013-05-27T12:57:12Z,2013-06-25T12:25:26Z,"bug, priority-urgent"
+saqimtiaz/BibSearch,36,Clicking on magnifying glass in top right causes app to hang forever on Iphone,closed,2013-05-24T09:18:38Z,2013-07-29T09:16:04Z,"bug, priority-urgent"
+saqimtiaz/BibSearch,28,Inconsistency on book details page,closed,2013-04-18T09:15:54Z,2013-06-25T12:36:43Z,bug
+saqimtiaz/BibSearch,1,Autocomplete no longer works on Android 4.1.1 on Saq's S3,closed,2013-01-16T08:41:51Z,2013-01-24T07:44:15Z,"bug, priority-urgent"
+bwang95/afn-otg-android,5,Crash on request failure,closed,2015-04-30T15:16:38Z,2015-05-01T17:40:24Z,bug

@@ -1,0 +1,8 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+jchmrt/clean-calculator,3,Incorrect Evaluation of Expressions with Function Immediately Following a Number,open,2013-11-08T11:47:25Z,,bug
+jchmrt/clean-calculator,2,Floating point errors,closed,2013-10-26T08:38:03Z,2013-10-27T18:08:23Z,bug
+YeomansIII/notiforward-android,4,Persistent notifications cause notification spam in the database and onto the desktop,closed,2015-12-01T23:41:02Z,2015-12-02T00:51:54Z,bug
+rycus86/StringTheory,3,Time stops changing,closed,2015-05-16T09:24:15Z,2015-05-17T14:09:50Z,bug
+doTTTTT/android-custom-menu,2,circle disappears,open,2016-07-19T13:00:44Z,,bug
+noboru-i/TetherSetting,2,NullPointerException,closed,2013-04-23T04:06:22Z,2013-07-26T15:03:00Z,bug
+NCU-CC/NCU-MAP,1,Crash on clicking emergency phone buttons,closed,2015-01-13T06:14:28Z,2015-01-14T13:37:41Z,bug

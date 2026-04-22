@@ -1,0 +1,22 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+bogdan-cornianu/Wake2Radio,5,Alarm gets reset on phone reboot,closed,2015-12-26T14:01:22Z,2015-12-29T11:15:43Z,bug
+bogdan-cornianu/Wake2Radio,1,Play ringtone not working when radio station is not available,open,2015-12-09T19:44:34Z,,bug
+Pixplicity/MultiViewPager,11,build failing due to absence of image,closed,2016-01-06T18:14:42Z,2016-01-08T13:01:50Z,bug
+Pixplicity/MultiViewPager,9,Android 6 Margin-Height Bug,closed,2015-10-27T11:06:33Z,2015-10-27T18:46:44Z,bug
+Pixplicity/MultiViewPager,8,Dragging from penultimate page to the last jumps back to the prior in the sample app,closed,2015-07-27T07:03:06Z,2016-06-24T17:24:17Z,bug
+screenfreeze/deskcon-android,16,FC when adding new widget (multiple Hosts),closed,2014-06-14T08:55:35Z,2014-06-14T09:54:49Z,bug
+screenfreeze/deskcon-android,15,FC on Notifications on 4.4.3,closed,2014-06-14T08:21:28Z,2014-06-14T09:54:40Z,bug
+screenfreeze/deskcon-android,14,No deskcon accessibility entry,closed,2014-06-12T14:00:21Z,2014-06-19T21:10:13Z,bug
+screenfreeze/deskcon-android,5,Can't transfer big Files,closed,2014-02-26T10:29:49Z,2014-03-01T16:26:37Z,bug
+screenfreeze/deskcon-android,4,"after some time,Notifications are not send anymore",closed,2014-02-13T15:01:02Z,2014-04-14T18:04:22Z,bug
+screenfreeze/deskcon-android,3,share Picasa Picture crash,open,2014-01-13T12:47:57Z,,bug
+screenfreeze/deskcon-android,2,only Notification Titles are displayed,open,2014-01-13T09:50:25Z,,bug
+screenfreeze/deskcon-android,1,Controlserver doesn't start at Bootup,closed,2014-01-13T09:49:36Z,2014-03-01T16:27:00Z,bug
+soynerdito/BlueSound,3,Not working on Android 5 Lollipop,closed,2015-02-20T01:50:56Z,2015-02-21T00:52:27Z,bug
+soynerdito/BlueSound,1,Stays connected after Headset disconnect,closed,2015-02-16T13:13:33Z,2015-02-17T11:09:05Z,bug
+paleoCoder/QuickBART,13,ActivityFavoriteSchedule start throwing error,open,2011-06-23T03:14:08Z,,bug
+paleoCoder/QuickBART,12,Bug from Market: Null Pointer,open,2011-05-23T15:35:22Z,,bug
+paleoCoder/QuickBART,11,Edit Screen - spinner throws error,closed,2011-04-23T18:16:21Z,2011-04-23T18:45:37Z,bug
+paleoCoder/QuickBART,3,Station display needs to wrap,closed,2011-04-11T22:41:49Z,2011-04-17T00:09:47Z,bug
+paleoCoder/QuickBART,2,Edit saves on resume,closed,2011-04-11T22:40:28Z,2011-04-16T21:36:40Z,bug
+paleoCoder/QuickBART,1,Schedule time late,closed,2011-04-11T22:38:53Z,2011-04-16T23:18:02Z,bug

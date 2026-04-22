@@ -1,0 +1,67 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+AlleIT/Alleinfo_Android,22,App crash on start. Using tablet with android 4.1.2,closed,2014-08-12T16:31:28Z,2014-08-13T13:27:43Z,bug
+AlleIT/Alleinfo_Android,20,Schedule bug,closed,2013-12-05T22:00:53Z,2014-08-06T16:12:55Z,bug
+AlleIT/Alleinfo_Android,17,Show the correct week during the weekend,closed,2013-11-17T22:36:49Z,2013-11-23T17:54:21Z,bug
+AlleIT/Alleinfo_Android,14,Add navigationbuttons to Dexter,closed,2013-10-18T22:28:24Z,2013-10-22T11:28:46Z,bug
+AlleIT/Alleinfo_Android,10,Special characters,closed,2013-10-10T04:58:11Z,2014-08-06T16:12:22Z,bug
+AlleIT/Alleinfo_Android,9,Fix wrong month,closed,2013-10-10T04:54:31Z,2013-10-18T20:36:28Z,bug
+AlleIT/Alleinfo_Android,7,ShowThisWeek bug,closed,2013-10-05T13:40:00Z,2013-10-22T11:26:16Z,bug
+AlleIT/Alleinfo_Android,5,Show this week's days when showThisWeekIsTrue,closed,2013-09-25T14:23:45Z,2013-10-03T15:56:57Z,bug
+AlleIT/Alleinfo_Android,3,Check the Friday-bug,closed,2013-09-25T10:31:48Z,2013-10-25T11:59:20Z,bug
+kurtmc/MyEarnings,3,Pie chart not smooth,closed,2014-04-24T01:08:42Z,2014-12-11T09:00:03Z,bug
+kurtmc/MyEarnings,2,Calculation errors,open,2013-11-25T06:15:46Z,,bug
+V2Ray-Android/Actinium,9,Actinium 耗电测试报告,closed,2016-10-03T02:29:55Z,2016-10-12T10:29:41Z,bug
+V2Ray-Android/Actinium,7,点击编辑直连列表后闪退,closed,2016-09-27T15:40:23Z,2016-10-12T10:31:54Z,bug
+V2Ray-Android/Actinium,4,[BUG] vpn 被动关闭后引出的,closed,2016-08-28T14:48:57Z,2016-09-30T15:15:14Z,bug
+V2Ray-Android/Actinium,2,[BUG] v2ray没能开启vpn却判断开启了,closed,2016-08-28T14:24:11Z,2016-09-01T00:30:46Z,bug
+DeveloperPaul123/FilePickerLibrary,40,"Fatal signal 6 (SIGABRT), code -6 in tid 23316 (AsyncTask #1)",closed,2016-06-10T19:01:15Z,2017-12-20T00:55:54Z,bug
+DeveloperPaul123/FilePickerLibrary,31,Folder icon changes,open,2015-12-11T20:13:51Z,,bug
+DeveloperPaul123/FilePickerLibrary,27,Fatal Exception: java.lang.NullPointerException: Attempt to get length of null array,closed,2015-12-04T18:27:53Z,2015-12-11T16:49:27Z,bug
+DeveloperPaul123/FilePickerLibrary,26,Can't compile project after updating to 2.0.1,closed,2015-11-30T17:10:35Z,2016-01-17T00:36:15Z,bug
+DeveloperPaul123/FilePickerLibrary,24,Fatal Exception: java.lang.RuntimeException,closed,2015-11-22T19:09:02Z,2015-11-27T17:09:17Z,bug
+DeveloperPaul123/FilePickerLibrary,23,Fatal Exception: java.lang.IllegalStateException,closed,2015-11-22T00:01:45Z,2015-11-27T17:09:44Z,bug
+DeveloperPaul123/FilePickerLibrary,21,Long time loading,closed,2015-11-21T00:20:36Z,2015-11-27T17:03:23Z,bug
+DeveloperPaul123/FilePickerLibrary,18,Major bug: NPE when opening,closed,2015-10-19T10:35:05Z,2015-10-19T13:39:07Z,bug
+DeveloperPaul123/FilePickerLibrary,14,java.lang.IllegalStateException: Cannot add header view to list -- setAdapter has already been called.,closed,2015-08-30T15:58:52Z,2015-11-23T22:32:59Z,bug
+DeveloperPaul123/FilePickerLibrary,11,Error:Could not find com.afollestad:material-dialogs:0.6.7.2.,closed,2015-06-29T09:04:13Z,2015-10-05T13:44:19Z,bug
+DeveloperPaul123/FilePickerLibrary,10,Dependency on materialfabmenu cannot be resolved ,closed,2015-06-28T21:39:57Z,2015-10-05T13:44:38Z,bug
+valtech/valtech-contactsync-android,1,"When changing device orientation in the sign in view, the web view resets to no longer send the X-Idp-Client-Type header",closed,2014-08-31T09:45:43Z,2014-09-26T09:04:01Z,bug
+GrinnellAppDev/FaceTag-Android,7,Fix photos being judged multiple times,open,2014-01-22T03:27:14Z,,bug
+gooooloo/ShowMyRecentApps,1,concurrency problem,open,2013-02-17T10:18:07Z,,bug
+flavioarfaria/KenBurnsView,5,Changing current drawable,closed,2014-04-19T07:44:23Z,2014-09-27T05:11:32Z,bug
+flavioarfaria/KenBurnsView,4,"RandomTransitionGenerator gets outside of image's content sometimes, or does too much zooming sometimes",closed,2014-04-02T10:00:58Z,2016-08-11T13:12:59Z,bug
+flavioarfaria/KenBurnsView,3,Can't perform Ken Burns effect on rects with distinct aspect ratios!,closed,2014-03-29T23:12:37Z,2014-03-30T01:29:28Z,"bug, duplicate"
+flavioarfaria/KenBurnsView,2,IncompatibleRatioException being thrown with RandomTransitionGenerator,closed,2014-03-29T14:15:11Z,2014-09-28T22:52:48Z,bug
+452/USBHIDTerminal,9,Add license information,closed,2015-08-13T17:53:54Z,2015-08-14T09:12:11Z,"enhancement, question, notabug"
+452/USBHIDTerminal,3,A prepared APK file,closed,2014-04-21T03:50:28Z,2015-05-09T09:57:34Z,"enhancement, question, notabug"
+prakhar1989/ColorPhun,18,Fix error on pausing and resuming game,closed,2014-08-26T05:30:53Z,2014-08-26T11:49:18Z,bug
+prakhar1989/ColorPhun,17,Orientation Change,closed,2014-08-26T05:29:57Z,2014-08-28T08:02:55Z,bug
+prakhar1989/ColorPhun,15,Disable clicking of listview in scoreboard,closed,2014-08-22T19:55:20Z,2014-08-22T20:53:27Z,bug
+prakhar1989/ColorPhun,14,Toast for new game,closed,2014-08-22T19:49:01Z,2014-08-22T20:09:00Z,bug
+prakhar1989/ColorPhun,9,Fast screen switching crashes app,closed,2014-08-22T19:35:17Z,2014-08-22T20:46:33Z,bug
+samueltardieu/harassme,1,Service not running after installation,closed,2010-12-25T07:17:56Z,2011-03-17T22:43:59Z,bug
+ZeroPage/i_have_no_apps,18,가이드화면 OOM문제,open,2017-06-25T10:14:57Z,,"bug, enhancement"
+kaichunlin/android-transition,1,"Error:(16, 0) Could not find property 'keyalias' on project ':app'.",closed,2015-07-12T11:19:38Z,2015-07-12T16:15:14Z,bug
+albb0920/LunaTerm,39,TweminalView width/height detection fails epically on honeycomb,open,2011-12-11T10:20:36Z,,Bug
+albb0920/LunaTerm,37,Url click behavior is incorrect when notification bar is enabled,closed,2011-03-03T16:53:08Z,2011-12-11T16:53:11Z,Bug
+albb0920/LunaTerm,33,"character ""underline"" should be more recognizable",closed,2011-01-08T03:14:25Z,2011-03-03T14:09:27Z,"Enhancement, Bug"
+albb0920/LunaTerm,32,Vols key functions failed after switching connection.,closed,2011-01-07T08:35:53Z,2011-12-11T16:19:10Z,Bug
+albb0920/LunaTerm,30,Fix newer HTC_CIME output chewing char in workround mode,open,2010-12-05T15:27:34Z,,Bug
+albb0920/LunaTerm,24,Share snapshot failed with gmail,open,2010-08-04T15:19:00Z,,Bug
+albb0920/LunaTerm,16,People complain connection lost when we're in background.,open,2010-07-23T16:52:39Z,,Bug
+albb0920/LunaTerm,12,"Unwanted characters sent(?) when connected to ""楓橋驛站""",open,2010-07-15T10:42:36Z,,"Bug, Temporary Fixed"
+albb0920/LunaTerm,10,Fix language chooser string ,closed,2010-07-14T23:46:12Z,2010-07-18T18:44:17Z,Bug
+albb0920/LunaTerm,8,Locale feature seems to be broken.,closed,2010-07-13T06:40:43Z,2011-12-11T10:08:41Z,Bug
+albb0920/LunaTerm,3,Gesture lose function due to invisible button gallery.,closed,2010-07-10T06:53:19Z,2010-07-23T23:29:11Z,Bug
+SophieBartmann/Jinawa,15,No new Staple Possible,closed,2014-10-22T14:54:53Z,2015-02-11T14:57:48Z,bug
+jtmcn/archwiki-viewer,22,Clicking on a link with an anchor doesn't scroll to that section,closed,2017-04-27T03:01:37Z,2017-06-09T03:38:53Z,bug
+jtmcn/archwiki-viewer,18,Can't share the main wiki page,closed,2017-04-11T03:10:20Z,2017-04-28T21:49:17Z,bug
+IYCI/MyClass,47,Final exams won't show up sometimes,closed,2016-02-12T18:16:24Z,2016-03-22T20:29:49Z,Bug
+IYCI/MyClass,44,Error view for Course Select,open,2016-01-20T04:35:36Z,,Bug
+IYCI/MyClass,43,Navigation drawer item not toggled,closed,2016-01-05T00:24:05Z,2016-01-20T05:00:01Z,Bug
+IYCI/MyClass,33,Pressing back button in search view displays empty page,closed,2015-12-28T19:50:24Z,2015-12-31T20:19:47Z,Bug
+IYCI/MyClass,31,App crashes in devices below Android 5.0,open,2015-12-28T18:33:48Z,,Bug
+IYCI/MyClass,15,Keyboard and searchview is still present after searching for a course is finished,closed,2015-11-28T15:37:05Z,2015-12-31T20:19:56Z,Bug
+IYCI/MyClass,12,"crash on first install, maybe not on a nexus phone?",open,2015-11-17T02:55:42Z,,Bug
+IYCI/MyClass,11,search for BUS course like BUS111w will show empty page,closed,2015-11-10T18:07:33Z,2015-11-28T17:01:19Z,Bug
+IYCI/MyClass,10,"when viewing course hrm200, add button is not shown",closed,2015-11-10T18:01:37Z,2015-12-31T01:38:27Z,Bug

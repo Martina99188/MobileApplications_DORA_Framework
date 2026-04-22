@@ -1,0 +1,120 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+julianctni/mensaDD,24,Last server-side update timestamp partially gets reset to 0 in meal list,closed,2020-10-28T07:53:36Z,2020-11-01T15:17:22Z,bug
+julianctni/mensaDD,23,"Fix translation in ""What's new?"" card in canteen list",closed,2020-10-28T07:52:50Z,2020-11-01T10:46:47Z,bug
+junjunguo/PocketMaps,205,Map is corrupted,open,2025-02-12T22:45:58Z,,bug
+junjunguo/PocketMaps,138,Navigation not working on Android 7.1.2,closed,2020-01-22T17:38:25Z,2020-01-31T09:15:56Z,"bug, Fixed in next Release"
+junjunguo/PocketMaps,104,Cannot download maps if external storage is selected as map location,closed,2018-11-05T08:28:48Z,2019-11-12T17:44:16Z,"bug, Fixed in next Release"
+junjunguo/PocketMaps,103,Navigation labels not updating,closed,2018-10-28T05:09:53Z,2019-01-04T22:56:54Z,"bug, Fixed in next Release"
+junjunguo/PocketMaps,102,v2.6: many app crashes on loading map archives / start unzipping them,closed,2018-10-20T18:53:51Z,2019-01-04T22:57:18Z,"bug, Fixed in next Release"
+junjunguo/PocketMaps,61,Maps download,closed,2015-11-01T18:53:27Z,2018-10-08T21:03:01Z,"bug, question"
+junjunguo/PocketMaps,54,Download maps does not have a list of countries,closed,2015-10-19T21:17:38Z,2018-03-29T21:00:16Z,"bug, question"
+junjunguo/PocketMaps,52,Settings screen is cropped on lower resolution devices,closed,2015-10-19T11:39:51Z,2018-03-29T21:00:15Z,"bug, UI"
+junjunguo/PocketMaps,50,Small issue with pause/continue button,closed,2015-10-09T21:37:30Z,2018-03-29T21:00:15Z,bug
+junjunguo/PocketMaps,49,Small glitches while downloading map and scrolling the screen,closed,2015-10-09T21:32:17Z,2018-03-29T21:00:15Z,bug
+junjunguo/PocketMaps,35,fix bugs: UI not showing correctly in Lollipop,closed,2015-08-16T22:11:39Z,2015-08-16T22:15:15Z,"bug, UI"
+junjunguo/PocketMaps,30,show downloading process when ever user come bake to download activity,closed,2015-07-09T09:23:50Z,2015-07-09T09:24:17Z,"bug, UI, Fixed in next Release"
+junjunguo/PocketMaps,20,only one polyline on map,closed,2015-06-26T21:39:25Z,2015-06-27T23:58:57Z,"bug, UI, Fixed in next Release"
+corcoran/Hangar,15,"Widgets freeze, when Hangar widget is on screen",open,2014-11-05T07:42:51Z,,bug
+corcoran/Hangar,7,[Bug/Feature] Uninstalled apps still appear in the notification and statistics,closed,2014-07-23T16:29:11Z,2014-07-29T05:15:51Z,bug
+corcoran/Hangar,6,[Bug] Color picker does not work after screen rotating,closed,2014-07-23T16:22:54Z,2014-07-29T05:15:51Z,bug
+corcoran/Hangar,5,[Bug] Option to download icon pack disappears,closed,2014-07-23T16:17:16Z,2014-07-29T05:15:51Z,bug
+DevelopFreedom/logmein-android,21,Dialog Box text unreadable,open,2014-11-12T21:52:57Z,,"bug, easy"
+DevelopFreedom/logmein-android,7,Dialog Boxes closes with spaces,closed,2014-10-04T21:51:14Z,2014-10-04T22:36:36Z,bug
+DevelopFreedom/logmein-android,6,Spinner not getting updated,closed,2014-10-04T19:59:38Z,2014-10-09T20:35:36Z,"bug, enhancement"
+yourPISD/yourpisd,34,Tapping on the third nine weeks grades redirects to the first nine weeks,open,2017-03-23T14:57:59Z,,bug
+yourPISD/yourpisd,32,Grade is divided by half in 2nd nine weeks,closed,2016-10-15T14:16:08Z,2016-10-15T19:14:04Z,bug
+yourPISD/yourpisd,31,Confirmation buttons do not appear when a new prompt window is opened,closed,2016-10-13T04:12:46Z,2016-10-15T20:24:38Z,"bug, todo"
+yourPISD/yourpisd,28,What happens when grade is X?,closed,2016-09-16T19:55:29Z,2016-10-15T20:48:38Z,"bug, todo"
+yourPISD/yourpisd,27,Profile picture,closed,2016-09-16T04:44:27Z,2016-10-09T00:11:44Z,bug
+yourPISD/yourpisd,26,Move last-updated text as a subtitle in tool bar.,open,2016-09-16T04:43:14Z,,bug
+yourPISD/yourpisd,24,Pressing any grade in the semester tab opens 1st class,closed,2016-09-14T15:01:54Z,2016-09-15T22:59:08Z,bug
+yourPISD/yourpisd,23,Pressing About crashes app,closed,2016-09-14T05:16:40Z,2016-09-14T05:26:50Z,bug
+yourPISD/yourpisd,11,Handle multiple students,open,2016-09-06T04:51:32Z,,"bug, todo"
+BeyondAR/beyondar,66,geoobject image resizing landscape/portrait,open,2015-01-21T09:50:12Z,,bug
+BeyondAR/beyondar,51,Landscape orientation,open,2014-07-11T14:22:00Z,,bug
+BeyondAR/beyondar,37,Wrong aspect ratio of the view,closed,2014-04-01T13:40:12Z,2014-07-13T11:00:40Z,bug
+BeyondAR/beyondar,20,Google maps module not getting the default image,open,2013-11-13T18:42:48Z,,bug
+BeyondAR/beyondar,19,Allow setImage method form the geoObject to change it instantly,closed,2013-11-11T10:05:06Z,2013-11-11T11:34:57Z,bug
+BeyondAR/beyondar,8,World.sortGeoObjectByDistanceFromCenter Method is not sorting properly,closed,2013-08-30T14:52:31Z,2013-10-12T09:10:45Z,bug
+BeyondAR/beyondar,7,MathUtils.calcAngleFaceToCamera Is not calculating the angle for Y,open,2013-08-28T10:45:22Z,,bug
+BeyondAR/beyondar,2,CameraView orientation is wrong on some devices in some orientations,closed,2013-08-22T21:00:54Z,2014-02-16T22:33:26Z,bug
+xisberto/workschedule,18,Alarms are disabled on boot (and possibly on other occasions),closed,2013-05-23T01:26:58Z,2013-07-22T01:18:13Z,bug
+xisberto/workschedule,15,Use default values for animations,closed,2013-04-23T16:35:35Z,2013-07-28T13:29:04Z,bug
+xisberto/workschedule,14,Text truncated on the widget on tablets,closed,2013-04-23T15:00:27Z,2013-04-23T15:01:04Z,"bug, duplicate"
+xisberto/workschedule,13,Text truncated on the widget on tablets,closed,2013-04-23T15:00:27Z,2013-07-28T13:30:37Z,bug
+xisberto/workschedule,7,"When adding Calendars, there's no test for a new day",open,2013-01-31T03:48:59Z,,bug
+xisberto/workschedule,3,Setting a period doesn't cancel a snooze for the same period,closed,2013-01-31T03:39:10Z,2013-02-01T02:29:00Z,bug
+smithdtyler/prettygoodmusicplayer,110,FLAC support?,closed,2016-02-25T14:26:18Z,2016-03-11T05:22:27Z,bug
+smithdtyler/prettygoodmusicplayer,102,pause/play does not work.,open,2015-11-13T13:03:09Z,,bug
+smithdtyler/prettygoodmusicplayer,94,"Switches from ""pause mode"" to ""play mode"" on notification/phone call",closed,2015-08-12T10:20:56Z,2015-08-29T19:45:00Z,bug
+smithdtyler/prettygoodmusicplayer,92,PGMP not detected as a music application,open,2015-07-29T11:11:24Z,,"bug, help wanted"
+smithdtyler/prettygoodmusicplayer,91,Player Occasionally Crashes on Bluetooth Disconnect,closed,2015-07-05T14:11:47Z,2015-07-30T01:46:18Z,bug
+smithdtyler/prettygoodmusicplayer,87,Hidden Files are shown in the song list,closed,2015-05-24T16:13:00Z,2015-05-24T16:13:05Z,bug
+smithdtyler/prettygoodmusicplayer,79,Hide Directories which have Cyrillic symbols,closed,2015-02-06T17:59:31Z,2015-03-02T13:04:58Z,bug
+smithdtyler/prettygoodmusicplayer,72,Player stops responding to bluetooth commands after a while (LG G3),closed,2015-01-27T14:56:48Z,2015-04-21T16:24:33Z,bug
+smithdtyler/prettygoodmusicplayer,71,Music freezes ,closed,2015-01-19T14:04:04Z,2015-10-26T23:31:34Z,bug
+smithdtyler/prettygoodmusicplayer,63,Small screen size does not show full font,closed,2014-12-10T17:53:00Z,2015-01-23T23:29:11Z,bug
+smithdtyler/prettygoodmusicplayer,61,Shuffle Button should be vertically aligned in the center,closed,2014-12-09T22:28:51Z,2015-01-24T14:40:16Z,bug
+smithdtyler/prettygoodmusicplayer,38,Music restarts from beginning on orientation change,closed,2014-11-11T03:10:40Z,2014-11-15T17:54:39Z,bug
+smithdtyler/prettygoodmusicplayer,33,Null Pointer Exception,closed,2014-11-02T14:23:33Z,2014-11-15T17:57:19Z,bug
+smithdtyler/prettygoodmusicplayer,24,Gracefully handle loss of External Storage,open,2014-09-04T02:45:39Z,,bug
+smithdtyler/prettygoodmusicplayer,22,Handle playback when notifications are disabled,open,2014-09-02T11:35:04Z,,bug
+smithdtyler/prettygoodmusicplayer,20,Bluetooth headset didn't auto register when I connected it during playback,closed,2014-09-02T00:15:25Z,2015-01-27T13:04:33Z,bug
+smithdtyler/prettygoodmusicplayer,17,Song may have stomped on GPS voice - check song changes?,closed,2014-08-31T18:30:48Z,2014-11-02T15:16:54Z,bug
+smithdtyler/prettygoodmusicplayer,13,Automatically pause when headphones or bluetooth lose connection,closed,2014-08-26T11:27:22Z,2014-08-26T11:30:19Z,bug
+smithdtyler/prettygoodmusicplayer,12,Make the directory selection dialog part of the SettingsActivity instead of a separate activity.,closed,2014-08-26T11:26:22Z,2014-08-31T12:26:09Z,bug
+smithdtyler/prettygoodmusicplayer,8,Handle 'back' pressed during directory selection more gracefully,closed,2014-08-26T01:11:18Z,2014-08-31T12:26:30Z,bug
+vexelon-dot-net/bgrates,25,Проблем със Code Formatter в Android Studio,closed,2015-12-21T20:18:12Z,2016-01-13T21:13:29Z,bug
+vexelon-dot-net/bgrates,24,Проблем със cookie от сайта на БНБ,closed,2015-12-21T20:10:33Z,2016-01-09T21:59:55Z,bug
+vexelon-dot-net/bgrates,23,Crash при първоначално стартиране,closed,2015-12-06T15:50:13Z,2015-12-06T20:23:07Z,bug
+vexelon-dot-net/bgrates,20,Проблем със смяна на езика от settings,closed,2015-11-06T20:57:20Z,2015-11-15T17:43:37Z,bug
+vexelon-dot-net/bgrates,17,Проблем при първоначално зареждане ако няма Интернет,closed,2015-10-29T22:07:32Z,2015-11-26T19:27:47Z,bug
+vexelon-dot-net/bgrates,14,Промяна в елементи reverserate  и rate ,closed,2015-10-12T20:12:53Z,2015-10-22T20:09:29Z,bug
+passy/Android-DirectoryChooser,79,Gradle compile 3.1 not working,closed,2016-02-10T19:47:50Z,2016-02-11T19:29:32Z,bug
+passy/Android-DirectoryChooser,68,Theme used in the library conflicts with others,closed,2015-10-11T12:08:39Z,2018-01-21T22:52:39Z,"bug, help-wanted, ready"
+passy/Android-DirectoryChooser,53,onAttach not reattaching listener when screen orientation changes,open,2015-05-01T14:01:58Z,,"bug, ready"
+passy/Android-DirectoryChooser,45,No + button when using activity in version 2.1,closed,2015-01-07T17:34:36Z,2018-10-25T16:46:56Z,"bug, help-wanted"
+sylvek/itracing2,147,Android Oreo support,closed,2020-09-19T10:34:15Z,2020-09-19T14:51:10Z,bug
+sylvek/itracing2,107,Two single clicks on different Tags is marked as a double click,closed,2017-05-05T15:33:26Z,2017-05-05T16:22:52Z,bug
+sylvek/itracing2,81,two single press recognized as one double ,closed,2016-10-10T19:12:32Z,2016-11-26T10:43:49Z,bug
+sylvek/itracing2,80,URL Parameter,closed,2016-10-09T18:36:36Z,2016-10-10T08:13:06Z,bug
+sylvek/itracing2,73,Custom Audio not working,closed,2016-06-24T20:42:46Z,2016-12-11T13:05:49Z,bug
+sylvek/itracing2,52,Button actions doesn't work,closed,2016-03-19T16:39:32Z,2016-03-24T16:15:36Z,bug
+sylvek/itracing2,48,Samsung Galaxy S6 kills the BluetoothLEService,closed,2016-03-04T09:20:13Z,2016-03-04T10:54:15Z,bug
+sylvek/itracing2,40,No more ring on smartphone,closed,2016-02-02T13:03:16Z,2016-02-04T18:41:43Z,bug
+sylvek/itracing2,37,iSee doesn't connect automatically after power on,closed,2016-01-07T20:31:10Z,2016-02-04T18:42:43Z,bug
+sylvek/itracing2,34,the phone rings a completely different tone when the device is out of range,closed,2016-01-02T14:28:18Z,2016-01-04T21:57:53Z,bug
+sylvek/itracing2,18,Unable to stop alarm,closed,2015-11-26T21:23:27Z,2015-11-27T15:01:03Z,bug
+sylvek/itracing2,11,Stop alarm on keyring,closed,2015-10-30T18:44:48Z,2015-10-31T13:02:37Z,bug
+sylvek/itracing2,6,iTag bug,closed,2015-10-27T15:21:54Z,2015-10-30T14:41:19Z,"bug, enhancement"
+sylvek/itracing2,4,No keyring actions available,closed,2015-08-31T08:33:54Z,2015-10-30T14:41:54Z,bug
+genious7/FanFictionReader,1,"""Unknown Error"" when backing up files to memory",open,2015-10-29T16:03:18Z,,bug
+appteam-nith/Hillffair,118,App Crashing When Trying to send code in forgot password,closed,2016-10-22T10:57:33Z,2016-10-27T08:25:31Z,bug
+appteam-nith/Hillffair,28,Username is NOT username,closed,2016-10-01T21:09:09Z,2016-10-04T13:09:18Z,bug
+appteam-nith/Hillffair,27,App redirecting to login after register,closed,2016-10-01T21:06:39Z,2016-10-04T13:09:22Z,bug
+joschi70/AndroidPirateBox,5,"Backup for ""dnsmasq"" could not be created",open,2014-06-06T20:17:37Z,,bug
+jerrymannel/ISawABird,32,Background image is not appearing in login and home page,closed,2013-12-13T13:57:26Z,2013-12-25T21:10:11Z,bug
+jerrymannel/ISawABird,17,SightingsActivity doesn't display properly after deleting a sighting,closed,2013-12-01T07:10:05Z,2013-12-03T06:47:39Z,bug
+jerrymannel/ISawABird,16,Default list problems,closed,2013-12-01T07:04:35Z,2013-12-06T18:01:44Z,bug
+jerrymannel/ISawABird,12,Ensure no zombie sightings - every sighting must be associated with a list,closed,2013-11-28T18:52:55Z,2013-11-29T17:01:58Z,bug
+jerrymannel/ISawABird,11,Adding a new list doesn't update the activity immediately,closed,2013-11-28T18:52:35Z,2013-11-29T17:02:07Z,bug
+jerrymannel/ISawABird,3,Undo doesn't update bird list count,closed,2013-11-26T05:13:09Z,2013-11-29T17:02:15Z,bug
+jerrymannel/ISawABird,1,new InitAsyncTask().execute(); crashes the app,closed,2013-11-17T00:11:34Z,2013-11-17T07:53:40Z,bug
+f97one/android_Car-Kei-Bo,1,BigDecimal取得時のNumberFormatException対処,open,2013-02-16T10:29:06Z,,bug
+rignaneseleo/SlimSocial-for-Facebook,292,test triage,closed,2026-01-23T09:25:28Z,2026-01-23T09:36:05Z,BUG
+rignaneseleo/SlimSocial-for-Facebook,205,Images partially covered by metadata,open,2024-02-25T10:49:47Z,,BUG
+rignaneseleo/SlimSocial-for-Facebook,199,System font size: display responds badly,open,2023-12-02T08:32:21Z,,BUG
+rignaneseleo/SlimSocial-for-Facebook,198,messenger image upload fails (in various ways),open,2023-11-29T14:31:01Z,,BUG
+rignaneseleo/SlimSocial-for-Facebook,181,10.0.9 sponsored posts not blocked,open,2023-06-05T23:08:37Z,,BUG
+rignaneseleo/SlimSocial-for-Facebook,177,"center posts, disable sponsor posts, everything does not work",open,2023-05-22T10:38:48Z,,BUG
+rignaneseleo/SlimSocial-for-Facebook,176,[BUG] Overlay issue on news feed,closed,2023-05-18T13:27:55Z,2023-11-09T06:27:14Z,BUG
+rignaneseleo/SlimSocial-for-Facebook,171,Marketplace -> Selling tab doesn't work,open,2023-05-14T22:40:46Z,,BUG
+rignaneseleo/SlimSocial-for-Facebook,80,comments unreadable with dark theme in main feed,closed,2018-11-09T07:24:05Z,2020-12-26T11:15:38Z,BUG
+rignaneseleo/SlimSocial-for-Facebook,43,"Stucked in ""Show picture in full size""",closed,2017-07-17T15:26:30Z,2018-02-20T12:07:40Z,BUG
+rignaneseleo/SlimSocial-for-Facebook,36,WebView 55 Breaks SlimSocial,closed,2016-12-20T21:18:24Z,2020-12-26T11:14:02Z,BUG
+AIDEA775/UNCmorfi,33,[Menu] Bloqueo,closed,2018-06-20T17:45:36Z,2018-10-10T09:36:10Z,bug
+JakeWharton/Telecine,17,Limit MediaRecorder size,closed,2015-01-18T09:01:45Z,2015-02-24T17:33:42Z,"bug, enhancement"
+JakeWharton/Telecine,7,MediaRecorder stop fails.,open,2015-01-09T17:58:00Z,,bug
+JakeWharton/Telecine,6,MediaRecorder prepare fails.,closed,2015-01-09T17:19:10Z,2015-01-18T11:19:23Z,bug
+JakeWharton/Telecine,3,High-Resolution Widget Image,closed,2015-01-09T06:32:55Z,2015-01-09T21:55:44Z,bug
+ur13l/Guanajoven,1,Botón ¿Olvidaste tu contraseña? cortado,open,2017-11-28T17:20:17Z,,bug

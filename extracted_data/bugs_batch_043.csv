@@ -1,0 +1,73 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+mkelandis/ReadingLog,34,Handle NPE on loading JSON in RestHelper,closed,2013-01-14T00:13:59Z,2013-01-14T03:20:57Z,bug
+mkelandis/ReadingLog,17,"Upgrade issues - read date intitialization, and sorting.",closed,2013-01-08T02:25:43Z,2013-01-08T04:48:53Z,bug
+mkelandis/ReadingLog,7,Add a license,closed,2013-01-04T03:19:42Z,2015-05-18T16:02:36Z,bug
+flopshot/Capstone_Project,31,MapView Wind details too slow to initialize in nougat,open,2017-07-31T17:52:59Z,,Bug
+flopshot/Capstone_Project,30,Fix Home Screen Logo in Lollipop,closed,2017-07-02T00:55:11Z,2017-08-01T18:26:52Z,Bug
+flopshot/Capstone_Project,28,Marker Stats not showing in map,closed,2017-06-28T20:45:46Z,2017-07-02T00:39:27Z,Bug
+flopshot/Capstone_Project,27,Change Home Screen Portrait Mode to stacked buttons,closed,2017-06-14T22:07:40Z,2017-06-14T23:48:55Z,"Bug, Enhancement"
+flopshot/Capstone_Project,26,Can't delete player from saved round,closed,2017-06-13T17:45:40Z,2017-06-13T17:58:49Z,Bug
+flopshot/Capstone_Project,25,Uniform cursor across all edittext fields in Hole Fragment,closed,2017-06-13T16:46:34Z,2017-06-13T17:21:22Z,Bug
+flopshot/Capstone_Project,19,Update Widget to exclude deleted(disabled) players,closed,2017-05-18T20:12:35Z,2017-05-18T21:02:10Z,Bug
+flopshot/Capstone_Project,17,Widget Average holes score calculation is incorrect,closed,2017-05-18T16:44:30Z,2017-05-18T21:02:10Z,Bug
+flopshot/Capstone_Project,11,Fix hole radio Button dialog to accept dynamic hole counts by course,closed,2017-05-16T21:31:03Z,2017-05-18T22:13:07Z,Bug
+flopshot/Capstone_Project,1,Wind Direction Arrow not pointing correctly,closed,2017-04-14T20:39:11Z,2017-04-14T22:18:15Z,Bug
+anwilli5/coin-collection-android-US,238,Issue: Coin Set options should be checkboxes (not mint marks),closed,2025-03-25T05:11:55Z,2025-03-29T20:12:22Z,bug
+anwilli5/coin-collection-android-US,74,Bug: Import from single-file CSV adds erroneous coins,closed,2022-01-20T05:02:32Z,2022-02-19T04:27:57Z,bug
+anwilli5/coin-collection-android-US,52,Address StrickMode warnings,open,2021-02-07T06:13:37Z,,"bug, help wanted"
+anwilli5/coin-collection-android-US,27,Problem with 1922 pennies in collections,open,2020-02-02T17:07:28Z,,bug
+anwilli5/coin-collection-android-US,18,Add missing US coins,open,2020-02-01T18:20:34Z,,bug
+anwilli5/coin-collection-android-US,11,App Crashes after v2.3.1 Update,closed,2017-03-24T03:48:37Z,2017-03-24T04:35:29Z,bug
+anwilli5/coin-collection-android-US,10,Newline characters in coin notes breaks import functionality,closed,2017-03-09T06:51:33Z,2017-03-17T15:28:08Z,bug
+anwilli5/coin-collection-android-US,6,Scrolling on advanced edit view jumbles notes,closed,2017-01-03T06:43:56Z,2017-01-11T04:57:16Z,bug
+anwilli5/coin-collection-android-US,4,Commas in the coin notes break collection import functionality,closed,2016-12-29T03:10:54Z,2017-01-03T05:19:30Z,bug
+anwilli5/coin-collection-android-US,2,Import/Export broken for Android 6.0 devices,closed,2016-08-13T12:22:38Z,2016-08-14T06:17:09Z,bug
+edwise/DedicaMNS,15,"Asignación erronea de tareas a días, después de usar el copy paste",closed,2014-02-20T13:42:54Z,2014-03-15T13:11:45Z,bug
+edwise/DedicaMNS,14,No muestra msj de error cuando la web devuelve un 500,closed,2013-06-16T15:20:01Z,2013-06-18T18:00:13Z,bug
+edwise/DedicaMNS,13,"Error al pasar a ""background"" la app",closed,2013-06-01T21:13:53Z,2014-06-25T11:49:19Z,bug
+edwise/DedicaMNS,12,No se puede acceder a la imputación de horas diaria,closed,2013-05-12T16:57:10Z,2013-05-13T17:36:18Z,bug
+edwise/DedicaMNS,11,Suma de horas erronea en el listado,closed,2013-03-11T17:32:04Z,2014-06-25T11:50:06Z,"bug, wontfix"
+edwise/DedicaMNS,8,"Al añadir/borrar/borra todas, si se cambia orientación en el listado de horas diarias, al volver al listado mensual, no se actualiza",closed,2012-12-27T13:58:35Z,2013-01-03T10:11:16Z,bug
+edwise/DedicaMNS,7,"Error al ""borrar todas"" en un día, si no hay ninguna",closed,2012-12-27T13:21:52Z,2013-01-03T09:55:07Z,bug
+edwise/DedicaMNS,6,"Movidote al pasar a de portrait a landscape o vicecersa, mientras está ejecutando algo",closed,2012-12-16T11:03:16Z,2013-01-01T21:45:48Z,bug
+edwise/DedicaMNS,5,"Botón borrar en ventana detalle actividad, da error si es nueva",closed,2012-12-08T17:35:35Z,2012-12-08T17:39:53Z,bug
+edwise/DedicaMNS,4,"En ventana detalle de día, la cabecera sale mal al poner modo ""apaisado""",closed,2012-12-05T17:06:44Z,2012-12-08T17:39:26Z,bug
+edwise/DedicaMNS,3,"Revisar los menú,s parece que se abren las dos opciones :S",closed,2012-11-25T22:31:14Z,2012-11-26T21:26:38Z,bug
+edwise/DedicaMNS,1,Texto de puntos suspensivos en el Acerca De,closed,2012-11-19T10:09:49Z,2012-11-19T22:12:47Z,bug
+hypeapps/Endoscope,30,"AS build error, please help ",open,2017-12-07T07:50:56Z,,bug
+hypeapps/Endoscope,28," ""ERROR UNKNOWN (1)(-21474837448)"" ",open,2017-09-04T09:29:07Z,,bug
+holylobster/nuntius-android,47,Enabling/Disabling Nuntius quickly blocks the app (ANR),open,2015-05-22T21:18:25Z,,bug
+holylobster/nuntius-android,46,NPE on BluetoothServerSocket.accept,open,2015-05-22T21:15:51Z,,bug
+holylobster/nuntius-android,29,ClassCastException on some notifications,closed,2015-03-19T22:03:59Z,2015-03-19T22:20:16Z,bug
+holylobster/nuntius-android,28,Enable switch summary does not refresh,open,2015-03-19T10:44:20Z,,bug
+holylobster/nuntius-android,14,Bluetooth doesn't automatically reconnect,open,2015-03-13T10:06:01Z,,bug
+mkaradeniz/MaterialMensa,6,Fix drawer header.,closed,2016-04-17T22:05:48Z,2016-04-21T02:09:05Z,bug
+mkaradeniz/MaterialMensa,4,W/FragmentManager: moveToState: Fragment state for MainFragment{b8d0b8b #4 id=0x7f10006d} not updated inline,open,2016-04-16T12:34:13Z,,bug
+kyriog/VoxPopuli-Android,13,Wrong nbPlayers count,open,2014-02-28T20:35:20Z,,bug
+kyriog/VoxPopuli-Android,12,Switch to voted layout if dead,closed,2014-02-27T02:54:32Z,2014-02-27T03:23:16Z,bug
+kyriog/VoxPopuli-Android,11,Set a default avatar icon,closed,2014-02-27T01:16:05Z,2014-02-27T04:36:38Z,bug
+kyriog/VoxPopuli-Android,7,Prevent standby when playing,closed,2014-02-23T15:57:35Z,2014-07-24T23:33:04Z,"bug, enhancement"
+kyriog/VoxPopuli-Android,6,Screen rotation when player is dead,closed,2014-02-23T15:29:20Z,2014-02-24T02:59:15Z,bug
+cubei/FlappyCow,8,Reset on orientation change,closed,2014-04-17T20:33:35Z,2014-11-02T13:41:06Z,bug
+SimenCodes/heads-up,128,Error on showing notification,closed,2017-06-08T21:33:27Z,2017-06-11T10:01:49Z,"bug, invalid"
+SimenCodes/heads-up,108,Heads up does not always pop up on the Galaxy Note 5.,closed,2015-11-07T13:32:06Z,2015-12-10T15:31:56Z,"bug, wontfix"
+SimenCodes/heads-up,102,Music Notification - Null Album,closed,2015-07-29T14:38:31Z,2015-07-31T09:46:05Z,bug
+SimenCodes/heads-up,94,Not showing new notifications,closed,2015-06-08T17:44:26Z,2015-07-31T09:46:45Z,"bug, invalid"
+SimenCodes/heads-up,78,block current app issue,closed,2015-03-22T03:16:07Z,2015-05-25T16:01:34Z,bug
+SimenCodes/heads-up,76,letters truncated,closed,2015-03-14T17:19:11Z,2015-03-14T17:37:59Z,bug
+SimenCodes/heads-up,72,Stop working randomly,closed,2015-03-03T08:18:40Z,2015-03-07T21:58:30Z,bug
+SimenCodes/heads-up,71,pocket detection mode does not work,closed,2015-02-28T12:59:43Z,2015-03-27T22:08:14Z,"bug, cantfix"
+SimenCodes/heads-up,62,Notification from Email+ (MobileIron) not properly triggered,closed,2015-02-05T23:18:43Z,2015-02-18T10:14:23Z,bug
+SimenCodes/heads-up,61,Screen will power off on touch,closed,2015-01-29T16:06:47Z,2015-03-01T10:32:46Z,bug
+SimenCodes/heads-up,59,Lollipop: Issue with recurring pop-up for same notification,closed,2015-01-29T03:21:16Z,2015-01-30T08:18:40Z,"bug, wontfix"
+SimenCodes/heads-up,55,Recolor icons on dark themes,closed,2014-12-30T13:47:12Z,2015-01-14T21:48:42Z,bug
+SimenCodes/heads-up,53,"Music notifications don't obey ""block current app""",open,2014-12-27T22:22:45Z,,bug
+SimenCodes/heads-up,48,notifications don't go away if NOT set to dismiss after swipe,closed,2014-12-09T07:20:34Z,2015-01-29T09:09:39Z,"bug, cantfix"
+SimenCodes/heads-up,43,Notification size,closed,2014-11-26T15:11:53Z,2014-12-06T19:56:08Z,bug
+SimenCodes/heads-up,25,Auto start at boot,closed,2014-10-17T14:57:20Z,2014-10-28T10:01:39Z,bug
+SimenCodes/heads-up,23,"MarkAsRead Gmail Notifications Don't Appear, Even When Checked",open,2014-10-12T21:22:07Z,,bug
+SimenCodes/heads-up,22,Swipe to remove from drawer,closed,2014-10-10T15:55:31Z,2014-10-11T02:18:21Z,"bug, question"
+SimenCodes/heads-up,13,"Option to remove ""one unread"" on texts? ",closed,2014-09-28T18:07:14Z,2014-10-02T13:38:45Z,bug
+SimenCodes/heads-up,9,heads up overlay to quick tile pull down,closed,2014-09-18T09:12:26Z,2014-10-11T16:05:04Z,"bug, wontfix"
+SimenCodes/heads-up,4,Screen stays on,closed,2014-09-10T14:54:54Z,2014-12-10T18:08:13Z,"bug, wontfix"
+MPieter/Notification-Analyser,3,Chart skips days/weeks/month with no notifications.,closed,2014-11-09T14:00:49Z,2014-12-07T20:59:45Z,bug

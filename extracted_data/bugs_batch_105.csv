@@ -1,0 +1,6 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+mridang/dashclock-hardware,3,libcore.io.ErrnoException: open failed: EMFILE (Too many open files),open,2013-11-08T18:23:18Z,,"Android, BugSense, App versions: 0.3"
+mridang/dashclock-hardware,2,java.lang.NullPointerException,open,2013-11-01T16:11:11Z,,"Android, BugSense, App versions: 0.3"
+mridang/dashclock-hardware,1,"java.lang.NumberFormatException: Invalid int: ""2147651410""",open,2013-10-29T10:45:21Z,,"Android, BugSense, App versions: 0.3"
+carvilsi/PCBridge_Android,4,Problem downloading images or video in Safari,closed,2015-02-10T21:16:29Z,2015-02-10T23:19:57Z,bug
+carvilsi/PCBridge_Android,1,No video downloading on FireFox ,closed,2015-02-07T19:19:12Z,2015-04-09T22:27:13Z,bug

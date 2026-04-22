@@ -1,0 +1,64 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+AfzalivE/AwakeDebug,7,Incorrect display timeout in UI,closed,2020-11-24T20:49:17Z,2020-11-28T22:01:21Z,bug
+tvbarthel/SimpleThermometerProject,4,[NPE] TemperatureUpdaterService.onStartCommand,closed,2014-06-18T18:47:07Z,2014-06-22T11:52:20Z,bug
+tvbarthel/SimpleThermometerProject,2,[UI | Tablet] The temperature is larger than the foreground circle,closed,2014-06-01T12:10:27Z,2014-06-01T12:17:47Z,bug
+MJonesDev/Aperture-Gallery,7,Strange Crash on Recent Apps Menu,closed,2017-03-22T19:09:56Z,2017-04-13T15:12:18Z,"bug, help wanted"
+MJonesDev/Aperture-Gallery,4,Gifs No Longer Play (Removed Code?),closed,2016-11-06T06:19:40Z,2017-07-03T03:50:34Z,bug
+MJonesDev/Aperture-Gallery,3,Bug  - Cannot View Panorama Photos,closed,2016-09-01T16:43:55Z,2017-07-03T03:50:34Z,"bug, help wanted"
+MJonesDev/Aperture-Gallery,1,Crashes when showing video tab,closed,2016-06-23T00:57:00Z,2016-08-09T02:15:19Z,bug
+areina/elfeed-cljsrn,13,"After selecting a specific subscription, titlebar still shows ""All entries""",closed,2017-03-18T19:53:42Z,2023-07-19T09:36:22Z,bug
+areina/elfeed-cljsrn,11,Links in entries/posts don't work,closed,2017-03-13T03:27:47Z,2023-07-14T16:25:51Z,bug
+areina/elfeed-cljsrn,1,Configure server scene crashes if url doesn't start with http://,closed,2016-10-03T14:20:15Z,2016-10-04T16:58:01Z,bug
+JakeLane/Toffeed,54,Login not working,closed,2017-02-09T11:58:24Z,2017-02-13T01:10:46Z,"bug, question"
+JakeLane/Toffeed,44,Photos are tiny in image viewer. ,open,2016-04-17T13:56:16Z,,bug
+JakeLane/Toffeed,35,Copy & Paste Broken,closed,2016-03-29T14:41:19Z,2016-04-03T04:08:24Z,bug
+JakeLane/Toffeed,33,Marshmallow Crash,closed,2016-03-22T13:27:23Z,2016-03-23T07:18:16Z,bug
+JakeLane/Toffeed,29,Open images in app,closed,2016-03-12T06:35:29Z,2016-03-19T09:26:40Z,bug
+JakeLane/Toffeed,26,Fix scrolling,open,2016-03-12T06:14:14Z,,bug
+JakeLane/Toffeed,20,"Comment bug? Also, that last update is beautiful. ",closed,2016-02-12T16:30:37Z,2016-02-13T03:36:52Z,bug
+JakeLane/Toffeed,13,"Fullscreen video never works, also keep bottom buttons black? ",closed,2016-02-08T16:40:06Z,2016-02-10T07:15:28Z,bug
+JakeLane/Toffeed,12,onSharedPreferenceChanged occasionally fails to fire,closed,2016-02-02T00:50:49Z,2016-02-03T09:30:17Z,bug
+JakeLane/Toffeed,7,Cover photo fails,open,2016-01-26T17:02:00Z,,bug
+sukso96100/zionhs,5,Style.xml,open,2014-12-31T12:15:43Z,,bug
+bitbrain/clouboy,4,NPE in AndroidLauncher,closed,2015-07-18T09:32:56Z,2015-07-18T09:33:33Z,bug
+bitbrain/clouboy,3,Incorrect top score record,closed,2015-07-16T22:05:43Z,2015-07-18T09:32:31Z,bug
+bitbrain/clouboy,2,1000 clouds achievement does not work,closed,2015-07-16T22:05:04Z,2015-07-18T09:32:36Z,bug
+bitbrain/clouboy,1,App explodes after restarting (OpenGL issue),open,2015-07-13T09:10:31Z,,bug
+adamsp/DestinyRaidTimers,6,eglCreateContext failed with error: EGL_BAD_ALLOC,closed,2015-03-07T02:22:51Z,2015-03-07T02:26:32Z,bug
+adamsp/DestinyRaidTimers,5,Fix Toolbar on Samsung devices,open,2015-02-27T13:56:27Z,,bug
+ai212983/android-spinnerwheel,76,on wheel click ripple effect disable,closed,2016-12-06T09:47:07Z,2016-12-14T10:26:22Z,"bug, wont-fix, fdev"
+ai212983/android-spinnerwheel,74,addClickListener is not working on clicking on current item,closed,2016-10-26T13:56:07Z,2016-12-14T10:35:35Z,bug
+ai212983/android-spinnerwheel,69,onScrollingFinished called after onChanged,open,2016-08-16T18:18:31Z,,bug
+ai212983/android-spinnerwheel,64,Failed to allocate a 889612 byte allocation with 867288 free bytes and 846KB until OOM,open,2016-01-02T21:07:00Z,,bug
+ai212983/android-spinnerwheel,56,java.lang.IllegalArgumentException: width and height must be > 0 in AbstractWheelView.recreateAssets,open,2015-07-26T11:15:02Z,,bug
+ai212983/android-spinnerwheel,49,I am not able to get selected date in horizontalView ?,open,2015-04-26T12:54:43Z,,bug
+ai212983/android-spinnerwheel,25,Separator view wont stick to clipping on Gingerbread devices.,closed,2014-04-02T09:38:56Z,2016-12-14T10:50:26Z,bug
+ai212983/android-spinnerwheel,20,setCurrentItem() divide by zero -> baseDimension == 0 == getWidth(),closed,2013-05-07T08:18:26Z,2014-05-01T08:58:15Z,bug
+ai212983/android-spinnerwheel,16,Horizontal's wheel view last item shouldn't be removed,closed,2013-03-11T22:31:12Z,2013-03-12T12:09:19Z,bug
+ai212983/android-spinnerwheel,13,Wrong behaviour of WheelHorizontalView filled with long length strings,closed,2013-02-13T20:39:29Z,2013-03-21T10:29:17Z,bug
+ai212983/android-spinnerwheel,9,Weird behavior after programmatic switcher,closed,2012-03-14T10:46:29Z,2012-03-14T12:54:54Z,bug
+ai212983/android-spinnerwheel,7,Incorrect range detection for cycled wheels,closed,2012-02-22T10:59:11Z,2012-02-22T12:08:17Z,bug
+ai212983/android-spinnerwheel,6,Item with 2 items shown is weirdly dimming on scrolling end,closed,2012-02-22T10:31:41Z,2012-02-22T10:58:52Z,bug
+ChaseBro/MMDAgent,8,Commit Sphinxbase and pocketsphinx,open,2012-06-27T19:14:12Z,,"Type: bug, Priority: low"
+ChaseBro/MMDAgent,7,Fix Copywrite and License info in all files,open,2012-06-20T17:04:36Z,,"Type: bug, Type: enhancement, Priority: medium"
+ChaseBro/MMDAgent,6,Create an Avatar,open,2012-06-20T17:00:31Z,,"Type: bug, Type: enhancement, Priority: medium"
+ChaseBro/MMDAgent,5,Get Text Rendering working with text outside of the ASCII range,closed,2012-06-20T16:59:56Z,2012-06-28T19:34:36Z,"Type: bug, Priority: low"
+ChaseBro/MMDAgent,2,Fix Lipsync Phonemes for English,open,2012-06-20T16:44:31Z,,"Type: bug, Type: enhancement, Priority: medium"
+agargiulo/gatekeeper-android,11,"If the server knows about more doors than my app, the app flips out and crashes with the following stack trace",closed,2013-11-20T03:20:28Z,2013-11-20T04:16:52Z,bug
+agargiulo/gatekeeper-android,5,App crashes when Gatekeeper server responds with http instead of https,closed,2013-04-30T22:21:35Z,2013-05-26T09:05:57Z,bug
+Austin-Ray/Hexis,25,Completion status changes not saving to item model or database,closed,2017-04-14T18:23:36Z,2017-04-15T03:33:54Z,bug
+Austin-Ray/Hexis,18,Unable to have more than one item in quadrant,closed,2017-04-08T19:39:07Z,2017-04-10T04:35:19Z,bug
+t-animal/JourneyApp,8,Map does not pan to location after this was turned on,closed,2014-05-03T22:16:45Z,2014-05-18T18:06:59Z,bug
+t-animal/JourneyApp,5,Tabs don't change when clicked,closed,2014-04-23T01:09:45Z,2014-04-23T15:32:29Z,bug
+t-animal/JourneyApp,4,GPS stays on after service ends,closed,2014-04-22T21:30:31Z,2014-05-11T19:20:46Z,bug
+t-animal/JourneyApp,3,Figure out ProGuard ,closed,2014-04-22T20:47:11Z,2014-05-11T19:20:49Z,bug
+SeGarVi/PalmaBici,7,Station alarm does not work properly,closed,2014-01-20T07:47:37Z,2014-01-21T20:00:04Z,bug
+SeGarVi/PalmaBici,6,Bad behavior when loading alarms from DB,closed,2014-01-20T07:46:44Z,2014-01-21T19:59:52Z,bug
+SeGarVi/PalmaBici,2,App crashes when updating station list and rotating the screen at the same time,closed,2012-07-20T09:29:18Z,2012-07-24T09:29:59Z,bug
+tateshitah/gnssfinder,6,weird ground track line on google map ,closed,2014-06-03T00:30:45Z,2014-06-08T04:19:39Z,bug
+tateshitah/gnssfinder,3,camera preview cannot start when it is started again.,closed,2014-05-24T15:25:21Z,2015-01-12T15:15:22Z,bug
+edubarr/header-decor,70,ReverseLayout not working?,open,2017-03-11T18:46:16Z,,"bug, help wanted, question"
+edubarr/header-decor,66,Fantom header appears,open,2017-02-03T16:01:57Z,,bug
+edubarr/header-decor,56,Header moves on left/right when recyclerview uses viewType,open,2016-11-06T16:29:00Z,,bug
+edubarr/header-decor,50,Issue when deleting 1st item under header,open,2016-09-28T20:16:02Z,,bug
+edubarr/header-decor,35,Main header disappears when scrolling,open,2016-05-12T12:15:54Z,,bug

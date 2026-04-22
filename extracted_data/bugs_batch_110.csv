@@ -1,0 +1,3 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+mridang/dashclock-processes,1,java.lang.NullPointerException,open,2013-11-08T12:56:06Z,,"Android, BugSense, App versions: 0.3"
+krossovochkin/MorseKeyboard,10,"Add hint for ""Й"" symbol in Russian keyboard",closed,2014-09-17T06:35:15Z,2014-09-18T14:05:32Z,bug

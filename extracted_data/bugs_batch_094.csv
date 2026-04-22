@@ -1,0 +1,4 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+mridang/dashclock-messstats,1,java.lang.NullPointerException,open,2013-11-06T21:55:21Z,,"Android, BugSense, App versions: 0.9"
+mridang/dashclock-callstats,3,android.content.res.Resources$NotFoundException: Plural resource ID #0x7f050000 quantity=21 item=other,open,2013-11-10T11:57:07Z,,"Android, BugSense, App versions: 0.8"
+mridang/dashclock-callstats,2,java.lang.NullPointerException,open,2013-11-01T22:05:17Z,,"Android, BugSense, App versions: 0.7"

@@ -1,0 +1,8 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+pgarrison/speedreader,10,Licensing is handled incorrectly,open,2014-03-28T06:29:34Z,,bug
+pgarrison/speedreader,8,Runs out of memory when parsing large pdfs or epubs,open,2014-03-28T06:23:51Z,,bug
+pgarrison/speedreader,7,Crashes when opening on certain devices (incl. Galaxy Note),open,2014-03-28T06:21:43Z,,bug
+pgarrison/speedreader,6,Investigate errors from itextpdf when reading some pdfs,open,2014-03-28T06:19:46Z,,bug
+pgarrison/speedreader,4,Can't read many pdfs,open,2014-03-28T06:17:07Z,,bug
+pgarrison/speedreader,1,Fix font size on tablets. Allow variable font size.,open,2014-03-28T06:12:21Z,,bug
+timvdalen/gizmooi,1,Setting new intent doesn't clear the old one so Toasts show up double,closed,2013-08-15T16:32:38Z,2013-08-15T18:09:41Z,bug

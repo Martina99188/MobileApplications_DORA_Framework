@@ -1,0 +1,6 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+firebirdberlin/rocketlaunch,3,Exception ,closed,2016-06-25T12:02:57Z,2016-07-12T13:59:37Z,bug
+firebirdberlin/rocketlaunch,1,NullPointerException,closed,2016-06-16T14:39:25Z,2016-06-25T11:59:55Z,bug
+mridang/dashclock-uptime,1,java.lang.NullPointerException,open,2013-11-01T18:59:25Z,,"Android, BugSense, App versions: 0.6"
+mridang/dashclock-weeknum,2,java.lang.NullPointerException,closed,2013-11-07T00:07:08Z,2014-01-28T10:30:03Z,"Android, BugSense, App versions: 0.7 - 0.8"
+mridang/dashclock-weeknum,1,java.lang.NullPointerException,closed,2013-11-06T23:56:12Z,2014-01-28T10:30:03Z,"Android, BugSense, App versions: 0.7 - 0.8"

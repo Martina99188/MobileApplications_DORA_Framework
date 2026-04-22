@@ -1,0 +1,149 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+GiorgioRegni/Binaural-Beats,43,Eliminate loading on app startup,open,2019-07-05T19:31:10Z,,bug
+Fortyseven/ToneDef,27,Audio 'popping' on non-emulated hardware,open,2021-06-07T00:12:09Z,,bug
+Fortyseven/ToneDef,20,Mark and space time settings not working properly,open,2019-10-29T10:24:23Z,,bug
+Fortyseven/ToneDef,11,Contact permissions issue on >= Marshmallow,closed,2016-01-23T15:42:47Z,2019-08-11T14:43:42Z,bug
+Fortyseven/ToneDef,6,Italian ringback tone is wrong,closed,2015-11-29T18:22:51Z,2016-01-16T15:42:52Z,bug
+Fortyseven/ToneDef,4,'Dial' can be pressed repeatedly,closed,2015-11-27T18:21:50Z,2015-11-30T19:44:02Z,bug
+shubhamchaudhary/CCDroid,20,All dates are set to default text,closed,2015-06-27T04:32:17Z,2015-06-28T19:27:20Z,"bug, contributor friendly, blocker"
+shubhamchaudhary/CCDroid,15,App crashes on multiple rotations,open,2015-05-30T15:31:10Z,,bug
+fsi-hska/hsDroid,8,ReLogin wenn Cookie abgelaufen ist,open,2011-03-26T19:44:37Z,,Bug
+fsi-hska/hsDroid,6,"Handle grade 0,0 properly",open,2011-03-26T15:55:00Z,,Bug
+heinrichreimer/android-issue-reporter,153,Replace GitHub API,closed,2024-01-05T22:54:36Z,2024-01-08T19:05:29Z,"type-bug, priority-high"
+heinrichreimer/android-issue-reporter,87,App crashes on Pre-Lollipop devices,closed,2017-05-26T11:24:52Z,2022-10-11T15:49:47Z,"type-bug, flag-help-wanted, state-analysis, priority-high"
+heinrichreimer/android-issue-reporter,73,Can't build project with last version,closed,2017-04-07T18:27:53Z,2017-11-07T14:01:37Z,"type-bug, flag-help-wanted, state-analysis, priority-high"
+heinrichreimer/android-issue-reporter,65,Guest email formatting broken,closed,2017-03-20T23:44:13Z,2017-03-21T00:27:27Z,type-bug
+heinrichreimer/android-issue-reporter,63,Check box background still visible for GitHub login when guest login disabled,closed,2017-03-20T22:33:37Z,2017-03-21T00:27:27Z,type-bug
+heinrichreimer/android-issue-reporter,62,Guest token not recognized when using builder,closed,2017-03-20T22:32:40Z,2017-03-21T00:27:27Z,type-bug
+heinrichreimer/android-issue-reporter,56,Unable to send report with account login,closed,2017-01-15T14:01:14Z,2017-01-15T14:22:18Z,"type-bug, flag-invalid"
+heinrichreimer/android-issue-reporter,51,Issue when sending issues on any version of library-ironic,closed,2016-10-13T09:50:50Z,2017-03-01T16:09:16Z,"type-bug, flag-help-wanted"
+heinrichreimer/android-issue-reporter,46,Error: more than one library with package name 'com.afollestad.materialdialogs',closed,2016-08-31T17:52:29Z,2016-08-31T19:44:59Z,"type-bug, flag-wontfix, flag-trash"
+heinrichreimer/android-issue-reporter,44,Support v24.2.0 compatibility,closed,2016-08-19T03:36:47Z,2016-08-19T21:34:46Z,type-bug
+PrivacyApps/offline-calendar,35,Cannot add new calendar,open,2014-10-07T05:29:57Z,,Android bug (upstream)
+PrivacyApps/offline-calendar,15,"Calendar app does not allow ""Change only this event"" for events from calendars with CalendarContract.ACCOUNT_TYPE_LOCAL",open,2013-08-09T09:48:29Z,,Android bug (upstream)
+PrivacyApps/offline-calendar,14,scheduled appointments bug,closed,2013-08-08T07:11:17Z,2013-10-18T19:22:10Z,Android bug (upstream)
+PrivacyApps/offline-calendar,12,Default account for every calendar (Sony Xperia S),open,2013-08-05T20:43:22Z,,"bug, wontfix, Android bug (upstream)"
+PrivacyApps/offline-calendar,10,color on new calendar,closed,2013-07-02T19:27:57Z,2013-08-10T02:04:13Z,bug
+PDDStudio/OTGSubs,3,Delete existing Resources from package list requires 2 Actions,open,2017-04-25T12:47:48Z,,bug
+ciuc/InternetRadioClock,31,sleep timer : it is added each time you set from settings,open,2018-11-09T16:57:23Z,,bug
+ciuc/InternetRadioClock,18,Leaving stream url empty causes crash,closed,2018-10-29T08:33:29Z,2018-10-30T20:41:00Z,bug
+ciuc/InternetRadioClock,12,Cannot change stream.,closed,2016-07-26T20:53:59Z,2016-07-27T05:37:50Z,bug
+ciuc/InternetRadioClock,10,Clicking on settings might throw NPE,closed,2016-07-26T20:13:13Z,2018-11-06T21:45:10Z,bug
+hzsweers/palettehelper,8,java.lang.NullPointerException in StickyGridHeadersBaseAdapterWrapper.java:193,closed,2015-02-18T11:28:28Z,2015-11-30T02:34:17Z,"wontfix, bugsnag"
+hzsweers/palettehelper,7,java.lang.OutOfMemoryError in PaletteDetailActivity.kt:106,closed,2015-02-18T11:28:23Z,2015-03-07T12:10:02Z,bugsnag
+hzsweers/palettehelper,6,java.lang.OutOfMemoryError in PaletteDetailActivity.kt:135,closed,2015-02-18T11:28:18Z,2015-03-07T12:10:02Z,bugsnag
+hzsweers/palettehelper,2,ExampleException in home#example,closed,2015-02-17T11:23:51Z,2015-02-17T11:24:07Z,bugsnag
+hzsweers/palettehelper,1,ExampleException in home#example,closed,2015-02-15T00:53:12Z,2015-02-15T00:53:31Z,bugsnag
+hsson/card-balance-app,12,Menu not displaying,closed,2018-01-25T11:41:50Z,2018-01-30T05:10:16Z,bug
+hsson/card-balance-app,7,Charge card disappearance ,closed,2017-05-30T08:56:04Z,2017-06-04T00:00:27Z,bug
+hsson/card-balance-app,4,Dollar-sign-button flickering,closed,2017-05-29T15:31:30Z,2017-05-29T18:21:24Z,bug
+hsson/card-balance-app,2,App crashes when trying to Swipe-to-refresh,closed,2017-05-23T13:48:21Z,2017-05-29T18:21:45Z,bug
+martin-stone/hsv-alpha-color-picker-android,47,defaultValue does not work anymore on older devices,closed,2018-09-03T09:17:40Z,2018-09-05T19:42:56Z,bug
+martin-stone/hsv-alpha-color-picker-android,45,When creating ColorPreference programmatically defaultValue not works,closed,2018-05-15T13:14:31Z,2018-06-16T09:50:00Z,bug
+martin-stone/hsv-alpha-color-picker-android,43,"After hex value is deleted, color changes to transparent even though colorpicker_showAlpha is set to false",closed,2018-03-20T14:03:26Z,2018-03-31T12:01:31Z,bug
+martin-stone/hsv-alpha-color-picker-android,15,Summary text problem,closed,2016-01-04T10:55:47Z,2016-01-04T12:24:30Z,bug
+martin-stone/hsv-alpha-color-picker-android,13,OnPreferenceChangeListener is not called,closed,2015-12-03T22:22:45Z,2015-12-06T21:49:30Z,bug
+martin-stone/hsv-alpha-color-picker-android,11,Broken layout on small screen,closed,2015-09-26T08:36:39Z,2015-10-04T19:32:47Z,bug
+martin-stone/hsv-alpha-color-picker-android,8,Hex field is truncated in landscape when alpha slider is hidden,closed,2015-08-31T17:18:51Z,2015-09-05T17:20:37Z,bug
+martin-stone/hsv-alpha-color-picker-android,7,Way to place color picker in custom dialog,closed,2015-08-31T06:19:56Z,2015-09-05T17:21:32Z,bug
+martin-stone/hsv-alpha-color-picker-android,6,Alpha and Color scroller do not work in a ViewPager,closed,2015-08-26T14:04:46Z,2015-08-29T16:11:28Z,bug
+vanniktech/VNTFontListPreference,5,A lot of unwanted fonts in selection,closed,2015-07-18T16:59:07Z,2015-08-01T08:56:20Z,bug
+AndrewReitz/MagicLifeCounter,5,Poison counter issues,closed,2013-03-04T02:58:17Z,2014-08-31T12:56:27Z,bug
+AndrewReitz/MagicLifeCounter,3,Drop down with extra menu items aren't showing up in action bar,closed,2013-03-03T21:07:30Z,2013-03-04T04:32:27Z,bug
+AndrewReitz/MagicLifeCounter,1,Poison counters don't always align properly,closed,2013-03-03T20:50:45Z,2014-08-31T12:56:27Z,bug
+BenAlderfer/RIT-Dining-Planner-Android,20,Crash on S5,open,2016-10-23T22:21:14Z,,"bug, help wanted, Kotlin Rewrite"
+BenAlderfer/RIT-Dining-Planner-Android,17,Current balance not being restored correctly,closed,2016-10-06T04:10:40Z,2016-10-06T04:19:44Z,"bug, hacktoberfest"
+BenAlderfer/RIT-Dining-Planner-Android,9,shrink table text,closed,2016-08-14T23:48:13Z,2016-08-17T23:57:31Z,bug
+BenAlderfer/RIT-Dining-Planner-Android,7,Rework error messages,open,2016-08-12T23:43:38Z,,"bug, Kotlin Rewrite"
+BenAlderfer/RIT-Dining-Planner-Android,3,Incorrect error message on boot,open,2016-04-06T01:18:37Z,,"bug, Kotlin Rewrite"
+maxanier/Vertretungsplan,28,Nullpointer,closed,2014-09-27T15:10:48Z,2014-10-01T18:03:26Z,bug
+maxanier/Vertretungsplan,27,Nachmittags Unterrichts Vertretungen werden nicht integriert ,closed,2014-02-15T06:47:30Z,2014-10-01T18:03:35Z,bug
+maxanier/Vertretungsplan,24,Listener kommen nicht an,closed,2014-01-23T07:39:15Z,2014-01-27T19:00:48Z,bug
+maxanier/Vertretungsplan,23,Timeout bei login,closed,2014-01-23T06:39:29Z,2014-01-27T19:00:48Z,bug
+maxanier/Vertretungsplan,22,Keine Benachrichtigung wenn Download fehlschlägt ,closed,2014-01-23T06:35:38Z,2014-01-24T13:23:47Z,bug
+maxanier/Vertretungsplan,21,Log Datei nicht versendet ,closed,2014-01-23T06:29:32Z,2014-01-23T17:00:51Z,bug
+maxanier/Vertretungsplan,9,Sreen Size wird viel zu oft ausgelesen,closed,2014-01-20T20:05:39Z,2014-01-21T18:30:30Z,bug
+maxanier/Vertretungsplan,8,Aktivieren der ProgressBar bei Autoupdate,closed,2014-01-20T19:31:27Z,2014-01-24T14:45:17Z,bug
+maxanier/Vertretungsplan,1,Aktuelle Stunde falsch angezeigt ,closed,2014-01-20T09:07:22Z,2014-01-21T18:16:25Z,bug
+fekracomputers/IslamicLibraryAndroid,72,Double search bar in main screen.,open,2018-01-25T05:04:28Z,,bug
+fekracomputers/IslamicLibraryAndroid,71,Mobile bar bar icons appears over book page in full screen reading mode,open,2018-01-25T05:02:43Z,,bug
+fekracomputers/IslamicLibraryAndroid,68,Difficult selection way,open,2018-01-25T04:49:14Z,,bug
+fekracomputers/IslamicLibraryAndroid,67,Cannot find and open TOC easily,open,2018-01-25T04:45:12Z,,bug
+fekracomputers/IslamicLibraryAndroid,65,books are not deleted when deleting them from the Ui,closed,2018-01-10T14:51:42Z,2018-01-11T17:46:28Z,"bug, source: play conole, difficulty :easy"
+fekracomputers/IslamicLibraryAndroid,60,when a file download fails and redowloading it the app crashes,closed,2017-12-07T08:41:04Z,2018-01-28T08:17:36Z,"bug, source: play conole"
+fekracomputers/IslamicLibraryAndroid,54,doInBackground java.lang.OutOfMemoryError with large number of search results,open,2017-09-10T15:11:10Z,,bug
+fekracomputers/IslamicLibraryAndroid,50,On tablets when changing the category the third panel should be cleared or display placeholder view,open,2017-09-07T11:15:33Z,,bug
+fekracomputers/IslamicLibraryAndroid,49,selection action bar closes after entering a category,closed,2017-09-06T16:14:45Z,2017-09-18T12:57:19Z,"bug, source: play conole, source: email feedback"
+fekracomputers/IslamicLibraryAndroid,39,Some books (specially large ones) never finishes indexing and stays on on preparing,open,2017-07-31T09:26:10Z,,"bug, source: play conole"
+fekracomputers/IslamicLibraryAndroid,32,crash on android nougt (7.0 and 7.1) on opening any book,closed,2017-07-16T09:46:03Z,2017-09-06T14:26:33Z,bug
+fekracomputers/IslamicLibraryAndroid,31,Header font smaller than normal text in deeply nested titles,open,2017-07-09T13:21:05Z,,bug
+fekracomputers/IslamicLibraryAndroid,29,Crash in book list fragment on searching,closed,2017-06-30T13:16:49Z,2017-07-10T13:20:08Z,bug
+fekracomputers/IslamicLibraryAndroid,27,Search result fragment action bar disappeared,open,2017-06-26T22:26:18Z,,bug
+fekracomputers/IslamicLibraryAndroid,21,books card shadow doesn't appear,closed,2017-06-06T16:50:27Z,2017-09-06T16:10:18Z,bug
+fekracomputers/IslamicLibraryAndroid,19,highlight search result in book main reading,closed,2017-06-06T16:46:13Z,2018-02-18T15:25:02Z,"bug, source: play conole"
+fekracomputers/IslamicLibraryAndroid,17,Book Information database fails to download on some kitkat devices,closed,2017-06-06T16:36:37Z,2017-07-02T09:05:04Z,bug
+fekracomputers/IslamicLibraryAndroid,12,[Download] word is broken in two lines on some devices,open,2017-06-06T16:30:02Z,,"bug, requires UX design"
+fekracomputers/IslamicLibraryAndroid,8,fix the re appearance of status bar after opening hte screen,closed,2017-06-06T16:23:34Z,2018-01-11T17:45:49Z,bug
+fekracomputers/IslamicLibraryAndroid,6,fix selection popup menu position for andrid 6[M],open,2017-06-06T16:18:44Z,,bug
+Onelio/ConnectU,11,Crash en Materiales en Android 4.4 (API 19),closed,2017-09-15T20:23:14Z,2017-09-22T18:19:04Z,bug
+ezet/penguins-in-space,40,Fix sizing when starting the game in portrait mode,closed,2017-03-28T15:28:52Z,2017-04-06T10:29:58Z,bug
+Richard-W/jenastop,1,No schedule items are displayed anymore,closed,2017-02-05T10:03:05Z,2017-02-05T10:24:20Z,bug
+andresoviedo/android-3D-model-viewer,251,Some glb models cannot be displayed,open,2025-08-01T15:42:16Z,,bug
+andresoviedo/android-3D-model-viewer,245,Project is not compiling at all.,closed,2024-12-25T08:06:52Z,2024-12-26T10:52:23Z,bug
+andresoviedo/android-3D-model-viewer,225,Load Texture from picture does not work,open,2022-11-04T03:20:18Z,,bug
+andresoviedo/android-3D-model-viewer,214,"load more texture,",closed,2022-09-08T09:39:34Z,2022-09-12T00:03:35Z,bug
+andresoviedo/android-3D-model-viewer,208,load stl file is exception,closed,2022-07-05T01:09:53Z,2022-09-12T20:52:57Z,bug
+andresoviedo/android-3D-model-viewer,204,Textures not rendered correctly ?   obj模型 贴图问题,closed,2022-04-13T11:11:53Z,2022-09-12T20:31:54Z,bug
+andresoviedo/android-3D-model-viewer,192,How can I make a 3d object smooth?,closed,2021-09-23T23:15:05Z,2022-02-13T10:22:18Z,bug
+andresoviedo/android-3D-model-viewer,174,Models are not correctly displayed when using GL_UNSIGNED_SHORT,open,2021-02-10T03:49:44Z,,bug
+andresoviedo/android-3D-model-viewer,164,Loading obj and MTL files with your demo is very slow,open,2020-12-09T07:21:04Z,,bug
+andresoviedo/android-3D-model-viewer,162,LoaderTask should not show ProgressDialog,open,2020-12-07T14:59:48Z,,bug
+andresoviedo/android-3D-model-viewer,161,SceneLoader should not show toasts,open,2020-12-07T14:46:08Z,,bug
+andresoviedo/android-3D-model-viewer,160,Stream handler system property should not be required,open,2020-12-07T12:05:16Z,,bug
+andresoviedo/android-3D-model-viewer,159,ModelSurfaceView not usable in layout xmls,open,2020-12-07T12:00:12Z,,bug
+andresoviedo/android-3D-model-viewer,158,Use of Skybox should not be default,open,2020-12-07T11:57:55Z,,bug
+andresoviedo/android-3D-model-viewer,157,scene.getSelectedObject().setColor()  is not work,open,2020-11-12T06:42:33Z,,bug
+andresoviedo/android-3D-model-viewer,156,Fps view bug.,closed,2020-11-12T02:31:34Z,2021-02-22T12:58:11Z,bug
+andresoviedo/android-3D-model-viewer,154,贴图加载不出来,open,2020-10-18T12:38:27Z,,bug
+andresoviedo/android-3D-model-viewer,153,Customize,open,2020-10-14T12:48:18Z,,bug
+andresoviedo/android-3D-model-viewer,147,E/MeshData: Wrong normal index: -1,closed,2020-09-23T08:59:40Z,2020-10-05T18:05:03Z,bug
+andresoviedo/android-3D-model-viewer,140,"""Vector length is zero""",closed,2020-07-20T08:30:59Z,2020-09-07T05:29:01Z,bug
+andresoviedo/android-3D-model-viewer,135,Dark colors with texture,closed,2020-03-20T13:04:59Z,2020-07-16T16:17:32Z,"bug, enhancement"
+andresoviedo/android-3D-model-viewer,134,glError 1282,open,2020-03-17T13:23:26Z,,bug
+andresoviedo/android-3D-model-viewer,133,Serious Bug,closed,2020-02-25T17:45:24Z,2020-07-15T18:59:04Z,bug
+andresoviedo/android-3D-model-viewer,132,Cannot load dae 3d model with animation,closed,2020-01-13T06:49:55Z,2020-07-15T20:10:15Z,bug
+andresoviedo/android-3D-model-viewer,131,Not compatible with Collada file generated by Cinema4D,closed,2019-12-19T20:58:53Z,2020-07-15T20:12:34Z,bug
+andresoviedo/android-3D-model-viewer,128,Cannot render color,closed,2019-11-22T05:27:44Z,2020-07-15T20:13:15Z,bug
+andresoviedo/android-3D-model-viewer,125,fix light rendering issues and bugs,closed,2019-11-05T17:35:26Z,2019-11-13T21:17:28Z,bug
+andresoviedo/android-3D-model-viewer,105,Unable to recognize instance_material from DAE,closed,2019-05-14T06:54:48Z,2019-05-19T18:11:39Z,bug
+andresoviedo/android-3D-model-viewer,102,IndexOutOfBoundsException in Populating vertex array,closed,2019-05-02T07:40:46Z,2019-05-20T20:58:44Z,bug
+andresoviedo/android-3D-model-viewer,94,[Ask] Change model color?,closed,2019-03-22T09:47:36Z,2019-05-18T15:35:27Z,"bug, question"
+andresoviedo/android-3D-model-viewer,92,Models not rendering correctly,closed,2019-01-21T00:46:48Z,2019-10-13T15:57:24Z,bug
+andresoviedo/android-3D-model-viewer,88,dae load failed,closed,2018-12-27T03:48:38Z,2019-05-19T18:27:35Z,bug
+andresoviedo/android-3D-model-viewer,84,Why Object3DData.setVisible(false) not working ?,closed,2018-12-06T09:46:45Z,2019-10-13T16:35:21Z,bug
+andresoviedo/android-3D-model-viewer,81,Crash on the simulator when loading some 3D models in DAE format.,closed,2018-11-26T02:29:06Z,2019-10-20T15:19:25Z,bug
+andresoviedo/android-3D-model-viewer,69,Dae files not loaded,closed,2018-10-13T03:05:27Z,2019-05-19T18:29:44Z,bug
+andresoviedo/android-3D-model-viewer,59,Failure to load texture coordinates,closed,2018-09-07T10:44:22Z,2018-09-08T22:48:40Z,bug
+andresoviedo/android-3D-model-viewer,57,Why are some DAE files loaded deffer from the original format?,closed,2018-07-23T09:38:55Z,2019-10-20T15:56:52Z,bug
+andresoviedo/android-3D-model-viewer,54,Collada animation with textures fail to render Galaxy S9,closed,2018-06-29T16:07:32Z,2018-08-21T09:29:14Z,bug
+andresoviedo/android-3D-model-viewer,53,Bounding box error,closed,2018-06-21T17:26:03Z,2018-08-20T11:57:44Z,bug
+andresoviedo/android-3D-model-viewer,51,java.lang.RuntimeException: Error creating program.,closed,2018-06-07T11:58:18Z,2018-09-08T22:35:43Z,bug
+andresoviedo/android-3D-model-viewer,45,column '_data' does not exist,closed,2018-02-23T20:54:21Z,2018-09-08T22:36:06Z,bug
+andresoviedo/android-3D-model-viewer,39,touch control,closed,2018-01-31T09:05:04Z,2018-09-08T22:46:16Z,bug
+andresoviedo/android-3D-model-viewer,38,dae ( Collada) animated files not working,closed,2018-01-30T11:18:52Z,2020-07-15T20:14:09Z,bug
+andresoviedo/android-3D-model-viewer,34,Bug in demo option: App crashes,closed,2018-01-14T20:55:22Z,2018-09-08T22:38:11Z,bug
+andresoviedo/android-3D-model-viewer,32,Bug with textures,closed,2018-01-03T18:24:27Z,2018-09-08T22:42:55Z,bug
+andresoviedo/android-3D-model-viewer,29,Crash loading obj with only vertex info,closed,2017-11-21T19:22:25Z,2017-11-21T19:54:10Z,bug
+andresoviedo/android-3D-model-viewer,26,Unable to use one finger functionality or zoom feature on API 24 & 25,closed,2017-10-05T05:24:28Z,2018-08-21T13:56:39Z,bug
+andresoviedo/android-3D-model-viewer,24,App crashes if we zoom in too much or zoom out too much,closed,2017-09-26T07:47:47Z,2018-09-08T22:37:02Z,bug
+andresoviedo/android-3D-model-viewer,16,Configuration options + Point Drawing + ByteBuffers thread safe,closed,2017-04-16T13:19:55Z,2017-04-16T13:21:16Z,"bug, enhancement"
+andresoviedo/android-3D-model-viewer,15,Allow stopping the light rotation,closed,2017-04-11T18:54:05Z,2017-04-11T18:55:25Z,bug
+andresoviedo/android-3D-model-viewer,14,Fix Camera rotation and Zoom,closed,2017-04-09T23:14:32Z,2017-04-09T23:16:16Z,bug
+andresoviedo/android-3D-model-viewer,13,Problem parsing vertices with multiple spaces,closed,2017-04-04T14:55:53Z,2017-04-04T20:43:17Z,bug
+andresoviedo/android-3D-model-viewer,12,Fix draw wireframe performance,closed,2017-04-02T12:35:49Z,2017-04-02T13:02:51Z,bug
+andresoviedo/android-3D-model-viewer,11,Generate missing vertex normals,closed,2017-04-01T15:45:55Z,2017-04-01T15:51:06Z,bug
+andresoviedo/android-3D-model-viewer,10,Fix texture when multiple textures defined (currently only 1 supported),closed,2017-04-01T12:21:53Z,2017-04-01T12:26:56Z,bug
+andresoviedo/android-3D-model-viewer,9,IndexOutOfBounds loading normals,closed,2017-03-25T22:15:30Z,2017-03-25T22:29:32Z,bug
+andresoviedo/android-3D-model-viewer,5,Crash loading BIG models,closed,2017-02-10T22:45:03Z,2017-03-30T21:42:26Z,bug
+andresoviedo/android-3D-model-viewer,4,Crash loading files from disk from kitkat and up,closed,2017-02-09T18:25:53Z,2017-02-09T18:37:16Z,bug
+andresoviedo/android-3D-model-viewer,1,Performance problems with high vertex shapes,closed,2016-06-22T22:29:18Z,2017-03-26T23:08:27Z,bug

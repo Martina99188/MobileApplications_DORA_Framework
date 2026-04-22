@@ -1,0 +1,14 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+octaltech/fixmephone,1,Travis builds failing,closed,2017-02-27T23:22:26Z,2017-02-28T00:02:32Z,bug
+chengxinlun/Stellarium-android,1,Sensor problem,closed,2017-02-22T08:40:23Z,2017-02-22T12:14:40Z,bug
+hakusaro/MinerCon,7,Large command output crashes the app.,open,2013-06-28T11:44:21Z,,bug
+hakusaro/MinerCon,6,"Adding a server, then pressing back twice",open,2013-06-28T11:41:40Z,,bug
+hakusaro/MinerCon,4,An RCON packet that reports an incorrect size (too large) will crash the whole app,open,2013-06-05T19:12:50Z,,bug
+hakusaro/MinerCon,3,Back button functionality breaks when new server connection fails,open,2013-06-05T18:49:13Z,,bug
+hakusaro/MinerCon,1,Action Bar progress bar is visible in Management,open,2013-04-29T14:42:36Z,,bug
+loairpa/DiceInDark,23,Follow Crash Report,closed,2013-09-11T18:46:05Z,2014-01-11T21:40:54Z,bug
+loairpa/DiceInDark,22,Add graphics for other resolutions,open,2013-09-01T22:52:10Z,,bug
+loairpa/DiceInDark,21,crashes when using multiple dice,closed,2013-07-10T08:27:41Z,2013-07-10T16:33:36Z,bug
+loairpa/DiceInDark,17,D4 shows 2 when result is one,closed,2013-04-21T22:56:26Z,2013-04-22T18:27:58Z,bug
+loairpa/DiceInDark,16,Repeats D4 twice after maimenuscreen,closed,2013-04-21T22:37:16Z,2013-04-22T19:43:44Z,bug
+loairpa/DiceInDark,1,Shaking Sound does sometimes not play,closed,2013-04-20T20:53:58Z,2013-04-20T21:46:09Z,bug

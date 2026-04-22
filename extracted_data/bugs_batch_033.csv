@@ -1,0 +1,78 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+andreiciubotariu/contact-notifier,9,NPE when choosing Ringtone,closed,2015-10-02T20:51:11Z,2015-10-02T22:45:38Z,bug
+andreiciubotariu/contact-notifier,8,NullPointerException: PendingIntent.getActivity(),closed,2015-09-29T21:44:38Z,2015-10-02T22:08:52Z,bug
+andreiciubotariu/contact-notifier,4,No-notification detection activated when sms app is foreground,open,2015-09-21T14:44:06Z,,bug
+andreiciubotariu/contact-notifier,3,Messages from multiple senders in one notification shows content:// uri,closed,2015-09-21T14:36:58Z,2015-10-02T21:40:56Z,bug
+fython/Blackbulb,41,Not working on android o,closed,2017-08-26T18:14:39Z,2017-11-13T15:17:28Z,"bug, enhancement"
+fython/Blackbulb,33,[bug] v1.3.0.beta1 auto mode settings cropped in portrait,closed,2017-06-13T17:31:08Z,2017-06-14T11:29:41Z,bug
+SecUSo/privacy-friendly-qr-scanner,238,Crash when scanning micro qr codes,closed,2024-07-05T12:21:32Z,2024-08-29T14:13:13Z,"bug, investigation required"
+SecUSo/privacy-friendly-qr-scanner,165,Crash during image generation if the scanned code type is not supported,closed,2023-05-11T11:50:18Z,2023-06-01T10:54:27Z,bug
+SecUSo/privacy-friendly-qr-scanner,142,"""Search"" and ""Cancel"" buttons not readable in dark theme ",closed,2022-08-30T13:46:42Z,2023-08-09T13:21:30Z,bug
+SecUSo/privacy-friendly-qr-scanner,124,Crash on scan when result is a ExpandedProductParsedResult,closed,2022-05-28T16:54:14Z,2022-06-24T11:25:19Z,bug
+SecUSo/privacy-friendly-qr-scanner,122,On Android 6.0 the app crashes with a java.lang.NoSuchMethodError,closed,2022-04-28T13:43:03Z,2022-06-24T11:25:20Z,"bug, investigation required"
+SecUSo/privacy-friendly-qr-scanner,119,Problem faced when adding to contact into phone from a vCard or meCard.,closed,2022-02-16T08:17:32Z,2022-06-24T11:25:20Z,bug
+SecUSo/privacy-friendly-qr-scanner,115,App crashes on scan,closed,2022-01-04T00:40:55Z,2022-01-11T09:42:13Z,bug
+SecUSo/privacy-friendly-qr-scanner,111,Producs can not be opened correctly,closed,2021-09-30T14:01:33Z,2022-06-24T11:25:20Z,bug
+SecUSo/privacy-friendly-qr-scanner,110,QR generation of an URL working erratic,closed,2021-09-30T11:34:40Z,2022-06-24T11:25:20Z,bug
+SecUSo/privacy-friendly-qr-scanner,107,NullPointerException.,closed,2021-08-18T06:26:51Z,2021-12-14T11:29:17Z,bug
+SecUSo/privacy-friendly-qr-scanner,104,ALL CAPS QR codes get prepended with an additonal http:// prefix,closed,2021-06-05T12:20:43Z,2021-07-12T07:38:50Z,bug
+SecUSo/privacy-friendly-qr-scanner,99,Confirmation when opening links can be removed,closed,2021-02-11T14:42:47Z,2021-07-01T13:11:39Z,bug
+SecUSo/privacy-friendly-qr-scanner,95,VCard QR code: take over postal address to contacts,closed,2020-10-26T14:51:41Z,2022-01-20T10:38:33Z,bug
+SecUSo/privacy-friendly-qr-scanner,94,Text overlapping in ResultFragment,closed,2020-10-14T21:06:57Z,2022-06-22T15:22:51Z,bug
+SecUSo/privacy-friendly-qr-scanner,92,NPE on loading result fragments,closed,2020-10-11T09:04:24Z,2022-06-30T10:14:24Z,bug
+SecUSo/privacy-friendly-qr-scanner,79,Doesn't work with some browsers,closed,2020-08-28T15:08:19Z,2022-06-22T15:39:56Z,"bug, wontfix"
+SecUSo/privacy-friendly-qr-scanner,76,Scanner crashes when reading Aztec Code,closed,2020-07-08T20:21:35Z,2020-10-01T14:09:55Z,bug
+SecUSo/privacy-friendly-qr-scanner,70,en-/dis-able history - no differences???,closed,2020-03-24T23:18:20Z,2020-10-01T13:47:41Z,bug
+SecUSo/privacy-friendly-qr-scanner,69,disable beep on scan - not working,closed,2020-03-24T23:09:46Z,2020-10-01T13:37:54Z,bug
+SecUSo/privacy-friendly-qr-scanner,68,ResultPoints can sometimes be null,closed,2020-03-03T23:59:52Z,2022-06-24T11:25:21Z,bug
+SecUSo/privacy-friendly-qr-scanner,67,NumberFormatException in zxing when generating QR-Code,closed,2020-03-03T23:59:04Z,2020-10-01T14:09:55Z,bug
+SecUSo/privacy-friendly-qr-scanner,66,NPE on Proceed Click of Phone Numbers,closed,2020-03-03T23:57:06Z,2020-10-11T07:50:16Z,bug
+SecUSo/privacy-friendly-qr-scanner,64,Scan after scan doesn't work,closed,2020-03-02T07:58:25Z,2020-10-21T07:14:31Z,bug
+SecUSo/privacy-friendly-qr-scanner,63,Crash on scan of unsupported qr types,closed,2020-03-01T14:37:39Z,2020-03-01T15:00:06Z,bug
+SecUSo/privacy-friendly-qr-scanner,57,read fails (no error) after successful read,closed,2019-12-29T23:35:20Z,2020-02-06T14:13:17Z,bug
+SecUSo/privacy-friendly-qr-scanner,55,Add storage permission explanation to website/store and the about page,open,2019-11-19T08:50:01Z,,bug
+SecUSo/privacy-friendly-qr-scanner,54,Cannot handle semicolons in WiFi SSID and password,closed,2019-10-29T15:47:56Z,2020-02-06T14:13:18Z,bug
+SecUSo/privacy-friendly-qr-scanner,53,App crashes when scanning QR code with vcard,closed,2019-09-27T11:34:20Z,2020-02-06T14:13:18Z,bug
+SecUSo/privacy-friendly-qr-scanner,51,URL QR generation fails when prefixed with `http(s)://`,closed,2019-09-13T15:17:12Z,2020-10-11T08:03:08Z,bug
+SecUSo/privacy-friendly-qr-scanner,44,File path must be changed to lowercase in github,closed,2019-08-02T00:41:29Z,2020-10-07T08:19:13Z,bug
+SecUSo/privacy-friendly-qr-scanner,25,Product code online lookup searches in addressbook,closed,2017-05-04T11:27:37Z,2019-09-28T10:36:00Z,bug
+SecUSo/privacy-friendly-qr-scanner,21,When scanning e-mails only pass to mail apps,closed,2017-01-24T19:37:04Z,2020-10-11T07:55:58Z,bug
+SecUSo/privacy-friendly-qr-scanner,16,Android camera encountered a problem,closed,2016-12-21T22:06:37Z,2016-12-27T00:52:06Z,bug
+SecUSo/privacy-friendly-qr-scanner,12,Remove .idea from Repo,closed,2016-11-09T23:29:50Z,2016-12-21T21:26:44Z,bug
+SecUSo/privacy-friendly-qr-scanner,11,Add tutorial to Welcome Dialog,closed,2016-11-09T23:23:54Z,2019-09-28T10:47:41Z,"bug, v2.0"
+SecUSo/privacy-friendly-qr-scanner,7,Scanning a VCard causes strange explanation,closed,2016-01-16T19:15:36Z,2019-09-28T10:32:01Z,"bug, v2.0"
+SecUSo/privacy-friendly-qr-scanner,4,[Feature request] copy scan result,closed,2016-01-05T11:42:59Z,2020-02-06T14:13:19Z,bug
+SecUSo/privacy-friendly-qr-scanner,2,only dark screen shown after starting scan,closed,2016-01-04T11:21:09Z,2016-12-26T23:55:46Z,bug
+jamesddube/LaravelNewsApp,10,error notifications!,open,2018-01-23T10:05:08Z,,bug
+jurihock/voicesmith,40,Crash on start with java.util.NoSuchElementException: Key 28 is missing in the map,closed,2026-01-09T10:41:49Z,2026-01-10T10:53:42Z,bug
+jurihock/voicesmith,12,Crashes in BT mode,closed,2014-02-12T20:42:35Z,2024-06-11T06:31:31Z,bug
+jurihock/voicesmith,7,FAF causes freezes on the second run,closed,2012-09-18T19:03:36Z,2012-09-25T19:19:05Z,bug
+jurihock/voicesmith,6,Initial audio delay on Acer Liquid MT,closed,2012-09-18T19:01:59Z,2012-09-27T11:27:53Z,bug
+jurihock/voicesmith,5,"Bluetooth works from the start, but fails to turn on again",closed,2012-09-17T20:20:34Z,2012-09-18T18:46:19Z,bug
+jurihock/voicesmith,4,Delay increase after changing the audio effects,closed,2012-09-17T20:12:28Z,2024-06-11T06:27:01Z,bug
+jurihock/voicesmith,2,AudioManager.startBluetoothSco() requires android.permission.BROADCAST_STICKY,closed,2012-09-17T19:58:04Z,2012-09-17T19:58:16Z,bug
+jurihock/voicesmith,1,Volume level preference,closed,2012-08-28T13:10:53Z,2024-06-11T06:25:18Z,bug
+NevRA/Giraffe,24,Flickering inside post,open,2013-11-04T10:17:21Z,,bug
+NevRA/Giraffe,22,Don't refresh post on screen rotation,open,2013-11-03T11:32:15Z,,bug
+NevRA/Giraffe,18,Duplicates in social news ,open,2013-10-31T22:27:57Z,,bug
+NevRA/Giraffe,17,Somethimes after logon user can't work because of error with 'Unauthorized' message,closed,2013-10-31T08:07:42Z,2013-10-31T16:02:55Z,critical bug
+NevRA/Giraffe,9,Images doesn't show up in posts,closed,2013-10-13T18:32:37Z,2013-10-24T11:01:13Z,critical bug
+NevRA/Giraffe,8,Images doesn't show up in posts,closed,2013-10-13T18:31:51Z,2013-10-13T18:53:48Z,critical bug
+NevRA/Giraffe,6,Skip unsupported Jive types,closed,2013-09-24T14:26:15Z,2013-10-12T20:08:20Z,critical bug
+NevRA/Giraffe,5,Align gallery in social news to left,open,2013-09-24T14:25:25Z,,bug
+TyrfingX/TyrLib,23,Move in and move out of menu items bugged,closed,2017-07-30T16:12:33Z,2017-07-30T17:14:30Z,bug
+RSenApps/Commandr-Android,26,Open proxy activity for new root commands,closed,2014-08-17T08:18:01Z,2014-08-17T19:24:38Z,bug
+RSenApps/Commandr-Android,16,Flashlight On for only a second on some devices,closed,2014-08-02T00:33:02Z,2014-08-16T03:10:21Z,"bug, not reproduced"
+RSenApps/Commandr-Android,15,Chatbot Can't connect Error on some devices,open,2014-08-01T23:41:27Z,,"bug, not reproduced"
+RSenApps/Commandr-Android,14,Google Now Launcher Return to Previous app,closed,2014-07-30T16:26:51Z,2014-08-10T07:54:10Z,"bug, reproduced"
+ksoichiro/SimpleAlertDialog-for-Android,14,Resource names may overlap the names of the project,closed,2014-03-04T16:45:44Z,2014-03-04T17:26:39Z,bug
+ksoichiro/SimpleAlertDialog-for-Android,13,Fix Android Lint warnings,closed,2014-03-03T16:05:54Z,2014-03-04T17:10:12Z,bug
+ksoichiro/SimpleAlertDialog-for-Android,3,Negative button is inserted automatically when positive button is enabled,closed,2014-03-02T10:48:33Z,2014-03-05T16:46:16Z,bug
+ksoichiro/SimpleAlertDialog-for-Android,2,OK button is automatically inserted,closed,2014-03-02T10:47:10Z,2014-03-05T16:29:52Z,bug
+BreakOutEvent/breakout-android,41,Navigation of team-profile doesn't work when selecting from team view,open,2018-05-27T16:33:01Z,,bug
+ScreamingHawk/fate-sheets,26,Saving Issue - Primary Edit Text doesn't save,open,2017-06-23T01:55:03Z,,"bug, help wanted, cannot replicate"
+ScreamingHawk/fate-sheets,25,Saving Issue - Click twice to save,open,2017-06-23T01:40:16Z,,"bug, help wanted, cannot replicate"
+ScreamingHawk/fate-sheets,22,Dice Roller Missing on FAE,closed,2017-06-19T19:58:20Z,2017-06-20T01:56:43Z,bug
+ScreamingHawk/fate-sheets,21,Saving is broken,closed,2017-06-04T04:40:32Z,2017-06-05T20:37:28Z,bug
+ScreamingHawk/fate-sheets,20,Section Titles wrapping,closed,2017-05-14T21:12:46Z,2017-05-14T21:13:31Z,bug
+ScreamingHawk/fate-sheets,19,Why are pre-release buildtools required?,closed,2017-05-13T08:48:31Z,2017-05-15T22:21:58Z,bug

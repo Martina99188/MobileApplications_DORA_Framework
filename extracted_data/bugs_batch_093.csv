@@ -1,0 +1,9 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+wentam/DefCol,4,'color copied to clipboard' toast doesn't show in ICS and later,closed,2012-11-17T21:28:29Z,2013-04-08T22:44:00Z,"bug, resolved"
+mridang/dashclock-cyanight,2,Feature Request: Only bug user if installed nightly is x days old and a new version has been published.,closed,2013-05-07T05:23:16Z,2013-05-08T09:13:37Z,bug
+vikramkakkar/SublimeNavigationView,8,NullPointerException: at readParcel,closed,2016-02-07T22:00:10Z,2016-02-08T01:18:15Z,bug
+vikramkakkar/SublimeNavigationView,6,addTextItem not really adding all,closed,2016-02-04T04:06:22Z,2016-02-08T01:19:14Z,"bug, question"
+heinrichreimer/material-singleinputform,14,Activitiy crash when using build tools 23.0.2,closed,2016-03-01T07:20:10Z,2016-04-28T14:13:18Z,"type-bug, priority-high"
+heinrichreimer/material-singleinputform,9,Module 'discreteseekbar' is local and not on Maven Central,closed,2015-05-21T08:08:56Z,2015-11-30T14:19:19Z,"type-bug, priority-high"
+heinrichreimer/material-singleinputform,5,Class Not found exception,closed,2015-01-03T10:20:33Z,2015-01-11T13:04:12Z,"type-bug, flag-trash"
+heinrichreimer/material-singleinputform,4,incompatible with AppCompat v21,closed,2014-11-25T21:19:07Z,2015-04-09T03:35:13Z,"type-bug, priority-high"

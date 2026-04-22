@@ -1,0 +1,13 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+kaloyan-raev/eclipse-ui-tips,17,App crashes on tablets because of corrupted icon image,closed,2012-06-26T15:22:49Z,2012-06-26T20:17:35Z,bug
+kaloyan-raev/eclipse-ui-tips,9,Notification fires few minutes after the scheduled time,closed,2012-06-21T08:03:55Z,2012-06-30T12:35:43Z,bug
+kaloyan-raev/eclipse-ui-tips,1,Activity not refreshed on new notification,open,2012-06-06T09:40:23Z,,bug
+ascendedguard/android-kanji-fix,4,Recognition broken on Lollipop (5.0),closed,2014-11-29T04:09:14Z,2014-12-01T14:35:13Z,bug
+ascendedguard/android-kanji-fix,2,recognition failed,closed,2014-02-26T19:57:05Z,2014-12-01T14:41:10Z,bug
+ascendedguard/android-kanji-fix,1,"Reverted to a file with a comment, blocking OTA",closed,2013-11-28T10:17:45Z,2014-12-01T14:36:02Z,"bug, severe"
+BenAlderfer/hand-and-foot-scores,2,Tab indicator becomes uncolored after some end round button clicks,open,2017-09-29T03:16:23Z,,bug
+teerapap/whatnext,1,"When delete a task, it should not show ""No tasks left"" although there are some tasks left.",closed,2013-11-19T16:59:35Z,2013-11-22T16:35:07Z,"bug, invalid"
+gappleto97/MultiCalc,23,Use of double limits potential values and precision,open,2015-10-01T03:06:17Z,,bug
+gappleto97/MultiCalc,8,Backspace key is blank on device,closed,2015-09-17T20:12:30Z,2015-10-01T04:03:38Z,bug
+gappleto97/MultiCalc,7,Caught fatal error on rotate,closed,2015-09-17T20:08:51Z,2015-09-30T21:41:21Z,bug
+gappleto97/MultiCalc,6,NaN is not removed; crashes app,closed,2015-09-17T18:27:56Z,2015-09-17T19:56:54Z,bug

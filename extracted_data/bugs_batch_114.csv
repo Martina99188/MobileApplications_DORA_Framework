@@ -1,0 +1,4 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+masahide318/Croudia-for-Android,3,続きを読み込むおかしい,closed,2016-05-15T16:38:58Z,2016-05-17T01:12:38Z,bug
+4kmapping/4kadopt-android,4,Dash symbol gets messy when you edit an omega zone ID in the middle of the string.,open,2014-07-31T06:44:54Z,,bug
+4kmapping/4kadopt-android,3,year choices should be 2015 or above,open,2014-07-31T06:39:05Z,,"bug, enhancement"

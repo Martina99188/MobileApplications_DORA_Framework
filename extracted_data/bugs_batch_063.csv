@@ -1,0 +1,10 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+theksmith/CarBusInterface,10,not working reliably after upgrade to Lollipop 5.0.2 on Sony Xperia Z2 tablet,closed,2016-01-05T08:04:10Z,2016-01-17T03:31:42Z,bug
+theksmith/CarBusInterface,5,error when building/running in lollipop,closed,2015-05-28T06:01:59Z,2015-05-28T20:46:01Z,bug
+theksmith/CarBusInterface,2,Increase android:versionCode,closed,2014-11-23T12:48:16Z,2015-05-26T08:14:20Z,bug
+mdilaveroglu/Quoter-Android,7,"""empty"" - empty on Initial Launch",open,2017-07-03T03:45:32Z,,bug
+mdilaveroglu/Quoter-Android,6,"Small stutter when opening Settings, About, or Credits Fragments",open,2017-03-05T19:41:47Z,,bug
+tetsuyanh/esandroid,21,cannot signin,open,2017-05-22T21:37:28Z,,bug
+croconaut/wifon,1,"The default notification sound is set to ""None""",open,2016-11-24T11:57:50Z,,bug
+losttime/cooper,1,Can't traverse more than one directory,open,2015-12-27T20:04:56Z,,bug
+DavidSilverlight/Eventarin,2,Height of ViewCell on iOS,open,2014-09-29T19:10:57Z,,bug

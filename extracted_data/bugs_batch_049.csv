@@ -1,0 +1,43 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+cachapa/AerialDream,34,Resume playback when restoring Test Activity,open,2021-01-31T01:21:17Z,,bug
+cachapa/AerialDream,24,Text is hard to read against light backgrounds,open,2020-01-13T21:22:17Z,,bug
+cachapa/AerialDream,7,Cache causes some videos to loop continuously,closed,2017-03-21T23:41:54Z,2019-05-09T08:38:17Z,bug
+cachapa/AerialDream,4,Loads new aerials quickly until it crashes or freezes,closed,2016-12-28T22:52:26Z,2020-10-09T06:41:48Z,bug
+glowing-bear/glowing-bear-cordova,3,Fix landing page scrolling ,closed,2014-05-06T08:59:25Z,2014-07-21T15:27:57Z,bug
+glowing-bear/glowing-bear-cordova,1,Fix embeds and links,closed,2014-04-09T18:59:58Z,2014-10-16T17:10:01Z,bug
+kloener/visor-android,9,Constant refocussing instead of continuous focus?,open,2017-11-02T18:09:06Z,,bug
+kloener/visor-android,5,(Userreview) Camera stays blank on Android 7.0,closed,2017-02-11T17:47:26Z,2017-07-05T17:17:56Z,"bug, wontfix"
+kloener/visor-android,3,(Userreview) Bild steht Kopf ,closed,2015-11-12T07:12:21Z,2017-07-05T17:17:42Z,bug
+kloener/visor-android,2,Strobo flashlight on Nexus 10,closed,2015-08-01T12:00:47Z,2017-07-05T17:17:42Z,bug
+beckhamds/nasa-imagery-fetcher,6,APOD images stuck on January 19th 2022,closed,2022-04-05T22:52:02Z,2022-09-14T14:04:25Z,bug
+beckhamds/nasa-imagery-fetcher,5,Can't load any images,open,2020-09-04T13:25:22Z,,bug
+kylecorry31/ShutUpAndDrive,3,CarMode leaking IntentReceiver,closed,2015-10-28T23:02:43Z,2015-11-01T14:15:21Z,bug
+kylecorry31/ShutUpAndDrive,2,SpeedService Google API Client not connecting,open,2015-10-28T23:00:11Z,,bug
+kylecorry31/ShutUpAndDrive,1,Needs Permission,closed,2014-08-14T14:16:20Z,2014-08-17T11:33:43Z,bug
+chthai64/overscroll-bouncy-android,3,Wrong getItemViewType position argument,closed,2016-08-31T00:27:59Z,2016-09-09T14:07:20Z,bug
+chthai64/overscroll-bouncy-android,2,Bounce Effect for Listview and Scrollview,open,2016-07-26T11:27:07Z,,bug
+xtensa/PodEmu,16,Any chance of an IOS PodEmu app?,closed,2019-09-15T19:22:32Z,2019-09-15T19:26:53Z,"Feature Request, question, not a bug"
+xtensa/PodEmu,15,USB interface support?,closed,2019-08-24T06:20:35Z,2019-08-25T19:45:24Z,"question, not a bug"
+xtensa/PodEmu,13,BMW display issue. ,closed,2019-04-16T21:07:52Z,2019-04-21T19:59:37Z,"wontfix, not a bug"
+xtensa/PodEmu,10,Play/Pause issues (BMW),closed,2019-03-21T22:33:09Z,2019-04-22T20:34:10Z,"Bug, FIXED"
+xtensa/PodEmu,9,Feature Request: Bovee 1000 Bluetooth,closed,2019-02-28T14:16:24Z,2019-09-08T14:34:45Z,"question, wontfix, not a bug"
+xtensa/PodEmu,7,Podemu crashing since last update (3.0-53),closed,2018-12-08T19:38:00Z,2018-12-10T20:52:48Z,Bug
+MJonesDev/Simple-Reminder-Android,1,AddAction does not close notification,closed,2016-12-04T05:34:29Z,2016-12-13T07:29:04Z,bug
+torch2424/Stats-Monitor-Widget,30,Black Background 75% transparent,open,2016-08-29T23:05:17Z,,bug
+torch2424/Stats-Monitor-Widget,28,"""Loading..."" Showing on disabled options",open,2016-03-23T00:16:24Z,,bug
+torch2424/Stats-Monitor-Widget,26,Ip Adress is stuck on Loading... if not wifi,closed,2016-02-14T19:11:32Z,2016-02-15T06:32:40Z,"bug, enhancement"
+torch2424/Stats-Monitor-Widget,21,Stats Monitor crashes after device goes to sleep,closed,2016-01-28T07:10:50Z,2016-03-07T20:20:02Z,bug
+torch2424/Stats-Monitor-Widget,19,Confirm All data widget gives is correct,closed,2016-01-21T21:00:15Z,2016-02-09T09:17:13Z,"bug, enhancement"
+torch2424/Stats-Monitor-Widget,15,Fix All Developer Console Crashes,closed,2016-01-21T20:38:10Z,2016-01-28T06:11:50Z,bug
+torch2424/Stats-Monitor-Widget,14,Nexus 6p,closed,2016-01-18T19:04:33Z,2016-01-22T02:58:52Z,bug
+torch2424/Stats-Monitor-Widget,11,Stop crashes and improve code.,closed,2015-08-24T18:26:45Z,2016-01-28T06:08:14Z,"bug, enhancement"
+torch2424/Stats-Monitor-Widget,10,Updating per minute,closed,2015-08-24T18:24:09Z,2016-01-21T21:03:45Z,bug
+torch2424/Stats-Monitor-Widget,9,Creating the widget can cause crashes in the launcher,closed,2015-08-21T21:15:57Z,2016-01-28T06:14:16Z,"bug, question"
+torch2424/Stats-Monitor-Widget,6,Duplicated internal and external,closed,2015-05-06T15:01:01Z,2016-01-25T10:08:56Z,bug
+torch2424/Stats-Monitor-Widget,1,SMS Errors - Stops SMS From Sending,open,2015-03-07T05:04:08Z,,"bug, help wanted"
+sreich/android-count-the-days,12,"Possible bug, items not showing when added until exit and reopen of app",closed,2017-02-08T16:17:36Z,2017-02-20T13:04:34Z,bug
+sreich/android-count-the-days,1,"Clear all, exiting app and returning fills with default values",closed,2017-02-07T14:40:04Z,2017-02-20T13:04:52Z,bug
+jetkov/neatpad,21,New File Dialog,closed,2017-06-19T14:33:58Z,2017-06-21T12:42:32Z,"bug, next step"
+jetkov/neatpad,16,Permissions Crash,open,2017-06-16T20:27:57Z,,bug
+jetkov/neatpad,14,Text Editor Can't Display Large Strings,open,2017-06-16T14:04:27Z,,bug
+mercuriete/ajmrtd2,2,do Basic Access Control (BAC),closed,2016-12-13T11:02:14Z,2017-03-23T11:52:48Z,"bug, enhancement"

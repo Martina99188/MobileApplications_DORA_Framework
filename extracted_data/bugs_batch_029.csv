@@ -1,0 +1,119 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+GimVic-app/gimvic-android,3,Native crash,closed,2015-11-06T06:18:18Z,2015-11-06T14:29:01Z,bug
+GimVic-app/gimvic-android,1,App cant set day to Sunday if it's curent day,closed,2014-09-21T11:20:57Z,2015-09-07T10:43:14Z,bug
+fabian7593/MagicalCamera,38,Permission Problem After Marshmallow,open,2018-01-19T11:55:19Z,,"bug, question"
+fabian7593/MagicalCamera,36,Crashing on takePhoto,closed,2018-01-03T16:35:07Z,2019-02-23T21:45:08Z,bug
+fabian7593/MagicalCamera,34,Attempt to invoke virtual method 'boolean java.lang.String.equals(java.lang.Object),closed,2017-12-30T18:53:44Z,2019-02-23T08:12:49Z,bug
+fabian7593/MagicalCamera,28,Fatal Exception: java.lang.OutOfMemoryError,closed,2017-09-26T09:19:21Z,2019-02-23T06:06:37Z,"bug, new functionallity"
+fabian7593/MagicalCamera,26,Duplicate pictures,open,2017-07-26T14:16:31Z,,bug
+cmusatyalab/faceswap,3,Client Crashed When the Returned Face ROI is out of boundary,open,2016-07-17T20:05:32Z,,bug
+Wisebite/wisebite_android,9,Bug between NestedScrollView and RecyclerView,closed,2017-04-06T13:24:49Z,2017-11-11T11:30:54Z,bug
+sdsmdg/trianglify,57,Conflicting allowBackup and supportsRtl attribute on manifest,closed,2018-03-13T21:26:29Z,2018-03-15T08:32:17Z,"bug, library"
+sdsmdg/trianglify,56,Incorrect timing of toast notification,closed,2018-02-22T09:24:46Z,2018-03-20T21:14:49Z,"bug, help wanted, app"
+sdsmdg/trianglify,47,[BUG] Saved image size,closed,2017-08-14T16:36:03Z,2017-08-27T12:40:44Z,"bug, enhancement"
+sdsmdg/trianglify,36,App Crashes on Fast Regeneration,closed,2017-05-21T11:27:03Z,2017-05-24T11:45:56Z,"bug, app"
+sdsmdg/trianglify,35,Checkbox Anomalies on Regeneration,closed,2017-05-21T10:37:31Z,2017-05-24T11:45:56Z,"bug, app"
+sdsmdg/trianglify,34,View Disappears on Rotating Screen,closed,2017-05-21T10:33:42Z,2017-05-24T11:45:56Z,"bug, library"
+sdsmdg/trianglify,23,Full View is not Rendered,closed,2017-05-14T07:08:15Z,2017-05-24T11:45:56Z,"bug, app"
+sdsmdg/trianglify,20,Generating triangulation on non UI thread,closed,2017-05-12T20:54:14Z,2017-05-17T16:16:06Z,"bug, library"
+sdsmdg/trianglify,18,Incorrect colorization of view ,closed,2017-05-12T20:44:09Z,2017-05-14T10:12:23Z,bug
+R-a-dio/R-a-dio-Amazing-Android-App,11,MediaButtonReceiver IllegalStateException Crash,open,2017-08-14T01:46:17Z,,bug
+R-a-dio/R-a-dio-Amazing-Android-App,4,Media Volume Does Not Get Changed by the Volume Controls,closed,2017-01-03T15:58:25Z,2017-01-03T17:03:11Z,bug
+lewismcgeary/AndroidGameofLife,71,"Force close-app exited during game screen, activity later destroyed",closed,2016-02-06T01:07:00Z,2016-02-07T23:38:40Z,bug
+lewismcgeary/AndroidGameofLife,58,shared element transition error,closed,2016-01-29T23:06:33Z,2016-02-05T00:51:33Z,bug
+lewismcgeary/AndroidGameofLife,55,fab.hide() and snackbar positioning problem,closed,2016-01-29T00:23:40Z,2016-02-01T23:14:55Z,bug
+lewismcgeary/AndroidGameofLife,51,intro screen can go blank,closed,2016-01-26T22:56:50Z,2016-01-28T17:06:22Z,bug
+lewismcgeary/AndroidGameofLife,49,memory usage-stop async task,closed,2016-01-26T21:33:57Z,2016-02-08T00:39:51Z,bug
+lewismcgeary/AndroidGameofLife,48,quick tap hides floating action button,closed,2016-01-26T16:36:35Z,2016-01-28T21:57:08Z,bug
+lewismcgeary/AndroidGameofLife,46,Grid shows all cells alive incorrectly,closed,2016-01-26T00:15:10Z,2016-01-28T12:07:07Z,bug
+lewismcgeary/AndroidGameofLife,26,Navbar and status bar flicker during activity transition,closed,2016-01-06T23:13:23Z,2016-02-05T00:52:17Z,bug
+lewismcgeary/AndroidGameofLife,20,Some cells still alive after reset,closed,2016-01-06T00:15:28Z,2016-01-29T22:59:43Z,bug
+bleissem/babyphone,55,Math.Abs - fix audio max Problem,closed,2018-05-22T11:14:14Z,2018-05-22T12:49:19Z,bug
+h6ah4i/android-openslmediaplayer,41,Pause/resume works slowly,open,2017-06-07T19:38:43Z,,"bug, enhancement"
+h6ah4i/android-openslmediaplayer,39,Hybrid / Opensl not working on Samsungs newest 7.0 upgrades,open,2017-04-26T20:46:25Z,,bug
+h6ah4i/android-openslmediaplayer,35,Playback issue with version 0.7.4,closed,2017-04-09T12:04:31Z,2017-05-06T14:21:49Z,bug
+h6ah4i/android-openslmediaplayer,33,Lib size is too big,closed,2017-04-09T00:22:17Z,2017-04-09T02:47:25Z,bug
+h6ah4i/android-openslmediaplayer,30,Playback problem in Vivo Smartphones,open,2017-02-04T03:46:19Z,,"bug, help wanted"
+h6ah4i/android-openslmediaplayer,28,Can't play OGG files on Android 7+,open,2017-01-29T04:27:56Z,,bug
+h6ah4i/android-openslmediaplayer,26,Playback stops after changing several tracks (data sources) in HybridMediaPlayerFactory only..,closed,2017-01-16T19:30:05Z,2017-02-08T10:29:06Z,bug
+h6ah4i/android-openslmediaplayer,24,Lossless FLAC file format issue,open,2016-12-01T21:29:32Z,,bug
+h6ah4i/android-openslmediaplayer,20,Problem playing mp3 with irregular frequency,closed,2016-09-21T10:04:07Z,2016-09-25T11:14:00Z,bug
+h6ah4i/android-openslmediaplayer,17,Streaming Music with HTTPS Source,open,2016-06-01T11:26:50Z,,"bug, question"
+h6ah4i/android-openslmediaplayer,8,IncompatibleClassChangeError,closed,2015-02-16T05:34:58Z,2015-02-16T13:40:28Z,bug
+h6ah4i/android-openslmediaplayer,6,Sometimes OpenSL/Standard mode switch doesn't work properly,closed,2015-02-13T12:34:48Z,2016-09-25T05:22:45Z,bug
+h6ah4i/android-openslmediaplayer,5,Nullpointer exception,closed,2015-02-13T00:46:03Z,2015-02-16T13:40:47Z,bug
+h6ah4i/android-openslmediaplayer,4,"Native API example app crashes when ""Don't keep activities"" option is enabled",closed,2015-02-03T16:43:55Z,2015-02-16T13:40:52Z,bug
+h6ah4i/android-openslmediaplayer,1,[StandardMediaPlayer] NextPlayer is preferred than setLooping(true)  on Lollipop,closed,2014-12-06T14:39:15Z,2014-12-18T09:38:08Z,bug
+Nuvolect/SecureSuite-Android,1,Network Sync and Network Backup Not Working,open,2019-01-15T16:23:37Z,,"bug, up-for-grabs"
+tvbarthel/CameraColorPicker,23,[Palette] drop touch when color number >=2,closed,2016-07-31T15:20:52Z,2016-08-06T15:49:03Z,bug
+tvbarthel/CameraColorPicker,5,Activating the flash stops the color preview.,closed,2015-03-23T20:34:47Z,2016-07-24T10:03:13Z,bug
+rascarlo/AURdroid,25,Application suddenly crashes when I try to switch theme with some package opened,open,2020-11-23T21:55:14Z,,bug
+rascarlo/AURdroid,22,List also packages' co-maintainers,closed,2020-05-04T14:40:49Z,2020-05-04T14:45:44Z,upstream bug
+rascarlo/AURdroid,17,Crash on 2 character search,closed,2018-12-18T14:12:27Z,2018-12-22T09:44:03Z,"bug, upstream bug"
+Scaronthesky/UK-Gebaerden_Muensterland,99,Beschreibungen der neuen Gebärden werden zum Teil abgeschnitten,closed,2020-03-08T20:47:52Z,2020-11-11T21:59:47Z,bug
+Scaronthesky/UK-Gebaerden_Muensterland,86,NPE beim Suchen nach Videos,closed,2018-04-03T18:28:21Z,2018-08-31T07:28:48Z,"bug, wontfix"
+Scaronthesky/UK-Gebaerden_Muensterland,85,"Button ""Zurück zum Katalog"" is not shown in landscape mode",closed,2017-09-08T09:43:58Z,2018-08-31T08:23:59Z,"bug, user feedback"
+Scaronthesky/UK-Gebaerden_Muensterland,82,"""About UK-Gebärden"" is not displayed on Android 7.0 devices",closed,2017-05-22T20:07:05Z,2017-09-07T08:12:58Z,bug
+Scaronthesky/UK-Gebaerden_Muensterland,77,"Sign trainer videos can't be played, screen flickrs",open,2016-09-28T07:11:26Z,,bug
+Scaronthesky/UK-Gebaerden_Muensterland,72,Pressing the back button on the search results leads to a blank screen,closed,2016-08-08T20:14:34Z,2016-08-08T20:34:23Z,"bug, duplicate"
+Scaronthesky/UK-Gebaerden_Muensterland,71,Pressing back button on Sign View started from Search results leads to white screen,closed,2016-07-17T15:27:39Z,2016-08-08T21:48:57Z,bug
+Scaronthesky/UK-Gebaerden_Muensterland,65,Videos can't be played on Samsung Galaxy S3 mini I8190 with Android 4.1.2 ,closed,2016-06-27T19:45:59Z,2017-03-03T20:07:14Z,"bug, wontfix, user feedback"
+Scaronthesky/UK-Gebaerden_Muensterland,61,Search strings can include trailing spaces,closed,2016-06-27T18:52:19Z,2016-08-08T20:35:28Z,"bug, user feedback"
+Scaronthesky/UK-Gebaerden_Muensterland,59,HTML character encoding issue.,closed,2016-06-22T21:38:07Z,2016-08-08T20:07:24Z,bug
+Scaronthesky/UK-Gebaerden_Muensterland,51,"Sometimes, using the Search throws an NPE.",closed,2016-06-06T07:32:44Z,2016-06-08T22:32:56Z,bug
+Scaronthesky/UK-Gebaerden_Muensterland,49,Change style of the app,closed,2016-06-02T19:44:21Z,2016-06-21T21:28:24Z,"bug, feature"
+Scaronthesky/UK-Gebaerden_Muensterland,47,Support multiple screens in sign trainer,closed,2016-05-16T08:55:30Z,2016-05-16T21:11:50Z,"bug, enhancement"
+Scaronthesky/UK-Gebaerden_Muensterland,44,Symbol on search view is wrong,closed,2016-05-12T09:57:35Z,2016-05-14T19:26:18Z,bug
+Scaronthesky/UK-Gebaerden_Muensterland,42,Videos can't be played on API19,closed,2016-05-06T16:13:55Z,2016-05-31T20:31:15Z,bug
+Scaronthesky/UK-Gebaerden_Muensterland,40,Typos and errors for signs,closed,2016-05-06T08:16:20Z,2016-05-14T15:13:46Z,bug
+Scaronthesky/UK-Gebaerden_Muensterland,39,"Make sure the App is called ""Unterstützte Kommunikation"" instead of ""Unterstützende Kommunikation""",closed,2016-05-02T19:49:51Z,2016-05-14T14:40:44Z,bug
+Scaronthesky/UK-Gebaerden_Muensterland,37,Sign trainer does not work on tablets in landscape format,closed,2016-04-30T11:31:55Z,2016-05-14T22:50:12Z,bug
+Scaronthesky/UK-Gebaerden_Muensterland,35,Sign trainer video view tends to flicker,closed,2016-04-30T08:30:35Z,2016-05-16T21:12:23Z,bug
+Scaronthesky/UK-Gebaerden_Muensterland,33,Sign trainer answer buttons are hidden on small screens,closed,2016-04-28T07:56:22Z,2016-05-14T22:24:39Z,"bug, user feedback"
+Scaronthesky/UK-Gebaerden_Muensterland,28,Android API 15: Sign trainer video view is shown above navigation drawer,closed,2016-04-18T22:56:57Z,2016-04-19T14:32:06Z,bug
+Scaronthesky/UK-Gebaerden_Muensterland,27,App does not work on Android 4.X,closed,2016-04-18T21:54:16Z,2016-04-18T22:54:23Z,bug
+Scaronthesky/UK-Gebaerden_Muensterland,26,Signs are not in alphabetical order,closed,2016-04-15T07:24:43Z,2016-04-15T19:51:22Z,bug
+Scaronthesky/UK-Gebaerden_Muensterland,25,Not all videos are displayed,closed,2016-04-15T07:21:21Z,2016-04-15T19:51:13Z,bug
+Scaronthesky/UK-Gebaerden_Muensterland,24,Sign trainer: Same sign was shown twice,closed,2016-04-14T20:11:04Z,2016-04-14T22:17:15Z,bug
+Scaronthesky/UK-Gebaerden_Muensterland,22,Remove mnemonic from the sign browser,closed,2016-04-13T19:45:31Z,2016-04-14T22:00:59Z,bug
+Scaronthesky/UK-Gebaerden_Muensterland,20,Sign trainer does not show all of the signs,closed,2016-04-05T22:16:28Z,2016-04-05T22:18:30Z,bug
+Scaronthesky/UK-Gebaerden_Muensterland,19,App crashes when resumed from background,closed,2016-04-05T22:01:15Z,2016-04-05T22:18:39Z,bug
+Scaronthesky/UK-Gebaerden_Muensterland,17,Remove the task fragments,closed,2016-04-01T20:18:42Z,2016-04-01T21:11:50Z,"bug, enhancement"
+Scaronthesky/UK-Gebaerden_Muensterland,14,"IllegalStateException, die gelegentlich auftritt",closed,2016-02-26T22:28:53Z,2016-03-02T23:26:18Z,bug
+raptor2101/GalDroid,69,Crash gemeldet durch AppStore,closed,2012-10-04T13:35:20Z,2012-10-07T12:19:08Z,Bug/Crash
+raptor2101/GalDroid,68,NullPointerException,closed,2012-09-14T07:20:25Z,2012-09-19T18:41:25Z,Bug/Crash
+raptor2101/GalDroid,66,"ListGallery-Activity: If no Gallerie is configured, open the EditGallerie-Activity automaticaly",closed,2012-06-13T10:05:33Z,2012-09-19T20:59:01Z,"Feature, Bug/Crash"
+raptor2101/GalDroid,65,If no Image is avaible LoadingProgress never disappear,closed,2012-06-10T11:55:05Z,2012-06-10T12:01:49Z,Bug/Crash
+raptor2101/GalDroid,64,ProgreesBar isn't updated correctly,closed,2012-06-10T07:59:58Z,2012-06-10T12:01:49Z,Bug/Crash
+raptor2101/GalDroid,63,After wild sliding DownloadTask seems to be stucked.,closed,2012-06-10T07:58:33Z,2012-06-10T21:21:29Z,Bug/Crash
+raptor2101/GalDroid,60,Sometimes wrong Tags appear again,closed,2012-06-10T00:29:40Z,2012-06-10T21:22:32Z,Bug/Crash
+raptor2101/GalDroid,59,ImageView don't reload on resume,closed,2012-06-09T23:39:03Z,2012-06-10T00:12:03Z,Bug/Crash
+raptor2101/GalDroid,58,NullPointerException - LayoutParams can't be null,closed,2012-06-09T23:36:44Z,2012-06-10T00:12:03Z,Bug/Crash
+raptor2101/GalDroid,57,Some immages not loaded while loading and sliding trough the gallery...,closed,2012-06-07T16:12:18Z,2012-06-07T22:26:16Z,Bug/Crash
+raptor2101/GalDroid,56,Rewrite the GalleryImageView,closed,2012-06-06T07:26:27Z,2012-06-06T20:25:53Z,"Feature, Bug/Crash, CodeCleanup, Layout"
+raptor2101/GalDroid,55,MemoryLeak: WorkerTask don't cleanup...,closed,2012-06-05T20:20:11Z,2012-06-05T21:33:23Z,Bug/Crash
+raptor2101/GalDroid,53,"Image loaded ""twice"" especialy pos 0",closed,2012-06-04T21:18:04Z,2012-06-04T21:56:13Z,Bug/Crash
+raptor2101/GalDroid,52,Strange behavior while loading ImageInformations,closed,2012-06-03T20:46:34Z,2012-06-04T21:56:13Z,Bug/Crash
+raptor2101/GalDroid,51,GalleryGridView dont show any images...,closed,2012-06-03T20:45:29Z,2012-06-03T21:32:35Z,Bug/Crash
+raptor2101/GalDroid,50,ImageInformationView doesn't abort LoadingTask correctly,closed,2012-06-03T20:11:57Z,2012-06-03T20:42:39Z,Bug/Crash
+raptor2101/GalDroid,49,ImageAdapter don't abort running download Task,closed,2012-06-03T19:35:17Z,2012-06-03T20:42:39Z,Bug/Crash
+raptor2101/GalDroid,47,ImageLoaderTask don't rescale Thumbnailes if needed,closed,2012-05-31T21:54:23Z,2012-06-07T09:18:44Z,"Feature, Bug/Crash"
+raptor2101/GalDroid,46,Loading of ImageInformation is broaken cause of Issue 45,closed,2012-05-31T21:53:47Z,2012-06-02T22:19:07Z,"Feature, Bug/Crash"
+raptor2101/GalDroid,44,Comments aren't cleaned up before loading new comments,closed,2012-05-29T20:41:19Z,2012-05-29T20:51:25Z,Bug/Crash
+raptor2101/GalDroid,43,TagLoaderTask/CommentLoaderTask isn't cleanup if a new extraction started...,closed,2012-05-29T20:38:36Z,2012-05-29T20:51:40Z,Bug/Crash
+raptor2101/GalDroid,42,If a web gallery is setted old cached images are shown up,closed,2012-05-29T20:34:09Z,2012-05-29T20:50:37Z,Bug/Crash
+raptor2101/GalDroid,40,NullPointerException if now view is selected and a DownloadTask completes,closed,2012-05-22T20:15:46Z,2012-05-22T20:25:25Z,Bug/Crash
+raptor2101/GalDroid,39,Gallery3 fails to load Objects from a given URL,closed,2012-05-20T07:38:58Z,2012-05-21T21:33:04Z,Bug/Crash
+raptor2101/GalDroid,37,ImageInfo: ProgressCicles appear before image is loaded,closed,2012-05-19T12:10:03Z,2012-05-27T16:25:28Z,Bug/Crash
+raptor2101/GalDroid,36,Tag-Progressbar looks akward,closed,2012-05-19T10:58:12Z,2012-05-19T21:30:17Z,Bug/Crash
+raptor2101/GalDroid,33,Loading freezes while watching gallery,closed,2012-05-19T10:56:31Z,2012-06-04T21:58:54Z,Bug/Crash
+raptor2101/GalDroid,32,OutOfMemory-Exception occures on heavy IO,closed,2012-05-18T22:47:54Z,2012-05-18T23:07:50Z,Bug/Crash
+raptor2101/GalDroid,31,EndlessLoop if error occures while decoding an image,closed,2012-05-18T22:05:51Z,2012-05-18T22:46:08Z,Bug/Crash
+raptor2101/GalDroid,30,ImageView freezes completly,closed,2012-05-18T21:43:57Z,2012-05-18T22:46:08Z,Bug/Crash
+raptor2101/GalDroid,29,Loading of ImageInformation broken by CodeCleanup,closed,2012-05-18T21:16:51Z,2012-05-18T21:44:21Z,Bug/Crash
+raptor2101/GalDroid,27,Abort Tag/Comment-Loadertask if unneeded...,closed,2012-05-18T20:13:52Z,2012-05-18T21:44:21Z,Bug/Crash
+raptor2101/GalDroid,25,ImageLoaderTask runns amok...,closed,2012-05-15T23:05:04Z,2012-06-04T21:57:56Z,Bug/Crash
+raptor2101/GalDroid,22,Caching produce useless Network-IO ,open,2012-05-15T08:41:59Z,,Bug/Crash
+raptor2101/GalDroid,21,Loading of galleries completly broken,closed,2012-05-13T22:09:29Z,2012-05-14T22:33:07Z,Bug/Crash
+raptor2101/GalDroid,18,Exif-Information isn't readed reliable,closed,2012-05-12T21:23:20Z,2012-06-10T21:21:29Z,Bug/Crash
+raptor2101/GalDroid,17,GalleryObject UniqueID isn't unique anymore,closed,2012-05-12T20:16:55Z,2012-05-12T21:20:24Z,Bug/Crash

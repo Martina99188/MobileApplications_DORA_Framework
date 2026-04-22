@@ -1,0 +1,4 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+lloydtorres/stately,1,"Currency name in ""Nation > Economy > GDP Per Capita > Average"" pluralized twice",closed,2016-02-07T19:42:40Z,2016-02-12T03:48:59Z,bug
+theIoTLab/ZephyrBHDeviceAdapter,3,R to R data,closed,2015-05-08T10:10:01Z,2015-05-11T14:51:12Z,bug
+theIoTLab/ZephyrBHDeviceAdapter,1,Timestamp from device,closed,2015-04-06T11:57:20Z,2015-04-09T13:37:14Z,bug

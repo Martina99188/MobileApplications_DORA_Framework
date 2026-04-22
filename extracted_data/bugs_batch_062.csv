@@ -1,0 +1,19 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+JoaquimLey/faboptions,55,requestLayout() improperly called by com.joaquimley.faboptions.FabOptionsButtonContainer,open,2018-12-05T12:28:47Z,,bug
+JoaquimLey/faboptions,50,Must always have four options,open,2018-09-07T18:41:30Z,,"bug, question"
+JoaquimLey/faboptions,38,Button icons are shown after expanding and collapsing FabOptions quickly,closed,2017-08-08T11:08:44Z,2017-09-05T13:13:08Z,"bug, enhancement"
+JoaquimLey/faboptions,30,Undesirable white background behind the FAB,closed,2017-03-03T15:27:18Z,2017-03-09T16:17:32Z,"bug, duplicate, invalid"
+JoaquimLey/faboptions,25,Menu item is clickable even when it hidden,closed,2017-01-31T09:25:22Z,2017-01-31T11:08:00Z,"bug, duplicate"
+JoaquimLey/faboptions,17,Menu items are shown if menu not opened,closed,2017-01-01T18:04:34Z,2017-01-19T19:15:39Z,bug
+JoaquimLey/faboptions,11,Warning spam,closed,2016-12-09T07:08:40Z,2016-12-09T10:54:38Z,bug
+JoaquimLey/faboptions,8,Coordinator behavior bug,closed,2016-11-29T22:16:45Z,2016-12-01T13:05:54Z,bug
+JoaquimLey/faboptions,2,Slight vertical offset of X,closed,2016-11-26T16:35:51Z,2016-11-27T14:30:15Z,"bug, enhancement"
+oaken-source/exceer,1,Nothing else but warmup?,closed,2015-06-23T06:39:06Z,2015-06-30T11:27:36Z,bug
+arthurzaczek/launcherforblind,8,Unable to start Contacts App on Android 2.1,open,2014-06-18T18:14:15Z,,bug
+nathan-osman/chronosnap,7,Race condition when cancelling a capture while the camera is in use,closed,2015-05-06T21:45:20Z,2015-05-08T04:39:21Z,bug
+Kaljurand/Diktofon,36,Sharing menus are broken in v1.1.14,open,2019-03-19T22:50:36Z,,bug
+timstableford/P-BrainAndroid,9,Failure To Connect To Server Prompts For Login,closed,2017-03-06T10:27:23Z,2017-03-12T12:35:09Z,bug
+timstableford/P-BrainAndroid,7,Crashing at runtime,closed,2017-02-09T16:39:47Z,2017-02-10T08:09:41Z,bug
+timstableford/P-BrainAndroid,4,'null' name on training screen,closed,2017-02-09T08:39:08Z,2017-02-09T17:59:23Z,bug
+timstableford/P-BrainAndroid,3,Hotword recognition stops working after speech to text is cancelled,closed,2017-02-09T08:20:12Z,2017-02-09T17:59:46Z,bug
+dylan8902/sgwares-android,5,Leaderboard is backwards,open,2017-06-16T18:17:19Z,,bug

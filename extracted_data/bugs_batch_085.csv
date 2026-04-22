@@ -1,0 +1,73 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+SufianBabri/simple-material-library,8,Add bottom padding to RaisedButton,closed,2016-02-03T02:42:53Z,2016-04-04T03:18:00Z,bug
+SufianBabri/simple-material-library,6,Button not taking clicks,closed,2016-01-12T12:13:15Z,2016-01-13T04:36:13Z,bug
+Johannes-Larsson/Minaret-Builder,3,weird back button behaviour ,open,2017-06-20T09:21:24Z,,bug
+Johannes-Larsson/Minaret-Builder,2,music doesn't seem to be playing,open,2017-06-20T09:20:59Z,,bug
+cnnranderson/Yotzy,6,Choice Titles are xml string text,open,2017-02-23T17:48:15Z,,"bug, enhancement"
+cnnranderson/Yotzy,1,Game resets on full close,open,2017-02-22T18:27:14Z,,bug
+NCU-CC/NCU-CLUB,5,unexpected behavior of drawer,closed,2014-11-27T05:12:56Z,2014-11-30T05:38:18Z,"bug, enhancement"
+NCU-CC/NCU-CLUB,1,activity with none club,closed,2014-11-27T03:58:54Z,2014-12-15T06:38:11Z,bug
+geeksville/arduleader,164,java.lang.IllegalStateException: Activity has been destroyed,open,2014-09-19T12:03:24Z,,"Android, BugSense, App versions: 2.1.08 - 2.1.06"
+geeksville/arduleader,163,java.lang.IllegalStateException: Activity has been destroyed,open,2014-08-27T15:45:41Z,,"Android, BugSense, App versions: 2.1.08"
+geeksville/arduleader,162,libcore.io.ErrnoException: write failed: ENOSPC (No space left on device),open,2014-08-07T16:10:20Z,,"Android, BugSense, App versions: 2.1.08"
+geeksville/arduleader,161,akka.actor.InvalidActorNameException: actor name [btrx] is not unique!,open,2014-08-01T12:17:55Z,,"Android, BugSense, App versions: 2.1.07 - 2.1.08"
+geeksville/arduleader,159,libcore.io.ErrnoException: sendto failed: ENETUNREACH (Network is unreachable),open,2014-07-25T08:38:59Z,,"Android, BugSense, App versions: 2.1.08"
+geeksville/arduleader,157,java.lang.NoSuchFieldError: com.google.android.gms.R$string.common_google_play_services_unsupported_text,open,2014-07-15T17:43:45Z,,"Android, BugSense, App versions: 2.1.07"
+geeksville/arduleader,156,android.content.res.Resources$NotFoundException: Resource ID #0xffffffff,open,2014-07-11T10:45:07Z,,"Android, BugSense, App versions: 2.1.06 - 2.1.07"
+geeksville/arduleader,155,java.lang.StackOverflowError,open,2014-07-06T18:52:46Z,,"Android, BugSense, App versions: 2.1.06"
+geeksville/arduleader,154,"org.apache.harmony.xml.ExpatParser$ParseException: At line 1, column 321: mismatched tag",open,2014-07-03T19:18:27Z,,"Android, BugSense, App versions: 2.1.06"
+geeksville/arduleader,153,akka.actor.InvalidActorNameException: actor name [serrx-0] is not unique!,open,2014-06-29T20:25:18Z,,"Android, BugSense, App versions: 2.1.05 - 2.1.06"
+geeksville/arduleader,152,java.lang.ArrayIndexOutOfBoundsException: length=289; index=65535,closed,2014-06-28T00:28:01Z,2014-06-28T06:54:35Z,"Android, BugSense, App versions: 2.1.04 - 2.1.05 - 2.1.06"
+geeksville/arduleader,151,"org.apache.harmony.xml.ExpatParser$ParseException: At line 1, column 0: no element found",open,2014-06-22T17:59:44Z,,"Android, BugSense, App versions: 2.1.03"
+geeksville/arduleader,150,akka.actor.InvalidActorNameException: actor name [serrx-0] is not unique!,open,2014-06-21T18:46:16Z,,"Android, BugSense, App versions: 2.1.03"
+geeksville/arduleader,149,java.lang.Exception: Undefined transition HBSaysFlying in VehicleFSM.WantInterface,open,2014-06-20T08:07:44Z,,"Android, BugSense, App versions: 2.1.03"
+geeksville/arduleader,148,java.lang.OutOfMemoryError,open,2014-06-17T11:08:32Z,,"Android, BugSense, App versions: 2.0.05"
+geeksville/arduleader,147,java.lang.NullPointerException,open,2014-06-15T05:06:03Z,,"Android, BugSense, App versions: 2.0.05"
+geeksville/arduleader,146,java.lang.NullPointerException,closed,2014-05-20T20:32:29Z,2014-05-21T00:49:44Z,"Android, BugSense, App versions: 2.0.05"
+geeksville/arduleader,145,java.lang.NullPointerException,open,2014-05-09T16:55:49Z,,"Android, BugSense, App versions: 2.0.05"
+geeksville/arduleader,144,android.content.res.Resources$NotFoundException: Resource ID #0xffffffff,open,2014-04-29T17:47:35Z,,"Android, BugSense, App versions: 1.4.17 - 2.0.05"
+geeksville/arduleader,142,android.content.ActivityNotFoundException: No Activity found to handle Intent { act=android.intent.action.VIEW dat=market://details?id=com.google.android.gms flg=0x80000 pkg=com.android.vending },open,2014-04-10T01:31:01Z,,"Android, BugSense, App versions: 1.7.06 - 1.9.07 - 1.9.08 - 1.9.14 - 2.0.05"
+geeksville/arduleader,141,java.lang.NullPointerException,open,2014-04-06T16:03:04Z,,"Android, BugSense, App versions: 2.0.05"
+geeksville/arduleader,140,java.lang.NoSuchFieldError: com.google.android.gms.R$string.common_google_play_services_unsupported_text,open,2014-03-14T17:49:31Z,,"Android, BugSense, App versions: 2.0.05"
+geeksville/arduleader,138,libcore.io.ErrnoException: isConnected failed: EHOSTUNREACH (No route to host),open,2014-03-03T22:30:55Z,,"Android, BugSense, App versions: 2.0.05"
+geeksville/arduleader,136,"org.apache.harmony.xml.ExpatParser$ParseException: At line 1, column 0: no element found",open,2014-02-18T09:54:07Z,,"Android, BugSense, App versions: 2.0.03"
+geeksville/arduleader,135,"org.apache.harmony.xml.ExpatParser$ParseException: At line 1, column 124: not well-formed (invalid token)",open,2014-01-27T18:04:12Z,,"Android, BugSense, App versions: 2.0.01"
+geeksville/arduleader,134,java.lang.NoSuchFieldError: common_google_play_services_unsupported_text,open,2014-01-25T09:51:53Z,,"Android, BugSense, App versions: 2.0.01"
+geeksville/arduleader,133,java.lang.NoSuchFieldError: common_google_play_services_unsupported_text,open,2014-01-23T21:09:51Z,,"Android, BugSense, App versions: 2.0.01"
+geeksville/arduleader,131,libcore.io.ErrnoException: isConnected failed: EHOSTUNREACH (No route to host),open,2013-12-14T19:29:55Z,,"Android, BugSense, App versions: 1.9.12 - 1.9.14"
+geeksville/arduleader,130,java.lang.IllegalStateException: Can not perform this action after onSaveInstanceState,open,2013-12-08T06:22:12Z,,"Android, BugSense, App versions: 1.8.19 - 1.9.12 - 1.9.14"
+geeksville/arduleader,129,"org.apache.harmony.xml.ExpatParser$ParseException: At line 1, column 0: no element found",open,2013-11-25T15:09:33Z,,"Android, BugSense, App versions: 1.9.14"
+geeksville/arduleader,122,java.lang.NoSuchFieldError: com.google.android.gms.R$string.common_google_play_services_unsupported_text,open,2013-11-15T18:38:48Z,,"Android, BugSense, App versions: 1.9.12"
+geeksville/arduleader,119,java.lang.NoSuchFieldError: com.google.android.gms.R$string.common_google_play_services_unsupported_text,open,2013-11-05T17:59:18Z,,"Android, BugSense, App versions: 1.9.12"
+geeksville/arduleader,118,"org.apache.harmony.xml.ExpatParser$ParseException: At line 1, column 230: mismatched tag",open,2013-11-03T19:58:39Z,,"Android, BugSense, App versions: 1.9.12"
+geeksville/arduleader,117,java.lang.Exception: Undefined transition HBSaysArmed in VehicleFSM.WantInterface,open,2013-11-03T10:24:25Z,,"Android, BugSense, App versions: 1.9.12"
+geeksville/arduleader,116,java.lang.NoSuchFieldError: com.google.android.gms.R$string.common_google_play_services_unsupported_text,open,2013-11-01T11:23:23Z,,"Android, BugSense, App versions: 1.9.08"
+geeksville/arduleader,115,java.lang.Exception: Undefined transition OnParametersDownloaded in VehicleFSM.WantVehicle,open,2013-11-01T03:12:22Z,,"Android, BugSense, App versions: 1.9.10"
+geeksville/arduleader,114,java.lang.NoSuchFieldError: com.google.android.gms.R$string.common_google_play_services_unsupported_text,open,2013-10-31T08:31:32Z,,"Android, BugSense, App versions: 1.9.08"
+geeksville/arduleader,113,"org.apache.harmony.xml.ExpatParser$ParseException: At line 1888, column 0: unclosed token",open,2013-10-29T04:14:01Z,,"Android, BugSense, App versions: 1.9.08"
+geeksville/arduleader,111,java.lang.Exception: Undefined transition OnHasHeartbeat in VehicleFSM.WantInterface,open,2013-10-13T00:36:54Z,,"Android, BugSense, App versions: 1.9.02"
+geeksville/arduleader,110,java.lang.IllegalStateException: Can not perform this action after onSaveInstanceState,open,2013-10-09T14:52:48Z,,"Android, BugSense, App versions: 1.8.19"
+geeksville/arduleader,109,java.lang.NoSuchFieldError: com.google.android.gms.R$string.common_google_play_services_unsupported_text,open,2013-10-07T22:06:43Z,,"Android, BugSense, App versions: 1.8.07 - 1.8.16 - 1.8.19"
+geeksville/arduleader,108,java.lang.Exception: Undefined transition OnParametersDownloaded in VehicleFSM.DownloadingWaypoints,closed,2013-10-05T18:47:35Z,2013-10-06T07:43:01Z,"Android, BugSense, App versions: 1.8.14 - 1.8.15 - 1.8.16"
+geeksville/arduleader,106,java.lang.NoClassDefFoundError: com.ridemission.scandroid.AndroidUtil$$anon$1,closed,2013-10-04T20:42:55Z,2013-10-06T07:43:11Z,"Android, BugSense, App versions: 1.8.13 - 1.8.14 - 1.8.15"
+geeksville/arduleader,102,java.lang.Exception: Undefined transition OnParametersDownloaded in VehicleFSM.WantInterface,closed,2013-10-02T12:59:54Z,2013-10-06T07:43:16Z,"Android, BugSense, App versions: 1.8.05 - 1.8.07 - 1.8.06"
+geeksville/arduleader,100,java.lang.Exception: Undefined transition OnHasInterface in VehicleFSM.WantVehicle,closed,2013-10-01T08:10:32Z,2013-10-06T07:43:21Z,"Android, BugSense, App versions: 1.8.01 - 1.7.17"
+geeksville/arduleader,98,java.lang.NoSuchFieldError: com.google.android.gms.R$string.common_google_play_services_unsupported_text,open,2013-09-26T17:34:38Z,,"Android, BugSense, App versions: 1.7.14"
+geeksville/arduleader,97,java.lang.Exception: Undefined transition HBSaysFlying in VehicleFSM.Disarmed,open,2013-09-22T17:48:08Z,,"Android, BugSense, App versions: 1.7.09 - 1.7.10 - 1.7.12"
+geeksville/arduleader,96,java.lang.NoSuchFieldError: com.google.android.gms.R$string.common_google_play_services_unsupported_text,open,2013-09-21T07:06:46Z,,"Android, BugSense, App versions: 1.7.05 - 1.7.06"
+geeksville/arduleader,94,java.lang.NoSuchFieldError: com.google.android.gms.R$string.common_google_play_services_unsupported_text,open,2013-09-12T15:07:14Z,,"Android, BugSense, App versions: 1.7.05 - 1.7.06"
+geeksville/arduleader,90,libcore.io.ErrnoException: open failed: EACCES (Permission denied),closed,2013-07-28T14:05:37Z,2013-09-08T08:09:21Z,"Android, BugSense, App versions: 1.4.16 - 1.4.17 - 1.6.00"
+geeksville/arduleader,88,java.lang.StackOverflowError,open,2013-07-15T14:43:04Z,,"Android, BugSense, App versions: 1.4.13 - 1.4.09 - 1.4.15 - 1.4.16 - 1.4.17"
+geeksville/arduleader,87,java.lang.IllegalStateException: Can not perform this action after onSaveInstanceState,closed,2013-07-12T22:42:07Z,2013-07-25T01:11:13Z,"Android, BugSense, App versions: 1.5.00"
+geeksville/arduleader,82,java.lang.IllegalStateException: Adapter is detached.,closed,2013-06-09T11:26:33Z,2013-06-17T02:05:54Z,"Android, BugSense, App versions: 1.4.13 - 1.4.14 - 1.4.15 - 1.4.16"
+geeksville/arduleader,80,java.lang.IllegalArgumentException: Port out of range: 115200,closed,2013-05-29T20:14:05Z,2013-06-17T02:10:47Z,"Android, BugSense, App versions: 1.4.12 - 1.4.16"
+geeksville/arduleader,73,android.content.ActivityNotFoundException: No Activity found to handle Intent { act=android.intent.action.VIEW dat=http://play.google.com/store/apps/details?id=com.google.android.gms flg=0x80000 pkg=c,closed,2013-05-08T12:57:20Z,2013-09-08T08:10:18Z,"Android, BugSense"
+geeksville/arduleader,71,java.io.IOException: File upload failed,closed,2013-05-03T08:53:47Z,2013-09-08T08:10:50Z,"Android, BugSense"
+geeksville/arduleader,69,java.net.SocketException: Socket closed,closed,2013-05-01T02:27:13Z,2013-09-08T08:10:39Z,"Android, BugSense"
+Fmstrat/odm,15,Potential issue with special characters in passwords,open,2014-01-16T16:20:35Z,,bug
+Fmstrat/odm,1,Bug in Android 4.0+ that crashes some devices when using the camera in a service,closed,2014-01-07T21:28:18Z,2014-02-10T19:31:09Z,bug
+WebMajstr-/pebble-navigation,2,Only second intent adds extra data,closed,2014-02-05T02:23:29Z,2014-02-07T18:46:40Z,bug
+printminion/gdgsched,7,crashes on several devices: -> in play,closed,2012-10-08T19:23:59Z,2012-10-08T20:39:45Z,bug
+printminion/gdgsched,5,crash on Nexus One,closed,2012-10-08T17:31:46Z,2012-10-08T20:32:30Z,bug
+printminion/gdgsched,4,Google Analytics is missing,closed,2012-10-08T17:30:30Z,2012-10-08T23:31:22Z,bug
+swanhtet1992/UCL,7,Duplicate data after manual refresh,open,2014-05-13T06:12:58Z,,bug

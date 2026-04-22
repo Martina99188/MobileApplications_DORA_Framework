@@ -1,0 +1,5 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+75py/CallConfirm,7,Do nothing by emergency call,closed,2017-07-22T06:49:26Z,2017-07-22T12:03:08Z,bug
+75py/CallConfirm,5,App force close on 7.1.2 Dirty Unicorns. Honor 5x ,closed,2017-07-17T09:37:48Z,2020-03-20T11:33:03Z,bug
+lezorich/directSiding-Android,1,"Al descargar un archivo y salir de la app, la descarga se para",open,2013-06-16T23:10:03Z,,bug
+mridang/dashclock-cellinfo,4,java.lang.NullPointerException,open,2013-11-01T19:47:38Z,,"Android, BugSense, App versions: 0.7"

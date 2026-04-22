@@ -1,0 +1,164 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+jrzimmerman/bestrida-rn,12,Hide Metrics on Detail Views that are not populated,open,2016-08-30T15:13:44Z,,"bug, ready"
+jrzimmerman/bestrida-rn,11,Fix Layout Formatting on Completed Detail View,open,2016-08-30T15:12:42Z,,"bug, ready"
+jrzimmerman/bestrida-rn,10,Completion Time should handle NaN,closed,2016-08-30T15:11:40Z,2016-09-06T01:16:13Z,bug
+jrzimmerman/bestrida-rn,9,Convert Local Date to UTC before Submission,open,2016-08-30T14:55:47Z,,"bug, ready"
+tonikarppi/coherence,70,Changing to winner screen in debug mode causes crash,closed,2016-05-24T15:48:49Z,2016-05-24T15:58:15Z,bug
+tonikarppi/coherence,65,Touchpad should scale the same across devices,closed,2016-05-24T12:39:07Z,2016-05-24T15:42:16Z,bug
+tonikarppi/coherence,64,Menus should scale the same across devices,closed,2016-05-24T12:38:33Z,2016-05-24T15:39:21Z,bug
+tonikarppi/coherence,63,Restarting game starts another music instance,closed,2016-05-24T12:25:32Z,2016-05-24T15:40:29Z,bug
+tonikarppi/coherence,60,Drawing walls makes other sprites not draw,closed,2016-05-24T09:52:03Z,2016-05-24T12:24:12Z,bug
+tonikarppi/coherence,49,Shot sound missing,closed,2016-05-22T21:41:31Z,2016-05-23T07:59:18Z,bug
+tonikarppi/coherence,48,Music file is missing,closed,2016-05-22T21:38:47Z,2016-05-23T07:59:23Z,bug
+tonikarppi/coherence,40,Pause menu bug,closed,2016-05-21T09:23:56Z,2016-05-21T11:06:13Z,bug
+tonikarppi/coherence,35,Fix broken pause menu,closed,2016-05-20T12:26:16Z,2016-05-20T12:49:01Z,bug
+ElectricDynamite/pasty-app-android,29,Use modern GCM API via Google Play Services,open,2014-10-02T15:27:21Z,,"bug, enhancement"
+ElectricDynamite/pasty-app-android,27,Filter GCM messages that where caused by a local update,closed,2013-02-27T17:25:44Z,2013-02-28T07:58:36Z,bug
+ElectricDynamite/pasty-app-android,25,Remove IndeterminateProgressBar when first loading without network,closed,2013-02-06T08:37:36Z,2013-02-20T20:59:09Z,bug
+ElectricDynamite/pasty-app-android,24,Use PreferenceFragment instead of PreferenceActivity,open,2013-01-18T06:36:05Z,,bug
+ElectricDynamite/pasty-app-android,22,Use modern ClipboardManager,closed,2012-12-12T21:14:13Z,2013-01-17T20:13:51Z,bug
+ElectricDynamite/pasty-app-android,21,Replace context menu with contextual action bar,closed,2012-12-12T17:36:06Z,2013-03-12T06:09:53Z,"bug, enhancement, wontfix"
+ElectricDynamite/pasty-app-android,19,Refresh cache when deleting an item,closed,2012-12-08T16:42:08Z,2012-12-13T20:53:27Z,bug
+ElectricDynamite/pasty-app-android,18,Even when links are not clickable they look linkified,closed,2012-12-01T12:09:09Z,2012-12-01T12:09:25Z,bug
+ElectricDynamite/pasty-app-android,17,Changing screen orientation while a PastyAlertDialogFragment is shown will result in an uncaught exception,closed,2012-12-01T12:08:00Z,2012-12-01T12:08:47Z,bug
+ElectricDynamite/pasty-app-android,13,"When first opened, Settings values are not displayed",closed,2012-05-21T16:50:03Z,2012-06-01T21:37:13Z,bug
+ElectricDynamite/pasty-app-android,12,"Change link in ""About Dialog""",closed,2012-05-03T16:23:49Z,2012-06-01T21:08:38Z,bug
+ElectricDynamite/pasty-app-android,7,Write Texts needed for Google Play,closed,2012-04-22T17:20:01Z,2012-05-01T16:19:28Z,"bug, enhancement"
+ElectricDynamite/pasty-app-android,6,Create graphics for Google Play,closed,2012-04-22T17:17:46Z,2012-05-01T16:19:44Z,"bug, enhancement"
+ElectricDynamite/pasty-app-android,4,Fix About dialog,closed,2012-04-20T13:46:54Z,2012-04-21T11:17:26Z,bug
+ElectricDynamite/pasty-app-android,1,Welcome dialog guiding the user,open,2012-04-20T13:41:12Z,,"bug, enhancement"
+hgzimmerman/CnC-Online-Spymaster,2,Resuming app causes the Players tab to not show its ListView,closed,2015-11-29T15:22:05Z,2015-11-29T16:11:42Z,bug
+CodeforChemnitz/TheaterWecker,6,They screwed their website,closed,2016-12-02T00:52:00Z,2016-12-02T00:57:04Z,bug
+ndhunju/dailyJournal,27,Share icon in side navigation menu is not working.,closed,2018-04-22T03:35:15Z,2018-12-03T02:26:36Z,bug
+luankevinferreira/expenses,28,App returns wrong value of input when trying to edit,open,2018-05-27T17:28:27Z,,"bug, enhancement, ready"
+luankevinferreira/expenses,21,Fixed the duplicates of the different years.,closed,2017-01-02T20:45:51Z,2017-02-12T00:56:52Z,bug
+luankevinferreira/expenses,20,Return to the same month in the edit expense,open,2017-01-02T20:45:14Z,,"bug, enhancement, ready"
+luankevinferreira/expenses,18,Select only expenses types of month,closed,2016-11-16T10:34:06Z,2016-12-25T23:59:09Z,bug
+luankevinferreira/expenses,11,Fix graphic,open,2016-08-01T01:11:54Z,,"bug, enhancement, ready"
+ennswi/AndroidCaldavSyncAdapater,24,aCalDav stop syncing,closed,2015-10-16T08:06:46Z,2018-06-12T12:41:45Z,bug
+ennswi/AndroidCaldavSyncAdapater,13,Problems with recursive events,closed,2015-04-21T10:29:05Z,2018-06-12T12:41:44Z,bug
+ennswi/AndroidCaldavSyncAdapater,12,duplicated dates in calendar,closed,2015-03-25T22:09:35Z,2018-06-12T12:41:44Z,bug
+ennswi/AndroidCaldavSyncAdapater,9,"Invalid Server answer, Check URL",closed,2015-02-25T21:49:00Z,2018-06-12T12:41:44Z,bug
+ennswi/AndroidCaldavSyncAdapater,1,Stop syncing by outlook endless events,closed,2015-02-17T17:20:50Z,2018-06-12T12:41:44Z,bug
+ZorgeR/datFM,1,Can't open /data on Android 2.3,closed,2016-07-12T14:15:21Z,2016-07-20T19:38:15Z,bug
+netmackan/ATimeTracker,138,Crashes when toggling activities when sound is enabled,open,2019-09-15T13:37:24Z,,bug
+netmackan/ATimeTracker,124,"New ""edit times"" screen harder to use than old screen",closed,2019-02-14T14:59:23Z,2019-02-22T20:25:57Z,bug
+netmackan/ATimeTracker,121,Long press on a task does not show the task menu.,closed,2019-02-11T11:48:27Z,2019-02-22T20:25:20Z,bug
+netmackan/ATimeTracker,118,Bad contrast between chosen colors.,closed,2019-02-04T14:58:47Z,2019-02-09T15:04:03Z,bug
+netmackan/ATimeTracker,113,Permission error trying to restore backup,closed,2019-01-01T11:24:08Z,2019-01-01T16:04:50Z,bug
+netmackan/ATimeTracker,111,Possible to rename an acitivity to an empty name,closed,2018-12-29T17:50:28Z,2018-12-29T18:01:49Z,bug
+netmackan/ATimeTracker,109,Call to static SimpleDateFormat,closed,2018-12-28T16:24:02Z,2018-12-29T19:12:23Z,"bug, enhancement"
+netmackan/ATimeTracker,108,Possible to add activity without name,closed,2018-12-27T13:33:33Z,2018-12-27T15:47:09Z,bug
+netmackan/ATimeTracker,96,mislabled dialog (delete time),closed,2018-08-26T19:37:46Z,2018-12-29T21:07:47Z,bug
+netmackan/ATimeTracker,78,README docs link is 404,closed,2016-12-27T06:10:03Z,2017-01-01T12:21:25Z,bug
+netmackan/ATimeTracker,77,Terminology change; tasks --> activities,closed,2016-12-05T20:28:15Z,2018-12-27T15:31:57Z,"bug, enhancement"
+netmackan/ATimeTracker,69,Incorrect link for reporting bugs in docs/timetracker.rst,closed,2016-10-09T10:10:21Z,2018-12-27T12:55:45Z,bug
+netmackan/ATimeTracker,46,Dialog Disappears on Device Rotation 3,open,2016-05-04T09:54:43Z,,"bug, rotationissue"
+netmackan/ATimeTracker,45,Context Menu Disappears on Device Rotation,open,2016-05-04T09:06:44Z,,"bug, rotationissue"
+netmackan/ATimeTracker,44,Dialog Disappears on Device Rotation 2,open,2016-05-02T09:10:36Z,,"bug, rotationissue"
+netmackan/ATimeTracker,41,"When a time is changed to a different day, the update is not shown at first",open,2015-09-23T22:28:32Z,,bug
+netmackan/ATimeTracker,39,Can not change to a date in previous month,closed,2015-09-04T05:38:07Z,2018-12-27T12:48:29Z,"bug, invalid"
+netmackan/ATimeTracker,37,Progress dialog left open if backing up fails,closed,2015-08-06T15:24:50Z,2015-08-06T16:25:46Z,bug
+netmackan/ATimeTracker,35,crash on restore,closed,2015-07-12T18:42:28Z,2015-08-06T16:33:15Z,bug
+netmackan/ATimeTracker,34,14-May-2015 update causes application to crash when editing an ongoing task,closed,2015-05-15T15:55:44Z,2015-05-15T21:41:57Z,bug
+netmackan/ATimeTracker,31,"Decimal hours show as ""00.100""",open,2015-05-01T01:13:57Z,,bug
+netmackan/ATimeTracker,29,Export view to CSV exports times 1pm and later incorrectly,closed,2015-03-02T17:15:25Z,2015-05-13T22:07:05Z,bug
+netmackan/ATimeTracker,28,"Export view to CSV success message states wrong filename (often, not always)",closed,2015-03-02T17:06:22Z,2018-12-29T19:23:54Z,bug
+netmackan/ATimeTracker,26,Edit time/Add no time range dialog don't respect 24h format,closed,2014-12-01T12:57:53Z,2015-05-13T21:37:56Z,bug
+netmackan/ATimeTracker,25,"changing device orientation does not show ""success"" dialog messages ",open,2014-10-16T09:26:28Z,,"bug, rotationissue"
+netmackan/ATimeTracker,22,Most of string on Report page are not translatable,open,2014-05-08T12:26:45Z,,bug
+netmackan/ATimeTracker,19,Regression: Lost SD card read/write permissions,closed,2014-03-22T15:31:49Z,2014-03-22T15:34:51Z,bug
+netmackan/ATimeTracker,13,"Vibration is initially enabled, but preferences screen says it is disabled",closed,2014-02-23T11:06:27Z,2018-12-29T20:57:36Z,bug
+netmackan/ATimeTracker,11,Suggest rename Preferences to Settings,closed,2014-02-23T10:43:25Z,2014-03-15T17:15:11Z,bug
+netmackan/ATimeTracker,10,Force Close if press Back in Preferences screen,closed,2014-02-23T10:34:36Z,2014-03-15T16:59:05Z,bug
+netmackan/ATimeTracker,8,Initial help reappears when rotating etc.,closed,2014-02-23T10:20:54Z,2018-12-29T20:06:18Z,"bug, rotationissue"
+netmackan/ATimeTracker,6,Current week off by one,closed,2014-02-21T19:11:39Z,2014-02-21T19:13:47Z,bug
+netmackan/ATimeTracker,4,"""Restore finished"" message after backup",closed,2014-02-16T17:52:16Z,2015-05-12T18:00:55Z,bug
+netmackan/ATimeTracker,1,Report Activity forgets current week when paused,closed,2013-07-31T12:05:04Z,2013-07-31T12:40:25Z,"bug, enhancement"
+dlew/android-ragefaces,121,App is not cleaning out cache when sending new files,closed,2012-07-23T16:35:06Z,2012-09-09T14:23:45Z,Bug
+dlew/android-ragefaces,108,Sending to iPhones doesn't work,closed,2012-02-27T16:38:09Z,2012-03-01T22:15:36Z,Bug
+dlew/android-ragefaces,104,App doesn't work with textfree,open,2012-01-31T14:26:15Z,,Bug
+dlew/android-ragefaces,103,Faces sometimes not sent to the gallery,open,2012-01-29T17:40:18Z,,Bug
+dlew/android-ragefaces,94,Error creating rage faces dir,closed,2012-01-12T17:44:06Z,2012-04-29T14:34:46Z,Bug
+dlew/android-ragefaces,92,VerifyError in new ShareUtils,closed,2012-01-09T14:41:41Z,2012-01-26T02:23:55Z,Bug
+dlew/android-ragefaces,91,HTC Messaging app doesn't let you add images inline,open,2012-01-05T03:35:38Z,,Bug
+dlew/android-ragefaces,90,ChompSMS Compatibility Issue,closed,2012-01-03T14:59:14Z,2012-01-27T02:13:28Z,Bug
+dlew/android-ragefaces,84,OOM on ICS,closed,2011-12-19T15:27:29Z,2012-01-27T02:07:29Z,Bug
+dlew/android-ragefaces,70,Sending phone number oddness,closed,2011-11-01T22:13:16Z,2011-11-03T14:49:51Z,Bug
+dlew/android-ragefaces,69,Decrease APK Size,closed,2011-10-28T15:42:24Z,2012-01-23T15:53:10Z,Bug
+dlew/android-ragefaces,65,The image file <filename> is not supported and was deleted,closed,2011-10-20T13:37:43Z,2012-02-02T19:29:27Z,Bug
+dlew/android-ragefaces,61,Investigate IllegalStateException,open,2011-10-17T02:58:15Z,,Bug
+dlew/android-ragefaces,52,App won't start on LG Optimus One,open,2011-09-06T13:51:04Z,,Bug
+dlew/android-ragefaces,45,"Fix insert ""lumberjack fuck yeah""",closed,2011-05-25T03:14:43Z,2011-06-19T19:57:25Z,Bug
+dlew/android-ragefaces,28,Investigate squished images on MMS,open,2011-04-20T19:44:39Z,,Bug
+dlew/android-ragefaces,18,Picture frame widget broken,open,2011-03-01T14:24:44Z,,Bug
+dlew/android-ragefaces,15,"app is useless to me, cannot send via mms. file to big",closed,2011-02-26T18:05:54Z,2012-01-23T15:55:47Z,Bug
+Kjwon15/bluebirdradio,12,Turning off is too slow.,open,2014-05-15T03:43:37Z,,bug
+Kjwon15/bluebirdradio,1,Local BroadcastReceiver to toggle switch,closed,2014-05-05T16:15:42Z,2014-05-05T16:23:31Z,bug
+DenizUgur/ninegagsaver,3,CardView unusual behavior,closed,2015-08-31T12:12:54Z,2015-12-09T18:44:24Z,known bug
+recruit-lifestyle/FloatingView,98,"NullPointerException in onTouch, due to .getState()",open,2018-10-29T06:56:36Z,,bug
+recruit-lifestyle/FloatingView,89,FloatingViewManager.removeAllViewToWindow() causes IllegalArgumentException,closed,2018-07-13T17:28:11Z,2018-10-15T03:37:21Z,bug
+recruit-lifestyle/FloatingView,88,Bugs on Galaxy S9+,closed,2018-06-09T06:30:58Z,2018-10-15T03:37:29Z,bug
+recruit-lifestyle/FloatingView,68,FloatingView is to the right of the finger in landscape mode,closed,2017-11-09T05:59:16Z,2018-03-06T04:46:19Z,bug
+recruit-lifestyle/FloatingView,42,Error when trying to close FloatingView by dragging it to bottom,closed,2017-06-01T17:43:14Z,2017-07-19T08:25:26Z,bug
+recruit-lifestyle/FloatingView,41,How to make initial animation work,closed,2017-05-21T04:12:17Z,2017-07-19T08:28:11Z,bug
+recruit-lifestyle/FloatingView,39,An Error when stop the service while touching it or moving it!,closed,2017-04-12T05:30:50Z,2017-07-19T08:28:25Z,bug
+recruit-lifestyle/FloatingView,14,How to avoid this kind of thing?,closed,2016-05-24T19:02:46Z,2017-02-16T02:57:33Z,bug
+mgolokhov/dodroid,98,Wrong title for left quesions,closed,2016-07-10T13:29:13Z,2017-01-04T16:13:14Z,bug
+mgolokhov/dodroid,85,Redeploy can throw an exception,closed,2016-06-17T11:26:44Z,2016-07-03T17:18:15Z,bug
+mgolokhov/dodroid,68,Question Title Containing Subject Tag Changes - Displays Wrong Tag,closed,2016-05-30T00:50:45Z,2016-06-01T21:07:13Z,bug
+mgolokhov/dodroid,60,Race condition in the DB,closed,2016-04-08T07:56:14Z,2016-04-11T11:17:48Z,bug
+mgolokhov/dodroid,59,Unstable drawer,closed,2016-04-07T18:41:14Z,2016-04-07T18:51:49Z,bug
+mgolokhov/dodroid,30,Right Counter Allows Same Question to Increment Multiple Times,closed,2015-12-07T05:04:40Z,2015-12-09T17:40:14Z,bug
+mgolokhov/dodroid,6,Implement scrollable checkboxes,closed,2015-11-03T22:59:18Z,2015-11-03T23:31:32Z,bug
+turing-tech/MaterialScrollBar,123,"Library doesn't respect recyclerview's vertical padding, as well as item's vertical margin",closed,2018-11-29T09:17:06Z,2018-11-30T01:20:23Z,"bug, willfix"
+turing-tech/MaterialScrollBar,121,Cannot initialize ScollBar programmatically,closed,2018-10-29T18:54:38Z,2018-10-30T01:26:44Z,"bug, willfix"
+turing-tech/MaterialScrollBar,119,Wrong RecyclerView,closed,2018-06-23T14:01:48Z,2018-06-23T23:22:34Z,"bug, willfix"
+turing-tech/MaterialScrollBar,118,Add support for Android P,closed,2018-06-12T11:29:01Z,2018-06-21T22:14:07Z,"bug, willfix"
+turing-tech/MaterialScrollBar,113,Indicator with letter shows up and never hides (TouchScrollBar),closed,2018-02-23T20:22:21Z,2018-02-23T20:54:02Z,"bug, willfix"
+turing-tech/MaterialScrollBar,111,Indicator is shown without visible scrollbar,closed,2018-02-05T13:12:40Z,2018-02-23T09:19:42Z,"bug, willfix"
+turing-tech/MaterialScrollBar,106,setScrollBarHidden(true) does not work,open,2017-09-14T05:08:52Z,,"bug, unable-to-replicate"
+turing-tech/MaterialScrollBar,105,Removing items from adapter does not hide scrollbar,closed,2017-09-03T13:11:27Z,2017-12-31T02:09:41Z,bug
+turing-tech/MaterialScrollBar,104,Indicator is hidden behind appbar when at the top,open,2017-08-28T03:15:31Z,,bug
+turing-tech/MaterialScrollBar,103,setVisibility not working,open,2017-08-22T21:45:56Z,,"bug, unable-to-replicate"
+turing-tech/MaterialScrollBar,102,Is there a way to get and set the Y position of the handle?,closed,2017-08-09T17:23:42Z,2018-02-27T14:59:51Z,"bug, willfix"
+turing-tech/MaterialScrollBar,100,Crash when set bar thickness ,closed,2017-07-25T18:21:42Z,2017-08-06T23:03:15Z,bug
+turing-tech/MaterialScrollBar,91,ArithmeticException: divide by zero at ScrollingUtilities,open,2017-04-24T15:07:02Z,,"bug, unable-to-replicate"
+turing-tech/MaterialScrollBar,90,RuntimeException when calling viewGroup.addView(scrollBarView),open,2017-03-30T10:03:48Z,,"bug, unable-to-replicate"
+turing-tech/MaterialScrollBar,57,Reduce thickness of zone where TouchEvent's are intercepted,closed,2016-07-20T18:51:19Z,2016-07-20T21:17:14Z,"bug, willfix"
+turing-tech/MaterialScrollBar,51,Intermittent Crash (Null Pointer),closed,2016-05-17T15:53:35Z,2016-08-07T20:42:11Z,bug
+turing-tech/MaterialScrollBar,49,Text in the bubble cut with using setDraggableFromAnywhere(true),closed,2016-05-11T13:38:18Z,2016-05-11T23:32:34Z,bug
+turing-tech/MaterialScrollBar,33,AdapterNotSetupForIndicatorException on fragment recreation,closed,2016-03-24T20:06:45Z,2016-12-18T22:20:11Z,"bug, willfix"
+turing-tech/MaterialScrollBar,31,ViewRootImpl CalledFromWrongThreadException,closed,2016-02-25T15:09:04Z,2016-12-18T22:21:49Z,bug
+turing-tech/MaterialScrollBar,29,Scroll with finger...,closed,2016-02-17T14:17:06Z,2016-10-23T18:21:49Z,"bug, willfix"
+turing-tech/MaterialScrollBar,24,Version 7.1.0 and Android 2.3.7,closed,2016-01-30T17:54:50Z,2016-01-30T20:48:47Z,bug
+turing-tech/MaterialScrollBar,19,AlphabetIndicator - first show bug + index bug,closed,2015-10-18T09:48:33Z,2016-01-10T21:09:11Z,bug
+turing-tech/MaterialScrollBar,12,setHandleColour bugs,closed,2015-09-22T19:04:11Z,2015-09-22T22:29:11Z,"bug, willfix"
+turing-tech/MaterialScrollBar,10,setAutoHide bug.,closed,2015-09-22T18:55:05Z,2015-09-22T21:29:22Z,"bug, willfix"
+turing-tech/MaterialScrollBar,9,RecyclerView in SwipeRefreshLayout Scroll doesn't show,closed,2015-09-22T13:36:11Z,2016-03-25T22:55:36Z,bug
+turing-tech/MaterialScrollBar,6,Indicator bugs,closed,2015-09-11T10:32:31Z,2015-09-11T21:12:59Z,"bug, willfix"
+turing-tech/MaterialScrollBar,5,setHandleColor,closed,2015-09-11T09:19:32Z,2015-09-13T07:33:53Z,"bug, willfix"
+8enet/AppOpsX,17,Android oreo卡死,closed,2017-09-26T08:49:46Z,2017-09-27T06:34:56Z,bug
+federicoiosue/checklistview,10,Crash on item drag,closed,2016-02-28T22:55:03Z,2016-04-01T20:45:59Z,bug
+cheahjs/WarDroid,7,Handle orientation changes better,closed,2014-03-29T01:14:06Z,2014-03-29T11:55:52Z,"bug, enhancement"
+cheahjs/WarDroid,6,Fix credit filter exception,closed,2014-03-24T09:59:50Z,2014-03-29T11:55:52Z,bug
+c3nav/c3nav-android,11,No maps visible on Alcatel OT 6012D with Android 4.2.2,closed,2016-01-05T16:37:30Z,2017-12-23T05:56:06Z,bug
+c3nav/c3nav-android,9,cookies are reset on every app launch,closed,2015-12-25T13:33:05Z,2017-12-23T05:54:34Z,bug
+c3nav/c3nav-android,8,back button does not always leave the app,closed,2015-12-25T13:30:50Z,2015-12-31T13:10:08Z,bug
+c3nav/c3nav-android,1,Scrolling up in the dropdown menu does not work,closed,2015-12-23T16:01:15Z,2015-12-24T15:27:56Z,bug
+BijdorpStudio/UrlSetter,55,Fix README,closed,2015-06-08T04:40:35Z,2015-06-09T07:18:38Z,bug
+BijdorpStudio/UrlSetter,54,Crash with Desire 620,closed,2015-06-07T14:29:38Z,2017-08-26T11:44:22Z,"bug, ready"
+BijdorpStudio/UrlSetter,52,Facebook links are opened quite long,closed,2014-03-21T21:13:29Z,2017-08-26T11:44:22Z,bug
+BijdorpStudio/UrlSetter,46,Resolving infinite loping,closed,2014-01-22T05:18:26Z,2014-01-27T23:33:08Z,bug
+BijdorpStudio/UrlSetter,44,Do not show toast for link form cache,closed,2014-01-20T06:19:48Z,2014-01-21T17:22:44Z,bug
+BijdorpStudio/UrlSetter,43,Resolved stats more than started,closed,2014-01-20T06:19:29Z,2014-01-21T17:28:52Z,bug
+BijdorpStudio/UrlSetter,38,All file operations are on non-ui thread,closed,2014-01-12T20:45:05Z,2014-01-14T17:40:04Z,bug
+BijdorpStudio/UrlSetter,35,Fix issue with infinitive loop with error,closed,2014-01-06T08:57:32Z,2014-01-12T20:44:31Z,bug
+BijdorpStudio/UrlSetter,29,Fix 405 for goo.gl,closed,2013-12-22T14:47:14Z,2013-12-26T09:48:26Z,bug
+BijdorpStudio/UrlSetter,23,Make setting to allow collect analytics,closed,2013-11-24T14:56:03Z,2014-01-29T06:33:35Z,bug
+BijdorpStudio/UrlSetter,17,Link doesn't unshortened first time,closed,2013-11-04T20:44:04Z,2013-11-24T13:00:37Z,bug
+BijdorpStudio/UrlSetter,12,Remove sensitive data from mixpanel,closed,2013-10-30T06:34:57Z,2013-11-03T14:31:33Z,bug
+BijdorpStudio/UrlSetter,11,Sometimes opening link takes too long,closed,2013-10-29T21:07:34Z,2013-11-04T18:40:10Z,bug
+BijdorpStudio/UrlSetter,10,Open link in default app if redirection failed,closed,2013-10-28T10:24:47Z,2013-10-29T21:06:23Z,bug
+BijdorpStudio/UrlSetter,9,Do not unsorten normal links,closed,2013-10-27T20:23:43Z,2013-11-24T14:35:42Z,bug
+BijdorpStudio/UrlSetter,2,Better chooser with possibility to make action default,closed,2013-10-22T05:40:10Z,2013-10-27T19:53:12Z,bug

@@ -1,0 +1,86 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+kebernet/shortyz,119,NY Times Login hangs up when account is linked with Facebook,open,2017-12-02T15:36:37Z,,"bug, in progress"
+kebernet/shortyz,98,NY Times puzzles have stopped downloading,closed,2017-05-26T15:36:35Z,2017-06-02T21:27:13Z,bug
+kebernet/shortyz,78,Lost NY Times credentials,closed,2017-01-10T04:06:25Z,2023-01-18T00:30:55Z,bug
+kebernet/shortyz,77,zoom at start,open,2017-01-10T01:30:54Z,,bug
+kebernet/shortyz,70,shortyz doesn't work with .jpz files,open,2016-11-13T01:41:46Z,,bug
+kebernet/shortyz,6,Zoom not saved/respected unless ultra-high magnification,open,2015-09-17T19:34:11Z,,bug
+msal/muzei-nationalgeographic,15,Android 5+ support,closed,2022-01-11T21:35:40Z,2022-01-12T15:06:40Z,bug
+msal/muzei-nationalgeographic,8,Photo of the day stuck at July 3,closed,2018-07-28T10:01:17Z,2018-08-20T19:12:19Z,bug
+msal/muzei-nationalgeographic,3,Photo of the day stuck at August 21,closed,2016-09-15T14:37:44Z,2016-10-13T23:29:42Z,bug
+msal/muzei-nationalgeographic,2,Yahoo pipes has been discontinued,closed,2015-10-11T19:38:35Z,2015-10-24T23:00:50Z,bug
+xfmax/BasePedo,1,關閉屏不會計算,closed,2016-03-18T16:43:42Z,2016-03-21T13:48:29Z,bug
+Digitopia/PORTOphone-app,30,Auto orientation not working in iPad,closed,2015-02-28T17:48:16Z,2015-12-10T17:34:19Z,"bug, ios"
+Digitopia/PORTOphone-app,29,App in iPad showing as iPhone app,closed,2015-02-24T16:19:21Z,2015-02-28T16:17:05Z,"bug, ios"
+Digitopia/PORTOphone-app,27,Animation velocity too slow,closed,2015-01-10T18:05:14Z,2015-03-10T16:44:48Z,"bug, ios"
+Digitopia/PORTOphone-app,26,Not working for iOS 8,closed,2015-01-10T17:17:55Z,2015-01-24T18:07:06Z,"bug, ios"
+Digitopia/PORTOphone-app,25,Review software licenses,closed,2015-01-09T00:25:19Z,2015-01-13T17:34:21Z,bug
+Digitopia/PORTOphone-app,23,Help sound shouldn't play in night mode,closed,2014-12-27T16:50:55Z,2014-12-27T16:53:12Z,bug
+Digitopia/PORTOphone-app,22,Sometimes bancos are not drawn,closed,2014-12-19T12:43:02Z,2014-12-19T12:46:40Z,bug
+Digitopia/PORTOphone-app,21,Extra bar in splash screen,closed,2014-12-18T18:06:41Z,2014-12-18T18:25:09Z,bug
+Digitopia/PORTOphone-app,20,Light and help swtiches not exactly in the right place,closed,2014-12-11T18:40:28Z,2014-12-17T17:18:29Z,bug
+Digitopia/PORTOphone-app,19,"Ligth switch is not in the exact same position in ""day"" and ""help"" background images",closed,2014-11-26T09:45:04Z,2014-12-17T18:03:52Z,bug
+Digitopia/PORTOphone-app,18,Switches are not aligned in day and help background images,closed,2014-11-26T09:44:35Z,2014-11-26T09:51:41Z,bug
+Digitopia/PORTOphone-app,16,Fix visual artifact in background image,closed,2014-11-25T17:05:19Z,2014-11-25T18:30:09Z,bug
+Digitopia/PORTOphone-app,15,Previous active drawings of Locais and Bancos are drawn when reentering application,closed,2014-11-22T15:09:06Z,2014-11-22T15:09:44Z,bug
+Digitopia/PORTOphone-app,14,Circles of Locais are not smooth for some reason,closed,2014-11-21T10:06:25Z,2014-11-22T17:28:12Z,bug
+Digitopia/PORTOphone-app,13,Application should auto orientate during play,closed,2014-11-21T10:02:18Z,2014-11-26T09:48:46Z,bug
+Digitopia/PORTOphone-app,12,Shouldn't be possible to start new sounds while in help mode,closed,2014-11-19T18:16:20Z,2014-11-20T17:26:51Z,bug
+Digitopia/PORTOphone-app,9,Sound out from app keeps playing in the background,closed,2014-11-13T18:15:11Z,2014-11-22T15:17:30Z,bug
+Digitopia/PORTOphone-app,8,Sounds keep playing softer even after they should have had stopped completly,closed,2014-11-13T18:11:14Z,2014-11-13T18:13:05Z,bug
+Digitopia/PORTOphone-app,6,Sounds not stopping after going to night mode,closed,2014-11-13T17:55:33Z,2014-11-13T17:55:44Z,bug
+Digitopia/PORTOphone-app,5,Glitch in sound after first play,closed,2014-11-13T17:54:42Z,2014-12-18T16:37:28Z,bug
+Digitopia/PORTOphone-app,2,Sound not playing,closed,2014-11-09T21:49:41Z,2014-11-22T15:21:06Z,bug
+Digitopia/PORTOphone-app,1,Add Splash Screen,closed,2014-11-09T21:47:58Z,2014-12-11T17:42:55Z,bug
+basobu/baolizer-android,18,plant a baobab form comment textarea,closed,2013-12-23T00:21:25Z,2014-04-24T08:28:10Z,bug
+basobu/baolizer-android,3,Typ Filter,closed,2013-11-28T10:44:58Z,2014-04-24T08:29:44Z,bug
+basobu/baolizer-android,2,Black screen Bug! (first) ;-),closed,2013-11-28T02:05:46Z,2014-04-24T08:28:43Z,bug
+basobu/baolizer-android,1,(First) Black screen Bug!,closed,2013-11-28T02:03:52Z,2013-12-02T19:16:34Z,bug
+bitbrain/acid-snake,21,NullPointerException in Achievement Manager,open,2013-10-09T02:51:24Z,,"bug, android"
+bitbrain/acid-snake,20,App gets slower after long play,open,2013-10-08T10:03:55Z,,"bug, improvement, android"
+bitbrain/acid-snake,18,App crashes unexpectedly,open,2013-10-08T10:01:12Z,,"bug, android"
+bitbrain/acid-snake,16,Wrong combo detection after collecting rare food,closed,2013-08-18T01:03:00Z,2013-08-20T09:54:44Z,bug
+bitbrain/acid-snake,14,Bombs disappear when freezing them,closed,2013-08-18T00:58:37Z,2013-08-19T13:30:13Z,bug
+bitbrain/acid-snake,13,Bombs don't update its sprite after freeze,closed,2013-08-18T00:57:40Z,2013-08-19T13:30:25Z,bug
+bitbrain/acid-snake,12,Blocks inside of the snake,closed,2013-08-18T00:53:05Z,2013-10-07T18:01:18Z,bug
+bitbrain/acid-snake,11,Particles stay without a block,closed,2013-08-18T00:51:20Z,2013-10-07T18:01:13Z,bug
+bitbrain/acid-snake,10,Snake leaves green chunks,closed,2013-08-18T00:49:34Z,2013-10-07T18:01:13Z,bug
+bitbrain/acid-snake,8,Game gets slower as longer the snake gets,closed,2013-08-13T11:33:35Z,2013-08-13T14:13:01Z,bug
+bitbrain/acid-snake,6,App crashes during gameplay,closed,2013-08-11T18:30:31Z,2013-08-13T14:13:01Z,bug
+devolonter/Pretty-Painter,32,Lost data by opening hardware keyboard,closed,2011-07-02T21:22:33Z,2011-07-12T23:50:56Z,bug
+devolonter/Pretty-Painter,22,Square files orientation,closed,2011-05-01T09:03:21Z,2011-07-26T19:04:22Z,bug
+devolonter/Pretty-Painter,20,Blinking screen on enter and leave brush settings screen in android 2.1,closed,2011-03-10T15:43:37Z,2011-03-10T16:02:09Z,bug
+devolonter/Pretty-Painter,19,Breaks down the preset selected in the brush settings page,closed,2011-03-10T15:41:47Z,2011-03-10T16:01:47Z,bug
+devolonter/Pretty-Painter,18,Incorrectly restored pencil preset,closed,2011-03-10T15:38:21Z,2011-03-10T16:01:36Z,bug
+devolonter/Pretty-Painter,17,"Not saved the new, modified, image before rotate",closed,2011-03-10T15:37:21Z,2011-03-10T16:01:19Z,bug
+devolonter/Pretty-Painter,9,Reset current brush preset after rotate,closed,2011-03-02T15:20:11Z,2011-03-10T15:58:38Z,bug
+devolonter/Pretty-Painter,2,White screen in setup brush window,closed,2011-03-01T19:42:25Z,2011-03-10T15:58:20Z,bug
+devolonter/Pretty-Painter,1,Force close on pressing Share Button,closed,2011-03-01T19:37:51Z,2011-03-01T20:30:02Z,critical bug
+bparmentier/WiFiKeyShare,43,NullPointerException when calling WifiListActivity.onCreateContextMenu,open,2018-10-30T22:34:18Z,,bug
+bparmentier/WiFiKeyShare,39,Wi-Fi networks with special characters in SSID/key produce an invalid QR code,closed,2018-10-25T20:40:26Z,2018-10-29T00:46:57Z,bug
+bparmentier/WiFiKeyShare,28,Doesn't works on Oreo.,closed,2018-03-30T05:48:00Z,2018-10-25T21:09:54Z,bug
+bparmentier/WiFiKeyShare,26,Show password is truncated after special character ,closed,2017-09-16T16:00:05Z,2018-10-25T08:51:16Z,bug
+bparmentier/WiFiKeyShare,16,Passwords dont display quotation marks,open,2016-12-24T15:02:25Z,,bug
+bparmentier/WiFiKeyShare,15,Wi-Fi keys are wrong,closed,2016-03-21T10:08:45Z,2018-04-12T14:11:13Z,"bug, wontfix"
+bparmentier/WiFiKeyShare,14,NullPointerException in WifiNetwork.getSsidFromWifiConfiguration,closed,2016-02-18T23:31:40Z,2016-02-29T22:29:21Z,bug
+bparmentier/WiFiKeyShare,12,"NFC tags with ""Open"" network configurations are not imported into Android",closed,2016-02-15T01:27:02Z,2016-02-15T01:34:50Z,bug
+bparmentier/WiFiKeyShare,11,NDEF messages for networks with long key can be too big for some tags,closed,2016-02-06T13:41:49Z,2016-02-14T23:59:37Z,bug
+bparmentier/WiFiKeyShare,7,WpaSupplicantParser produces an IndexOutOfBoundsException,closed,2016-01-27T23:18:25Z,2016-02-03T15:08:04Z,bug
+bparmentier/WiFiKeyShare,6,Wifi on-off,closed,2016-01-27T17:37:13Z,2016-01-29T22:59:19Z,bug
+bparmentier/WiFiKeyShare,2,Screen rotation may produce an IllegalStateException if WifiListTask is not finished,open,2016-01-22T08:25:38Z,,bug
+bparmentier/WiFiKeyShare,1,Wi-Fi tags written with NXP TagWriter cause a BufferUnderflowException,closed,2016-01-21T18:21:00Z,2016-01-22T07:18:43Z,bug
+Skylark95/Amazon-App-Notifier,18,Resolve Possible Force Close Issues when no app data,open,2013-09-28T02:04:28Z,,bug
+Skylark95/Amazon-App-Notifier,15,FirstStartPreferencesTest cannot delete files on Windows,open,2013-09-20T03:49:46Z,,"bug, testing"
+Skylark95/Amazon-App-Notifier,14,9/12/13 App Crash due to Amazon changes,closed,2013-09-14T06:08:34Z,2013-09-28T01:56:07Z,bug
+Skylark95/Amazon-App-Notifier,9,Possible Performance Problem with MySQL during default notification time,closed,2013-05-05T03:28:08Z,2013-09-28T01:59:04Z,bug
+Skylark95/Amazon-App-Notifier,7,java.lang.NullPointerException at android.widget.TabHost.dispatchWindowFocusChanged(TabHost.java:298),closed,2013-04-17T01:03:43Z,2013-04-17T02:48:04Z,bug
+Skylark95/Amazon-App-Notifier,2,"""(Private Policy)""  sometimes appears in the app developer section of the notification",closed,2013-04-09T02:52:23Z,2013-09-28T01:59:32Z,bug
+Skylark95/Amazon-App-Notifier,1,App reports device is offline on boot if carrier connection is not yet established,closed,2013-04-08T22:45:24Z,2013-04-18T03:26:32Z,"bug, enhancement"
+passy/WAKiMail,23,Index is not correctly checked in MailDetailFragmentPagerAdapter.getFragmen,closed,2012-09-19T14:46:19Z,2012-09-19T14:56:32Z,bug
+czak/retronix,2,Sea enemy sometimes bounces off without killing the player,open,2016-06-05T12:06:09Z,,bug
+jcolladosp/PimPam,13,Imagen de camara se ve con mala resolucion,closed,2017-05-31T13:48:12Z,2017-06-04T11:21:35Z,bug
+jcolladosp/PimPam,11,Revisar faltas de ortografía en strings.xml,closed,2017-05-22T09:57:24Z,2023-10-20T13:30:31Z,"bug, enhancement"
+jcolladosp/PimPam,4,Toolbar en Ajustes fragment,closed,2017-05-11T15:20:07Z,2017-06-01T16:27:34Z,bug
+jcolladosp/PimPam,1,Solve problem with NavigationDrawer and multiple toolbars,closed,2017-04-11T11:13:42Z,2017-05-04T13:42:38Z,bug
+HannahMitt/HomeMirror,44,Calendar Not Syncing,open,2016-02-10T18:59:35Z,,bug
+SecUSo/privacy-friendly-dice-game,5,Add Design for Splash Screen,closed,2016-10-24T20:17:47Z,2016-11-03T09:12:29Z,bug

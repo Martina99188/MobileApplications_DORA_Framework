@@ -1,0 +1,8 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+elsewhat/com.elsewhat.android.slideshow,3,Ignore mobile data check for GoogleTV,closed,2012-01-13T15:21:45Z,2012-01-26T18:36:22Z,"Merge, Bugfix"
+TTTDevs/NextCloudBookmarksAndroid,4,Hangs on splash screen from first run,open,2017-04-21T05:14:43Z,,"bug, help wanted"
+TTTDevs/NextCloudBookmarksAndroid,2,"White screen after ""Sharing""",closed,2017-04-19T01:58:49Z,2020-12-19T01:32:21Z,bug
+grantham/verba-android,2,"Some words like ""caesar"" in morphology table, but not in lexicon",open,2015-10-25T21:03:55Z,,bug
+mridang/dashclock-owninfo,2,java.lang.NullPointerException,open,2013-10-30T03:16:39Z,,"Android, BugSense, App versions: 0.8"
+mridang/dashclock-location,2,java.lang.NullPointerException,open,2013-11-02T18:28:49Z,,"Android, BugSense, App versions: 0.7"
+mridang/dashclock-location,1,org.json.JSONException: Value <!DOCTYPE of type java.lang.String cannot be converted to JSONObject,closed,2013-10-16T14:52:57Z,2013-10-30T20:07:00Z,"Android, BugSense, App versions: 0.7"

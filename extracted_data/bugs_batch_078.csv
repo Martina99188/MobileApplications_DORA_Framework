@@ -1,0 +1,24 @@
+repository,issue_id,title,state,created_at,closed_at,labels
+crazyhitty/Munch,34,Import OPML tutorial is not found anymore,open,2016-10-03T17:50:22Z,,bug
+crazyhitty/Munch,32,SQLiteConnection object for database was leaked!,open,2016-07-02T08:48:31Z,,bug
+crazyhitty/Munch,29,can't read chinese url in the feed,open,2016-06-05T18:24:27Z,,bug
+crazyhitty/Munch,28,Refresh archived list after removing an article from archive,open,2016-05-30T14:09:26Z,,bug
+crazyhitty/Munch,26,Unable to import opml,open,2016-04-28T18:04:47Z,,bug
+crazyhitty/Munch,25,App crashing on pre lollipop devices,open,2016-04-25T16:02:38Z,,bug
+crazyhitty/Munch,24,"Crash after ""Sync"" option was selected",closed,2016-04-24T18:00:22Z,2016-05-30T19:03:43Z,bug
+crazyhitty/Munch,23,Crash after 3-dotted button clicked,open,2016-04-24T17:58:53Z,,bug
+crazyhitty/Munch,22,Crash after orientation change,open,2016-04-24T17:44:54Z,,bug
+crazyhitty/Munch,16,APP crashes when transitioning from anywhere to the main screen,open,2016-03-21T19:44:15Z,,bug
+crazyhitty/Munch,15,Unable to import Opml files,open,2016-03-21T17:57:38Z,,bug
+crazyhitty/Munch,11,feeds showing no date,closed,2016-03-12T16:09:34Z,2016-04-24T08:26:47Z,bug
+crazyhitty/Munch,7,Unable to display favicons and images,open,2016-03-09T15:09:56Z,,bug
+crazyhitty/Munch,6,Unable to load entry contents from Google Groups,open,2016-03-09T15:09:19Z,,bug
+crazyhitty/Munch,5,Unable to parse the feed,closed,2016-03-09T15:07:50Z,2016-04-24T08:26:55Z,bug
+crazyhitty/Munch,4,Unable to load RSS feeds,closed,2016-03-09T12:57:42Z,2016-04-24T09:10:10Z,bug
+Kerooker/rpg-npc-generator,62,Visual Highlight Bug,open,2022-02-26T19:12:06Z,,"bug, Help Wanted"
+Kerooker/rpg-npc-generator,52,Lost NPC details after 3.2.2 upgrade,closed,2020-02-03T04:08:56Z,2020-02-13T18:55:28Z,bug
+Kerooker/rpg-npc-generator,37,Crashes when making a migration from legacy to new format,closed,2020-01-05T17:25:02Z,2020-01-05T17:52:37Z,bug
+Kerooker/rpg-npc-generator,33,Fix Halfling subraces,closed,2020-01-05T14:14:14Z,2020-01-06T23:08:40Z,bug
+lfdversluis/TUDirect-Android,3,Studyprogress information: crash for double values,closed,2014-05-16T13:32:19Z,2014-05-29T16:47:28Z,bug
+lfdversluis/TUDirect-Android,1,Workspaces are loaded wrong,closed,2014-05-02T12:38:06Z,2014-05-03T15:38:42Z,bug
+madhur/GAnalytics,7,comment this line on 164 .. .crash,closed,2013-12-12T04:02:05Z,2013-12-14T05:56:17Z,bug
